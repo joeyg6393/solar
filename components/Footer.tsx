@@ -93,7 +93,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 pt-8">
-          <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+          <div className="flex flex-col md:flex-row justify-between items-center gap-4 mb-6">
             <div className="flex flex-wrap justify-center gap-4 text-sm text-gray-400">
               <span className="flex items-center gap-2">
                 <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
@@ -115,6 +115,13 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-sm text-gray-400">&copy; 2024 Solar Solutions. All rights reserved.</p>
+          </div>
+
+          {/* Disclaimer */}
+          <div className="border-t border-gray-800 pt-6">
+            <p className="text-xs text-gray-500 text-center leading-relaxed max-w-4xl mx-auto">
+              <span className="font-semibold text-gray-400">Disclaimer:</span> Information on this website is provided "as is" and reflects our best knowledge as of publication. Solar programs, incentives, rates, and regulations are subject to change without notice. This content does not constitute legal, financial, investment, or tax advice. Consult qualified professionals before making decisions. Estimated savings are illustrative and not guaranteed. We assume no liability for actions taken based on this information.
+            </p>
           </div>
         </div>
       </div>
