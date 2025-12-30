@@ -160,7 +160,7 @@ export default function HomePage() {
               { icon: '💰', title: 'Save on Energy Bills', desc: 'Reduce your electricity costs by up to 70%. Most homeowners save $1,500+ annually with solar energy.' },
               { icon: '🏠', title: 'Increase Home Value', desc: 'Homes with solar panels sell for 4% more on average. It&apos;s an investment that pays for itself.' },
               { icon: '🌱', title: 'Reduce Carbon Footprint', desc: 'Offset 3-4 tons of CO2 annually. Make a positive environmental impact for future generations.' },
-              { icon: '📋', title: 'Federal Tax Credits', desc: 'Claim up to 30% federal tax credit on your solar installation. Additional state and local incentives available.' },
+              { icon: '📋', title: 'Flexible Financing', desc: '$0 down payment options available. Low monthly payments that are often less than your current electric bill.' },
               { icon: '⚡', title: 'Energy Independence', desc: 'Protect yourself from rising utility costs. Generate your own clean, reliable power.' },
               { icon: '🛡️', title: '25-Year Warranty', desc: 'Industry-leading warranties on panels and workmanship. Your investment is protected for decades.' },
             ].map((benefit, i) => (
