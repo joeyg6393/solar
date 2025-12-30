@@ -1,0 +1,508 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "Solar Solutions" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e6]
+          - generic [ref=e8]: Solar Solutions
+        - generic [ref=e9]:
+          - link "Services" [ref=e10] [cursor=pointer]:
+            - /url: /#services
+          - link "Why Solar" [ref=e11] [cursor=pointer]:
+            - /url: /#benefits
+          - link "Our Process" [ref=e12] [cursor=pointer]:
+            - /url: /#process
+          - link "Reviews" [ref=e13] [cursor=pointer]:
+            - /url: /#testimonials
+          - link "Service Areas" [ref=e14] [cursor=pointer]:
+            - /url: /#areas
+          - link "Contact" [ref=e15] [cursor=pointer]:
+            - /url: /#contact
+        - generic [ref=e16]:
+          - link "(413) 555-0100" [ref=e17] [cursor=pointer]:
+            - /url: tel:4135550100
+            - img [ref=e18]
+            - generic [ref=e20]: (413) 555-0100
+          - link "Get Free Quote" [ref=e21] [cursor=pointer]:
+            - /url: /#contact
+  - main [ref=e22]:
+    - generic [ref=e23]:
+      - img "Solar panels background" [ref=e25]
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - img [ref=e30]
+            - generic [ref=e32]: NABCEP Certified Installers
+          - heading "Power Your Home with Clean Solar Energy" [level=1] [ref=e33]
+          - paragraph [ref=e34]: Save up to 70% on electricity bills with professional solar panel installation in Springfield, MA. Join 1,200+ happy homeowners who've made the switch to renewable energy.
+          - generic [ref=e35]:
+            - generic [ref=e36]:
+              - generic [ref=e37]: 1,200+
+              - generic [ref=e38]: Installations
+            - generic [ref=e39]:
+              - generic [ref=e40]: 25 Years
+              - generic [ref=e41]: Warranty
+            - generic [ref=e42]:
+              - generic [ref=e43]: 4.9/5
+              - generic [ref=e44]: Rating
+          - generic [ref=e45]:
+            - link "Get Free Solar Quote" [ref=e46] [cursor=pointer]:
+              - /url: "#contact"
+              - img [ref=e47]
+              - text: Get Free Solar Quote
+            - link "Call (413) 555-0100" [ref=e49] [cursor=pointer]:
+              - /url: tel:4135550100
+              - img [ref=e50]
+              - text: Call (413) 555-0100
+          - paragraph [ref=e52]:
+            - img [ref=e53]
+            - text: No obligation quote - Free consultation - Same-day response
+        - img "Solar panels on modern home" [ref=e56]
+      - generic [ref=e59]:
+        - generic [ref=e60]:
+          - img [ref=e61]
+          - generic [ref=e63]: NABCEP Certified
+        - generic [ref=e64]:
+          - img [ref=e65]
+          - generic [ref=e67]: 25-Year Warranty
+        - generic [ref=e68]:
+          - img [ref=e69]
+          - generic [ref=e71]: BBB A+ Rated
+        - generic [ref=e72]:
+          - img [ref=e73]
+          - generic [ref=e75]: Licensed & Insured
+        - generic [ref=e76]:
+          - img [ref=e77]
+          - generic [ref=e79]: Flexible Financing
+    - generic [ref=e81]:
+      - generic [ref=e82]:
+        - generic [ref=e83]: Our Services
+        - heading "Complete Solar Solutions for Every Need" [level=2] [ref=e84]
+        - paragraph [ref=e85]: From residential rooftops to commercial installations, we provide comprehensive solar services tailored to your energy goals.
+      - generic [ref=e86]:
+        - link "Residential Solar Panel Installation Complete residential solar panel installation for homeowners Learn More" [ref=e87] [cursor=pointer]:
+          - /url: /residential-solar-installation
+          - img [ref=e89]
+          - heading "Residential Solar Panel Installation" [level=3] [ref=e91]
+          - paragraph [ref=e92]: Complete residential solar panel installation for homeowners
+          - generic [ref=e93]:
+            - text: Learn More
+            - img [ref=e94]
+        - link "Most Popular Commercial Solar Installation Large-scale commercial solar panel systems for businesses Learn More" [ref=e96] [cursor=pointer]:
+          - /url: /commercial-solar-installation
+          - generic [ref=e97]: Most Popular
+          - img [ref=e99]
+          - heading "Commercial Solar Installation" [level=3] [ref=e101]
+          - paragraph [ref=e102]: Large-scale commercial solar panel systems for businesses
+          - generic [ref=e103]:
+            - text: Learn More
+            - img [ref=e104]
+        - link "Solar Battery Storage Installation Advanced solar battery storage systems for energy independence Learn More" [ref=e106] [cursor=pointer]:
+          - /url: /solar-battery-storage
+          - img [ref=e108]
+          - heading "Solar Battery Storage Installation" [level=3] [ref=e110]
+          - paragraph [ref=e111]: Advanced solar battery storage systems for energy independence
+          - generic [ref=e112]:
+            - text: Learn More
+            - img [ref=e113]
+        - link "Solar Panel Maintenance & Repair Professional solar panel maintenance and repair services Learn More" [ref=e115] [cursor=pointer]:
+          - /url: /solar-maintenance-repair
+          - img [ref=e117]
+          - heading "Solar Panel Maintenance & Repair" [level=3] [ref=e119]
+          - paragraph [ref=e120]: Professional solar panel maintenance and repair services
+          - generic [ref=e121]:
+            - text: Learn More
+            - img [ref=e122]
+        - link "Ground-Mount Solar Systems Ground-mounted solar installations for properties with available land Learn More" [ref=e124] [cursor=pointer]:
+          - /url: /ground-mount-solar
+          - img [ref=e126]
+          - heading "Ground-Mount Solar Systems" [level=3] [ref=e128]
+          - paragraph [ref=e129]: Ground-mounted solar installations for properties with available land
+          - generic [ref=e130]:
+            - text: Learn More
+            - img [ref=e131]
+        - link "Solar Roof Installation Integrated solar roofing systems Learn More" [ref=e133] [cursor=pointer]:
+          - /url: /solar-roof-installation
+          - img [ref=e135]
+          - heading "Solar Roof Installation" [level=3] [ref=e137]
+          - paragraph [ref=e138]: Integrated solar roofing systems
+          - generic [ref=e139]:
+            - text: Learn More
+            - img [ref=e140]
+    - generic [ref=e143]:
+      - generic [ref=e144]:
+        - generic [ref=e145]: Why Go Solar
+        - heading "Transform Your Energy. Transform Your Future." [level=2] [ref=e146]
+      - generic [ref=e147]:
+        - generic [ref=e148]:
+          - generic [ref=e149]: 💰
+          - heading "Save on Energy Bills" [level=3] [ref=e150]
+          - paragraph [ref=e151]: Reduce your electricity costs by up to 70%. Most homeowners save $1,500+ annually with solar energy.
+        - generic [ref=e152]:
+          - generic [ref=e153]: 🏠
+          - heading "Increase Home Value" [level=3] [ref=e154]
+          - paragraph [ref=e155]: Homes with solar panels sell for 4% more on average. It&apos;s an investment that pays for itself.
+        - generic [ref=e156]:
+          - generic [ref=e157]: 🌱
+          - heading "Reduce Carbon Footprint" [level=3] [ref=e158]
+          - paragraph [ref=e159]: Offset 3-4 tons of CO2 annually. Make a positive environmental impact for future generations.
+        - generic [ref=e160]:
+          - generic [ref=e161]: 📋
+          - heading "Federal Tax Credits" [level=3] [ref=e162]
+          - paragraph [ref=e163]: Claim up to 30% federal tax credit on your solar installation. Additional state and local incentives available.
+        - generic [ref=e164]:
+          - generic [ref=e165]: ⚡
+          - heading "Energy Independence" [level=3] [ref=e166]
+          - paragraph [ref=e167]: Protect yourself from rising utility costs. Generate your own clean, reliable power.
+        - generic [ref=e168]:
+          - generic [ref=e169]: 🛡️
+          - heading "25-Year Warranty" [level=3] [ref=e170]
+          - paragraph [ref=e171]: Industry-leading warranties on panels and workmanship. Your investment is protected for decades.
+    - generic [ref=e173]:
+      - generic [ref=e174]:
+        - generic [ref=e175]: How It Works
+        - heading "Your Solar Journey in 5 Simple Steps" [level=2] [ref=e176]
+        - paragraph [ref=e177]: From initial consultation to flipping the switch, we handle everything. It's easier than you think.
+      - generic [ref=e178]:
+        - generic [ref=e179]:
+          - generic [ref=e180]: "1"
+          - generic [ref=e181]:
+            - heading "Free Consultation" [level=3] [ref=e182]
+            - paragraph [ref=e183]: We assess your property, review your energy bills, and design a custom solar system tailored to your needs.
+        - generic [ref=e184]:
+          - generic [ref=e185]: "2"
+          - generic [ref=e186]:
+            - heading "Custom Proposal" [level=3] [ref=e187]
+            - paragraph [ref=e188]: Receive a detailed proposal with system design, cost breakdown, savings estimates, and financing options.
+        - generic [ref=e189]:
+          - generic [ref=e190]: "3"
+          - generic [ref=e191]:
+            - heading "Permits & Approvals" [level=3] [ref=e192]
+            - paragraph [ref=e193]: We handle all paperwork, permits, and utility approvals. You don&apos;t lift a finger during this process.
+        - generic [ref=e194]:
+          - generic [ref=e195]: "4"
+          - generic [ref=e196]:
+            - heading "Professional Installation" [level=3] [ref=e197]
+            - paragraph [ref=e198]: Our certified team installs your solar system with precision and care. Most installations complete in 1-3 days.
+        - generic [ref=e199]:
+          - generic [ref=e200]: "5"
+          - generic [ref=e201]:
+            - heading "Activation & Monitoring" [level=3] [ref=e202]
+            - paragraph [ref=e203]: Final inspection, utility connection, and system activation. Start generating clean energy and tracking savings!
+      - link "Start Your Solar Journey Today" [ref=e205] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e207]:
+      - generic [ref=e208]:
+        - generic [ref=e209]: Customer Reviews
+        - heading "What Our Customers Say" [level=2] [ref=e210]
+        - generic [ref=e211]:
+          - generic [ref=e212]:
+            - img [ref=e213]
+            - img [ref=e215]
+            - img [ref=e217]
+            - img [ref=e219]
+            - img [ref=e221]
+          - generic [ref=e223]: 4.9 out of 5 stars from 127+ reviews
+      - generic [ref=e224]:
+        - generic [ref=e225]:
+          - generic [ref=e226]:
+            - generic [ref=e227]:
+              - img [ref=e228]
+              - img [ref=e230]
+              - img [ref=e232]
+              - img [ref=e234]
+              - img [ref=e236]
+            - generic [ref=e238]:
+              - img [ref=e239]
+              - text: Verified Customer
+          - paragraph [ref=e241]: “The team was incredibly professional from start to finish. Our energy bills have dropped by 65% in just 6 months. Best investment we&apos;ve ever made for our home!”
+          - generic [ref=e242]:
+            - img "Sarah M." [ref=e243]
+            - generic [ref=e244]:
+              - generic [ref=e245]: Sarah M.
+              - generic [ref=e246]: Springfield, MA
+        - generic [ref=e247]:
+          - generic [ref=e248]:
+            - generic [ref=e249]:
+              - img [ref=e250]
+              - img [ref=e252]
+              - img [ref=e254]
+              - img [ref=e256]
+              - img [ref=e258]
+            - generic [ref=e260]:
+              - img [ref=e261]
+              - text: Verified Customer
+          - paragraph [ref=e263]: “Installation was completed in 2 days with zero issues. The crew was respectful, clean, and highly skilled. System has been producing even more energy than projected!”
+          - generic [ref=e264]:
+            - img "Michael P." [ref=e265]
+            - generic [ref=e266]:
+              - generic [ref=e267]: Michael P.
+              - generic [ref=e268]: Chicopee, MA
+        - generic [ref=e269]:
+          - generic [ref=e270]:
+            - generic [ref=e271]:
+              - img [ref=e272]
+              - img [ref=e274]
+              - img [ref=e276]
+              - img [ref=e278]
+              - img [ref=e280]
+            - generic [ref=e282]:
+              - img [ref=e283]
+              - text: Verified Customer
+          - paragraph [ref=e285]: “They handled all the paperwork and permits - I didn&apos;t have to do anything. Communication was excellent throughout the process. Highly recommend!”
+          - generic [ref=e286]:
+            - img "Jennifer L." [ref=e287]
+            - generic [ref=e288]:
+              - generic [ref=e289]: Jennifer L.
+              - generic [ref=e290]: Westfield, MA
+    - generic [ref=e292]:
+      - generic [ref=e293]:
+        - generic [ref=e294]: Service Coverage
+        - heading "Proudly Serving Springfield & Surrounding Areas" [level=2] [ref=e295]
+        - paragraph [ref=e296]: Professional solar installation throughout Western Massachusetts and Northern Connecticut.
+      - generic [ref=e297]:
+        - link "Springfield" [ref=e298] [cursor=pointer]:
+          - /url: /springfield
+          - img [ref=e299]
+          - generic [ref=e302]: Springfield
+        - link "Chicopee" [ref=e303] [cursor=pointer]:
+          - /url: /chicopee
+          - img [ref=e304]
+          - generic [ref=e307]: Chicopee
+        - link "Holyoke" [ref=e308] [cursor=pointer]:
+          - /url: /holyoke
+          - img [ref=e309]
+          - generic [ref=e312]: Holyoke
+        - link "Westfield" [ref=e313] [cursor=pointer]:
+          - /url: /westfield
+          - img [ref=e314]
+          - generic [ref=e317]: Westfield
+        - link "West Springfield" [ref=e318] [cursor=pointer]:
+          - /url: /west-springfield
+          - img [ref=e319]
+          - generic [ref=e322]: West Springfield
+        - link "Agawam" [ref=e323] [cursor=pointer]:
+          - /url: /agawam
+          - img [ref=e324]
+          - generic [ref=e327]: Agawam
+        - link "Longmeadow" [ref=e328] [cursor=pointer]:
+          - /url: /longmeadow
+          - img [ref=e329]
+          - generic [ref=e332]: Longmeadow
+        - link "East Longmeadow" [ref=e333] [cursor=pointer]:
+          - /url: /east-longmeadow
+          - img [ref=e334]
+          - generic [ref=e337]: East Longmeadow
+        - link "Wilbraham" [ref=e338] [cursor=pointer]:
+          - /url: /wilbraham
+          - img [ref=e339]
+          - generic [ref=e342]: Wilbraham
+        - link "Ludlow" [ref=e343] [cursor=pointer]:
+          - /url: /ludlow
+          - img [ref=e344]
+          - generic [ref=e347]: Ludlow
+        - link "South Hadley" [ref=e348] [cursor=pointer]:
+          - /url: /south-hadley
+          - img [ref=e349]
+          - generic [ref=e352]: South Hadley
+        - link "Easthampton" [ref=e353] [cursor=pointer]:
+          - /url: /easthampton
+          - img [ref=e354]
+          - generic [ref=e357]: Easthampton
+        - link "Northampton" [ref=e358] [cursor=pointer]:
+          - /url: /northampton
+          - img [ref=e359]
+          - generic [ref=e362]: Northampton
+        - link "Amherst" [ref=e363] [cursor=pointer]:
+          - /url: /amherst
+          - img [ref=e364]
+          - generic [ref=e367]: Amherst
+        - link "Hadley" [ref=e368] [cursor=pointer]:
+          - /url: /hadley
+          - img [ref=e369]
+          - generic [ref=e372]: Hadley
+        - link "Granby" [ref=e373] [cursor=pointer]:
+          - /url: /granby
+          - img [ref=e374]
+          - generic [ref=e377]: Granby
+      - paragraph [ref=e378]:
+        - img [ref=e379]
+        - text: Don't see your city?
+        - link "Contact us" [ref=e381] [cursor=pointer]:
+          - /url: "#contact"
+        - text: "- we may still be able to help!"
+    - generic [ref=e384]:
+      - generic [ref=e385]:
+        - generic [ref=e386]:
+          - generic [ref=e387]: Get Started Today
+          - heading "Request Your Free Solar Quote" [level=2] [ref=e388]
+          - paragraph [ref=e389]: Take the first step toward energy independence. Get a custom solar proposal with no obligation.
+        - generic [ref=e390]:
+          - generic [ref=e391]:
+            - img [ref=e393]
+            - generic [ref=e395]:
+              - heading "Call Us" [level=4] [ref=e396]
+              - link "(413) 555-0100" [ref=e397] [cursor=pointer]:
+                - /url: tel:4135550100
+              - paragraph [ref=e398]: "Mon-Fri: 8am - 6pm EST"
+          - generic [ref=e399]:
+            - img [ref=e401]
+            - generic [ref=e403]:
+              - heading "Email Us" [level=4] [ref=e404]
+              - link "info@solarsolutions.com" [ref=e405] [cursor=pointer]:
+                - /url: mailto:info@solarsolutions.com
+              - paragraph [ref=e406]: 24-hour response time
+          - generic [ref=e407]:
+            - img [ref=e409]
+            - generic [ref=e412]:
+              - heading "Visit Us" [level=4] [ref=e413]
+              - paragraph [ref=e414]:
+                - text: 123 Solar Way
+                - text: Springfield, MA 01101
+      - generic [ref=e417]:
+        - generic [ref=e418]:
+          - generic [ref=e419]: Full Name *
+          - textbox "Full Name *" [ref=e420]:
+            - /placeholder: John Smith
+        - generic [ref=e421]:
+          - generic [ref=e422]:
+            - generic [ref=e423]: Email Address *
+            - textbox "Email Address *" [ref=e424]:
+              - /placeholder: john@example.com
+          - generic [ref=e425]:
+            - generic [ref=e426]: Phone Number *
+            - textbox "Phone Number *" [ref=e427]:
+              - /placeholder: (413) 555-1234
+        - generic [ref=e428]:
+          - generic [ref=e429]: Property Address *
+          - textbox "Property Address *" [ref=e430]:
+            - /placeholder: 123 Main St, Springfield, MA
+        - generic [ref=e431]:
+          - generic [ref=e432]:
+            - generic [ref=e433]: Property Type *
+            - combobox "Property Type *" [ref=e434]:
+              - option "Select..." [selected]
+              - option "Residential"
+              - option "Commercial"
+              - option "Industrial"
+          - generic [ref=e435]:
+            - generic [ref=e436]: Monthly Electric Bill *
+            - combobox "Monthly Electric Bill *" [ref=e437]:
+              - option "Select range..." [selected]
+              - option "$0 - $100"
+              - option "$100 - $200"
+              - option "$200 - $300"
+              - option "$300+"
+        - generic [ref=e438]:
+          - generic [ref=e439]: Additional Information
+          - textbox "Additional Information" [ref=e440]:
+            - /placeholder: Tell us about your solar goals...
+        - button "Get My Free Quote" [ref=e441] [cursor=pointer]:
+          - img [ref=e442]
+          - text: Get My Free Quote
+        - paragraph [ref=e444]:
+          - img [ref=e445]
+          - text: Your information is secure and will never be shared.
+    - generic [ref=e448]:
+      - heading "Ready to Start Saving with Solar?" [level=2] [ref=e449]
+      - paragraph [ref=e450]: Join 1,200+ satisfied customers in Springfield who've made the switch to clean energy
+      - generic [ref=e451]:
+        - link "Get Free Quote" [ref=e452] [cursor=pointer]:
+          - /url: "#contact"
+        - link "(413) 555-0100" [ref=e453] [cursor=pointer]:
+          - /url: tel:4135550100
+          - img [ref=e454]
+          - text: (413) 555-0100
+  - contentinfo [ref=e456]:
+    - generic [ref=e457]:
+      - generic [ref=e458]:
+        - generic [ref=e459]:
+          - generic [ref=e460]:
+            - img [ref=e461]
+            - generic [ref=e463]: Solar Solutions
+          - paragraph [ref=e464]: Professional solar panel installation in Springfield, MA. NABCEP certified installers committed to quality and customer satisfaction.
+          - generic [ref=e465]:
+            - link [ref=e466] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e467]
+            - link [ref=e469] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e470]
+            - link [ref=e472] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e473]
+            - link [ref=e475] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e476]
+        - generic [ref=e478]:
+          - heading "Services" [level=4] [ref=e479]
+          - list [ref=e480]:
+            - listitem [ref=e481]:
+              - link "Residential Solar" [ref=e482] [cursor=pointer]:
+                - /url: /#services
+            - listitem [ref=e483]:
+              - link "Commercial Solar" [ref=e484] [cursor=pointer]:
+                - /url: /#services
+            - listitem [ref=e485]:
+              - link "Battery Storage" [ref=e486] [cursor=pointer]:
+                - /url: /#services
+            - listitem [ref=e487]:
+              - link "EV Chargers" [ref=e488] [cursor=pointer]:
+                - /url: /#services
+            - listitem [ref=e489]:
+              - link "Maintenance & Repair" [ref=e490] [cursor=pointer]:
+                - /url: /#services
+        - generic [ref=e491]:
+          - heading "Company" [level=4] [ref=e492]
+          - list [ref=e493]:
+            - listitem [ref=e494]:
+              - link "Why Solar" [ref=e495] [cursor=pointer]:
+                - /url: /#benefits
+            - listitem [ref=e496]:
+              - link "Our Process" [ref=e497] [cursor=pointer]:
+                - /url: /#process
+            - listitem [ref=e498]:
+              - link "Customer Reviews" [ref=e499] [cursor=pointer]:
+                - /url: /#testimonials
+            - listitem [ref=e500]:
+              - link "Service Areas" [ref=e501] [cursor=pointer]:
+                - /url: /#areas
+            - listitem [ref=e502]:
+              - link "Contact Us" [ref=e503] [cursor=pointer]:
+                - /url: /#contact
+        - generic [ref=e504]:
+          - heading "Contact" [level=4] [ref=e505]
+          - list [ref=e506]:
+            - listitem [ref=e507]:
+              - img [ref=e508]
+              - generic [ref=e511]:
+                - text: 123 Solar Way
+                - text: Springfield, MA 01101
+            - listitem [ref=e512]:
+              - img [ref=e513]
+              - link "(413) 555-0100" [ref=e515] [cursor=pointer]:
+                - /url: tel:4135550100
+            - listitem [ref=e516]:
+              - img [ref=e517]
+              - link "info@solarsolutions.com" [ref=e519] [cursor=pointer]:
+                - /url: mailto:info@solarsolutions.com
+      - generic [ref=e521]:
+        - generic [ref=e522]:
+          - generic [ref=e523]:
+            - img [ref=e524]
+            - text: NABCEP Certified
+          - generic [ref=e526]:
+            - img [ref=e527]
+            - text: Licensed & Insured
+          - generic [ref=e529]:
+            - img [ref=e530]
+            - text: BBB A+ Rated
+        - paragraph [ref=e532]: © 2024 Solar Solutions. All rights reserved.
+  - button "Open Next.js Dev Tools" [ref=e538] [cursor=pointer]:
+    - img [ref=e539]
+  - alert [ref=e542]
+```

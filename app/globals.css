@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Poppins:wght@600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-gray-900 bg-white;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+}
+
+@layer components {
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg font-semibold transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2;
+  }
+
+  .btn--primary {
+    @apply bg-orange-600 text-white hover:bg-orange-700 focus:ring-orange-500;
+  }
+
+  .btn--outline {
+    @apply border-2 border-orange-600 text-orange-600 hover:bg-orange-50 focus:ring-orange-500;
+  }
+
+  .btn--white {
+    @apply bg-white text-orange-600 hover:bg-gray-50 focus:ring-white;
+  }
+
+  .btn--outline-white {
+    @apply border-2 border-white text-white hover:bg-white/10 focus:ring-white;
+  }
+
+  .btn--small {
+    @apply px-4 py-2 text-sm;
+  }
+
+  .btn--large {
+    @apply px-8 py-4 text-base;
+  }
+
+  .btn--full {
+    @apply w-full;
+  }
+
+  .section {
+    @apply py-16 md:py-24;
+  }
+
+  .section--gray {
+    @apply bg-gray-50;
+  }
+
+  .section__subtitle {
+    @apply inline-block text-orange-600 font-semibold text-sm uppercase tracking-wide mb-4;
+  }
+
+  .section__title {
+    @apply text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-6;
+  }
+
+  .section__description {
+    @apply text-lg text-gray-600 max-w-3xl mx-auto;
+  }
+
+  .section__header {
+    @apply text-center mb-12 md:mb-16;
+  }
+}
+
+@layer utilities {
+  .highlight {
+    @apply text-orange-600;
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-12-30T01:43:43.831Z",
+  "projectStats": {
+    "totalPages": 380,
+    "services": 10,
+    "locations": 38
+  },
+  "testResults": {
+    "total": 1,
+    "passed": 1,
+    "failed": 0,
+    "details": [
+      {
+        "test": "Navigation functionality",
+        "status": "pass"
+      }
+    ]
+  },
+  "consoleErrors": 0,
+  "pageErrors": 0,
+  "overallStatus": "PASS"
+}
