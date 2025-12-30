@@ -1,195 +1,195 @@
 {
- "id": "solar-battery-storage-east-longmeadow",
- "service": "Solar Battery Storage Installation",
- "serviceSlug": "solar-battery-storage",
- "location": "East Longmeadow",
- "locationSlug": "east-longmeadow",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Battery Storage East Longmeadow MA - Tesla Powerwall",
- "metaDescription": "East Longmeadow's trusted solar battery installer. Tesla Powerwall certified, backup power, energy savings. financing. Free quote today!",
- "h1": "Solar Battery Storage Installation in East Longmeadow, Massachusetts",
- "heroHeadline": "East Longmeadow's Most Trusted Battery Storage Installer",
- "heroSubheadline": "Tesla Powerwall Certified - Complete Energy Independence - Protect Your Home Today",
- "serviceDescription": "East Longmeadow homeowners are taking control of their energy future with professional solar battery storage installation. This thriving community east of Springfield combines small-town charm with modern amenities, and forward-thinking residents are adding solar battery storage to protect against power outages while dramatically reducing electricity costs. Our certified Tesla Powerwall installers bring over 12 years of experience to every East Longmeadow project, delivering reliable energy independence you can count on.\n\nEast Longmeadow's location east of the Connecticut River and proximity to wooded areas creates weather conditions that can challenge the electrical grid. From winter ice storms that snap tree branches onto power lines to summer thunderstorms that cause widespread outages, East Longmeadow residents understand the frustration of losing power. Solar battery storage provides the ultimate solution, automatically switching to battery power during grid outages while you continue your daily activities without interruption.\n\nWe proudly serve all East Longmeadow neighborhoods including North East Longmeadow, Heritage Green, Mapleshade, and areas near Westover Metropolitan Airport. Our team has completed battery storage installations throughout Hampden County, with dozens of satisfied customers right here in East Longmeadow. Whether you want to add battery capacity to your existing solar panels or install a complete solar + storage system, we deliver customized solutions that maximize your investment and provide true energy security.\n\nAs NABCEP certified professionals with Tesla Powerwall factory training, we understand Massachusetts electrical codes, East Longmeadow building requirements, and Eversource interconnection procedures. We manage every aspect of your project including comprehensive energy assessment, custom system design, permitting with the Town of East Longmeadow, utility coordination, professional installation, and ongoing performance monitoring. Experience energy independence in East Longmeadow with solar battery storage that delivers reliability, substantial savings, and complete peace of mind.",
- "shortDescription": "East Longmeadow's premier solar battery storage installer. Tesla Powerwall certified with expert installation, complete backup power, and maximum energy savings for all East Longmeadow neighborhoods.",
- "benefits": [
-  "Complete Energy Security - Never worry about East Longmeadow outages",
-  "Dramatic Cost Savings - Reduce electricity bills up to 88%",
-  "Storm Protection - Keep power on during severe weather events",
-  "Tesla Powerwall Certified - Factory-trained installation experts",
-  "Federal & financing options - financing options plus financing options",
-  "New or Existing Solar - Retrofit friendly installation",
-  "Local East Longmeadow Team - Fast response, personalized service",
-  "Home Value Increase - Battery storage adds 4-6% property value"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "East Longmeadow Home Assessment",
-   "description": "We visit your East Longmeadow property to analyze energy usage, evaluate electrical infrastructure, and understand your specific backup power needs and priorities."
-  },
-  {
-   "step": 2,
-   "title": "Custom Battery System Design",
-   "description": "Our engineering team creates a tailored battery storage solution for your East Longmeadow home, optimizing battery size, placement, and backup circuit configuration."
-  },
-  {
-   "step": 3,
-   "title": "Permits & Utility Coordination",
-   "description": "We handle all permitting with the Town of East Longmeadow and coordinate interconnection agreements with Eversource Energy for seamless approval."
-  },
-  {
-   "step": 4,
-   "title": "Professional Installation",
-   "description": "Our Massachusetts licensed electricians install your battery storage system expertly, typically completing East Longmeadow installations in just 1-2 days."
-  },
-  {
-   "step": 5,
-   "title": "System Activation & Training",
-   "description": "We commission your system, set up mobile monitoring, and provide thorough training so you can manage your energy storage with confidence."
-  }
- ],
- "features": [
-  "Tesla Powerwall 2 & Powerwall+ Systems",
-  "Enphase IQ Battery Solutions",
-  "LG Chem RESU & Premium Brands",
-  "AC & DC-Coupled Configurations",
-  "Whole-Home or Critical Load Backup",
-  "Smart Time-of-Use Optimization",
-  "Real-Time Mobile Monitoring Apps",
-  "10-Year Installation Warranty"
- ],
- "pricingInfo": "Solar battery storage in East Longmeadow ranges from $12,400-$16,800 for Tesla Powerwall systems before benefits. After the federal solar financing and Massachusetts state rebates, most East Longmeadow homeowners invest $9,200-$12,400 net. With typical monthly energy savings of $115-$220 through intelligent time-of-use optimization and grid independence, payback periods are 7-11 years. We offer flexible financing with $0 down and payments often less than your monthly electricity savings. Schedule your free East Longmeadow consultation today.",
- "serviceArea": "East Longmeadow and surrounding communities including North East Longmeadow, Heritage Green, Mapleshade, and all of Hampden County",
- "availability": "Monday-Friday 7:00 AM - 6:00 PM, Saturday 8:00 AM - 4:00 PM, Sunday by appointment",
- "responseTime": "24-hour consultation response, installation typically scheduled within 2-4 weeks",
- "qualifications": [
-  "NABCEP Certified Solar Installation Professionals",
-  "Tesla Powerwall Certified Installers",
-  "Massachusetts Licensed Master Electricians",
-  "Enphase Certified Installer Status",
-  "BBB A+ Accredited Business",
-  "MA CSL License #123456"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar installations, 200+ battery storage systems across Pioneer Valley",
- "guarantees": [
-  "10-year workmanship warranty on installation",
-  "Tesla Powerwall 10-year manufacturer warranty",
-  "Free lifetime system monitoring",
-  "Performance guarantee - 70% capacity after 10 years",
-  "100% customer satisfaction guarantee"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Tesla Powerwall battery storage on East Longmeadow home",
-   "caption": "Professional Battery Storage Installation in East Longmeadow, MA",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1595421877555-06a8f9a4d4e1?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Battery backup powering home during storm",
-    "caption": "Reliable Backup Power for East Longmeadow Homes",
-    "credit": {
-     "photographer": "Science in HD",
-     "unsplashUrl": "https://unsplash.com/photos/battery-storage"
+  "id": "solar-battery-storage-east-longmeadow",
+  "service": "Solar Battery Storage Installation",
+  "serviceSlug": "solar-battery-storage",
+  "location": "East Longmeadow",
+  "locationSlug": "east-longmeadow",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Battery Storage East Longmeadow MA - Tesla Powerwall",
+  "metaDescription": "East Longmeadow's trusted solar battery installer. Tesla Powerwall certified, backup power, energy savings. financing. Free quote today!",
+  "h1": "Solar Battery Storage Installation in East Longmeadow, Massachusetts",
+  "heroHeadline": "East Longmeadow's Most Trusted Battery Storage Installer",
+  "heroSubheadline": "Tesla Powerwall Certified - Complete Energy Independence - Protect Your Home Today",
+  "serviceDescription": "East Longmeadow homeowners are taking control of their energy future with professional solar battery storage installation. This thriving community east of Springfield combines small-town charm with modern amenities, and forward-thinking residents are adding solar battery storage to protect against power outages while dramatically reducing electricity costs. Our certified Tesla Powerwall installers bring over 12 years of experience to every East Longmeadow project, delivering reliable energy independence you can count on.\n\nEast Longmeadow's location east of the Connecticut River and proximity to wooded areas creates weather conditions that can challenge the electrical grid. From winter ice storms that snap tree branches onto power lines to summer thunderstorms that cause widespread outages, East Longmeadow residents understand the frustration of losing power. Solar battery storage provides the ultimate solution, automatically switching to battery power during grid outages while you continue your daily activities without interruption.\n\nWe proudly serve all East Longmeadow neighborhoods including North East Longmeadow, Heritage Green, Mapleshade, and areas near Westover Metropolitan Airport. Our team has completed battery storage installations throughout Hampden County, with dozens of satisfied customers right here in East Longmeadow. Whether you want to add battery capacity to your existing solar panels or install a complete solar + storage system, we deliver customized solutions that maximize your investment and provide true energy security.\n\nAs NABCEP certified professionals with Tesla Powerwall factory training, we understand Massachusetts electrical codes, East Longmeadow building requirements, and Eversource interconnection procedures. We manage every aspect of your project including comprehensive energy assessment, custom system design, permitting with the Town of East Longmeadow, utility coordination, professional installation, and ongoing performance monitoring. Experience energy independence in East Longmeadow with solar battery storage that delivers reliability, substantial savings, and complete peace of mind.",
+  "shortDescription": "East Longmeadow's premier solar battery storage installer. Tesla Powerwall certified with expert installation, complete backup power, and maximum energy savings for all East Longmeadow neighborhoods.",
+  "benefits": [
+    "Complete Energy Security - Never worry about East Longmeadow outages",
+    "Dramatic Cost Savings - Reduce electricity bills up to 88%",
+    "Storm Protection - Keep power on during severe weather events",
+    "Tesla Powerwall Certified - Factory-trained installation experts",
+    "Federal & financing options - financing options plus financing options",
+    "New or Existing Solar - Retrofit friendly installation",
+    "Local East Longmeadow Team - Fast response, personalized service",
+    "Home Value Increase - Battery storage adds 4-6% property value"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "East Longmeadow Home Assessment",
+      "description": "We visit your East Longmeadow property to analyze energy usage, evaluate electrical infrastructure, and understand your specific backup power needs and priorities."
+    },
+    {
+      "step": 2,
+      "title": "Custom Battery System Design",
+      "description": "Our engineering team creates a tailored battery storage solution for your East Longmeadow home, optimizing battery size, placement, and backup circuit configuration."
+    },
+    {
+      "step": 3,
+      "title": "Permits & Utility Coordination",
+      "description": "We handle all permitting with the Town of East Longmeadow and coordinate interconnection agreements with Eversource Energy for seamless approval."
+    },
+    {
+      "step": 4,
+      "title": "Professional Installation",
+      "description": "Our Massachusetts licensed electricians install your battery storage system expertly, typically completing East Longmeadow installations in just 1-2 days."
+    },
+    {
+      "step": 5,
+      "title": "System Activation & Training",
+      "description": "We commission your system, set up mobile monitoring, and provide thorough training so you can manage your energy storage with confidence."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Energy storage monitoring app dashboard",
-    "caption": "Monitor Your Battery Storage Anytime, Anywhere",
-    "credit": {
-     "photographer": "Tyler Casey",
-     "unsplashUrl": "https://unsplash.com/photos/solar-monitoring"
+  ],
+  "features": [
+    "Tesla Powerwall 2 & Powerwall+ Systems",
+    "Enphase IQ Battery Solutions",
+    "LG Chem RESU & Premium Brands",
+    "AC & DC-Coupled Configurations",
+    "Whole-Home or Critical Load Backup",
+    "Smart Time-of-Use Optimization",
+    "Real-Time Mobile Monitoring Apps",
+    "10-Year Installation Warranty"
+  ],
+  "pricingInfo": "Solar battery storage in East Longmeadow ranges from $12,400-$16,800 for Tesla Powerwall systems before benefits. After the competitive pricing and Massachusetts state rebates, most East Longmeadow homeowners invest $9,200-$12,400 net. With typical monthly energy savings of $115-$220 through intelligent time-of-use optimization and grid independence, payback periods are 7-11 years. We offer flexible financing with $0 down and payments often less than your monthly electricity savings. Schedule your free East Longmeadow consultation today.",
+  "serviceArea": "East Longmeadow and surrounding communities including North East Longmeadow, Heritage Green, Mapleshade, and all of Hampden County",
+  "availability": "Monday-Friday 7:00 AM - 6:00 PM, Saturday 8:00 AM - 4:00 PM, Sunday by appointment",
+  "responseTime": "24-hour consultation response, installation typically scheduled within 2-4 weeks",
+  "qualifications": [
+    "NABCEP Certified Solar Installation Professionals",
+    "Tesla Powerwall Certified Installers",
+    "Massachusetts Licensed Master Electricians",
+    "Enphase Certified Installer Status",
+    "BBB A+ Accredited Business",
+    "MA CSL License #123456"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar installations, 200+ battery storage systems across Pioneer Valley",
+  "guarantees": [
+    "10-year workmanship warranty on installation",
+    "Tesla Powerwall 10-year manufacturer warranty",
+    "Free lifetime system monitoring",
+    "Performance guarantee - 70% capacity after 10 years",
+    "100% customer satisfaction guarantee"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Tesla Powerwall battery storage on East Longmeadow home",
+      "caption": "Professional Battery Storage Installation in East Longmeadow, MA",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1595421877555-06a8f9a4d4e1?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Battery backup powering home during storm",
+        "caption": "Reliable Backup Power for East Longmeadow Homes",
+        "credit": {
+          "photographer": "Science in HD",
+          "unsplashUrl": "https://unsplash.com/photos/battery-storage"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Energy storage monitoring app dashboard",
+        "caption": "Monitor Your Battery Storage Anytime, Anywhere",
+        "credit": {
+          "photographer": "Tyler Casey",
+          "unsplashUrl": "https://unsplash.com/photos/solar-monitoring"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Residential solar panels with battery integration",
+        "caption": "Complete Solar + Storage Solutions",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/solar-panels"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Licensed electrician installing battery system",
+        "caption": "Expert Installation by East Longmeadow Electricians",
+        "credit": {
+          "photographer": "Umberto",
+          "unsplashUrl": "https://unsplash.com/photos/electrical-work"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Benefits of Solar Battery Storage for East Longmeadow",
+    "Tesla Powerwall Installation in East Longmeadow",
+    "Solar Battery Storage Costs & ROI",
+    "How Battery Storage Protects Against Power Outages",
+    "East Longmeadow Installation Process",
+    "East Longmeadow Solar Battery FAQs"
+  ],
+  "faq": [
+    {
+      "question": "How much does solar battery storage cost in East Longmeadow?",
+      "answer": "Tesla Powerwall installation in East Longmeadow typically costs $12,400-$16,800 before benefits. After applying the competitive pricing and Massachusetts rebates, your net investment is approximately $9,200-$12,400. Most East Longmeadow residents install 1-2 Powerwalls based on their backup needs and home size. We provide free detailed quotes and attractive financing with $0 down."
+    },
+    {
+      "question": "Will battery storage work during East Longmeadow's winter storms?",
+      "answer": "Absolutely! Solar battery storage is specifically engineered to provide backup power during East Longmeadow's winter storms and ice events. When the grid goes down, your battery automatically powers your home's critical circuits. With proper sizing, a Tesla Powerwall can keep essential systems running for 24+ hours, and it recharges when your solar panels produce energy or when grid power returns."
+    },
+    {
+      "question": "Can I add batteries to my existing East Longmeadow solar system?",
+      "answer": "Yes! Battery storage can be retrofitted to virtually any existing solar panel system in East Longmeadow. Whether your solar installation is 1 year old or 15 years old, we can integrate battery storage seamlessly. The retrofit process involves installing the battery unit, potentially upgrading your inverter, and updating electrical connections. Most East Longmeadow retrofit installations take 1-2 days."
+    },
+    {
+      "question": "How long will a battery power my East Longmeadow home?",
+      "answer": "One Tesla Powerwall (13.5 kWh) can power essential circuits in a typical East Longmeadow home for 24-36 hours during an outage, including lights, refrigerator, internet, heating controls, and select outlets. For whole-home backup including HVAC and major appliances, most homes need 2-3 Powerwalls. We'll calculate your specific backup duration during our free consultation."
+    },
+    {
+      "question": "What financing options are available in East Longmeadow?",
+      "answer": "East Longmeadow homeowners qualify for the flexible financing options on battery storage when paired with solar panels. You can also participate in Massachusetts' ConnectedSolutions program, earning $225-$375 annually per Powerwall. Combined with substantial energy savings through time-of-use optimization, battery storage delivers excellent financial returns."
+    },
+    {
+      "question": "How long does installation take in East Longmeadow?",
+      "answer": "Physical installation of solar battery storage in East Longmeadow takes 1-2 days for most residential projects. The complete process from initial consultation to system activation typically spans 3-4 weeks, including custom design, permitting with the Town of East Longmeadow, Eversource interconnection approval, installation, and final inspection."
+    },
+    {
+      "question": "Tesla Powerwall vs Enphase IQ Battery - which is better?",
+      "answer": "Both are excellent choices for East Longmeadow homes! Tesla Powerwall offers 13.5 kWh per unit in a proven all-in-one design - ideal for most residential applications. Enphase IQ Battery provides modular flexibility (start with 3.3 kWh, expand later) and integrates perfectly with Enphase microinverters. We'll recommend the best option based on your existing solar setup, backup needs, and budget during your free consultation."
+    },
+    {
+      "question": "Will battery storage increase my East Longmeadow home's value?",
+      "answer": "Yes! Research consistently shows that solar + battery storage systems increase home values by 4-6% in Massachusetts. East Longmeadow homebuyers increasingly prioritize energy independence and backup power capability, especially after experiencing storm-related outages. Your battery system transfers to future owners with remaining warranty coverage, making it a valuable selling feature."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Residential solar panels with battery integration",
-    "caption": "Complete Solar + Storage Solutions",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/solar-panels"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Licensed electrician installing battery system",
-    "caption": "Expert Installation by East Longmeadow Electricians",
-    "credit": {
-     "photographer": "Umberto",
-     "unsplashUrl": "https://unsplash.com/photos/electrical-work"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Benefits of Solar Battery Storage for East Longmeadow",
-  "Tesla Powerwall Installation in East Longmeadow",
-  "Solar Battery Storage Costs & ROI",
-  "How Battery Storage Protects Against Power Outages",
-  "East Longmeadow Installation Process",
-  "East Longmeadow Solar Battery FAQs"
- ],
- "faq": [
-  {
-   "question": "How much does solar battery storage cost in East Longmeadow?",
-   "answer": "Tesla Powerwall installation in East Longmeadow typically costs $12,400-$16,800 before benefits. After applying the federal solar financing and Massachusetts rebates, your net investment is approximately $9,200-$12,400. Most East Longmeadow residents install 1-2 Powerwalls based on their backup needs and home size. We provide free detailed quotes and attractive financing with $0 down."
-  },
-  {
-   "question": "Will battery storage work during East Longmeadow's winter storms?",
-   "answer": "Absolutely! Solar battery storage is specifically engineered to provide backup power during East Longmeadow's winter storms and ice events. When the grid goes down, your battery automatically powers your home's critical circuits. With proper sizing, a Tesla Powerwall can keep essential systems running for 24+ hours, and it recharges when your solar panels produce energy or when grid power returns."
-  },
-  {
-   "question": "Can I add batteries to my existing East Longmeadow solar system?",
-   "answer": "Yes! Battery storage can be retrofitted to virtually any existing solar panel system in East Longmeadow. Whether your solar installation is 1 year old or 15 years old, we can integrate battery storage seamlessly. The retrofit process involves installing the battery unit, potentially upgrading your inverter, and updating electrical connections. Most East Longmeadow retrofit installations take 1-2 days."
-  },
-  {
-   "question": "How long will a battery power my East Longmeadow home?",
-   "answer": "One Tesla Powerwall (13.5 kWh) can power essential circuits in a typical East Longmeadow home for 24-36 hours during an outage, including lights, refrigerator, internet, heating controls, and select outlets. For whole-home backup including HVAC and major appliances, most homes need 2-3 Powerwalls. We'll calculate your specific backup duration during our free consultation."
-  },
-  {
-   "question": "What financing options are available in East Longmeadow?",
-   "answer": "East Longmeadow homeowners qualify for the flexible financing options on battery storage when paired with solar panels. You can also participate in Massachusetts' ConnectedSolutions program, earning $225-$375 annually per Powerwall. Combined with substantial energy savings through time-of-use optimization, battery storage delivers excellent financial returns."
-  },
-  {
-   "question": "How long does installation take in East Longmeadow?",
-   "answer": "Physical installation of solar battery storage in East Longmeadow takes 1-2 days for most residential projects. The complete process from initial consultation to system activation typically spans 3-4 weeks, including custom design, permitting with the Town of East Longmeadow, Eversource interconnection approval, installation, and final inspection."
-  },
-  {
-   "question": "Tesla Powerwall vs Enphase IQ Battery - which is better?",
-   "answer": "Both are excellent choices for East Longmeadow homes! Tesla Powerwall offers 13.5 kWh per unit in a proven all-in-one design - ideal for most residential applications. Enphase IQ Battery provides modular flexibility (start with 3.3 kWh, expand later) and integrates perfectly with Enphase microinverters. We'll recommend the best option based on your existing solar setup, backup needs, and budget during your free consultation."
-  },
-  {
-   "question": "Will battery storage increase my East Longmeadow home's value?",
-   "answer": "Yes! Research consistently shows that solar + battery storage systems increase home values by 4-6% in Massachusetts. East Longmeadow homebuyers increasingly prioritize energy independence and backup power capability, especially after experiencing storm-related outages. Your battery system transfers to future owners with remaining warranty coverage, making it a valuable selling feature."
-  }
- ],
- "keywords": [
-  "solar battery storage",
-  "Tesla Powerwall",
-  "home battery backup",
-  "energy storage system",
-  "solar batteries",
-  "backup power"
- ],
- "localKeywords": [
-  "solar battery storage East Longmeadow MA",
-  "Tesla Powerwall East Longmeadow",
-  "battery storage East Longmeadow Massachusetts",
-  "Powerwall installation East Longmeadow",
-  "solar battery Hampden County",
-  "backup power East Longmeadow"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free East Longmeadow Quote",
- "ctaSecondary": "Schedule Free Energy Assessment",
- "ctaUrgency": "Limited Time - Free Consultation Available!"
+  ],
+  "keywords": [
+    "solar battery storage",
+    "Tesla Powerwall",
+    "home battery backup",
+    "energy storage system",
+    "solar batteries",
+    "backup power"
+  ],
+  "localKeywords": [
+    "solar battery storage East Longmeadow MA",
+    "Tesla Powerwall East Longmeadow",
+    "battery storage East Longmeadow Massachusetts",
+    "Powerwall installation East Longmeadow",
+    "solar battery Hampden County",
+    "backup power East Longmeadow"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free East Longmeadow Quote",
+  "ctaSecondary": "Schedule Free Energy Assessment",
+  "ctaUrgency": "Limited Time - Free Consultation Available!"
 }

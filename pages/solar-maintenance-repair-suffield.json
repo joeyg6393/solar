@@ -1,193 +1,193 @@
 {
- "id": "solar-maintenance-repair-suffield",
- "service": "Solar Panel Maintenance & Repair",
- "serviceSlug": "solar-maintenance-repair",
- "location": "Suffield",
- "locationSlug": "suffield",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Panel Maintenance Suffield CT - Expert Repair Service",
- "metaDescription": "Professional solar panel maintenance & repair in Suffield, CT. Expert cleaning, diagnostics, fast repairs. Serving North Central Connecticut. Call for service!",
- "h1": "Solar Panel Maintenance & Repair Services in Suffield, CT",
- "heroHeadline": "Suffield's Premier Solar Maintenance & Repair Experts",
- "heroSubheadline": "North Central Connecticut Solar Specialists - Maximize Your Clean Energy ROI",
- "serviceDescription": "Suffield, Connecticut, a historic town in Hartford County near the Massachusetts border, has embraced solar energy as homeowners and businesses seek sustainable solutions and energy independence. Our specialized solar panel maintenance and repair services help Suffield property owners protect their solar investments and ensure maximum system performance throughout the year. As experienced solar professionals serving North Central Connecticut and the Pioneer Valley region, we understand the unique maintenance needs of solar installations in this area and provide expert care tailored to local climate conditions and environmental factors.\n\nSuffield's charming blend of historic neighborhoods, newer residential developments, and agricultural areas means solar installations vary widely in age, size, and configuration. Our experienced technicians are equipped to service all solar system types - from modern high-efficiency arrays to older installations that benefit from regular professional maintenance. We provide comprehensive care including thorough cleaning, detailed inspections, preventative repairs, and performance optimization designed to maximize your energy production and return on investment.\n\nOur full-service maintenance approach includes professional solar panel cleaning using eco-friendly solutions, complete electrical and mechanical system diagnostics, advanced inverter testing and repair, mounting hardware inspection for weather-related stress, electrical connection verification, and detailed performance analysis with reporting. We recognize that Suffield residents invested in solar for both financial savings and environmental responsibility, and our preventative maintenance philosophy ensures you achieve both goals while avoiding costly emergency repairs and system downtime.\n\nBacked by NABCEP certification, over 12 years of solar industry experience, Connecticut licensed electricians, and a commitment to customer satisfaction, we've earned the trust of Suffield homeowners and businesses. Serving Suffield, West Suffield, and the surrounding North Central Connecticut communities, our team provides responsive service, transparent pricing, and the expertise needed to keep your solar system operating at peak efficiency for decades to come.",
- "shortDescription": "Professional solar panel maintenance and repair in Suffield, CT. Serving North Central Connecticut with expert cleaning, comprehensive diagnostics, and fast repairs. Certified technicians maximize your solar system's performance and longevity.",
- "benefits": [
-  "Local Suffield solar experts serving North Central CT",
-  "Restore peak efficiency with professional panel cleaning",
-  "Comprehensive inspections prevent expensive repairs",
-  "Fast emergency response for critical system issues",
-  "All major solar panel brands and systems serviced",
-  "Preventative maintenance extends system lifespan",
-  "Detailed performance monitoring and reporting",
-  "Competitive pricing with transparent estimates"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Schedule Service",
-   "description": "Contact our Suffield solar team for maintenance or emergency repair. We offer convenient scheduling with same-day service available for urgent solar system issues affecting your energy production."
-  },
-  {
-   "step": 2,
-   "title": "Complete System Assessment",
-   "description": "Our NABCEP certified technicians conduct thorough inspections of your entire solar installation - panels, mounting structures, inverters, wiring, and electrical components - identifying any issues impacting performance or safety."
-  },
-  {
-   "step": 3,
-   "title": "Professional Cleaning",
-   "description": "Using specialized solar panel cleaning equipment and environmentally safe solutions, we thoroughly clean your panels to remove dirt, pollen, bird droppings, and other debris that accumulates and reduces efficiency."
-  },
-  {
-   "step": 4,
-   "title": "Repair & System Optimization",
-   "description": "Complete all necessary repairs with quality parts, update inverter firmware, optimize system settings for Suffield's climate and sun exposure, and verify all electrical connections are secure and code-compliant."
-  },
-  {
-   "step": 5,
-   "title": "Detailed Service Report",
-   "description": "Receive comprehensive documentation including before/after performance metrics, photographs documenting system condition, completed repairs, warranty information, and personalized recommendations for your Suffield solar system."
-  }
- ],
- "features": [
-  "Complete solar panel cleaning and maintenance",
-  "Advanced inverter diagnostics and repair",
-  "Electrical system safety inspections",
-  "Storm damage assessment and repair",
-  "Performance monitoring and optimization",
-  "Mounting system integrity checks",
-  "Connecticut solar rebate and incentive consultation",
-  "Annual maintenance contracts with priority service"
- ],
- "pricingInfo": "Professional solar maintenance in Suffield starts at $299 for residential systems. We offer cost-effective annual maintenance contracts that include multiple service visits, priority emergency response, and discounted repair rates - providing excellent value for protecting your solar investment. All repair work includes transparent upfront estimates with no hidden fees. Emergency service available with clear pricing provided before work begins. We'll help you navigate manufacturer warranty claims and Connecticut solar incentive programs. Contact us for a free assessment of your Suffield solar system.",
- "serviceArea": "Suffield, West Suffield, and surrounding Hartford County CT communities within 20 miles including Enfield and Windsor Locks",
- "availability": "Monday - Friday: 7:30 AM - 6:00 PM, Saturday: 8:00 AM - 4:00 PM, 24/7 emergency repair service",
- "responseTime": "Same-day emergency service typically within 4 hours, routine maintenance scheduled within 3-5 business days",
- "qualifications": [
-  "NABCEP Certified PV Installation Professional",
-  "Connecticut Licensed Electricians",
-  "OSHA 30-Hour Safety Certification",
-  "Certified by Major Solar Panel Manufacturers",
-  "Fully Insured - $2M General Liability Coverage",
-  "Better Business Bureau A+ Rating"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar systems serviced",
- "guarantees": [
-  "100% satisfaction guarantee on all services",
-  "1-year warranty on repair workmanship",
-  "Performance improvement guarantee or money back",
-  "Same-day emergency response commitment"
- ],
- "emergencyAvailable": true,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Professional solar panel maintenance technician working in Suffield Connecticut",
-   "caption": "Expert Solar Panel Maintenance in Suffield, CT",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Professional solar panel cleaning service in progress",
-    "caption": "Expert cleaning for Suffield solar installations",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+  "id": "solar-maintenance-repair-suffield",
+  "service": "Solar Panel Maintenance & Repair",
+  "serviceSlug": "solar-maintenance-repair",
+  "location": "Suffield",
+  "locationSlug": "suffield",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Panel Maintenance Suffield CT - Expert Repair Service",
+  "metaDescription": "Professional solar panel maintenance & repair in Suffield, CT. Expert cleaning, diagnostics, fast repairs. Serving North Central Connecticut. Call for service!",
+  "h1": "Solar Panel Maintenance & Repair Services in Suffield, CT",
+  "heroHeadline": "Suffield's Premier Solar Maintenance & Repair Experts",
+  "heroSubheadline": "North Central Connecticut Solar Specialists - Maximize Your Clean Energy ROI",
+  "serviceDescription": "Suffield, Connecticut, a historic town in Hartford County near the Massachusetts border, has embraced solar energy as homeowners and businesses seek sustainable solutions and energy independence. Our specialized solar panel maintenance and repair services help Suffield property owners protect their solar investments and ensure maximum system performance throughout the year. As experienced solar professionals serving North Central Connecticut and the Pioneer Valley region, we understand the unique maintenance needs of solar installations in this area and provide expert care tailored to local climate conditions and environmental factors.\n\nSuffield's charming blend of historic neighborhoods, newer residential developments, and agricultural areas means solar installations vary widely in age, size, and configuration. Our experienced technicians are equipped to service all solar system types - from modern high-efficiency arrays to older installations that benefit from regular professional maintenance. We provide comprehensive care including thorough cleaning, detailed inspections, preventative repairs, and performance optimization designed to maximize your energy production and return on investment.\n\nOur full-service maintenance approach includes professional solar panel cleaning using eco-friendly solutions, complete electrical and mechanical system diagnostics, advanced inverter testing and repair, mounting hardware inspection for weather-related stress, electrical connection verification, and detailed performance analysis with reporting. We recognize that Suffield residents invested in solar for both financial savings and environmental responsibility, and our preventative maintenance philosophy ensures you achieve both goals while avoiding costly emergency repairs and system downtime.\n\nBacked by NABCEP certification, over 12 years of solar industry experience, Connecticut licensed electricians, and a commitment to customer satisfaction, we've earned the trust of Suffield homeowners and businesses. Serving Suffield, West Suffield, and the surrounding North Central Connecticut communities, our team provides responsive service, transparent pricing, and the expertise needed to keep your solar system operating at peak efficiency for decades to come.",
+  "shortDescription": "Professional solar panel maintenance and repair in Suffield, CT. Serving North Central Connecticut with expert cleaning, comprehensive diagnostics, and fast repairs. Certified technicians maximize your solar system's performance and longevity.",
+  "benefits": [
+    "Local Suffield solar experts serving North Central CT",
+    "Restore peak efficiency with professional panel cleaning",
+    "Comprehensive inspections prevent expensive repairs",
+    "Fast emergency response for critical system issues",
+    "All major solar panel brands and systems serviced",
+    "Preventative maintenance extends system lifespan",
+    "Detailed performance monitoring and reporting",
+    "Competitive pricing with transparent estimates"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Schedule Service",
+      "description": "Contact our Suffield solar team for maintenance or emergency repair. We offer convenient scheduling with same-day service available for urgent solar system issues affecting your energy production."
+    },
+    {
+      "step": 2,
+      "title": "Complete System Assessment",
+      "description": "Our NABCEP certified technicians conduct thorough inspections of your entire solar installation - panels, mounting structures, inverters, wiring, and electrical components - identifying any issues impacting performance or safety."
+    },
+    {
+      "step": 3,
+      "title": "Professional Cleaning",
+      "description": "Using specialized solar panel cleaning equipment and environmentally safe solutions, we thoroughly clean your panels to remove dirt, pollen, bird droppings, and other debris that accumulates and reduces efficiency."
+    },
+    {
+      "step": 4,
+      "title": "Repair & System Optimization",
+      "description": "Complete all necessary repairs with quality parts, update inverter firmware, optimize system settings for Suffield's climate and sun exposure, and verify all electrical connections are secure and code-compliant."
+    },
+    {
+      "step": 5,
+      "title": "Detailed Service Report",
+      "description": "Receive comprehensive documentation including before/after performance metrics, photographs documenting system condition, completed repairs, warranty information, and personalized recommendations for your Suffield solar system."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar system diagnostic testing equipment",
-    "caption": "State-of-the-art diagnostics for optimal performance",
-    "credit": {
-     "photographer": "Los Muertos Crew",
-     "unsplashUrl": "https://unsplash.com/photos/xxNRxx343nM"
+  ],
+  "features": [
+    "Complete solar panel cleaning and maintenance",
+    "Advanced inverter diagnostics and repair",
+    "Electrical system safety inspections",
+    "Storm damage assessment and repair",
+    "Performance monitoring and optimization",
+    "Mounting system integrity checks",
+    "Connecticut solar rebate and incentive consultation",
+    "Annual maintenance contracts with priority service"
+  ],
+  "pricingInfo": "Professional solar maintenance in Suffield starts at $299 for residential systems. We offer cost-effective annual maintenance contracts that include multiple service visits, priority emergency response, and discounted repair rates - providing excellent value for protecting your solar investment. All repair work includes transparent upfront estimates with no hidden fees. Emergency service available with clear pricing provided before work begins. We'll help you navigate manufacturer warranty claims and Connecticut solar benefit programs. Contact us for a free assessment of your Suffield solar system.",
+  "serviceArea": "Suffield, West Suffield, and surrounding Hartford County CT communities within 20 miles including Enfield and Windsor Locks",
+  "availability": "Monday - Friday: 7:30 AM - 6:00 PM, Saturday: 8:00 AM - 4:00 PM, 24/7 emergency repair service",
+  "responseTime": "Same-day emergency service typically within 4 hours, routine maintenance scheduled within 3-5 business days",
+  "qualifications": [
+    "NABCEP Certified PV Installation Professional",
+    "Connecticut Licensed Electricians",
+    "OSHA 30-Hour Safety Certification",
+    "Certified by Major Solar Panel Manufacturers",
+    "Fully Insured - $2M General Liability Coverage",
+    "Better Business Bureau A+ Rating"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar systems serviced",
+  "guarantees": [
+    "100% satisfaction guarantee on all services",
+    "1-year warranty on repair workmanship",
+    "Performance improvement guarantee or money back",
+    "Same-day emergency response commitment"
+  ],
+  "emergencyAvailable": true,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional solar panel maintenance technician working in Suffield Connecticut",
+      "caption": "Expert Solar Panel Maintenance in Suffield, CT",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional solar panel cleaning service in progress",
+        "caption": "Expert cleaning for Suffield solar installations",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar system diagnostic testing equipment",
+        "caption": "State-of-the-art diagnostics for optimal performance",
+        "credit": {
+          "photographer": "Los Muertos Crew",
+          "unsplashUrl": "https://unsplash.com/photos/xxNRxx343nM"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar inverter maintenance and electrical testing",
+        "caption": "Comprehensive inverter service and safety checks",
+        "credit": {
+          "photographer": "Anders J",
+          "unsplashUrl": "https://unsplash.com/photos/ckYMu0C1LZ4"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1595437193398-f24279553f4f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Residential solar panel system in Suffield Connecticut",
+        "caption": "Maintaining Suffield's residential solar investments",
+        "credit": {
+          "photographer": "Chelsea",
+          "unsplashUrl": "https://unsplash.com/photos/fwAI30jRKj4"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Solar Panel Maintenance Services for Suffield Homeowners",
+    "Why Regular Solar Maintenance Matters in North Central CT",
+    "Professional Solar Panel Cleaning in Suffield",
+    "Common Solar System Issues We Repair",
+    "24/7 Emergency Solar Repair Services",
+    "Suffield Solar Maintenance Frequently Asked Questions"
+  ],
+  "faq": [
+    {
+      "question": "How often should Suffield homeowners schedule solar maintenance?",
+      "answer": "We recommend professional solar maintenance at least annually for Suffield residential systems. However, Connecticut's climate with humid summers and variable winters means biannual service is ideal - spring cleaning to remove pollen and winter debris, and fall maintenance to prepare for winter. Regular professional maintenance can improve energy production by 20-30% compared to neglected systems."
+    },
+    {
+      "question": "What are warning signs my solar panels need professional service?",
+      "answer": "Warning signs include: significant decrease in energy production compared to previous months, error messages on your inverter display, visible dirt or debris buildup on panels, physical damage like cracks or discoloration, loose or corroded electrical connections, moisture in junction boxes, or complete system shutdown. If you notice any of these issues with your Suffield solar installation, contact us for prompt inspection."
+    },
+    {
+      "question": "Is professional solar panel cleaning worth the investment?",
+      "answer": "Absolutely! In Suffield, environmental factors like pollen, dust, bird droppings, and seasonal debris can reduce solar panel efficiency by 20-30%. Professional cleaning safely removes these contaminants using proper equipment and techniques. For a typical Suffield solar system, the improved energy production quickly offsets the cleaning cost, making it a smart investment that pays for itself through increased savings."
+    },
+    {
+      "question": "Do you provide emergency solar repair services in Suffield?",
+      "answer": "Yes! We offer 24/7 emergency solar repair service for critical issues including complete system failure, electrical hazards, inverter problems, and storm damage. Our Suffield-area emergency team typically responds within 4 hours during business hours and 6-8 hours for after-hours emergencies. We arrive fully equipped with common parts and diagnostic tools to resolve most issues on the first visit."
+    },
+    {
+      "question": "Can you service solar systems installed by other companies?",
+      "answer": "Definitely! We maintain and repair all brands and types of solar installations throughout Suffield and North Central Connecticut, regardless of the original installer. Our NABCEP certified technicians are trained on all major solar equipment manufacturers and provide warranty-compliant service. Every Suffield solar system receives the same professional care and expertise."
+    },
+    {
+      "question": "What's included in your annual maintenance contract?",
+      "answer": "Our Suffield annual maintenance contracts include: two comprehensive service visits (typically spring and fall), thorough professional panel cleaning, complete system inspection, inverter diagnostics and firmware updates, electrical safety testing, detailed performance reports, priority scheduling for emergency repairs, and 15% discount on any repair parts or labor needed throughout the year."
+    },
+    {
+      "question": "How much do solar panel repairs cost in Suffield?",
+      "answer": "Repair costs vary depending on the specific issue. Simple repairs like cleaning connections or resetting systems may be $150-300. Inverter component repairs range from $500-1,500. Full inverter replacement typically costs $1,500-3,500 depending on system size. Individual panel replacement is $300-600 per panel. We provide detailed estimates before starting any work, and many repairs are covered under manufacturer warranties."
+    },
+    {
+      "question": "Will professional maintenance void my solar warranty?",
+      "answer": "No - professional maintenance actually protects your warranty. Many solar panel manufacturers require proof of regular professional maintenance to honor warranty claims. We provide detailed service documentation that meets all manufacturer requirements. Our maintenance procedures comply with warranty terms and industry best practices, ensuring your coverage remains valid throughout the warranty period."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar inverter maintenance and electrical testing",
-    "caption": "Comprehensive inverter service and safety checks",
-    "credit": {
-     "photographer": "Anders J",
-     "unsplashUrl": "https://unsplash.com/photos/ckYMu0C1LZ4"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1595437193398-f24279553f4f?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Residential solar panel system in Suffield Connecticut",
-    "caption": "Maintaining Suffield's residential solar investments",
-    "credit": {
-     "photographer": "Chelsea",
-     "unsplashUrl": "https://unsplash.com/photos/fwAI30jRKj4"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Solar Panel Maintenance Services for Suffield Homeowners",
-  "Why Regular Solar Maintenance Matters in North Central CT",
-  "Professional Solar Panel Cleaning in Suffield",
-  "Common Solar System Issues We Repair",
-  "24/7 Emergency Solar Repair Services",
-  "Suffield Solar Maintenance Frequently Asked Questions"
- ],
- "faq": [
-  {
-   "question": "How often should Suffield homeowners schedule solar maintenance?",
-   "answer": "We recommend professional solar maintenance at least annually for Suffield residential systems. However, Connecticut's climate with humid summers and variable winters means biannual service is ideal - spring cleaning to remove pollen and winter debris, and fall maintenance to prepare for winter. Regular professional maintenance can improve energy production by 20-30% compared to neglected systems."
-  },
-  {
-   "question": "What are warning signs my solar panels need professional service?",
-   "answer": "Warning signs include: significant decrease in energy production compared to previous months, error messages on your inverter display, visible dirt or debris buildup on panels, physical damage like cracks or discoloration, loose or corroded electrical connections, moisture in junction boxes, or complete system shutdown. If you notice any of these issues with your Suffield solar installation, contact us for prompt inspection."
-  },
-  {
-   "question": "Is professional solar panel cleaning worth the investment?",
-   "answer": "Absolutely! In Suffield, environmental factors like pollen, dust, bird droppings, and seasonal debris can reduce solar panel efficiency by 20-30%. Professional cleaning safely removes these contaminants using proper equipment and techniques. For a typical Suffield solar system, the improved energy production quickly offsets the cleaning cost, making it a smart investment that pays for itself through increased savings."
-  },
-  {
-   "question": "Do you provide emergency solar repair services in Suffield?",
-   "answer": "Yes! We offer 24/7 emergency solar repair service for critical issues including complete system failure, electrical hazards, inverter problems, and storm damage. Our Suffield-area emergency team typically responds within 4 hours during business hours and 6-8 hours for after-hours emergencies. We arrive fully equipped with common parts and diagnostic tools to resolve most issues on the first visit."
-  },
-  {
-   "question": "Can you service solar systems installed by other companies?",
-   "answer": "Definitely! We maintain and repair all brands and types of solar installations throughout Suffield and North Central Connecticut, regardless of the original installer. Our NABCEP certified technicians are trained on all major solar equipment manufacturers and provide warranty-compliant service. Every Suffield solar system receives the same professional care and expertise."
-  },
-  {
-   "question": "What's included in your annual maintenance contract?",
-   "answer": "Our Suffield annual maintenance contracts include: two comprehensive service visits (typically spring and fall), thorough professional panel cleaning, complete system inspection, inverter diagnostics and firmware updates, electrical safety testing, detailed performance reports, priority scheduling for emergency repairs, and 15% discount on any repair parts or labor needed throughout the year."
-  },
-  {
-   "question": "How much do solar panel repairs cost in Suffield?",
-   "answer": "Repair costs vary depending on the specific issue. Simple repairs like cleaning connections or resetting systems may be $150-300. Inverter component repairs range from $500-1,500. Full inverter replacement typically costs $1,500-3,500 depending on system size. Individual panel replacement is $300-600 per panel. We provide detailed estimates before starting any work, and many repairs are covered under manufacturer warranties."
-  },
-  {
-   "question": "Will professional maintenance void my solar warranty?",
-   "answer": "No - professional maintenance actually protects your warranty. Many solar panel manufacturers require proof of regular professional maintenance to honor warranty claims. We provide detailed service documentation that meets all manufacturer requirements. Our maintenance procedures comply with warranty terms and industry best practices, ensuring your coverage remains valid throughout the warranty period."
-  }
- ],
- "keywords": [
-  "solar panel maintenance",
-  "solar panel repair",
-  "solar cleaning service",
-  "inverter repair",
-  "solar system diagnostics",
-  "solar performance optimization"
- ],
- "localKeywords": [
-  "solar maintenance Suffield CT",
-  "Suffield solar panel repair",
-  "North Central Connecticut solar service",
-  "Hartford County solar maintenance",
-  "solar cleaning Suffield"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Schedule Suffield Solar Maintenance Today",
- "ctaSecondary": "Request Free Performance Assessment",
- "ctaUrgency": "Maximize Your Solar ROI - Call Now"
+  ],
+  "keywords": [
+    "solar panel maintenance",
+    "solar panel repair",
+    "solar cleaning service",
+    "inverter repair",
+    "solar system diagnostics",
+    "solar performance optimization"
+  ],
+  "localKeywords": [
+    "solar maintenance Suffield CT",
+    "Suffield solar panel repair",
+    "North Central Connecticut solar service",
+    "Hartford County solar maintenance",
+    "solar cleaning Suffield"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Schedule Suffield Solar Maintenance Today",
+  "ctaSecondary": "Request Free Performance Assessment",
+  "ctaUrgency": "Maximize Your Solar ROI - Call Now"
 }

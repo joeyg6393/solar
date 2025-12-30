@@ -1,197 +1,197 @@
 {
- "id": "ev-charger-installation-northampton",
- "service": "EV Charger Installation",
- "serviceSlug": "ev-charger-installation",
- "location": "Northampton",
- "locationSlug": "northampton",
- "serviceNiche": "Solar Installers",
- "pageTitle": "EV Charger Installation Northampton MA - Fast Home Setup | Free Quote",
- "metaDescription": "Professional EV charger installation in Northampton, MA. Level 2 home charging stations, Tesla & universal compatibility. Licensed electricians. Get your free quote today!",
- "h1": "Expert EV Charger Installation in Northampton, Massachusetts",
- "heroHeadline": "Charge Your Electric Vehicle at Home in Northampton",
- "heroSubheadline": "Professional Level 2 EV Charging Station Installation • Tesla & All EVs • Licensed Electricians • Same-Week Service",
- "serviceDescription": "Transform your Northampton home with professional electric vehicle charger installation from our certified solar and electrical experts. As more residents in Northampton embrace electric vehicles, having a reliable home charging solution is essential for convenience and cost savings. Our experienced team specializes in Level 2 EV charger installation for all major electric vehicle brands including Tesla, Chevrolet, Ford, Rivian, and more. We serve homeowners throughout Northampton and the surrounding Pioneer Valley area with fast, professional installation services.\n\nOur Northampton EV charger installation service includes a comprehensive site assessment to determine the optimal location for your charging station, electrical panel evaluation to ensure sufficient capacity, professional installation by licensed electricians, and seamless integration with your existing electrical system. Whether you drive a Tesla Model 3, Ford F-150 Lightning, Chevy Bolt, or any other electric vehicle, we'll install the perfect charging solution for your needs. We work with top-rated EV charger brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox, and Grizzl-E.\n\nCharging your EV at home in Northampton offers tremendous convenience and cost savings compared to public charging stations. With a Level 2 home charger, you can fully charge your vehicle overnight, waking up each morning to a full battery. This eliminates range anxiety and ensures you're always ready for your daily commute or weekend adventures throughout Western Massachusetts. Our installations meet all local Northampton electrical codes and Massachusetts state requirements, and we handle all necessary permits to ensure a seamless installation process.\n\nWe're proud to serve the environmentally-conscious community of Northampton, helping residents reduce their carbon footprint while enjoying the benefits of electric vehicle ownership. Our team has completed hundreds of EV charger installations across the Pioneer Valley, and we bring that expertise to every Northampton project. From initial consultation to final testing, we ensure your home charging station is installed correctly and safely. Plus, if you have or are considering solar panels for your Northampton home, we can integrate your EV charger to maximize the use of clean, renewable energy.",
- "shortDescription": "Professional EV charger installation in Northampton, MA. Our licensed electricians install Level 2 charging stations for Tesla and all electric vehicles. Fast service, expert installation, and integration with solar systems. Serving Northampton and Pioneer Valley homeowners.",
- "benefits": [
-  "Licensed Massachusetts electricians with EV charging expertise",
-  "Level 2 charger installation for 4-7x faster charging than standard outlets",
-  "Tesla Wall Connector certified installation specialists",
-  "Compatible with all major EV brands - Tesla, Ford, Chevy, Rivian, and more",
-  "Complete electrical panel assessment and upgrades if needed",
-  "Integration with existing solar panel systems for clean charging",
-  "All permits and inspections handled for Northampton installations",
-  "Smart charger options with WiFi connectivity and smartphone apps",
-  "Flexible installation locations - garage, carport, or outdoor mounting",
-  "Same-week installation available for Northampton residents",
-  "Comprehensive 5-year workmanship warranty",
-  "Free consultation and detailed quote with no obligations"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free Consultation & Site Assessment",
-   "description": "We begin with a complimentary consultation at your Northampton home to assess your electrical panel, determine the best charger location, discuss your EV charging needs, and provide a detailed quote. We'll evaluate your current electrical capacity and recommend any necessary upgrades."
-  },
-  {
-   "step": 2,
-   "title": "Charger Selection & Permit Processing",
-   "description": "Based on your vehicle and usage patterns, we'll help you select the ideal EV charger. We handle all permit applications with the City of Northampton and ensure compliance with local electrical codes and Massachusetts state regulations."
-  },
-  {
-   "step": 3,
-   "title": "Professional Installation",
-   "description": "Our licensed electricians perform the complete installation, including running new electrical circuits from your panel, mounting the charging station securely, making all electrical connections to code, and ensuring proper grounding and safety measures."
-  },
-  {
-   "step": 4,
-   "title": "Testing & Demonstration",
-   "description": "After installation, we thoroughly test your new EV charger to ensure it's functioning perfectly. We'll demonstrate how to use all features, connect it to smartphone apps if applicable, and answer all your questions about charging your vehicle at home."
-  },
-  {
-   "step": 5,
-   "title": "Final Inspection & Warranty",
-   "description": "We coordinate the final electrical inspection with Northampton authorities, provide you with all documentation and warranty information, and remain available for any questions or support you may need as you begin charging your EV at home."
-  }
- ],
- "features": [
-  "Level 2 charging stations (240V) for optimal charging speed",
-  "Smart chargers with WiFi and smartphone app control",
-  "Hardwired or plug-in (NEMA 14-50) installation options",
-  "Weather-resistant outdoor-rated chargers available",
-  "Load balancing for homes with solar panel systems",
-  "Adjustable charging speeds to match your electrical capacity",
-  "Cable management solutions for clean installations",
-  "Energy monitoring to track charging costs and usage"
- ],
- "pricingInfo": "EV charger installation in Northampton typically ranges from $800 to $2,500 depending on the charger model selected, distance from your electrical panel to the installation location, and whether electrical panel upgrades are needed. Most standard installations for homes with adequate electrical capacity range from $1,200-$1,800 including the charger unit, materials, labor, and permits. We provide detailed quotes with no hidden fees. flexible financings may be available for EV charger installations, and Massachusetts offers additional benefits. Ask us about current rebate programs during your consultation.",
- "serviceArea": "Northampton, MA and surrounding areas including Florence, Leeds, Bay State Village, and all of Hampshire County",
- "availability": "Monday-Saturday, 7:00 AM - 6:00 PM. Same-week appointments available for Northampton residents.",
- "responseTime": "24-hour consultation scheduling, most installations completed within 1-2 weeks",
- "qualifications": [
-  "Massachusetts Licensed Electricians (License #E12345)",
-  "NABCEP Solar Installation Certification",
-  "Tesla Wall Connector Certified Installers",
-  "ChargePoint Authorized Installation Partner",
-  "Fully Insured - General Liability & Workers Compensation",
-  "BBB A+ Rating",
-  "200+ EV Charger Installations Completed"
- ],
- "yearsExperience": "12+ years in electrical and solar installation",
- "projectsCompleted": "500+ solar and EV charging installations across Pioneer Valley",
- "guarantees": [
-  "5-year workmanship warranty on all installations",
-  "Manufacturer warranties on all charger equipment",
-  "Licensed and insured for your protection",
-  "Code-compliant installations guaranteed"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Modern EV charging station installed at home in Northampton MA",
-   "caption": "Professional EV Charger Installation for Northampton Homes",
-   "credit": {
-    "photographer": "Bram Van Oost",
-    "unsplashUrl": "https://unsplash.com/photos/bOH-LPgkRZY"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1617788138017-80ad40651399?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Electric vehicle charging at home with Level 2 charger",
-    "caption": "Level 2 Home Charging - 4-7x Faster Than Standard Outlets",
-    "credit": {
-     "photographer": "Precious Plastic Melbourne",
-     "unsplashUrl": "https://unsplash.com/photos/lQ6rcifQM7s"
+  "id": "ev-charger-installation-northampton",
+  "service": "EV Charger Installation",
+  "serviceSlug": "ev-charger-installation",
+  "location": "Northampton",
+  "locationSlug": "northampton",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "EV Charger Installation Northampton MA - Fast Home Setup | Free Quote",
+  "metaDescription": "Professional EV charger installation in Northampton, MA. Level 2 home charging stations, Tesla & universal compatibility. Licensed electricians. Get your free quote today!",
+  "h1": "Expert EV Charger Installation in Northampton, Massachusetts",
+  "heroHeadline": "Charge Your Electric Vehicle at Home in Northampton",
+  "heroSubheadline": "Professional Level 2 EV Charging Station Installation • Tesla & All EVs • Licensed Electricians • Same-Week Service",
+  "serviceDescription": "Transform your Northampton home with professional electric vehicle charger installation from our certified solar and electrical experts. As more residents in Northampton embrace electric vehicles, having a reliable home charging solution is essential for convenience and cost savings. Our experienced team specializes in Level 2 EV charger installation for all major electric vehicle brands including Tesla, Chevrolet, Ford, Rivian, and more. We serve homeowners throughout Northampton and the surrounding Pioneer Valley area with fast, professional installation services.\n\nOur Northampton EV charger installation service includes a comprehensive site assessment to determine the optimal location for your charging station, electrical panel evaluation to ensure sufficient capacity, professional installation by licensed electricians, and seamless integration with your existing electrical system. Whether you drive a Tesla Model 3, Ford F-150 Lightning, Chevy Bolt, or any other electric vehicle, we'll install the perfect charging solution for your needs. We work with top-rated EV charger brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox, and Grizzl-E.\n\nCharging your EV at home in Northampton offers tremendous convenience and cost savings compared to public charging stations. With a Level 2 home charger, you can fully charge your vehicle overnight, waking up each morning to a full battery. This eliminates range anxiety and ensures you're always ready for your daily commute or weekend adventures throughout Western Massachusetts. Our installations meet all local Northampton electrical codes and Massachusetts state requirements, and we handle all necessary permits to ensure a seamless installation process.\n\nWe're proud to serve the environmentally-conscious community of Northampton, helping residents reduce their carbon footprint while enjoying the benefits of electric vehicle ownership. Our team has completed hundreds of EV charger installations across the Pioneer Valley, and we bring that expertise to every Northampton project. From initial consultation to final testing, we ensure your home charging station is installed correctly and safely. Plus, if you have or are considering solar panels for your Northampton home, we can integrate your EV charger to maximize the use of clean, renewable energy.",
+  "shortDescription": "Professional EV charger installation in Northampton, MA. Our licensed electricians install Level 2 charging stations for Tesla and all electric vehicles. Fast service, expert installation, and integration with solar systems. Serving Northampton and Pioneer Valley homeowners.",
+  "benefits": [
+    "Licensed Massachusetts electricians with EV charging expertise",
+    "Level 2 charger installation for 4-7x faster charging than standard outlets",
+    "Tesla Wall Connector certified installation specialists",
+    "Compatible with all major EV brands - Tesla, Ford, Chevy, Rivian, and more",
+    "Complete electrical panel assessment and upgrades if needed",
+    "Integration with existing solar panel systems for clean charging",
+    "All permits and inspections handled for Northampton installations",
+    "Smart charger options with WiFi connectivity and smartphone apps",
+    "Flexible installation locations - garage, carport, or outdoor mounting",
+    "Same-week installation available for Northampton residents",
+    "Comprehensive 5-year workmanship warranty",
+    "Free consultation and detailed quote with no obligations"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free Consultation & Site Assessment",
+      "description": "We begin with a complimentary consultation at your Northampton home to assess your electrical panel, determine the best charger location, discuss your EV charging needs, and provide a detailed quote. We'll evaluate your current electrical capacity and recommend any necessary upgrades."
+    },
+    {
+      "step": 2,
+      "title": "Charger Selection & Permit Processing",
+      "description": "Based on your vehicle and usage patterns, we'll help you select the ideal EV charger. We handle all permit applications with the City of Northampton and ensure compliance with local electrical codes and Massachusetts state regulations."
+    },
+    {
+      "step": 3,
+      "title": "Professional Installation",
+      "description": "Our licensed electricians perform the complete installation, including running new electrical circuits from your panel, mounting the charging station securely, making all electrical connections to code, and ensuring proper grounding and safety measures."
+    },
+    {
+      "step": 4,
+      "title": "Testing & Demonstration",
+      "description": "After installation, we thoroughly test your new EV charger to ensure it's functioning perfectly. We'll demonstrate how to use all features, connect it to smartphone apps if applicable, and answer all your questions about charging your vehicle at home."
+    },
+    {
+      "step": 5,
+      "title": "Final Inspection & Warranty",
+      "description": "We coordinate the final electrical inspection with Northampton authorities, provide you with all documentation and warranty information, and remain available for any questions or support you may need as you begin charging your EV at home."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1612548925124-0b9f47c72e29?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Tesla Wall Connector charging station installation",
-    "caption": "Tesla Wall Connector Installation by Certified Specialists",
-    "credit": {
-     "photographer": "Jp Valery",
-     "unsplashUrl": "https://unsplash.com/photos/mQTTDA_kY_8"
+  ],
+  "features": [
+    "Level 2 charging stations (240V) for optimal charging speed",
+    "Smart chargers with WiFi and smartphone app control",
+    "Hardwired or plug-in (NEMA 14-50) installation options",
+    "Weather-resistant outdoor-rated chargers available",
+    "Load balancing for homes with solar panel systems",
+    "Adjustable charging speeds to match your electrical capacity",
+    "Cable management solutions for clean installations",
+    "Energy monitoring to track charging costs and usage"
+  ],
+  "pricingInfo": "EV charger installation in Northampton typically ranges from $800 to $2,500 depending on the charger model selected, distance from your electrical panel to the installation location, and whether electrical panel upgrades are needed. Most standard installations for homes with adequate electrical capacity range from $1,200-$1,800 including the charger unit, materials, labor, and permits. We provide detailed quotes with no hidden fees. flexible benefits may be available for EV charger installations, and Massachusetts offers additional benefits. Ask us about current rebate programs during your consultation.",
+  "serviceArea": "Northampton, MA and surrounding areas including Florence, Leeds, Bay State Village, and all of Hampshire County",
+  "availability": "Monday-Saturday, 7:00 AM - 6:00 PM. Same-week appointments available for Northampton residents.",
+  "responseTime": "24-hour consultation scheduling, most installations completed within 1-2 weeks",
+  "qualifications": [
+    "Massachusetts Licensed Electricians (License #E12345)",
+    "NABCEP Solar Installation Certification",
+    "Tesla Wall Connector Certified Installers",
+    "ChargePoint Authorized Installation Partner",
+    "Fully Insured - General Liability & Workers Compensation",
+    "BBB A+ Rating",
+    "200+ EV Charger Installations Completed"
+  ],
+  "yearsExperience": "12+ years in electrical and solar installation",
+  "projectsCompleted": "500+ solar and EV charging installations across Pioneer Valley",
+  "guarantees": [
+    "5-year workmanship warranty on all installations",
+    "Manufacturer warranties on all charger equipment",
+    "Licensed and insured for your protection",
+    "Code-compliant installations guaranteed"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Modern EV charging station installed at home in Northampton MA",
+      "caption": "Professional EV Charger Installation for Northampton Homes",
+      "credit": {
+        "photographer": "Bram Van Oost",
+        "unsplashUrl": "https://unsplash.com/photos/bOH-LPgkRZY"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1617788138017-80ad40651399?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Electric vehicle charging at home with Level 2 charger",
+        "caption": "Level 2 Home Charging - 4-7x Faster Than Standard Outlets",
+        "credit": {
+          "photographer": "Precious Plastic Melbourne",
+          "unsplashUrl": "https://unsplash.com/photos/lQ6rcifQM7s"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1612548925124-0b9f47c72e29?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Tesla Wall Connector charging station installation",
+        "caption": "Tesla Wall Connector Installation by Certified Specialists",
+        "credit": {
+          "photographer": "Jp Valery",
+          "unsplashUrl": "https://unsplash.com/photos/mQTTDA_kY_8"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1609429019995-8c40f49535a5?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "EV charging station connected to electric car",
+        "caption": "Professional Installation for All Major EV Brands",
+        "credit": {
+          "photographer": "Ernest Ojeh",
+          "unsplashUrl": "https://unsplash.com/photos/3v7OvBIw6yU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Licensed electrician installing EV charger",
+        "caption": "Expert Installation by Massachusetts Licensed Electricians",
+        "credit": {
+          "photographer": "The Blowup",
+          "unsplashUrl": "https://unsplash.com/photos/xJLN27gfCDs"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Choose Our EV Charger Installation Service in Northampton?",
+    "Level 2 Home Charging Benefits for Northampton EV Owners",
+    "Our Professional EV Charger Installation Process",
+    "Popular EV Chargers We Install in Northampton Homes",
+    "EV Charger Installation FAQs for Northampton Residents",
+    "Schedule Your Free Northampton EV Charger Consultation"
+  ],
+  "faq": [
+    {
+      "question": "How long does it take to install an EV charger at my Northampton home?",
+      "answer": "Most EV charger installations in Northampton are completed in 4-6 hours for straightforward installations. If electrical panel upgrades are needed, the project may take 1-2 days. We schedule installations at your convenience and complete all work efficiently while maintaining the highest quality standards."
+    },
+    {
+      "question": "Can I charge any electric vehicle with a home charging station?",
+      "answer": "Yes! Level 2 EV chargers use the standard J1772 connector that works with all electric vehicles sold in North America, including Tesla (with the included adapter), Ford, Chevrolet, Rivian, Nissan, Hyundai, and all other EV brands. Tesla vehicles can also use the proprietary Tesla Wall Connector for faster charging speeds."
+    },
+    {
+      "question": "Do I need to upgrade my electrical panel for an EV charger?",
+      "answer": "Many Northampton homes built in the last 20 years have 200-amp electrical panels with sufficient capacity for an EV charger. However, older homes with 100-amp panels or homes with high electrical loads may require an upgrade. We assess your panel during the free consultation and provide recommendations if upgrades are needed."
+    },
+    {
+      "question": "How much faster is a Level 2 charger compared to a regular outlet?",
+      "answer": "Level 2 chargers (240V) are 4-7 times faster than standard 120V outlets. While a regular outlet might add 3-5 miles of range per hour, a Level 2 charger can add 20-35 miles of range per hour, allowing you to fully charge your EV overnight. For most Northampton residents, this means plugging in when you get home and having a full charge by morning."
+    },
+    {
+      "question": "Can my EV charger work with my solar panel system?",
+      "answer": "Absolutely! We specialize in integrating EV chargers with existing solar panel systems in Northampton. This allows you to charge your vehicle with clean, renewable energy produced by your own solar panels. We can install smart chargers that optimize charging during peak solar production hours, maximizing your use of solar energy."
+    },
+    {
+      "question": "What permits are required for EV charger installation in Northampton?",
+      "answer": "EV charger installations in Northampton require an electrical permit from the City of Northampton Building Department. We handle all permit applications, schedule required inspections, and ensure your installation meets all local and Massachusetts state electrical codes. The permit cost is typically included in our installation quote."
+    },
+    {
+      "question": "Are there rebates or financing options available for EV charger installation?",
+      "answer": "Yes! The federal government offers benefits for EV charger installations, and Massachusetts periodically offers state-level rebates through programs like MOR-EV. Additionally, some utility companies offer benefits for EV charger installation. We stay current on all available programs and help you access any rebates or credits you qualify for."
+    },
+    {
+      "question": "Can the charger be installed outdoors in Northampton weather?",
+      "answer": "Yes, we install weather-resistant, outdoor-rated EV chargers that can withstand Northampton's full range of weather conditions, from hot summers to cold, snowy winters. All outdoor installations are properly sealed and protected according to National Electric Code requirements for outdoor electrical equipment."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1609429019995-8c40f49535a5?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "EV charging station connected to electric car",
-    "caption": "Professional Installation for All Major EV Brands",
-    "credit": {
-     "photographer": "Ernest Ojeh",
-     "unsplashUrl": "https://unsplash.com/photos/3v7OvBIw6yU"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Licensed electrician installing EV charger",
-    "caption": "Expert Installation by Massachusetts Licensed Electricians",
-    "credit": {
-     "photographer": "The Blowup",
-     "unsplashUrl": "https://unsplash.com/photos/xJLN27gfCDs"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Choose Our EV Charger Installation Service in Northampton?",
-  "Level 2 Home Charging Benefits for Northampton EV Owners",
-  "Our Professional EV Charger Installation Process",
-  "Popular EV Chargers We Install in Northampton Homes",
-  "EV Charger Installation FAQs for Northampton Residents",
-  "Schedule Your Free Northampton EV Charger Consultation"
- ],
- "faq": [
-  {
-   "question": "How long does it take to install an EV charger at my Northampton home?",
-   "answer": "Most EV charger installations in Northampton are completed in 4-6 hours for straightforward installations. If electrical panel upgrades are needed, the project may take 1-2 days. We schedule installations at your convenience and complete all work efficiently while maintaining the highest quality standards."
-  },
-  {
-   "question": "Can I charge any electric vehicle with a home charging station?",
-   "answer": "Yes! Level 2 EV chargers use the standard J1772 connector that works with all electric vehicles sold in North America, including Tesla (with the included adapter), Ford, Chevrolet, Rivian, Nissan, Hyundai, and all other EV brands. Tesla vehicles can also use the proprietary Tesla Wall Connector for faster charging speeds."
-  },
-  {
-   "question": "Do I need to upgrade my electrical panel for an EV charger?",
-   "answer": "Many Northampton homes built in the last 20 years have 200-amp electrical panels with sufficient capacity for an EV charger. However, older homes with 100-amp panels or homes with high electrical loads may require an upgrade. We assess your panel during the free consultation and provide recommendations if upgrades are needed."
-  },
-  {
-   "question": "How much faster is a Level 2 charger compared to a regular outlet?",
-   "answer": "Level 2 chargers (240V) are 4-7 times faster than standard 120V outlets. While a regular outlet might add 3-5 miles of range per hour, a Level 2 charger can add 20-35 miles of range per hour, allowing you to fully charge your EV overnight. For most Northampton residents, this means plugging in when you get home and having a full charge by morning."
-  },
-  {
-   "question": "Can my EV charger work with my solar panel system?",
-   "answer": "Absolutely! We specialize in integrating EV chargers with existing solar panel systems in Northampton. This allows you to charge your vehicle with clean, renewable energy produced by your own solar panels. We can install smart chargers that optimize charging during peak solar production hours, maximizing your use of solar energy."
-  },
-  {
-   "question": "What permits are required for EV charger installation in Northampton?",
-   "answer": "EV charger installations in Northampton require an electrical permit from the City of Northampton Building Department. We handle all permit applications, schedule required inspections, and ensure your installation meets all local and Massachusetts state electrical codes. The permit cost is typically included in our installation quote."
-  },
-  {
-   "question": "Are there rebates or financing options available for EV charger installation?",
-   "answer": "Yes! The federal government offers financings for EV charger installations, and Massachusetts periodically offers state-level rebates through programs like MOR-EV. Additionally, some utility companies offer benefits for EV charger installation. We stay current on all available programs and help you access any rebates or credits you qualify for."
-  },
-  {
-   "question": "Can the charger be installed outdoors in Northampton weather?",
-   "answer": "Yes, we install weather-resistant, outdoor-rated EV chargers that can withstand Northampton's full range of weather conditions, from hot summers to cold, snowy winters. All outdoor installations are properly sealed and protected according to National Electric Code requirements for outdoor electrical equipment."
-  }
- ],
- "keywords": [
-  "EV charger installation",
-  "electric vehicle charging station",
-  "Level 2 home charger",
-  "Tesla Wall Connector",
-  "home EV charging"
- ],
- "localKeywords": [
-  "EV charger installation Northampton MA",
-  "electric car charger Northampton",
-  "Tesla charger installation Northampton",
-  "EV charging station Hampshire County",
-  "Northampton electrician EV charger"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free EV Charger Installation Quote",
- "ctaSecondary": "Schedule Free Consultation",
- "ctaUrgency": "special offers Available - Book Your Installation Today"
+  ],
+  "keywords": [
+    "EV charger installation",
+    "electric vehicle charging station",
+    "Level 2 home charger",
+    "Tesla Wall Connector",
+    "home EV charging"
+  ],
+  "localKeywords": [
+    "EV charger installation Northampton MA",
+    "electric car charger Northampton",
+    "Tesla charger installation Northampton",
+    "EV charging station Hampshire County",
+    "Northampton electrician EV charger"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free EV Charger Installation Quote",
+  "ctaSecondary": "Schedule Free Consultation",
+  "ctaUrgency": "special offers Available - Book Your Installation Today"
 }

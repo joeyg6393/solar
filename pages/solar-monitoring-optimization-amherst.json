@@ -1,209 +1,209 @@
 {
- "id": "solar-monitoring-optimization-amherst",
- "service": "Solar System Monitoring & Optimization",
- "serviceSlug": "solar-monitoring-optimization",
- "location": "Amherst",
- "locationSlug": "amherst",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Monitoring Amherst MA - Track & Optimize Solar Performance",
- "metaDescription": "Maximize solar efficiency in Amherst, MA with professional monitoring services. Real-time tracking, instant alerts, AI-powered optimization. Get 15% more savings!",
- "h1": "Professional Solar Monitoring & Optimization Services in Amherst, MA",
- "heroHeadline": "Smart Solar Monitoring for Amherst Homes & Businesses",
- "heroSubheadline": "AI-Powered Analytics • 24/7 Performance Tracking • Maximum ROI Guarantee",
- "serviceDescription": "Amherst, Massachusetts homeowners and businesses deserve to get maximum value from their solar investments. Our comprehensive solar system monitoring and optimization services provide the insights and tools you need to ensure your solar panels are performing at their best. Located in Hampshire County with its excellent solar potential, Amherst properties can benefit tremendously from professional monitoring that catches issues early and optimizes energy production year-round.\n\nOur state-of-the-art monitoring platform gives Amherst solar owners complete visibility into their system's performance. Track real-time energy production, compare against expected output based on local weather conditions, and receive instant notifications when something isn't quite right. Whether you're powering a single-family home near UMass or a commercial building downtown, our monitoring solutions scale to meet your needs with enterprise-grade reliability and consumer-friendly interfaces.\n\nWhat sets our Amherst solar monitoring service apart is our commitment to optimization, not just observation. We don't simply show you data—we analyze it, provide actionable recommendations, and help you implement changes that increase energy savings by 10-15% on average. Our local team understands the unique characteristics of solar performance in western Massachusetts, from winter snow loads to summer peak production, ensuring your system is optimized for Amherst's specific climate conditions.\n\nWith over 800 monitoring systems installed across the Pioneer Valley, we've developed proven strategies for maximizing solar ROI in our region. Our service includes integration with battery storage systems, net metering optimization for Massachusetts utilities, and predictive maintenance that prevents costly breakdowns. Amherst solar owners trust us to protect their investment and ensure every ray of sunshine translates into maximum energy savings and environmental impact.",
- "shortDescription": "Advanced solar monitoring and optimization in Amherst, MA. Real-time performance tracking, AI analytics, instant problem alerts, and expert optimization recommendations to maximize your solar savings.",
- "benefits": [
-  "24/7 real-time monitoring with AI-powered performance prediction",
-  "Instant mobile alerts for any system issues or performance drops",
-  "Weather-adjusted forecasting specific to Amherst's climate patterns",
-  "Detailed energy production vs. consumption analytics",
-  "Proactive issue detection before problems cause significant losses",
-  "Battery storage integration and optimization for Tesla Powerwall and others",
-  "Massachusetts net metering tracking and optimization",
-  "Carbon footprint reporting to track environmental impact",
-  "Quarterly optimization consultations with local experts",
-  "Enhanced home value documentation for Amherst real estate market"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free Solar System Evaluation",
-   "description": "Our Amherst team conducts a comprehensive assessment of your existing solar installation, evaluating monitoring needs and identifying optimization opportunities specific to your property."
-  },
-  {
-   "step": 2,
-   "title": "Smart Monitoring Equipment Installation",
-   "description": "We install advanced monitoring sensors, communication devices, and smart meters that capture granular data on every aspect of your solar system's performance in real-time."
-  },
-  {
-   "step": 3,
-   "title": "Custom Dashboard Configuration",
-   "description": "Your personalized monitoring dashboard is configured with baseline metrics, expected production models based on Amherst weather patterns, and custom alert thresholds for your specific system."
-  },
-  {
-   "step": 4,
-   "title": "User Training & App Setup",
-   "description": "We provide hands-on training to help you understand your monitoring platform, set up mobile apps, and interpret performance data to make informed energy decisions."
-  },
-  {
-   "step": 5,
-   "title": "Continuous Performance Optimization",
-   "description": "Our AI-powered system continuously analyzes your solar production, comparing against optimal performance and flagging any deviations that could indicate issues or improvement opportunities."
-  },
-  {
-   "step": 6,
-   "title": "Ongoing Expert Support",
-   "description": "Receive quarterly optimization reports, annual system health reviews, and unlimited access to our Amherst-based support team for troubleshooting and maintenance coordination."
-  }
- ],
- "features": [
-  "Cloud-based platform accessible from any device, anywhere",
-  "Native iOS and Android apps with real-time push notifications",
-  "Historical data storage and trend analysis tools",
-  "Compatible with all major inverter brands and solar systems",
-  "Integration with Enphase Enlighten, SolarEdge monitoring, and others",
-  "Customizable alert thresholds and notification preferences",
-  "Energy consumption tracking by circuit and appliance",
-  "Solar production forecasting using hyperlocal Amherst weather data",
-  "Automated performance reporting for warranties and documentation",
-  "Multi-site monitoring for properties with multiple solar installations"
- ],
- "pricingInfo": "Residential solar monitoring starts at $24.99/month for standard monitoring with mobile access. Premium plans with advanced analytics and dedicated support are $59.99/month. Installation fees range from $349-$699 based on system size and complexity. Commercial monitoring customized to system requirements. First year of monitoring included free with all new solar installations in Amherst. No long-term contracts required—cancel anytime.",
- "serviceArea": "Amherst, MA and surrounding Hampshire County areas including North Amherst, South Amherst, Cushman, Leverett, Pelham, Shutesbury, and throughout the Pioneer Valley",
- "availability": "System Monitoring: 24/7/365 | Customer Support: Monday-Friday 7am-7pm, Saturday-Sunday 9am-5pm | Emergency Technical Support: Available 24/7",
- "responseTime": "Instant automated alerts | Customer support response within 1 hour during business hours | Emergency on-site response within 6 hours in Amherst area",
- "qualifications": [
-  "NABCEP Certified Solar Professionals on staff",
-  "Massachusetts Licensed Electricians",
-  "Certified in all major solar monitoring platforms",
-  "Enphase Installer Network member",
-  "SolarEdge Commercial Certified",
-  "Tesla Powerwall Certified Installer",
-  "BBB Accredited Business with A+ Rating",
-  "Member of SEIA (Solar Energy Industries Association)"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "850+ monitoring systems active",
- "guarantees": [
-  "99.9% monitoring platform uptime SLA",
-  "15% efficiency improvement guarantee or money back",
-  "30-day no-risk trial period",
-  "Lifetime support on monitoring hardware we install",
-  "Data security and privacy protection guarantee"
- ],
- "emergencyAvailable": true,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Solar monitoring dashboard on tablet showing real-time energy data for Amherst MA home",
-   "caption": "Monitor your Amherst solar system performance in real-time from any device",
-   "credit": {
-    "photographer": "Luke Chesser",
-    "unsplashUrl": "https://unsplash.com/photos/eICUFSeirc0"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Advanced solar analytics dashboard with performance graphs",
-    "caption": "AI-powered analytics optimize solar performance for Amherst properties",
-    "credit": {
-     "photographer": "Carlos Muza",
-     "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+  "id": "solar-monitoring-optimization-amherst",
+  "service": "Solar System Monitoring & Optimization",
+  "serviceSlug": "solar-monitoring-optimization",
+  "location": "Amherst",
+  "locationSlug": "amherst",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Monitoring Amherst MA - Track & Optimize Solar Performance",
+  "metaDescription": "Maximize solar efficiency in Amherst, MA with professional monitoring services. Real-time tracking, instant alerts, AI-powered optimization. Get 15% more savings!",
+  "h1": "Professional Solar Monitoring & Optimization Services in Amherst, MA",
+  "heroHeadline": "Smart Solar Monitoring for Amherst Homes & Businesses",
+  "heroSubheadline": "AI-Powered Analytics • 24/7 Performance Tracking • Maximum ROI Guarantee",
+  "serviceDescription": "Amherst, Massachusetts homeowners and businesses deserve to get maximum value from their solar investments. Our comprehensive solar system monitoring and optimization services provide the insights and tools you need to ensure your solar panels are performing at their best. Located in Hampshire County with its excellent solar potential, Amherst properties can benefit tremendously from professional monitoring that catches issues early and optimizes energy production year-round.\n\nOur state-of-the-art monitoring platform gives Amherst solar owners complete visibility into their system's performance. Track real-time energy production, compare against expected output based on local weather conditions, and receive instant notifications when something isn't quite right. Whether you're powering a single-family home near UMass or a commercial building downtown, our monitoring solutions scale to meet your needs with enterprise-grade reliability and consumer-friendly interfaces.\n\nWhat sets our Amherst solar monitoring service apart is our commitment to optimization, not just observation. We don't simply show you data—we analyze it, provide actionable recommendations, and help you implement changes that increase energy savings by 10-15% on average. Our local team understands the unique characteristics of solar performance in western Massachusetts, from winter snow loads to summer peak production, ensuring your system is optimized for Amherst's specific climate conditions.\n\nWith over 800 monitoring systems installed across the Pioneer Valley, we've developed proven strategies for maximizing solar ROI in our region. Our service includes integration with battery storage systems, net metering optimization for Massachusetts utilities, and predictive maintenance that prevents costly breakdowns. Amherst solar owners trust us to protect their investment and ensure every ray of sunshine translates into maximum energy savings and environmental impact.",
+  "shortDescription": "Advanced solar monitoring and optimization in Amherst, MA. Real-time performance tracking, AI analytics, instant problem alerts, and expert optimization recommendations to maximize your solar savings.",
+  "benefits": [
+    "24/7 real-time monitoring with AI-powered performance prediction",
+    "Instant mobile alerts for any system issues or performance drops",
+    "Weather-adjusted forecasting specific to Amherst's climate patterns",
+    "Detailed energy production vs. consumption analytics",
+    "Proactive issue detection before problems cause significant losses",
+    "Battery storage integration and optimization for Tesla Powerwall and others",
+    "Massachusetts net metering tracking and optimization",
+    "Carbon footprint reporting to track environmental impact",
+    "Quarterly optimization consultations with local experts",
+    "Enhanced home value documentation for Amherst real estate market"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free Solar System Evaluation",
+      "description": "Our Amherst team conducts a comprehensive assessment of your existing solar installation, evaluating monitoring needs and identifying optimization opportunities specific to your property."
+    },
+    {
+      "step": 2,
+      "title": "Smart Monitoring Equipment Installation",
+      "description": "We install advanced monitoring sensors, communication devices, and smart meters that capture granular data on every aspect of your solar system's performance in real-time."
+    },
+    {
+      "step": 3,
+      "title": "Custom Dashboard Configuration",
+      "description": "Your personalized monitoring dashboard is configured with baseline metrics, expected production models based on Amherst weather patterns, and custom alert thresholds for your specific system."
+    },
+    {
+      "step": 4,
+      "title": "User Training & App Setup",
+      "description": "We provide hands-on training to help you understand your monitoring platform, set up mobile apps, and interpret performance data to make informed energy decisions."
+    },
+    {
+      "step": 5,
+      "title": "Continuous Performance Optimization",
+      "description": "Our AI-powered system continuously analyzes your solar production, comparing against optimal performance and flagging any deviations that could indicate issues or improvement opportunities."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Expert Support",
+      "description": "Receive quarterly optimization reports, annual system health reviews, and unlimited access to our Amherst-based support team for troubleshooting and maintenance coordination."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Real-time energy monitoring charts and metrics",
-    "caption": "Track every kilowatt-hour produced by your Amherst solar system",
-    "credit": {
-     "photographer": "Luke Chesser",
-     "unsplashUrl": "https://unsplash.com/photos/JKUTrJ4vK00"
+  ],
+  "features": [
+    "Cloud-based platform accessible from any device, anywhere",
+    "Native iOS and Android apps with real-time push notifications",
+    "Historical data storage and trend analysis tools",
+    "Compatible with all major inverter brands and solar systems",
+    "Integration with Enphase Enlighten, SolarEdge monitoring, and others",
+    "Customizable alert thresholds and notification preferences",
+    "Energy consumption tracking by circuit and appliance",
+    "Solar production forecasting using hyperlocal Amherst weather data",
+    "Automated performance reporting for warranties and documentation",
+    "Multi-site monitoring for properties with multiple solar installations"
+  ],
+  "pricingInfo": "Residential solar monitoring starts at $24.99/month for standard monitoring with mobile access. Premium plans with advanced analytics and dedicated support are $59.99/month. Installation fees range from $349-$699 based on system size and complexity. Commercial monitoring customized to system requirements. First year of monitoring included free with all new solar installations in Amherst. No long-term contracts required—cancel anytime.",
+  "serviceArea": "Amherst, MA and surrounding Hampshire County areas including North Amherst, South Amherst, Cushman, Leverett, Pelham, Shutesbury, and throughout the Pioneer Valley",
+  "availability": "System Monitoring: 24/7/365 | Customer Support: Monday-Friday 7am-7pm, Saturday-Sunday 9am-5pm | Emergency Technical Support: Available 24/7",
+  "responseTime": "Instant automated alerts | Customer support response within 1 hour during business hours | Emergency on-site response within 6 hours in Amherst area",
+  "qualifications": [
+    "NABCEP Certified Solar Professionals on staff",
+    "Massachusetts Licensed Electricians",
+    "Certified in all major solar monitoring platforms",
+    "Enphase Installer Network member",
+    "SolarEdge Commercial Certified",
+    "Tesla Powerwall Certified Installer",
+    "BBB Accredited Business with A+ Rating",
+    "Member of SEIA (Solar Energy Industries Association)"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "850+ monitoring systems active",
+  "guarantees": [
+    "99.9% monitoring platform uptime SLA",
+    "15% efficiency improvement guarantee or money back",
+    "30-day no-risk trial period",
+    "Lifetime support on monitoring hardware we install",
+    "Data security and privacy protection guarantee"
+  ],
+  "emergencyAvailable": true,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Solar monitoring dashboard on tablet showing real-time energy data for Amherst MA home",
+      "caption": "Monitor your Amherst solar system performance in real-time from any device",
+      "credit": {
+        "photographer": "Luke Chesser",
+        "unsplashUrl": "https://unsplash.com/photos/eICUFSeirc0"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Advanced solar analytics dashboard with performance graphs",
+        "caption": "AI-powered analytics optimize solar performance for Amherst properties",
+        "credit": {
+          "photographer": "Carlos Muza",
+          "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Real-time energy monitoring charts and metrics",
+        "caption": "Track every kilowatt-hour produced by your Amherst solar system",
+        "credit": {
+          "photographer": "Luke Chesser",
+          "unsplashUrl": "https://unsplash.com/photos/JKUTrJ4vK00"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1509228468518-180dd4864904?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar panels with monitoring equipment installed",
+        "caption": "Professional monitoring equipment installation on Amherst solar arrays",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/XGAZzyLzn18"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Mobile phone showing solar monitoring app interface",
+        "caption": "Control and monitor your solar system from anywhere with our mobile app",
+        "credit": {
+          "photographer": "Eirik Solheim",
+          "unsplashUrl": "https://unsplash.com/photos/sRN2a0BJcO0"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "The Importance of Solar Monitoring for Amherst Homeowners",
+    "How AI-Powered Optimization Increases Your Solar Savings",
+    "Understanding Your Solar Production in Western Massachusetts Climate",
+    "Battery Storage Integration and Smart Energy Management",
+    "Maximizing Massachusetts Solar benefits and Net Metering",
+    "Common Questions About Solar Monitoring in Amherst"
+  ],
+  "faq": [
+    {
+      "question": "Why do I need solar monitoring if my system is working?",
+      "answer": "Many Amherst solar owners lose 10-20% of potential production without realizing it. Monitoring catches issues like shading problems, panel degradation, inverter inefficiencies, and connection problems before they significantly impact your savings. It also helps optimize your energy usage patterns to maximize self-consumption and net metering benefits."
+    },
+    {
+      "question": "Can monitoring detect problems before my solar system fails completely?",
+      "answer": "Yes! Our predictive monitoring identifies early warning signs like gradual production declines, inverter errors, or individual panel underperformance. This allows for proactive maintenance that prevents complete failures and extends system lifespan. Amherst clients save thousands in avoided emergency repairs through early detection."
+    },
+    {
+      "question": "How does monitoring work during Amherst's snowy winters?",
+      "answer": "Our monitoring system accounts for seasonal variations and weather conditions specific to western Massachusetts. During winter, we adjust expected production baselines for shorter days and potential snow coverage. You'll receive alerts if production doesn't resume normally after snow events, indicating possible issues requiring attention."
+    },
+    {
+      "question": "Is the monitoring platform difficult to use?",
+      "answer": "Not at all! Our platform is designed for ease of use with intuitive dashboards that show your key metrics at a glance. Most Amherst homeowners check their app once a week to see production and savings. We provide complete training, and our support team is always available if you have questions."
+    },
+    {
+      "question": "Can monitoring help me go off-grid or prepare for power outages?",
+      "answer": "Yes! When combined with battery storage, our monitoring platform helps you optimize energy independence. For Amherst properties, we can configure your system to maximize battery charging during peak production and use stored energy during grid outages or expensive peak rate periods, significantly reducing your utility bills."
+    },
+    {
+      "question": "What happens if my internet goes down?",
+      "answer": "Our monitoring equipment includes local data storage and cellular backup communication options. Even without internet, your system continues collecting data. Once connectivity is restored, all historical data syncs automatically. Critical alerts can be sent via cellular connection to ensure you're notified of any issues."
+    },
+    {
+      "question": "How does monitoring increase my Amherst home's resale value?",
+      "answer": "Documented solar performance history significantly boosts buyer confidence and justifies premium pricing. Our monitoring platform generates professional performance reports showing actual energy production, savings achieved, and system reliability—powerful tools when selling your Amherst home. Studies show homes with documented solar performance sell faster and for 3-4% more."
+    },
+    {
+      "question": "Can I monitor multiple properties from one account?",
+      "answer": "Absolutely! Our platform supports multi-site monitoring, perfect for Amherst property owners with rental properties, vacation homes, or commercial buildings. View all your systems from one dashboard and compare performance across properties to identify optimization opportunities."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1509228468518-180dd4864904?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar panels with monitoring equipment installed",
-    "caption": "Professional monitoring equipment installation on Amherst solar arrays",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/XGAZzyLzn18"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Mobile phone showing solar monitoring app interface",
-    "caption": "Control and monitor your solar system from anywhere with our mobile app",
-    "credit": {
-     "photographer": "Eirik Solheim",
-     "unsplashUrl": "https://unsplash.com/photos/sRN2a0BJcO0"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "The Importance of Solar Monitoring for Amherst Homeowners",
-  "How AI-Powered Optimization Increases Your Solar Savings",
-  "Understanding Your Solar Production in Western Massachusetts Climate",
-  "Battery Storage Integration and Smart Energy Management",
-  "Maximizing Massachusetts Solar benefits and Net Metering",
-  "Common Questions About Solar Monitoring in Amherst"
- ],
- "faq": [
-  {
-   "question": "Why do I need solar monitoring if my system is working?",
-   "answer": "Many Amherst solar owners lose 10-20% of potential production without realizing it. Monitoring catches issues like shading problems, panel degradation, inverter inefficiencies, and connection problems before they significantly impact your savings. It also helps optimize your energy usage patterns to maximize self-consumption and net metering benefits."
-  },
-  {
-   "question": "Can monitoring detect problems before my solar system fails completely?",
-   "answer": "Yes! Our predictive monitoring identifies early warning signs like gradual production declines, inverter errors, or individual panel underperformance. This allows for proactive maintenance that prevents complete failures and extends system lifespan. Amherst clients save thousands in avoided emergency repairs through early detection."
-  },
-  {
-   "question": "How does monitoring work during Amherst's snowy winters?",
-   "answer": "Our monitoring system accounts for seasonal variations and weather conditions specific to western Massachusetts. During winter, we adjust expected production baselines for shorter days and potential snow coverage. You'll receive alerts if production doesn't resume normally after snow events, indicating possible issues requiring attention."
-  },
-  {
-   "question": "Is the monitoring platform difficult to use?",
-   "answer": "Not at all! Our platform is designed for ease of use with intuitive dashboards that show your key metrics at a glance. Most Amherst homeowners check their app once a week to see production and savings. We provide complete training, and our support team is always available if you have questions."
-  },
-  {
-   "question": "Can monitoring help me go off-grid or prepare for power outages?",
-   "answer": "Yes! When combined with battery storage, our monitoring platform helps you optimize energy independence. For Amherst properties, we can configure your system to maximize battery charging during peak production and use stored energy during grid outages or expensive peak rate periods, significantly reducing your utility bills."
-  },
-  {
-   "question": "What happens if my internet goes down?",
-   "answer": "Our monitoring equipment includes local data storage and cellular backup communication options. Even without internet, your system continues collecting data. Once connectivity is restored, all historical data syncs automatically. Critical alerts can be sent via cellular connection to ensure you're notified of any issues."
-  },
-  {
-   "question": "How does monitoring increase my Amherst home's resale value?",
-   "answer": "Documented solar performance history significantly boosts buyer confidence and justifies premium pricing. Our monitoring platform generates professional performance reports showing actual energy production, savings achieved, and system reliability—powerful tools when selling your Amherst home. Studies show homes with documented solar performance sell faster and for 3-4% more."
-  },
-  {
-   "question": "Can I monitor multiple properties from one account?",
-   "answer": "Absolutely! Our platform supports multi-site monitoring, perfect for Amherst property owners with rental properties, vacation homes, or commercial buildings. View all your systems from one dashboard and compare performance across properties to identify optimization opportunities."
-  }
- ],
- "keywords": [
-  "solar monitoring",
-  "solar optimization",
-  "solar performance tracking",
-  "energy monitoring system",
-  "solar analytics",
-  "solar system monitoring",
-  "real-time solar tracking",
-  "solar production monitoring"
- ],
- "localKeywords": [
-  "solar monitoring Amherst MA",
-  "Amherst solar optimization",
-  "solar tracking Amherst Massachusetts",
-  "Hampshire County solar monitoring",
-  "UMass area solar monitoring",
-  "Pioneer Valley solar performance",
-  "western Massachusetts solar tracking"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Free Solar Monitoring Consultation",
- "ctaSecondary": "Start Your 30-Day Free Trial",
- "ctaUrgency": "15% Efficiency Improvement Guaranteed"
+  ],
+  "keywords": [
+    "solar monitoring",
+    "solar optimization",
+    "solar performance tracking",
+    "energy monitoring system",
+    "solar analytics",
+    "solar system monitoring",
+    "real-time solar tracking",
+    "solar production monitoring"
+  ],
+  "localKeywords": [
+    "solar monitoring Amherst MA",
+    "Amherst solar optimization",
+    "solar tracking Amherst Massachusetts",
+    "Hampshire County solar monitoring",
+    "UMass area solar monitoring",
+    "Pioneer Valley solar performance",
+    "western Massachusetts solar tracking"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Free Solar Monitoring Consultation",
+  "ctaSecondary": "Start Your 30-Day Free Trial",
+  "ctaUrgency": "15% Efficiency Improvement Guaranteed"
 }

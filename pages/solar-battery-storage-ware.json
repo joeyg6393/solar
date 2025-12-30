@@ -1,190 +1,190 @@
 {
- "id": "solar-battery-storage-ware",
- "service": "Solar Battery Storage Installation",
- "serviceSlug": "solar-battery-storage",
- "location": "Ware",
- "locationSlug": "ware",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Battery Storage Ware MA - Powerwall Installation Experts",
- "metaDescription": "Expert solar battery storage Ware, MA. Tesla Powerwall certified installers. Energy independence + backup power + savings. Free quote + financing!",
- "h1": "Professional Solar Battery Storage Installation in Ware, Massachusetts",
- "heroHeadline": "Power Your Ware Home 24/7 with Advanced Battery Storage",
- "heroSubheadline": "Tesla Powerwall Installation • Reliable Backup Power • Massachusetts benefits",
- "serviceDescription": "Ware homeowners are taking control of their energy future with cutting-edge solar battery storage systems that deliver independence, reliability, and substantial cost savings. Our certified installation team has served Hampshire County and the Pioneer Valley for over 12 years, bringing premium battery storage technology including Tesla Powerwall to residential properties throughout Ware, from the town center to neighborhoods along the Ware River. Located in the scenic Quabbin region, Ware residents value self-sufficiency and preparedness - qualities that align perfectly with modern solar battery storage solutions. Our systems capture excess solar energy generated during sunny days and intelligently store it for use whenever you need it, powering your home through the night, during cloudy periods, or when the utility grid experiences outages. Ware's location east of the Quabbin Reservoir means residents face occasional weather-related power interruptions, from summer storms to winter ice events, making reliable backup power essential for maintaining your family's comfort and protecting critical systems like well pumps, heating equipment, and refrigeration. Whether you own a historic mill worker's home in downtown Ware, a property in Ware Center, or a rural residence on the outskirts of town, our battery installations are completely customized to your specific energy needs and home characteristics. We begin every project with a comprehensive energy assessment, analyzing your electricity consumption patterns, solar production potential, electrical infrastructure, and backup power priorities to design the optimal system. Our battery storage systems include sophisticated monitoring technology accessible from any smartphone, tablet, or computer, providing real-time visibility and control over energy production, storage levels, and consumption patterns. The installation process is professionally managed from beginning to end - we handle all Town of Ware permitting requirements, coordinate Massachusetts electrical inspections, manage utility interconnection paperwork, and ensure full compliance with all regulations. Financial benefits have never been more attractive for Ware residents, with the federal solar financing, Massachusetts SMART program benefits, and potential utility company rebates substantially reducing your upfront investment. We provide completely transparent pricing with detailed financial projections showing your return on investment over the 25-year lifespan of your battery system. Join the growing community of Ware homeowners who have achieved true energy independence while contributing to a more sustainable and resilient future for the Quabbin region.",
- "shortDescription": "Trusted solar battery storage installation serving Ware, MA. Tesla Powerwall certified professionals providing energy independence, automatic backup power, and smart monitoring for Hampshire County homes. Federal benefits available.",
- "benefits": [
-  "Complete energy independence for Ware homes",
-  "Automatic backup during Hampshire County power outages",
-  "Store solar energy for nighttime and cloudy day use",
-  "Reduce or eliminate monthly electric bills in Ware",
-  "Tesla Powerwall certified installation experts",
-  "Real-time monitoring via intuitive smartphone app",
-  "Competitive pricing plus Massachusetts benefits",
-  "Increase Ware home value and marketability"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Comprehensive Energy Evaluation",
-   "description": "We visit your Ware property to assess current energy consumption, solar production capacity, electrical systems, and backup power requirements to design the ideal solution."
-  },
-  {
-   "step": 2,
-   "title": "Customized System Engineering",
-   "description": "Our technical team creates a battery storage system precisely engineered for your Ware home's unique energy profile, roof characteristics, and future expansion needs."
-  },
-  {
-   "step": 3,
-   "title": "Permitting & Regulatory Coordination",
-   "description": "We manage all Town of Ware permits, Massachusetts electrical inspections, utility interconnection agreements, and incentive program applications on your behalf."
-  },
-  {
-   "step": 4,
-   "title": "Expert Installation Day",
-   "description": "Our licensed, bonded electricians install your battery storage system with precision and care, typically completing Ware installations within 1-2 days with minimal disruption."
-  },
-  {
-   "step": 5,
-   "title": "System Commissioning & Owner Training",
-   "description": "We activate your complete system, configure monitoring software, and provide thorough training on operating and optimizing your energy storage for maximum savings."
-  }
- ],
- "features": [
-  "Tesla Powerwall 2 & Powerwall 3 certified installation",
-  "Retrofit compatibility with existing solar systems",
-  "Whole-home or essential circuit backup options",
-  "Weather-responsive Storm Watch charging",
-  "Peak demand and time-of-use optimization",
-  "Modular scalability - add capacity as needed",
-  "All-weather indoor or outdoor installation",
-  "Comprehensive 25-year warranty protection"
- ],
- "pricingInfo": "Solar battery storage installations for Ware homes typically range from $11,500 to $22,500 depending on system capacity, electrical work required, and installation complexity. Tesla Powerwall systems start at approximately $14,500 fully installed with all equipment, labor, and permitting included. After applying the federal solar investment financing and Massachusetts SMART program benefits, net costs are reduced by 30-40% or more. We offer flexible financing pathways including $0 down solar loans with competitive rates, lease programs with no upfront cost, and cash purchase discounts. Each Ware consultation includes a detailed proposal with itemized pricing, comprehensive incentive calculations, and projected 25-year energy savings based on your actual utility bills and consumption patterns.",
- "serviceArea": "Ware and all surrounding Hampshire County communities including Belchertown, Palmer, Hardwick, and areas within 30 miles of Springfield",
- "availability": "Monday - Friday: 8:00 AM - 6:00 PM, Saturday: 9:00 AM - 4:00 PM. Flexible scheduling for working families.",
- "responseTime": "Free consultations scheduled within 48 hours. Typical installation completed 4-6 weeks from signed contract.",
- "qualifications": [
-  "NABCEP Certified Solar Professionals",
-  "Tesla Powerwall Certified Installers",
-  "Massachusetts Licensed Master Electricians",
-  "BBB A+ Accredited Business",
-  "Fully Insured & Bonded"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar and storage installations in Western Massachusetts",
- "guarantees": [
-  "25-year battery manufacturer warranty",
-  "10-year installation workmanship guarantee",
-  "System performance guarantee",
-  "100% customer satisfaction pledge"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Tesla Powerwall solar battery storage installed in Ware Massachusetts residence",
-   "caption": "Advanced Energy Storage for Ware Homeowners",
-   "credit": {
-    "photographer": "Science in HD",
-    "unsplashUrl": "https://unsplash.com/photos/zns6rizp9ru"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1594818379496-da1e345b0ded?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Tesla Powerwall battery unit in residential installation",
-    "caption": "Reliable Battery Storage for Hampshire County",
-    "credit": {
-     "photographer": "Waldemar",
-     "unsplashUrl": "https://unsplash.com/photos/3VxzOb2xmtc"
+  "id": "solar-battery-storage-ware",
+  "service": "Solar Battery Storage Installation",
+  "serviceSlug": "solar-battery-storage",
+  "location": "Ware",
+  "locationSlug": "ware",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Battery Storage Ware MA - Powerwall Installation Experts",
+  "metaDescription": "Expert solar battery storage Ware, MA. Tesla Powerwall certified installers. Energy independence + backup power + savings. Free quote + financing!",
+  "h1": "Professional Solar Battery Storage Installation in Ware, Massachusetts",
+  "heroHeadline": "Power Your Ware Home 24/7 with Advanced Battery Storage",
+  "heroSubheadline": "Tesla Powerwall Installation • Reliable Backup Power • Massachusetts benefits",
+  "serviceDescription": "Ware homeowners are taking control of their energy future with cutting-edge solar battery storage systems that deliver independence, reliability, and substantial cost savings. Our certified installation team has served Hampshire County and the Pioneer Valley for over 12 years, bringing premium battery storage technology including Tesla Powerwall to residential properties throughout Ware, from the town center to neighborhoods along the Ware River. Located in the scenic Quabbin region, Ware residents value self-sufficiency and preparedness - qualities that align perfectly with modern solar battery storage solutions. Our systems capture excess solar energy generated during sunny days and intelligently store it for use whenever you need it, powering your home through the night, during cloudy periods, or when the utility grid experiences outages. Ware's location east of the Quabbin Reservoir means residents face occasional weather-related power interruptions, from summer storms to winter ice events, making reliable backup power essential for maintaining your family's comfort and protecting critical systems like well pumps, heating equipment, and refrigeration. Whether you own a historic mill worker's home in downtown Ware, a property in Ware Center, or a rural residence on the outskirts of town, our battery installations are completely customized to your specific energy needs and home characteristics. We begin every project with a comprehensive energy assessment, analyzing your electricity consumption patterns, solar production potential, electrical infrastructure, and backup power priorities to design the optimal system. Our battery storage systems include sophisticated monitoring technology accessible from any smartphone, tablet, or computer, providing real-time visibility and control over energy production, storage levels, and consumption patterns. The installation process is professionally managed from beginning to end - we handle all Town of Ware permitting requirements, coordinate Massachusetts electrical inspections, manage utility interconnection paperwork, and ensure full compliance with all regulations. Financial benefits have never been more attractive for Ware residents, with the competitive pricing, Massachusetts SMART program benefits, and potential utility company rebates substantially reducing your upfront investment. We provide completely transparent pricing with detailed financial projections showing your return on investment over the 25-year lifespan of your battery system. Join the growing community of Ware homeowners who have achieved true energy independence while contributing to a more sustainable and resilient future for the Quabbin region.",
+  "shortDescription": "Trusted solar battery storage installation serving Ware, MA. Tesla Powerwall certified professionals providing energy independence, automatic backup power, and smart monitoring for Hampshire County homes. Federal benefits available.",
+  "benefits": [
+    "Complete energy independence for Ware homes",
+    "Automatic backup during Hampshire County power outages",
+    "Store solar energy for nighttime and cloudy day use",
+    "Reduce or eliminate monthly electric bills in Ware",
+    "Tesla Powerwall certified installation experts",
+    "Real-time monitoring via intuitive smartphone app",
+    "Competitive pricing plus Massachusetts benefits",
+    "Increase Ware home value and marketability"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Comprehensive Energy Evaluation",
+      "description": "We visit your Ware property to assess current energy consumption, solar production capacity, electrical systems, and backup power requirements to design the ideal solution."
+    },
+    {
+      "step": 2,
+      "title": "Customized System Engineering",
+      "description": "Our technical team creates a battery storage system precisely engineered for your Ware home's unique energy profile, roof characteristics, and future expansion needs."
+    },
+    {
+      "step": 3,
+      "title": "Permitting & Regulatory Coordination",
+      "description": "We manage all Town of Ware permits, Massachusetts electrical inspections, utility interconnection agreements, and incentive program applications on your behalf."
+    },
+    {
+      "step": 4,
+      "title": "Expert Installation Day",
+      "description": "Our licensed, bonded electricians install your battery storage system with precision and care, typically completing Ware installations within 1-2 days with minimal disruption."
+    },
+    {
+      "step": 5,
+      "title": "System Commissioning & Owner Training",
+      "description": "We activate your complete system, configure monitoring software, and provide thorough training on operating and optimizing your energy storage for maximum savings."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Residential solar panels with battery storage system",
-    "caption": "Integrated Solar and Storage Solutions",
-    "credit": {
-     "photographer": "Vivint Solar",
-     "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+  ],
+  "features": [
+    "Tesla Powerwall 2 & Powerwall 3 certified installation",
+    "Retrofit compatibility with existing solar systems",
+    "Whole-home or essential circuit backup options",
+    "Weather-responsive Storm Watch charging",
+    "Peak demand and time-of-use optimization",
+    "Modular scalability - add capacity as needed",
+    "All-weather indoor or outdoor installation",
+    "Comprehensive 25-year warranty protection"
+  ],
+  "pricingInfo": "Solar battery storage installations for Ware homes typically range from $11,500 to $22,500 depending on system capacity, electrical work required, and installation complexity. Tesla Powerwall systems start at approximately $14,500 fully installed with all equipment, labor, and permitting included. After applying the federal solar investment financing and Massachusetts SMART program benefits, net costs are reduced by 30-40% or more. We offer flexible financing pathways including $0 down solar loans with competitive rates, lease programs with no upfront cost, and cash purchase discounts. Each Ware consultation includes a detailed proposal with itemized pricing, comprehensive incentive calculations, and projected 25-year energy savings based on your actual utility bills and consumption patterns.",
+  "serviceArea": "Ware and all surrounding Hampshire County communities including Belchertown, Palmer, Hardwick, and areas within 30 miles of Springfield",
+  "availability": "Monday - Friday: 8:00 AM - 6:00 PM, Saturday: 9:00 AM - 4:00 PM. Flexible scheduling for working families.",
+  "responseTime": "Free consultations scheduled within 48 hours. Typical installation completed 4-6 weeks from signed contract.",
+  "qualifications": [
+    "NABCEP Certified Solar Professionals",
+    "Tesla Powerwall Certified Installers",
+    "Massachusetts Licensed Master Electricians",
+    "BBB A+ Accredited Business",
+    "Fully Insured & Bonded"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar and storage installations in Western Massachusetts",
+  "guarantees": [
+    "25-year battery manufacturer warranty",
+    "10-year installation workmanship guarantee",
+    "System performance guarantee",
+    "100% customer satisfaction pledge"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Tesla Powerwall solar battery storage installed in Ware Massachusetts residence",
+      "caption": "Advanced Energy Storage for Ware Homeowners",
+      "credit": {
+        "photographer": "Science in HD",
+        "unsplashUrl": "https://unsplash.com/photos/zns6rizp9ru"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1594818379496-da1e345b0ded?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Tesla Powerwall battery unit in residential installation",
+        "caption": "Reliable Battery Storage for Hampshire County",
+        "credit": {
+          "photographer": "Waldemar",
+          "unsplashUrl": "https://unsplash.com/photos/3VxzOb2xmtc"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Residential solar panels with battery storage system",
+        "caption": "Integrated Solar and Storage Solutions",
+        "credit": {
+          "photographer": "Vivint Solar",
+          "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Energy monitoring dashboard on mobile device",
+        "caption": "Smart Energy Management at Your Fingertips",
+        "credit": {
+          "photographer": "Dan LeFebvre",
+          "unsplashUrl": "https://unsplash.com/photos/P4ep2IWLw84"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1621905252472-4d3b1b860e6e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar installation professional on residential roof",
+        "caption": "Expert Installation by Certified Technicians",
+        "credit": {
+          "photographer": "Los Muertos Crew",
+          "unsplashUrl": "https://unsplash.com/photos/4bNjOe6YqYc"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Ware Homeowners Are Choosing Battery Storage",
+    "How Solar Battery Storage Protects Your Ware Home",
+    "Our Complete Installation Process in Ware",
+    "Financial benefits That Make Battery Storage Affordable",
+    "Ware Solar Battery Storage FAQs"
+  ],
+  "faq": [
+    {
+      "question": "How much does solar battery storage cost in Ware, MA?",
+      "answer": "Solar battery storage systems in Ware typically range from $11,500 to $22,500 depending on capacity and your home's specific requirements. Tesla Powerwall installations start around $14,500 fully installed. With the competitive pricing and Massachusetts SMART program benefits, your net investment is significantly reduced. We provide transparent pricing and detailed ROI analysis during your free Ware consultation."
+    },
+    {
+      "question": "Can I add battery storage to my existing solar panels in Ware?",
+      "answer": "Absolutely! We regularly retrofit battery storage to existing solar installations throughout Ware, regardless of when your panels were installed or who performed the original installation. Our team will evaluate your current system and design a battery solution that integrates seamlessly with your existing equipment."
+    },
+    {
+      "question": "How long will a battery power my Ware home during an outage?",
+      "answer": "A Tesla Powerwall stores 13.5 kWh of energy, typically sufficient to power essential circuits in most Ware homes for 8-12 hours. For whole-home backup or extended outage coverage, we can install multiple Powerwall units. During our assessment, we calculate exact backup duration based on your household's specific consumption patterns."
+    },
+    {
+      "question": "What financial financing options are available in Ware?",
+      "answer": "Ware residents qualify for the federal solar investment financing, Massachusetts SMART program storage adders, and potential utility company rebates. Combined, these benefits typically reduce total system costs by 30-45%. Our team helps you identify and maximize every available incentive."
+    },
+    {
+      "question": "How long does installation take in Ware?",
+      "answer": "Physical installation of battery storage systems typically takes 1-2 days for Ware properties. The complete process from initial consultation to system activation averages 4-6 weeks, accounting for custom design, Town of Ware permitting, equipment procurement, and professional installation."
+    },
+    {
+      "question": "Will battery storage increase my Ware home's value?",
+      "answer": "Yes! Studies consistently show that homes with solar-plus-storage systems command 3-4% price premiums. In Ware's market, where energy independence and rural self-sufficiency are valued, battery storage is a premium feature that attracts serious buyers and can accelerate sales."
+    },
+    {
+      "question": "Can I monitor my battery system remotely?",
+      "answer": "Yes! All installations include comprehensive cloud-based monitoring accessible from any smartphone, tablet, or computer. You'll see real-time solar production, battery charge levels, home consumption, and grid status. The system sends alerts and allows remote configuration for optimal performance."
+    },
+    {
+      "question": "What happens during a power outage in Ware?",
+      "answer": "When the grid fails in Ware, your battery system instantly detects the outage and seamlessly switches to backup power within milliseconds - maintaining continuous power to your home. You'll continue running on stored solar energy, and during daylight hours, your panels keep charging the batteries. The system automatically reconnects when utility power is restored."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Energy monitoring dashboard on mobile device",
-    "caption": "Smart Energy Management at Your Fingertips",
-    "credit": {
-     "photographer": "Dan LeFebvre",
-     "unsplashUrl": "https://unsplash.com/photos/P4ep2IWLw84"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1621905252472-4d3b1b860e6e?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar installation professional on residential roof",
-    "caption": "Expert Installation by Certified Technicians",
-    "credit": {
-     "photographer": "Los Muertos Crew",
-     "unsplashUrl": "https://unsplash.com/photos/4bNjOe6YqYc"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Ware Homeowners Are Choosing Battery Storage",
-  "How Solar Battery Storage Protects Your Ware Home",
-  "Our Complete Installation Process in Ware",
-  "Financial benefits That Make Battery Storage Affordable",
-  "Ware Solar Battery Storage FAQs"
- ],
- "faq": [
-  {
-   "question": "How much does solar battery storage cost in Ware, MA?",
-   "answer": "Solar battery storage systems in Ware typically range from $11,500 to $22,500 depending on capacity and your home's specific requirements. Tesla Powerwall installations start around $14,500 fully installed. With the competitive pricing and Massachusetts SMART program benefits, your net investment is significantly reduced. We provide transparent pricing and detailed ROI analysis during your free Ware consultation."
-  },
-  {
-   "question": "Can I add battery storage to my existing solar panels in Ware?",
-   "answer": "Absolutely! We regularly retrofit battery storage to existing solar installations throughout Ware, regardless of when your panels were installed or who performed the original installation. Our team will evaluate your current system and design a battery solution that integrates seamlessly with your existing equipment."
-  },
-  {
-   "question": "How long will a battery power my Ware home during an outage?",
-   "answer": "A Tesla Powerwall stores 13.5 kWh of energy, typically sufficient to power essential circuits in most Ware homes for 8-12 hours. For whole-home backup or extended outage coverage, we can install multiple Powerwall units. During our assessment, we calculate exact backup duration based on your household's specific consumption patterns."
-  },
-  {
-   "question": "What financial financing options are available in Ware?",
-   "answer": "Ware residents qualify for the federal solar investment financing, Massachusetts SMART program storage adders, and potential utility company rebates. Combined, these benefits typically reduce total system costs by 30-45%. Our team helps you identify and maximize every available incentive."
-  },
-  {
-   "question": "How long does installation take in Ware?",
-   "answer": "Physical installation of battery storage systems typically takes 1-2 days for Ware properties. The complete process from initial consultation to system activation averages 4-6 weeks, accounting for custom design, Town of Ware permitting, equipment procurement, and professional installation."
-  },
-  {
-   "question": "Will battery storage increase my Ware home's value?",
-   "answer": "Yes! Studies consistently show that homes with solar-plus-storage systems command 3-4% price premiums. In Ware's market, where energy independence and rural self-sufficiency are valued, battery storage is a premium feature that attracts serious buyers and can accelerate sales."
-  },
-  {
-   "question": "Can I monitor my battery system remotely?",
-   "answer": "Yes! All installations include comprehensive cloud-based monitoring accessible from any smartphone, tablet, or computer. You'll see real-time solar production, battery charge levels, home consumption, and grid status. The system sends alerts and allows remote configuration for optimal performance."
-  },
-  {
-   "question": "What happens during a power outage in Ware?",
-   "answer": "When the grid fails in Ware, your battery system instantly detects the outage and seamlessly switches to backup power within milliseconds - maintaining continuous power to your home. You'll continue running on stored solar energy, and during daylight hours, your panels keep charging the batteries. The system automatically reconnects when utility power is restored."
-  }
- ],
- "keywords": [
-  "solar battery storage",
-  "Tesla Powerwall",
-  "home battery backup",
-  "energy storage system",
-  "solar battery"
- ],
- "localKeywords": [
-  "solar battery storage Ware MA",
-  "Tesla Powerwall Ware",
-  "battery backup Ware Massachusetts",
-  "solar storage Hampshire County",
-  "energy storage Ware"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Solar Battery Storage Quote Today",
- "ctaSecondary": "Schedule Free Energy Assessment",
- "ctaUrgency": "Limited Time - Free Consultation Available!"
+  ],
+  "keywords": [
+    "solar battery storage",
+    "Tesla Powerwall",
+    "home battery backup",
+    "energy storage system",
+    "solar battery"
+  ],
+  "localKeywords": [
+    "solar battery storage Ware MA",
+    "Tesla Powerwall Ware",
+    "battery backup Ware Massachusetts",
+    "solar storage Hampshire County",
+    "energy storage Ware"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Solar Battery Storage Quote Today",
+  "ctaSecondary": "Schedule Free Energy Assessment",
+  "ctaUrgency": "Limited Time - Free Consultation Available!"
 }

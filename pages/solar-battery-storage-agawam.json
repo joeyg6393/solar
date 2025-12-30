@@ -1,196 +1,196 @@
 {
- "id": "solar-battery-storage-agawam",
- "service": "Solar Battery Storage Installation",
- "serviceSlug": "solar-battery-storage",
- "location": "Agawam",
- "locationSlug": "agawam",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Battery Storage Agawam MA - Tesla Powerwall Installation",
- "metaDescription": "Agawam's leading solar battery storage installer. Tesla Powerwall certified, energy independence, backup power. financing. Free consultation!",
- "h1": "Solar Battery Storage Installation in Agawam, Massachusetts",
- "heroHeadline": "Agawam's Premier Solar Battery Storage Solution",
- "heroSubheadline": "Tesla Powerwall Experts - Energy Freedom for Your Home - Same-Day Quotes Available",
- "serviceDescription": "Agawam homeowners are embracing energy independence with professional solar battery storage installation. Located along the Connecticut River just south of Springfield, Agawam residents enjoy small-town living but face the same energy challenges as their urban neighbors. Our certified Tesla Powerwall installers bring over a decade of expertise to every Agawam battery storage project, delivering reliable backup power and impressive energy savings that make a real difference in your monthly budget.\n\nAgawam's riverside location and exposure to Connecticut River valley weather patterns create conditions that can stress the electrical grid. From severe winter storms bringing ice and snow to summer thunderstorms rolling up the valley, power outages are an unfortunate reality for Agawam residents. Solar battery storage eliminates this vulnerability, providing automatic backup power that keeps your home running smoothly while your neighbors sit in the dark.\n\nWe proudly serve all Agawam neighborhoods including Feeding Hills, Robinson Park, Agawam Center, and areas near Six Flags New England. Our team has completed battery storage installations throughout Hampden County, with dozens of satisfied customers right here in Agawam. Whether you want to add battery capacity to your existing solar panels or install a comprehensive solar + storage system from scratch, we deliver customized solutions that maximize your investment and energy independence.\n\nAs NABCEP certified professionals with Tesla Powerwall factory training, we understand Massachusetts electrical codes, Agawam building requirements, and Eversource interconnection procedures. We manage every aspect of your project including detailed energy assessment, custom system design, permitting with the Town of Agawam, utility coordination, professional installation, and ongoing system monitoring. Experience true energy freedom in Agawam with solar battery storage that delivers reliability, savings, and peace of mind.",
- "shortDescription": "Agawam's trusted solar battery storage installer. Tesla Powerwall certified with 12+ years experience. Complete backup power, energy independence, and substantial savings for all Agawam neighborhoods.",
- "benefits": [
-  "Total Energy Independence - Control your power, day and night",
-  "Massive Bill Savings - Reduce electricity costs up to 92%",
-  "Storm Protection - Keep power on during Agawam weather events",
-  "Tesla Powerwall Certified - Factory-trained expert installers",
-  "flexible financings - Claim back on your investment",
-  "Retrofit Friendly - Add to existing solar or install new",
-  "Agawam Local Team - Fast response, personalized attention",
-  "Home Value Increase - Battery storage adds 4-6% property value"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free Agawam Home Assessment",
-   "description": "We visit your Agawam property to analyze energy usage patterns, evaluate your electrical infrastructure, and identify your specific backup power priorities."
-  },
-  {
-   "step": 2,
-   "title": "Customized System Design",
-   "description": "Our engineering team creates a tailored battery storage solution for your Agawam home, optimizing battery capacity, placement location, and backup circuit selection."
-  },
-  {
-   "step": 3,
-   "title": "Permits & Utility Approvals",
-   "description": "We handle all permitting with the Town of Agawam and coordinate interconnection agreements with Eversource Energy for seamless regulatory approval."
-  },
-  {
-   "step": 4,
-   "title": "Expert Installation",
-   "description": "Our Massachusetts licensed electricians install your battery storage system professionally, typically completing Agawam installations in just 1-2 days with minimal disruption."
-  },
-  {
-   "step": 5,
-   "title": "Activation & Monitoring Setup",
-   "description": "We commission your system, configure mobile monitoring apps, and provide thorough training so you can manage your energy storage confidently."
-  }
- ],
- "features": [
-  "Tesla Powerwall 2 & Powerwall+ Systems",
-  "Enphase IQ Battery Available",
-  "LG Chem RESU & Premium Brands",
-  "AC & DC-Coupled Configurations",
-  "Whole-Home or Critical Load Backup",
-  "Smart Time-of-Use Optimization",
-  "Real-Time Mobile Monitoring",
-  "10-Year Workmanship Warranty"
- ],
- "pricingInfo": "Solar battery storage in Agawam starts at approximately $12,300-$16,500 for Tesla Powerwall systems before benefits. After the federal solar financing and Massachusetts state rebates, most Agawam homeowners invest $9,100-$12,200 net. With typical monthly energy savings of $120-$210 through intelligent time-of-use optimization and grid independence, payback periods range from 7-11 years. We offer attractive financing with $0 down and monthly payments often less than your electricity bill savings. Schedule your free Agawam consultation for a precise quote.",
- "serviceArea": "Agawam and surrounding areas including Feeding Hills, Robinson Park, Agawam Center, and all of Hampden County",
- "availability": "Monday-Saturday 7:00 AM - 6:00 PM, Sunday consultations available by appointment",
- "responseTime": "Same-day or next-day consultation scheduling, installation typically within 2-4 weeks",
- "qualifications": [
-  "NABCEP Certified PV Installation Professionals",
-  "Tesla Powerwall Certified Installers",
-  "Massachusetts Licensed Master Electricians",
-  "Enphase Certified Installer Status",
-  "BBB A+ Accredited Company",
-  "MA CSL License #123456"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar installations, 200+ battery storage systems across Pioneer Valley",
- "guarantees": [
-  "10-year installation workmanship warranty",
-  "Tesla Powerwall 10-year manufacturer warranty",
-  "Lifetime system monitoring included",
-  "Performance guarantee - 70% capacity after 10 years",
-  "100% satisfaction guarantee or money back"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Tesla Powerwall battery storage on Agawam home exterior",
-   "caption": "Professional Tesla Powerwall Installation in Agawam, MA",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1595421877555-06a8f9a4d4e1?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Battery backup powering home during outage",
-    "caption": "Reliable Backup Power for Agawam Storms",
-    "credit": {
-     "photographer": "Science in HD",
-     "unsplashUrl": "https://unsplash.com/photos/battery-storage"
+  "id": "solar-battery-storage-agawam",
+  "service": "Solar Battery Storage Installation",
+  "serviceSlug": "solar-battery-storage",
+  "location": "Agawam",
+  "locationSlug": "agawam",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Battery Storage Agawam MA - Tesla Powerwall Installation",
+  "metaDescription": "Agawam's leading solar battery storage installer. Tesla Powerwall certified, energy independence, backup power. financing. Free consultation!",
+  "h1": "Solar Battery Storage Installation in Agawam, Massachusetts",
+  "heroHeadline": "Agawam's Premier Solar Battery Storage Solution",
+  "heroSubheadline": "Tesla Powerwall Experts - Energy Freedom for Your Home - Same-Day Quotes Available",
+  "serviceDescription": "Agawam homeowners are embracing energy independence with professional solar battery storage installation. Located along the Connecticut River just south of Springfield, Agawam residents enjoy small-town living but face the same energy challenges as their urban neighbors. Our certified Tesla Powerwall installers bring over a decade of expertise to every Agawam battery storage project, delivering reliable backup power and impressive energy savings that make a real difference in your monthly budget.\n\nAgawam's riverside location and exposure to Connecticut River valley weather patterns create conditions that can stress the electrical grid. From severe winter storms bringing ice and snow to summer thunderstorms rolling up the valley, power outages are an unfortunate reality for Agawam residents. Solar battery storage eliminates this vulnerability, providing automatic backup power that keeps your home running smoothly while your neighbors sit in the dark.\n\nWe proudly serve all Agawam neighborhoods including Feeding Hills, Robinson Park, Agawam Center, and areas near Six Flags New England. Our team has completed battery storage installations throughout Hampden County, with dozens of satisfied customers right here in Agawam. Whether you want to add battery capacity to your existing solar panels or install a comprehensive solar + storage system from scratch, we deliver customized solutions that maximize your investment and energy independence.\n\nAs NABCEP certified professionals with Tesla Powerwall factory training, we understand Massachusetts electrical codes, Agawam building requirements, and Eversource interconnection procedures. We manage every aspect of your project including detailed energy assessment, custom system design, permitting with the Town of Agawam, utility coordination, professional installation, and ongoing system monitoring. Experience true energy freedom in Agawam with solar battery storage that delivers reliability, savings, and peace of mind.",
+  "shortDescription": "Agawam's trusted solar battery storage installer. Tesla Powerwall certified with 12+ years experience. Complete backup power, energy independence, and substantial savings for all Agawam neighborhoods.",
+  "benefits": [
+    "Total Energy Independence - Control your power, day and night",
+    "Massive Bill Savings - Reduce electricity costs up to 92%",
+    "Storm Protection - Keep power on during Agawam weather events",
+    "Tesla Powerwall Certified - Factory-trained expert installers",
+    "flexible benefits - Claim back on your investment",
+    "Retrofit Friendly - Add to existing solar or install new",
+    "Agawam Local Team - Fast response, personalized attention",
+    "Home Value Increase - Battery storage adds 4-6% property value"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free Agawam Home Assessment",
+      "description": "We visit your Agawam property to analyze energy usage patterns, evaluate your electrical infrastructure, and identify your specific backup power priorities."
+    },
+    {
+      "step": 2,
+      "title": "Customized System Design",
+      "description": "Our engineering team creates a tailored battery storage solution for your Agawam home, optimizing battery capacity, placement location, and backup circuit selection."
+    },
+    {
+      "step": 3,
+      "title": "Permits & Utility Approvals",
+      "description": "We handle all permitting with the Town of Agawam and coordinate interconnection agreements with Eversource Energy for seamless regulatory approval."
+    },
+    {
+      "step": 4,
+      "title": "Expert Installation",
+      "description": "Our Massachusetts licensed electricians install your battery storage system professionally, typically completing Agawam installations in just 1-2 days with minimal disruption."
+    },
+    {
+      "step": 5,
+      "title": "Activation & Monitoring Setup",
+      "description": "We commission your system, configure mobile monitoring apps, and provide thorough training so you can manage your energy storage confidently."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Energy monitoring app for battery storage",
-    "caption": "Track Your Energy Production & Storage Anytime",
-    "credit": {
-     "photographer": "Tyler Casey",
-     "unsplashUrl": "https://unsplash.com/photos/solar-monitoring"
+  ],
+  "features": [
+    "Tesla Powerwall 2 & Powerwall+ Systems",
+    "Enphase IQ Battery Available",
+    "LG Chem RESU & Premium Brands",
+    "AC & DC-Coupled Configurations",
+    "Whole-Home or Critical Load Backup",
+    "Smart Time-of-Use Optimization",
+    "Real-Time Mobile Monitoring",
+    "10-Year Workmanship Warranty"
+  ],
+  "pricingInfo": "Solar battery storage in Agawam starts at approximately $12,300-$16,500 for Tesla Powerwall systems before benefits. After the competitive pricing and Massachusetts state rebates, most Agawam homeowners invest $9,100-$12,200 net. With typical monthly energy savings of $120-$210 through intelligent time-of-use optimization and grid independence, payback periods range from 7-11 years. We offer attractive financing with $0 down and monthly payments often less than your electricity bill savings. Schedule your free Agawam consultation for a precise quote.",
+  "serviceArea": "Agawam and surrounding areas including Feeding Hills, Robinson Park, Agawam Center, and all of Hampden County",
+  "availability": "Monday-Saturday 7:00 AM - 6:00 PM, Sunday consultations available by appointment",
+  "responseTime": "Same-day or next-day consultation scheduling, installation typically within 2-4 weeks",
+  "qualifications": [
+    "NABCEP Certified PV Installation Professionals",
+    "Tesla Powerwall Certified Installers",
+    "Massachusetts Licensed Master Electricians",
+    "Enphase Certified Installer Status",
+    "BBB A+ Accredited Company",
+    "MA CSL License #123456"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar installations, 200+ battery storage systems across Pioneer Valley",
+  "guarantees": [
+    "10-year installation workmanship warranty",
+    "Tesla Powerwall 10-year manufacturer warranty",
+    "Lifetime system monitoring included",
+    "Performance guarantee - 70% capacity after 10 years",
+    "100% satisfaction guarantee or money back"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Tesla Powerwall battery storage on Agawam home exterior",
+      "caption": "Professional Tesla Powerwall Installation in Agawam, MA",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1595421877555-06a8f9a4d4e1?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Battery backup powering home during outage",
+        "caption": "Reliable Backup Power for Agawam Storms",
+        "credit": {
+          "photographer": "Science in HD",
+          "unsplashUrl": "https://unsplash.com/photos/battery-storage"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Energy monitoring app for battery storage",
+        "caption": "Track Your Energy Production & Storage Anytime",
+        "credit": {
+          "photographer": "Tyler Casey",
+          "unsplashUrl": "https://unsplash.com/photos/solar-monitoring"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Residential solar panels integrated with battery",
+        "caption": "Seamless Solar + Storage Integration",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/solar-panels"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Licensed electrician installing battery system",
+        "caption": "Expert Installation by Agawam Licensed Electricians",
+        "credit": {
+          "photographer": "Umberto",
+          "unsplashUrl": "https://unsplash.com/photos/electrical-work"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Agawam Homeowners Choose Solar Battery Storage",
+    "Tesla Powerwall vs Alternative Battery Systems",
+    "Solar Battery Storage Costs & Savings in Agawam",
+    "How Battery Storage Protects Against Outages",
+    "Agawam Battery Storage Installation Process",
+    "Frequently Asked Questions - Agawam Solar Batteries"
+  ],
+  "faq": [
+    {
+      "question": "How much does solar battery storage cost in Agawam?",
+      "answer": "Tesla Powerwall installation in Agawam typically costs $12,300-$16,500 before benefits. After applying the competitive pricing and Massachusetts rebates, your net investment is approximately $9,100-$12,200. Most Agawam residents install 1-2 Powerwalls based on their backup needs and home size. We provide free detailed quotes and attractive financing options including $0 down plans."
+    },
+    {
+      "question": "Can battery storage power my entire Agawam home?",
+      "answer": "Yes! With proper system sizing, battery storage can power your entire Agawam home during outages. One Tesla Powerwall (13.5 kWh) handles essential circuits for 24-36 hours, while 2-3 Powerwalls can support whole-home backup including HVAC, water heater, and all appliances. We'll assess your specific energy needs and recommend the ideal configuration during your free consultation."
+    },
+    {
+      "question": "Will solar batteries work in Agawam's cold winters?",
+      "answer": "Absolutely! Tesla Powerwall and other premium battery systems are engineered to operate reliably in Massachusetts winter conditions, functioning efficiently from -4°F to 122°F. We typically install batteries in garages or on exterior walls with proper weather protection. Agawam homeowners have successfully used battery backup through severe winter storms without any performance degradation."
+    },
+    {
+      "question": "Can I add batteries to my existing Agawam solar panels?",
+      "answer": "Yes! Battery storage can be retrofitted to virtually any existing solar panel system in Agawam. Whether your solar installation is brand new or 15 years old, we can integrate battery storage seamlessly. The retrofit process involves installing the battery unit, potentially upgrading your inverter, and updating electrical connections. Most Agawam retrofit projects are completed in 1-2 days."
+    },
+    {
+      "question": "What financing options are available for battery storage in Agawam?",
+      "answer": "Agawam homeowners qualify for the flexible financing options on battery storage when paired with solar panels. You can also participate in Massachusetts' ConnectedSolutions program, earning $225-$375 annually per Powerwall for providing grid support during peak demand. Combined with energy savings through time-of-use optimization, battery storage delivers excellent ROI."
+    },
+    {
+      "question": "How long does battery installation take in Agawam?",
+      "answer": "Physical installation of solar battery storage in Agawam takes 1-2 days for most residential projects. The complete process from initial consultation to system activation typically spans 3-4 weeks, including custom system design, permitting with the Town of Agawam, Eversource interconnection approval, professional installation, and final inspection."
+    },
+    {
+      "question": "Tesla Powerwall vs Enphase IQ Battery - which is better?",
+      "answer": "Both are excellent choices for Agawam homes! Tesla Powerwall offers 13.5 kWh per unit in a sleek all-in-one design - ideal for most residential applications. Enphase IQ Battery provides modular flexibility (start with 3.3 kWh, expand as needed) and integrates perfectly with Enphase microinverters. We'll recommend the best option based on your existing solar setup, backup requirements, and budget during your free consultation."
+    },
+    {
+      "question": "Will battery storage increase my Agawam home's value?",
+      "answer": "Yes! Research consistently shows that solar + battery storage systems increase home values by 4-6% in Massachusetts. Agawam homebuyers increasingly prioritize energy independence and backup power capability, especially after experiencing storm-related outages. Your battery system transfers to future owners with remaining warranty coverage, making it a valuable and attractive selling feature."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Residential solar panels integrated with battery",
-    "caption": "Seamless Solar + Storage Integration",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/solar-panels"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Licensed electrician installing battery system",
-    "caption": "Expert Installation by Agawam Licensed Electricians",
-    "credit": {
-     "photographer": "Umberto",
-     "unsplashUrl": "https://unsplash.com/photos/electrical-work"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Agawam Homeowners Choose Solar Battery Storage",
-  "Tesla Powerwall vs Alternative Battery Systems",
-  "Solar Battery Storage Costs & Savings in Agawam",
-  "How Battery Storage Protects Against Outages",
-  "Agawam Battery Storage Installation Process",
-  "Frequently Asked Questions - Agawam Solar Batteries"
- ],
- "faq": [
-  {
-   "question": "How much does solar battery storage cost in Agawam?",
-   "answer": "Tesla Powerwall installation in Agawam typically costs $12,300-$16,500 before benefits. After applying the federal solar financing and Massachusetts rebates, your net investment is approximately $9,100-$12,200. Most Agawam residents install 1-2 Powerwalls based on their backup needs and home size. We provide free detailed quotes and attractive financing options including $0 down plans."
-  },
-  {
-   "question": "Can battery storage power my entire Agawam home?",
-   "answer": "Yes! With proper system sizing, battery storage can power your entire Agawam home during outages. One Tesla Powerwall (13.5 kWh) handles essential circuits for 24-36 hours, while 2-3 Powerwalls can support whole-home backup including HVAC, water heater, and all appliances. We'll assess your specific energy needs and recommend the ideal configuration during your free consultation."
-  },
-  {
-   "question": "Will solar batteries work in Agawam's cold winters?",
-   "answer": "Absolutely! Tesla Powerwall and other premium battery systems are engineered to operate reliably in Massachusetts winter conditions, functioning efficiently from -4°F to 122°F. We typically install batteries in garages or on exterior walls with proper weather protection. Agawam homeowners have successfully used battery backup through severe winter storms without any performance degradation."
-  },
-  {
-   "question": "Can I add batteries to my existing Agawam solar panels?",
-   "answer": "Yes! Battery storage can be retrofitted to virtually any existing solar panel system in Agawam. Whether your solar installation is brand new or 15 years old, we can integrate battery storage seamlessly. The retrofit process involves installing the battery unit, potentially upgrading your inverter, and updating electrical connections. Most Agawam retrofit projects are completed in 1-2 days."
-  },
-  {
-   "question": "What financing options are available for battery storage in Agawam?",
-   "answer": "Agawam homeowners qualify for the flexible financing options on battery storage when paired with solar panels. You can also participate in Massachusetts' ConnectedSolutions program, earning $225-$375 annually per Powerwall for providing grid support during peak demand. Combined with energy savings through time-of-use optimization, battery storage delivers excellent ROI."
-  },
-  {
-   "question": "How long does battery installation take in Agawam?",
-   "answer": "Physical installation of solar battery storage in Agawam takes 1-2 days for most residential projects. The complete process from initial consultation to system activation typically spans 3-4 weeks, including custom system design, permitting with the Town of Agawam, Eversource interconnection approval, professional installation, and final inspection."
-  },
-  {
-   "question": "Tesla Powerwall vs Enphase IQ Battery - which is better?",
-   "answer": "Both are excellent choices for Agawam homes! Tesla Powerwall offers 13.5 kWh per unit in a sleek all-in-one design - ideal for most residential applications. Enphase IQ Battery provides modular flexibility (start with 3.3 kWh, expand as needed) and integrates perfectly with Enphase microinverters. We'll recommend the best option based on your existing solar setup, backup requirements, and budget during your free consultation."
-  },
-  {
-   "question": "Will battery storage increase my Agawam home's value?",
-   "answer": "Yes! Research consistently shows that solar + battery storage systems increase home values by 4-6% in Massachusetts. Agawam homebuyers increasingly prioritize energy independence and backup power capability, especially after experiencing storm-related outages. Your battery system transfers to future owners with remaining warranty coverage, making it a valuable and attractive selling feature."
-  }
- ],
- "keywords": [
-  "solar battery storage",
-  "Tesla Powerwall",
-  "home battery backup",
-  "energy storage system",
-  "solar batteries",
-  "backup power system"
- ],
- "localKeywords": [
-  "solar battery storage Agawam MA",
-  "Tesla Powerwall Agawam",
-  "battery storage Agawam Massachusetts",
-  "Powerwall installation Agawam",
-  "solar battery Hampden County",
-  "backup power Agawam",
-  "Agawam energy storage"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Agawam Battery Quote",
- "ctaSecondary": "Schedule Free Energy Assessment",
- "ctaUrgency": "Special Offer Available - Limited Time!"
+  ],
+  "keywords": [
+    "solar battery storage",
+    "Tesla Powerwall",
+    "home battery backup",
+    "energy storage system",
+    "solar batteries",
+    "backup power system"
+  ],
+  "localKeywords": [
+    "solar battery storage Agawam MA",
+    "Tesla Powerwall Agawam",
+    "battery storage Agawam Massachusetts",
+    "Powerwall installation Agawam",
+    "solar battery Hampden County",
+    "backup power Agawam",
+    "Agawam energy storage"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Agawam Battery Quote",
+  "ctaSecondary": "Schedule Free Energy Assessment",
+  "ctaUrgency": "Special Offer Available - Limited Time!"
 }

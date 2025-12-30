@@ -1,191 +1,191 @@
 {
- "id": "ground-mount-solar-hadley",
- "service": "Ground-Mount Solar Systems",
- "serviceSlug": "ground-mount-solar",
- "location": "Hadley",
- "locationSlug": "hadley",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Ground-Mount Solar Hadley MA - Farm & Agricultural Solar Experts",
- "metaDescription": "Ground-mount solar systems in Hadley, MA. Perfect for farms and large properties. Agricultural solar specialists. Maximum energy efficiency. Free quote!",
- "h1": "Ground-Mount Solar Systems for Hadley Farms and Properties",
- "heroHeadline": "Agricultural Solar Solutions for Hadley's Farming Community",
- "heroSubheadline": "Maximize Land Value - Generate Clean Energy While Farming Continues",
- "serviceDescription": "Hadley's rich agricultural heritage meets clean energy innovation with ground-mount solar systems designed specifically for farms and large properties. As specialists in agricultural solar installations throughout Hampshire County, we understand the unique needs of Hadley's farming community. Our ground-mount solar solutions allow you to generate significant income from solar energy while continuing agricultural operations on the same land. Hadley is ideally suited for ground-mount solar installations due to its flat, open terrain and excellent sun exposure in the Connecticut River Valley. Our systems are designed to complement farming operations, not replace them. We offer traditional ground-mount arrays for unused land, as well as innovative agrivoltaic systems that elevate panels high enough for equipment to pass underneath or livestock to graze. Our team has extensive experience working with Hadley farms, understanding everything from the valley's unique soil conditions to the specific permitting requirements of the Hadley Planning Board. We've helped tobacco farms, vegetable farms, and orchards throughout Hadley offset their energy costs while generating additional revenue through solar production. Ground-mount systems are particularly valuable for Hadley agricultural properties because they can be sized much larger than rooftop systems, generating enough electricity to power irrigation pumps, refrigeration, processing equipment, and farm buildings. With Massachusetts' SMART program offering excellent incentive rates for agricultural solar, combined with flexible financings and accelerated depreciation for farm businesses, the financial benefits are compelling. Our ground-mount installations in Hadley feature robust racking systems engineered to withstand the valley's weather patterns, including high winds, heavy snow, and occasional flooding. We handle all aspects of the project from initial feasibility studies through long-term maintenance.",
- "shortDescription": "Specialized ground-mount solar for Hadley farms and properties. Agricultural solar experts. Continue farming while generating clean energy. Premium systems engineered for Connecticut River Valley conditions. Free farm assessment available.",
- "benefits": [
-  "Generate significant income from unused farmland in Hadley",
-  "Offset high agricultural energy costs for irrigation and equipment",
-  "Agrivoltaic systems compatible with continued farming",
-  "Higher SMART incentive rates for agricultural properties",
-  "Accelerated depreciation benefits for farm businesses",
-  "Dual land use - solar energy plus agriculture",
-  "Perfect for Hadley's flat, open valley terrain",
-  "Engineered for Connecticut River Valley weather conditions"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Farm Site Assessment",
-   "description": "We visit your Hadley farm or property to evaluate land availability, farming operations, sun exposure, soil conditions, and energy needs. We discuss how solar can integrate with your agricultural business and provide preliminary financial analysis."
-  },
-  {
-   "step": 2,
-   "title": "Custom Agricultural Design",
-   "description": "Our engineers create a ground-mount solar design that complements your farming operations. For agrivoltaic systems, we determine optimal panel heights and spacing. We calculate energy production, SMART incentive rates, and complete financial projections for your Hadley property."
-  },
-  {
-   "step": 3,
-   "title": "Agricultural Permitting",
-   "description": "We handle all permitting with the Town of Hadley, including Agricultural Protection Restrictions (APR) compliance if applicable. Our experience with agricultural solar in Hadley ensures smooth approval processes while protecting your farm's status."
-  },
-  {
-   "step": 4,
-   "title": "Professional Installation",
-   "description": "Our certified team installs your ground-mount system with minimal disruption to farming operations. We coordinate installation timing around your agricultural schedule and ensure all work respects your land and crops."
-  },
-  {
-   "step": 5,
-   "title": "System Activation and Monitoring",
-   "description": "After final inspections and utility interconnection, we activate your system and set up remote monitoring. You'll start generating clean energy and earning SMART benefits immediately while continuing normal farming operations."
-  }
- ],
- "features": [
-  "Agricultural-grade ground-mount racking for valley conditions",
-  "High-efficiency solar panels optimized for New England performance",
-  "Commercial-scale inverters for large farm arrays",
-  "Optional elevated mounting for agrivoltaic systems",
-  "Drainage design compatible with valley flood conditions",
-  "Professional monitoring systems for performance tracking"
- ],
- "pricingInfo": "Agricultural ground-mount solar systems in Hadley vary significantly based on scale, typically ranging from $40,000 for smaller farm arrays to $500,000+ for large agricultural solar installations. However, with the SMART program's agricultural adder, flexible financings, accelerated depreciation (MACRS), and potential USDA REAP grants, the effective net cost can be reduced by 50-70%. Most Hadley farms achieve payback in 5-8 years with 25+ years of revenue generation. Contact us for a detailed financial analysis for your specific property.",
- "serviceArea": "Hadley, North Hadley, and surrounding Connecticut River Valley agricultural communities",
- "availability": "Monday-Friday: 7:00 AM - 6:00 PM, Saturday: By appointment for farm consultations",
- "responseTime": "Free farm assessment within 48 hours, installation timeline 6-12 weeks depending on system size",
- "qualifications": [
-  "NABCEP Certified Solar Installers",
-  "Agricultural Solar Installation Specialists",
-  "Massachusetts Licensed Electricians",
-  "Experienced with APR and farmland regulations",
-  "Commercial solar installation certified"
- ],
- "yearsExperience": "12+ years specializing in agricultural solar",
- "projectsCompleted": "100+ farm solar installations in Pioneer Valley",
- "guarantees": [
-  "25-year solar panel performance warranty",
-  "10-year installation workmanship guarantee",
-  "25-year inverter warranty for commercial systems",
-  "Ongoing support for SMART program compliance"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1605816218537-3f87ab28140c?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Agricultural ground-mount solar installation on Hadley Massachusetts farm",
-   "caption": "Agrivoltaic solar system on Hadley farm combining renewable energy with agriculture",
-   "credit": {
-    "photographer": "Nuno Marques",
-    "unsplashUrl": "https://unsplash.com/photos/agricultural-solar-farm"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Large commercial ground-mount solar array",
-    "caption": "Commercial-scale ground-mount solar for Hadley agricultural operations",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/commercial-solar-ground"
+  "id": "ground-mount-solar-hadley",
+  "service": "Ground-Mount Solar Systems",
+  "serviceSlug": "ground-mount-solar",
+  "location": "Hadley",
+  "locationSlug": "hadley",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Ground-Mount Solar Hadley MA - Farm & Agricultural Solar Experts",
+  "metaDescription": "Ground-mount solar systems in Hadley, MA. Perfect for farms and large properties. Agricultural solar specialists. Maximum energy efficiency. Free quote!",
+  "h1": "Ground-Mount Solar Systems for Hadley Farms and Properties",
+  "heroHeadline": "Agricultural Solar Solutions for Hadley's Farming Community",
+  "heroSubheadline": "Maximize Land Value - Generate Clean Energy While Farming Continues",
+  "serviceDescription": "Hadley's rich agricultural heritage meets clean energy innovation with ground-mount solar systems designed specifically for farms and large properties. As specialists in agricultural solar installations throughout Hampshire County, we understand the unique needs of Hadley's farming community. Our ground-mount solar solutions allow you to generate significant income from solar energy while continuing agricultural operations on the same land. Hadley is ideally suited for ground-mount solar installations due to its flat, open terrain and excellent sun exposure in the Connecticut River Valley. Our systems are designed to complement farming operations, not replace them. We offer traditional ground-mount arrays for unused land, as well as innovative agrivoltaic systems that elevate panels high enough for equipment to pass underneath or livestock to graze. Our team has extensive experience working with Hadley farms, understanding everything from the valley's unique soil conditions to the specific permitting requirements of the Hadley Planning Board. We've helped tobacco farms, vegetable farms, and orchards throughout Hadley offset their energy costs while generating additional revenue through solar production. Ground-mount systems are particularly valuable for Hadley agricultural properties because they can be sized much larger than rooftop systems, generating enough electricity to power irrigation pumps, refrigeration, processing equipment, and farm buildings. With Massachusetts' SMART program offering excellent incentive rates for agricultural solar, combined with flexible benefits and accelerated depreciation for farm businesses, the financial benefits are compelling. Our ground-mount installations in Hadley feature robust racking systems engineered to withstand the valley's weather patterns, including high winds, heavy snow, and occasional flooding. We handle all aspects of the project from initial feasibility studies through long-term maintenance.",
+  "shortDescription": "Specialized ground-mount solar for Hadley farms and properties. Agricultural solar experts. Continue farming while generating clean energy. Premium systems engineered for Connecticut River Valley conditions. Free farm assessment available.",
+  "benefits": [
+    "Generate significant income from unused farmland in Hadley",
+    "Offset high agricultural energy costs for irrigation and equipment",
+    "Agrivoltaic systems compatible with continued farming",
+    "Higher SMART incentive rates for agricultural properties",
+    "Accelerated depreciation benefits for farm businesses",
+    "Dual land use - solar energy plus agriculture",
+    "Perfect for Hadley's flat, open valley terrain",
+    "Engineered for Connecticut River Valley weather conditions"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Farm Site Assessment",
+      "description": "We visit your Hadley farm or property to evaluate land availability, farming operations, sun exposure, soil conditions, and energy needs. We discuss how solar can integrate with your agricultural business and provide preliminary financial analysis."
+    },
+    {
+      "step": 2,
+      "title": "Custom Agricultural Design",
+      "description": "Our engineers create a ground-mount solar design that complements your farming operations. For agrivoltaic systems, we determine optimal panel heights and spacing. We calculate energy production, SMART incentive rates, and complete financial projections for your Hadley property."
+    },
+    {
+      "step": 3,
+      "title": "Agricultural Permitting",
+      "description": "We handle all permitting with the Town of Hadley, including Agricultural Protection Restrictions (APR) compliance if applicable. Our experience with agricultural solar in Hadley ensures smooth approval processes while protecting your farm's status."
+    },
+    {
+      "step": 4,
+      "title": "Professional Installation",
+      "description": "Our certified team installs your ground-mount system with minimal disruption to farming operations. We coordinate installation timing around your agricultural schedule and ensure all work respects your land and crops."
+    },
+    {
+      "step": 5,
+      "title": "System Activation and Monitoring",
+      "description": "After final inspections and utility interconnection, we activate your system and set up remote monitoring. You'll start generating clean energy and earning SMART benefits immediately while continuing normal farming operations."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar farm with multiple ground-mount arrays",
-    "caption": "Large ground-mount solar installation in Connecticut River Valley",
-    "credit": {
-     "photographer": "Markus Spiske",
-     "unsplashUrl": "https://unsplash.com/photos/solar-farm-valley"
+  ],
+  "features": [
+    "Agricultural-grade ground-mount racking for valley conditions",
+    "High-efficiency solar panels optimized for New England performance",
+    "Commercial-scale inverters for large farm arrays",
+    "Optional elevated mounting for agrivoltaic systems",
+    "Drainage design compatible with valley flood conditions",
+    "Professional monitoring systems for performance tracking"
+  ],
+  "pricingInfo": "Agricultural ground-mount solar systems in Hadley vary significantly based on scale, typically ranging from $40,000 for smaller farm arrays to $500,000+ for large agricultural solar installations. However, with the SMART program's agricultural adder, flexible benefits, accelerated depreciation (MACRS), and potential USDA REAP grants, the effective net cost can be reduced by 50-70%. Most Hadley farms achieve payback in 5-8 years with 25+ years of revenue generation. Contact us for a detailed financial analysis for your specific property.",
+  "serviceArea": "Hadley, North Hadley, and surrounding Connecticut River Valley agricultural communities",
+  "availability": "Monday-Friday: 7:00 AM - 6:00 PM, Saturday: By appointment for farm consultations",
+  "responseTime": "Free farm assessment within 48 hours, installation timeline 6-12 weeks depending on system size",
+  "qualifications": [
+    "NABCEP Certified Solar Installers",
+    "Agricultural Solar Installation Specialists",
+    "Massachusetts Licensed Electricians",
+    "Experienced with APR and farmland regulations",
+    "Commercial solar installation certified"
+  ],
+  "yearsExperience": "12+ years specializing in agricultural solar",
+  "projectsCompleted": "100+ farm solar installations in Pioneer Valley",
+  "guarantees": [
+    "25-year solar panel performance warranty",
+    "10-year installation workmanship guarantee",
+    "25-year inverter warranty for commercial systems",
+    "Ongoing support for SMART program compliance"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1605816218537-3f87ab28140c?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Agricultural ground-mount solar installation on Hadley Massachusetts farm",
+      "caption": "Agrivoltaic solar system on Hadley farm combining renewable energy with agriculture",
+      "credit": {
+        "photographer": "Nuno Marques",
+        "unsplashUrl": "https://unsplash.com/photos/agricultural-solar-farm"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Large commercial ground-mount solar array",
+        "caption": "Commercial-scale ground-mount solar for Hadley agricultural operations",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/commercial-solar-ground"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar farm with multiple ground-mount arrays",
+        "caption": "Large ground-mount solar installation in Connecticut River Valley",
+        "credit": {
+          "photographer": "Markus Spiske",
+          "unsplashUrl": "https://unsplash.com/photos/solar-farm-valley"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Ground solar panels on farmland",
+        "caption": "Ground-mount solar seamlessly integrated with Hadley farmland",
+        "credit": {
+          "photographer": "Zbynek Burival",
+          "unsplashUrl": "https://unsplash.com/photos/farm-ground-solar"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar installation worker on agricultural site",
+        "caption": "Professional agricultural solar installation in Hadley",
+        "credit": {
+          "photographer": "Los Muertos Crew",
+          "unsplashUrl": "https://unsplash.com/photos/farm-solar-install"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Hadley Farms are Choosing Ground-Mount Solar",
+    "Agrivoltaics: Farming and Solar Energy on the Same Land",
+    "Agricultural Solar Installation Process for Hadley Properties",
+    "Financial Benefits of Farm Solar in Hadley",
+    "SMART Program and Agricultural Solar benefits",
+    "Frequently Asked Questions for Hadley Agricultural Solar"
+  ],
+  "faq": [
+    {
+      "question": "Can I continue farming on land with ground-mount solar panels?",
+      "answer": "Yes! Agrivoltaic systems are specifically designed for this purpose. We can install elevated solar arrays that allow equipment to pass underneath, livestock to graze, or certain crops to grow in partial shade. Many Hadley farms successfully combine solar generation with continued agricultural use, maximizing land productivity."
+    },
+    {
+      "question": "How much can my Hadley farm earn from ground-mount solar?",
+      "answer": "Earnings vary based on system size and SMART incentive rates, but Hadley farms typically generate $8,000-$50,000+ annually from solar production. With agricultural adders in the SMART program, enhanced incentive rates, and net metering credits, many farms see solar as a significant additional revenue stream that stabilizes farm income."
+    },
+    {
+      "question": "Will ground-mount solar affect my property's agricultural status or APR?",
+      "answer": "Solar installations on agricultural land require careful planning but can be compatible with Agricultural Protection Restrictions (APR). We work closely with the Massachusetts Department of Agricultural Resources and the Hadley Planning Board to ensure compliance. In many cases, agrivoltaic systems that allow continued farming are approved on APR land."
+    },
+    {
+      "question": "What financial benefits are available for farm solar in Hadley?",
+      "answer": "Farm businesses qualify for substantial financial benefits including the federal solar incentive, accelerated depreciation (MACRS) which allows 85% depreciation in year one, and potential exemption from property assessment increases. Some Hadley farms also qualify for USDA REAP grants covering up to 25% of system costs."
+    },
+    {
+      "question": "How much land do I need for a farm solar array in Hadley?",
+      "answer": "Land requirements depend on your energy goals and farming operations. A 100 kW system (enough for a small farm) needs about 0.5-0.75 acres. A 500 kW system (medium farm) requires 2-3 acres. Large agricultural solar projects can be 1 MW+ on 5-8 acres. We can assess your Hadley property to determine optimal sizing."
+    },
+    {
+      "question": "How do ground-mount solar systems handle Hadley's valley weather and flooding?",
+      "answer": "We design systems specifically for Connecticut River Valley conditions. Our racking systems are engineered for high winds and heavy snow loads. For properties in flood-prone areas of Hadley, we can elevate arrays and design drainage systems to allow water flow underneath. All electrical components are protected from moisture."
+    },
+    {
+      "question": "Can ground-mount solar power irrigation systems and farm equipment?",
+      "answer": "Absolutely! Many Hadley farms install solar specifically to offset the high costs of irrigation pumps, refrigeration, and equipment operation. Ground-mount systems can be sized large enough to cover all farm energy needs, and battery storage can be added to power critical operations during outages."
+    },
+    {
+      "question": "What's the installation timeline for agricultural solar in Hadley?",
+      "answer": "Agricultural solar projects typically take 6-12 weeks from contract to completion, depending on system size. This includes engineering (2-3 weeks), permitting and APR compliance review (3-6 weeks), installation (1-3 weeks), and utility interconnection (1-2 weeks). We coordinate installation around your farming schedule to minimize disruption."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Ground solar panels on farmland",
-    "caption": "Ground-mount solar seamlessly integrated with Hadley farmland",
-    "credit": {
-     "photographer": "Zbynek Burival",
-     "unsplashUrl": "https://unsplash.com/photos/farm-ground-solar"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar installation worker on agricultural site",
-    "caption": "Professional agricultural solar installation in Hadley",
-    "credit": {
-     "photographer": "Los Muertos Crew",
-     "unsplashUrl": "https://unsplash.com/photos/farm-solar-install"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Hadley Farms are Choosing Ground-Mount Solar",
-  "Agrivoltaics: Farming and Solar Energy on the Same Land",
-  "Agricultural Solar Installation Process for Hadley Properties",
-  "Financial Benefits of Farm Solar in Hadley",
-  "SMART Program and Agricultural Solar benefits",
-  "Frequently Asked Questions for Hadley Agricultural Solar"
- ],
- "faq": [
-  {
-   "question": "Can I continue farming on land with ground-mount solar panels?",
-   "answer": "Yes! Agrivoltaic systems are specifically designed for this purpose. We can install elevated solar arrays that allow equipment to pass underneath, livestock to graze, or certain crops to grow in partial shade. Many Hadley farms successfully combine solar generation with continued agricultural use, maximizing land productivity."
-  },
-  {
-   "question": "How much can my Hadley farm earn from ground-mount solar?",
-   "answer": "Earnings vary based on system size and SMART incentive rates, but Hadley farms typically generate $8,000-$50,000+ annually from solar production. With agricultural adders in the SMART program, enhanced incentive rates, and net metering credits, many farms see solar as a significant additional revenue stream that stabilizes farm income."
-  },
-  {
-   "question": "Will ground-mount solar affect my property's agricultural status or APR?",
-   "answer": "Solar installations on agricultural land require careful planning but can be compatible with Agricultural Protection Restrictions (APR). We work closely with the Massachusetts Department of Agricultural Resources and the Hadley Planning Board to ensure compliance. In many cases, agrivoltaic systems that allow continued farming are approved on APR land."
-  },
-  {
-   "question": "What tax benefits are available for farm solar in Hadley?",
-   "answer": "Farm businesses qualify for substantial tax benefits including the federal Investment financing, accelerated depreciation (MACRS) which allows 85% depreciation in year one, and potential exemption from property tax increases. Some Hadley farms also qualify for USDA REAP grants covering up to 25% of system costs."
-  },
-  {
-   "question": "How much land do I need for a farm solar array in Hadley?",
-   "answer": "Land requirements depend on your energy goals and farming operations. A 100 kW system (enough for a small farm) needs about 0.5-0.75 acres. A 500 kW system (medium farm) requires 2-3 acres. Large agricultural solar projects can be 1 MW+ on 5-8 acres. We can assess your Hadley property to determine optimal sizing."
-  },
-  {
-   "question": "How do ground-mount solar systems handle Hadley's valley weather and flooding?",
-   "answer": "We design systems specifically for Connecticut River Valley conditions. Our racking systems are engineered for high winds and heavy snow loads. For properties in flood-prone areas of Hadley, we can elevate arrays and design drainage systems to allow water flow underneath. All electrical components are protected from moisture."
-  },
-  {
-   "question": "Can ground-mount solar power irrigation systems and farm equipment?",
-   "answer": "Absolutely! Many Hadley farms install solar specifically to offset the high costs of irrigation pumps, refrigeration, and equipment operation. Ground-mount systems can be sized large enough to cover all farm energy needs, and battery storage can be added to power critical operations during outages."
-  },
-  {
-   "question": "What's the installation timeline for agricultural solar in Hadley?",
-   "answer": "Agricultural solar projects typically take 6-12 weeks from contract to completion, depending on system size. This includes engineering (2-3 weeks), permitting and APR compliance review (3-6 weeks), installation (1-3 weeks), and utility interconnection (1-2 weeks). We coordinate installation around your farming schedule to minimize disruption."
-  }
- ],
- "keywords": [
-  "agricultural solar",
-  "farm solar panels",
-  "agrivoltaic systems",
-  "ground mount solar farm",
-  "commercial ground solar",
-  "farming solar energy"
- ],
- "localKeywords": [
-  "Hadley farm solar",
-  "agricultural solar Hadley MA",
-  "Connecticut River Valley solar",
-  "Hadley Massachusetts farm solar",
-  "Pioneer Valley agricultural solar",
-  "Hadley ground mount solar"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Farm Solar Assessment",
- "ctaSecondary": "Schedule Agricultural Solar Consultation",
- "ctaUrgency": "SMART Program Agricultural benefits Available"
+  ],
+  "keywords": [
+    "agricultural solar",
+    "farm solar panels",
+    "agrivoltaic systems",
+    "ground mount solar farm",
+    "commercial ground solar",
+    "farming solar energy"
+  ],
+  "localKeywords": [
+    "Hadley farm solar",
+    "agricultural solar Hadley MA",
+    "Connecticut River Valley solar",
+    "Hadley Massachusetts farm solar",
+    "Pioneer Valley agricultural solar",
+    "Hadley ground mount solar"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Farm Solar Assessment",
+  "ctaSecondary": "Schedule Agricultural Solar Consultation",
+  "ctaUrgency": "SMART Program Agricultural benefits Available"
 }

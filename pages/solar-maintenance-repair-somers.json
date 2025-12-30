@@ -1,190 +1,190 @@
 {
- "id": "solar-maintenance-repair-somers",
- "service": "Solar Panel Maintenance & Repair",
- "serviceSlug": "solar-maintenance-repair",
- "location": "Somers",
- "locationSlug": "somers",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Panel Maintenance Somers CT - Expert Repair & Cleaning Services",
- "metaDescription": "Top-rated solar panel maintenance & repair in Somers, CT. Professional cleaning, inspections, and repairs. Maximize your solar ROI. 15+ years experience. Free estimate!",
- "h1": "Solar Panel Maintenance & Repair Services in Somers, CT",
- "heroHeadline": "Somers' Premier Solar Maintenance & Repair Company",
- "heroSubheadline": "Certified Technicians • Maximum Efficiency • Lifetime Support",
- "serviceDescription": "Your solar panel investment in Somers, Connecticut deserves the highest level of professional care to ensure decades of reliable, efficient energy production. Our specialized solar maintenance and repair services keep your system operating at peak performance while protecting your valuable investment from premature wear and costly failures. With over 15 years serving Somers and the Tolland County area, we've become the trusted choice for homeowners and businesses who demand excellence in solar service.\n\nMaintaining optimal solar performance in Somers requires addressing the unique challenges of Connecticut's climate. Our comprehensive maintenance services include professional panel cleaning using purified water systems and specialized techniques that safely remove dirt, pollen, tree sap, and bird droppings without damaging protective coatings. We perform detailed electrical inspections, checking every connection point, testing inverter performance, and verifying all safety systems. Our advanced diagnostic equipment measures actual versus expected output, identifying even minor efficiency losses before they impact your energy savings.\n\nWhen repairs become necessary, our Somers solar repair team responds quickly with the expertise and parts inventory to restore your system promptly. We handle all types of solar repairs including inverter diagnostics and replacement, panel repairs or replacement, wiring and connection issues, mounting system adjustments, and monitoring system troubleshooting. Whether you're experiencing error messages, reduced output, or visible damage from weather events, our NABCEP-certified technicians diagnose problems accurately and implement lasting solutions.\n\nWe service all major solar equipment brands and system configurations, from small residential rooftop arrays to larger ground-mounted installations. Our maintenance programs are customized to your system's specific needs based on age, location, and environmental factors unique to Somers. Don't wait for problems to become expensive - proactive maintenance from Somers' solar service experts ensures your system delivers maximum returns for its entire 25-30 year lifespan and beyond.",
- "shortDescription": "Professional solar panel maintenance and repair services in Somers, CT. Our certified experts provide comprehensive inspections, thorough cleaning, and efficient repairs to keep your solar system producing maximum energy. Serving Somers and Tolland County with excellence.",
- "benefits": [
-  "Boost energy output by up to 25% with professional panel cleaning and maintenance",
-  "Prevent system failures and expensive repairs through regular inspections",
-  "Rapid response times for repairs to minimize energy production losses in Somers",
-  "NABCEP-certified professionals with advanced solar system training",
-  "Full-service capability for all solar brands and inverter types",
-  "Detailed maintenance documentation for warranty compliance",
-  "Advanced thermal imaging and diagnostic equipment",
-  "Flexible maintenance plans designed for Somers' climate and conditions"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Initial Contact & Service Planning",
-   "description": "Reach out via phone or our website to discuss your solar maintenance needs or repair concerns. We'll gather information about your Somers system and schedule a convenient service appointment."
-  },
-  {
-   "step": 2,
-   "title": "Complete System Evaluation",
-   "description": "Our certified technicians conduct a thorough examination of your entire solar installation including panels, racking, inverter(s), wiring, safety disconnects, and monitoring systems. We use advanced tools to measure performance and identify any developing issues."
-  },
-  {
-   "step": 3,
-   "title": "Professional Cleaning & Preventive Maintenance",
-   "description": "We clean your panels using specialized equipment and eco-friendly solutions that maximize light absorption. All electrical connections are inspected, tested, and tightened. We check for signs of wear, corrosion, or damage that could affect performance."
-  },
-  {
-   "step": 4,
-   "title": "Repairs & Component Services",
-   "description": "If repairs are needed, we provide clear explanations and transparent pricing before proceeding. Our well-stocked service vehicles allow us to complete most repairs immediately. For complex issues requiring specialized parts, we schedule follow-up service promptly."
-  },
-  {
-   "step": 5,
-   "title": "Performance Validation & Reporting",
-   "description": "After completing service, we verify your system is operating at optimal capacity. You receive a comprehensive report documenting all work performed, current system performance, and recommendations for maintaining peak efficiency moving forward."
-  }
- ],
- "features": [
-  "Safe rooftop access and professional panel cleaning",
-  "Inverter testing, firmware updates, and repairs",
-  "Electrical safety testing and thermal imaging scans",
-  "Mounting and racking system inspections",
-  "Production monitoring system diagnostics",
-  "Weather damage assessment and repairs",
-  "Customized maintenance schedules for optimal performance",
-  "Energy production optimization consulting"
- ],
- "pricingInfo": "Solar panel maintenance in Somers starts at $175 for basic residential service. Annual maintenance programs range from $299-$649 based on system size and service frequency. Repair pricing varies - common inverter repairs $500-$1,800, panel replacement $350-$900 per panel, electrical repairs $150-$600. Free diagnostic evaluations provided. We offer transparent, competitive pricing with no hidden fees.",
- "serviceArea": "Somers, CT and surrounding Tolland County communities including Enfield, Stafford, Ellington, and areas within 30 miles of Springfield, MA",
- "availability": "Monday - Friday: 7:00 AM - 6:00 PM, Saturday: 8:00 AM - 4:00 PM, Sunday: Emergency service only",
- "responseTime": "Same-day emergency service available, routine maintenance within 1 week",
- "qualifications": [
-  "NABCEP Certified Solar Professionals",
-  "Connecticut Licensed Electricians (E-1 License)",
-  "Manufacturer-Certified Service Technicians",
-  "Comprehensive Liability and Workers Comp Insurance"
- ],
- "yearsExperience": "15+ years",
- "projectsCompleted": "2,000+ solar systems maintained",
- "guarantees": [
-  "12-month warranty on all repair workmanship",
-  "Satisfaction guarantee on maintenance services",
-  "Performance improvement or service fee refund"
- ],
- "emergencyAvailable": true,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Certified solar technician performing professional maintenance on solar panel system in Somers Connecticut",
-   "caption": "Expert Solar Panel Maintenance & Repair in Somers, CT",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Professional cleaning of solar panels to restore efficiency",
-    "caption": "Specialized Solar Panel Cleaning Services in Somers",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+  "id": "solar-maintenance-repair-somers",
+  "service": "Solar Panel Maintenance & Repair",
+  "serviceSlug": "solar-maintenance-repair",
+  "location": "Somers",
+  "locationSlug": "somers",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Panel Maintenance Somers CT - Expert Repair & Cleaning Services",
+  "metaDescription": "Top-rated solar panel maintenance & repair in Somers, CT. Professional cleaning, inspections, and repairs. Maximize your solar ROI. 15+ years experience. Free estimate!",
+  "h1": "Solar Panel Maintenance & Repair Services in Somers, CT",
+  "heroHeadline": "Somers' Premier Solar Maintenance & Repair Company",
+  "heroSubheadline": "Certified Technicians • Maximum Efficiency • Lifetime Support",
+  "serviceDescription": "Your solar panel investment in Somers, Connecticut deserves the highest level of professional care to ensure decades of reliable, efficient energy production. Our specialized solar maintenance and repair services keep your system operating at peak performance while protecting your valuable investment from premature wear and costly failures. With over 15 years serving Somers and the Tolland County area, we've become the trusted choice for homeowners and businesses who demand excellence in solar service.\n\nMaintaining optimal solar performance in Somers requires addressing the unique challenges of Connecticut's climate. Our comprehensive maintenance services include professional panel cleaning using purified water systems and specialized techniques that safely remove dirt, pollen, tree sap, and bird droppings without damaging protective coatings. We perform detailed electrical inspections, checking every connection point, testing inverter performance, and verifying all safety systems. Our advanced diagnostic equipment measures actual versus expected output, identifying even minor efficiency losses before they impact your energy savings.\n\nWhen repairs become necessary, our Somers solar repair team responds quickly with the expertise and parts inventory to restore your system promptly. We handle all types of solar repairs including inverter diagnostics and replacement, panel repairs or replacement, wiring and connection issues, mounting system adjustments, and monitoring system troubleshooting. Whether you're experiencing error messages, reduced output, or visible damage from weather events, our NABCEP-certified technicians diagnose problems accurately and implement lasting solutions.\n\nWe service all major solar equipment brands and system configurations, from small residential rooftop arrays to larger ground-mounted installations. Our maintenance programs are customized to your system's specific needs based on age, location, and environmental factors unique to Somers. Don't wait for problems to become expensive - proactive maintenance from Somers' solar service experts ensures your system delivers maximum returns for its entire 25-30 year lifespan and beyond.",
+  "shortDescription": "Professional solar panel maintenance and repair services in Somers, CT. Our certified experts provide comprehensive inspections, thorough cleaning, and efficient repairs to keep your solar system producing maximum energy. Serving Somers and Tolland County with excellence.",
+  "benefits": [
+    "Boost energy output by up to 25% with professional panel cleaning and maintenance",
+    "Prevent system failures and expensive repairs through regular inspections",
+    "Rapid response times for repairs to minimize energy production losses in Somers",
+    "NABCEP-certified professionals with advanced solar system training",
+    "Full-service capability for all solar brands and inverter types",
+    "Detailed maintenance documentation for warranty compliance",
+    "Advanced thermal imaging and diagnostic equipment",
+    "Flexible maintenance plans designed for Somers' climate and conditions"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Initial Contact & Service Planning",
+      "description": "Reach out via phone or our website to discuss your solar maintenance needs or repair concerns. We'll gather information about your Somers system and schedule a convenient service appointment."
+    },
+    {
+      "step": 2,
+      "title": "Complete System Evaluation",
+      "description": "Our certified technicians conduct a thorough examination of your entire solar installation including panels, racking, inverter(s), wiring, safety disconnects, and monitoring systems. We use advanced tools to measure performance and identify any developing issues."
+    },
+    {
+      "step": 3,
+      "title": "Professional Cleaning & Preventive Maintenance",
+      "description": "We clean your panels using specialized equipment and eco-friendly solutions that maximize light absorption. All electrical connections are inspected, tested, and tightened. We check for signs of wear, corrosion, or damage that could affect performance."
+    },
+    {
+      "step": 4,
+      "title": "Repairs & Component Services",
+      "description": "If repairs are needed, we provide clear explanations and transparent pricing before proceeding. Our well-stocked service vehicles allow us to complete most repairs immediately. For complex issues requiring specialized parts, we schedule follow-up service promptly."
+    },
+    {
+      "step": 5,
+      "title": "Performance Validation & Reporting",
+      "description": "After completing service, we verify your system is operating at optimal capacity. You receive a comprehensive report documenting all work performed, current system performance, and recommendations for maintaining peak efficiency moving forward."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1597933534696-84c573a803f3?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar inverter diagnostic testing and repair",
-    "caption": "Advanced Solar Equipment Diagnostics",
-    "credit": {
-     "photographer": "Frédéric Paulussen",
-     "unsplashUrl": "https://unsplash.com/photos/LWnD8U2OReU"
+  ],
+  "features": [
+    "Safe rooftop access and professional panel cleaning",
+    "Inverter testing, firmware updates, and repairs",
+    "Electrical safety testing and thermal imaging scans",
+    "Mounting and racking system inspections",
+    "Production monitoring system diagnostics",
+    "Weather damage assessment and repairs",
+    "Customized maintenance schedules for optimal performance",
+    "Energy production optimization consulting"
+  ],
+  "pricingInfo": "Solar panel maintenance in Somers starts at $175 for basic residential service. Annual maintenance programs range from $299-$649 based on system size and service frequency. Repair pricing varies - common inverter repairs $500-$1,800, panel replacement $350-$900 per panel, electrical repairs $150-$600. Free diagnostic evaluations provided. We offer transparent, competitive pricing with no hidden fees.",
+  "serviceArea": "Somers, CT and surrounding Tolland County communities including Enfield, Stafford, Ellington, and areas within 30 miles of Springfield, MA",
+  "availability": "Monday - Friday: 7:00 AM - 6:00 PM, Saturday: 8:00 AM - 4:00 PM, Sunday: Emergency service only",
+  "responseTime": "Same-day emergency service available, routine maintenance within 1 week",
+  "qualifications": [
+    "NABCEP Certified Solar Professionals",
+    "Connecticut Licensed Electricians (E-1 License)",
+    "Manufacturer-Certified Service Technicians",
+    "Comprehensive Liability and Workers Comp Insurance"
+  ],
+  "yearsExperience": "15+ years",
+  "projectsCompleted": "2,000+ solar systems maintained",
+  "guarantees": [
+    "12-month warranty on all repair workmanship",
+    "Satisfaction guarantee on maintenance services",
+    "Performance improvement or service fee refund"
+  ],
+  "emergencyAvailable": true,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Certified solar technician performing professional maintenance on solar panel system in Somers Connecticut",
+      "caption": "Expert Solar Panel Maintenance & Repair in Somers, CT",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional cleaning of solar panels to restore efficiency",
+        "caption": "Specialized Solar Panel Cleaning Services in Somers",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1597933534696-84c573a803f3?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar inverter diagnostic testing and repair",
+        "caption": "Advanced Solar Equipment Diagnostics",
+        "credit": {
+          "photographer": "Frédéric Paulussen",
+          "unsplashUrl": "https://unsplash.com/photos/LWnD8U2OReU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar repair technician working on residential system",
+        "caption": "Professional Solar Panel Repair Services",
+        "credit": {
+          "photographer": "Los Muertos Crew",
+          "unsplashUrl": "https://unsplash.com/photos/Uf3N0g8LqXo"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Clean, well-maintained solar panel array producing maximum power",
+        "caption": "Maximize Your Solar Investment with Expert Maintenance",
+        "credit": {
+          "photographer": "Zbynek Burival",
+          "unsplashUrl": "https://unsplash.com/photos/8iZG31eXkks"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Somers Residents Choose Our Solar Maintenance Services",
+    "Comprehensive Solar Panel Maintenance Programs",
+    "Professional Solar System Repair Services in Somers",
+    "The Value of Regular Solar Panel Maintenance",
+    "Solar Maintenance & Repair FAQs for Somers, CT",
+    "Get Started with Somers' Best Solar Service Company"
+  ],
+  "faq": [
+    {
+      "question": "Why is solar panel maintenance important in Somers, CT?",
+      "answer": "Somers experiences typical Connecticut weather including significant seasonal pollen, occasional severe storms, and winter conditions that can impact solar performance. Regular maintenance removes efficiency-reducing debris, identifies wear before failures occur, and ensures your system operates at maximum capacity year-round. Proper maintenance can increase energy production by 15-25% and extend system life by 5-10 years."
+    },
+    {
+      "question": "What's the difference between maintenance and repair services?",
+      "answer": "Maintenance is proactive service designed to keep your Somers solar system running optimally and prevent problems - it includes cleaning, inspections, testing, and minor adjustments. Repairs are reactive services that fix problems after they occur, such as replacing failed inverters, repairing damaged panels, or correcting electrical issues. Regular maintenance significantly reduces the need for expensive repairs."
+    },
+    {
+      "question": "How can I tell if my solar panels need professional cleaning?",
+      "answer": "Visible signs include dirt buildup, bird droppings, pollen accumulation, or water spots on panels. Performance indicators include declining energy production, lower output than expected for current weather conditions, or decreasing returns compared to previous months. Even if panels look clean, professional maintenance includes inspection and testing that identifies hidden issues affecting efficiency."
+    },
+    {
+      "question": "Do you provide maintenance for commercial solar systems in Somers?",
+      "answer": "Yes, we service both residential and commercial solar installations in Somers and throughout Tolland County. Commercial systems often benefit from more frequent maintenance due to their size and the higher cost of production losses. We offer customized maintenance contracts for commercial clients with flexible scheduling to minimize business disruption."
+    },
+    {
+      "question": "What happens during a solar panel maintenance visit?",
+      "answer": "Our comprehensive Somers maintenance service includes: safe access and panel cleaning using purified water, complete visual inspection of panels and mounting hardware, electrical connection testing and tightening, inverter diagnostics and performance testing, monitoring system verification, thermal imaging (when applicable), performance measurement against expected output, and a detailed service report with photos and recommendations."
+    },
+    {
+      "question": "Can you repair solar panels damaged by storms in Somers?",
+      "answer": "Yes, we handle all types of storm damage repairs including broken or cracked panels, damaged mounting systems, disconnected wiring, and inverter issues caused by power surges. We can assess damage for insurance claims and work directly with your insurance company. Our emergency service team can often respond same-day to make your Somers system safe and begin the repair process."
+    },
+    {
+      "question": "Is regular maintenance really worth the cost?",
+      "answer": "Absolutely. The cost of annual maintenance ($299-$649) is typically recovered through increased energy production within the first year. Maintenance prevents repairs that often cost $1,000-$3,000 or more, validates warranties (which may require proof of regular maintenance), and extends system life significantly. Most Somers solar owners find maintenance is one of their best investments in system performance and longevity."
+    },
+    {
+      "question": "How do I schedule solar maintenance service in Somers?",
+      "answer": "Simply call us at (413) 555-0100 or use our online scheduling form. We'll discuss your system, answer any questions, and schedule a convenient appointment. For new customers, we typically schedule within one week for routine maintenance. If you're experiencing problems, we offer priority and emergency scheduling to get your Somers solar system back to peak performance quickly."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar repair technician working on residential system",
-    "caption": "Professional Solar Panel Repair Services",
-    "credit": {
-     "photographer": "Los Muertos Crew",
-     "unsplashUrl": "https://unsplash.com/photos/Uf3N0g8LqXo"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Clean, well-maintained solar panel array producing maximum power",
-    "caption": "Maximize Your Solar Investment with Expert Maintenance",
-    "credit": {
-     "photographer": "Zbynek Burival",
-     "unsplashUrl": "https://unsplash.com/photos/8iZG31eXkks"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Somers Residents Choose Our Solar Maintenance Services",
-  "Comprehensive Solar Panel Maintenance Programs",
-  "Professional Solar System Repair Services in Somers",
-  "The Value of Regular Solar Panel Maintenance",
-  "Solar Maintenance & Repair FAQs for Somers, CT",
-  "Get Started with Somers' Best Solar Service Company"
- ],
- "faq": [
-  {
-   "question": "Why is solar panel maintenance important in Somers, CT?",
-   "answer": "Somers experiences typical Connecticut weather including significant seasonal pollen, occasional severe storms, and winter conditions that can impact solar performance. Regular maintenance removes efficiency-reducing debris, identifies wear before failures occur, and ensures your system operates at maximum capacity year-round. Proper maintenance can increase energy production by 15-25% and extend system life by 5-10 years."
-  },
-  {
-   "question": "What's the difference between maintenance and repair services?",
-   "answer": "Maintenance is proactive service designed to keep your Somers solar system running optimally and prevent problems - it includes cleaning, inspections, testing, and minor adjustments. Repairs are reactive services that fix problems after they occur, such as replacing failed inverters, repairing damaged panels, or correcting electrical issues. Regular maintenance significantly reduces the need for expensive repairs."
-  },
-  {
-   "question": "How can I tell if my solar panels need professional cleaning?",
-   "answer": "Visible signs include dirt buildup, bird droppings, pollen accumulation, or water spots on panels. Performance indicators include declining energy production, lower output than expected for current weather conditions, or decreasing returns compared to previous months. Even if panels look clean, professional maintenance includes inspection and testing that identifies hidden issues affecting efficiency."
-  },
-  {
-   "question": "Do you provide maintenance for commercial solar systems in Somers?",
-   "answer": "Yes, we service both residential and commercial solar installations in Somers and throughout Tolland County. Commercial systems often benefit from more frequent maintenance due to their size and the higher cost of production losses. We offer customized maintenance contracts for commercial clients with flexible scheduling to minimize business disruption."
-  },
-  {
-   "question": "What happens during a solar panel maintenance visit?",
-   "answer": "Our comprehensive Somers maintenance service includes: safe access and panel cleaning using purified water, complete visual inspection of panels and mounting hardware, electrical connection testing and tightening, inverter diagnostics and performance testing, monitoring system verification, thermal imaging (when applicable), performance measurement against expected output, and a detailed service report with photos and recommendations."
-  },
-  {
-   "question": "Can you repair solar panels damaged by storms in Somers?",
-   "answer": "Yes, we handle all types of storm damage repairs including broken or cracked panels, damaged mounting systems, disconnected wiring, and inverter issues caused by power surges. We can assess damage for insurance claims and work directly with your insurance company. Our emergency service team can often respond same-day to make your Somers system safe and begin the repair process."
-  },
-  {
-   "question": "Is regular maintenance really worth the cost?",
-   "answer": "Absolutely. The cost of annual maintenance ($299-$649) is typically recovered through increased energy production within the first year. Maintenance prevents repairs that often cost $1,000-$3,000 or more, validates warranties (which may require proof of regular maintenance), and extends system life significantly. Most Somers solar owners find maintenance is one of their best investments in system performance and longevity."
-  },
-  {
-   "question": "How do I schedule solar maintenance service in Somers?",
-   "answer": "Simply call us at (413) 555-0100 or use our online scheduling form. We'll discuss your system, answer any questions, and schedule a convenient appointment. For new customers, we typically schedule within one week for routine maintenance. If you're experiencing problems, we offer priority and emergency scheduling to get your Somers solar system back to peak performance quickly."
-  }
- ],
- "keywords": [
-  "solar panel maintenance",
-  "solar panel repair",
-  "solar cleaning",
-  "solar inspection",
-  "inverter service",
-  "solar system optimization"
- ],
- "localKeywords": [
-  "solar maintenance Somers CT",
-  "solar repair Somers Connecticut",
-  "solar panel cleaning Somers",
-  "Tolland County solar service",
-  "Somers solar technician"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Schedule Your Somers Solar Maintenance Now",
- "ctaSecondary": "Get Your Free System Assessment",
- "ctaUrgency": "Protect Your Investment - Book Maintenance Today"
+  ],
+  "keywords": [
+    "solar panel maintenance",
+    "solar panel repair",
+    "solar cleaning",
+    "solar inspection",
+    "inverter service",
+    "solar system optimization"
+  ],
+  "localKeywords": [
+    "solar maintenance Somers CT",
+    "solar repair Somers Connecticut",
+    "solar panel cleaning Somers",
+    "Tolland County solar service",
+    "Somers solar technician"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Schedule Your Somers Solar Maintenance Now",
+  "ctaSecondary": "Get Your Free System Assessment",
+  "ctaUrgency": "Protect Your Investment - Book Maintenance Today"
 }

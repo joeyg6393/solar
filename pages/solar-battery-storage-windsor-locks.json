@@ -1,197 +1,197 @@
 {
- "id": "solar-battery-storage-windsor-locks",
- "service": "Solar Battery Storage Installation",
- "serviceSlug": "solar-battery-storage",
- "location": "Windsor Locks",
- "locationSlug": "windsor-locks",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Battery Storage Windsor Locks CT - Tesla Powerwall Installation",
- "metaDescription": "Professional solar battery storage installation in Windsor Locks, CT. Tesla Powerwall certified installers. Energy independence, backup power, financing. Free quote today!",
- "h1": "Solar Battery Storage Installation in Windsor Locks, Connecticut",
- "heroHeadline": "Store Solar Energy & Achieve Energy Independence in Windsor Locks",
- "heroSubheadline": "Tesla Powerwall Installation • Backup Power • Lower Energy Bills • Flexible Financing",
- "serviceDescription": "Looking for reliable solar battery storage installation in Windsor Locks, Connecticut? Our certified solar battery installers bring advanced energy storage solutions to homeowners and businesses throughout Windsor Locks and Hartford County. With over 12 years of experience installing Tesla Powerwall, LG Chem, and other leading battery systems, we help Windsor Locks residents achieve true energy independence while protecting against power outages.\n\nSolar battery storage transforms how you use energy in your Windsor Locks home. Instead of sending excess solar power back to the grid at minimal rates, store that energy in a home battery backup system and use it when you need it most - during evening peak hours or during power outages. Windsor Locks homeowners are discovering that battery storage isn't just about backup power; it's about maximizing the value of their solar investment and taking control of their energy costs.\n\nOur Windsor Locks solar battery installation service includes comprehensive site assessment, system design customized to your energy usage patterns, professional installation by NABCEP-certified technicians, and complete integration with your existing solar panels or new solar installation. We work with all major battery brands including Tesla Powerwall 2 and Powerwall 3, LG Chem RESU, Enphase IQ Battery, and Generac PWRcell, ensuring you get the perfect energy storage solution for your Windsor Locks property.\n\nWindsor Locks residents benefit from exceptional benefits for battery storage. The Federal Solar Investment financing applies to battery systems when paired with solar panels, and Connecticut offers additional flexible financing through the Energy Storage Solutions program. We handle all permitting, utility interconnection paperwork, and incentive applications to make your Windsor Locks battery storage installation completely hassle-free. Join hundreds of satisfied Windsor Locks homeowners who've achieved energy independence with our professional battery storage solutions.",
- "shortDescription": "Professional solar battery storage installation in Windsor Locks, CT. Tesla Powerwall certified installers offering energy independence, backup power protection, and maximum solar savings. NABCEP-certified team with 12+ years experience serving Hartford County.",
- "benefits": [
-  "Energy independence - use your own stored solar power 24/7 in Windsor Locks",
-  "Backup power protection during outages common in Hartford County",
-  "Lower electricity bills by using stored energy during peak rate periods",
-  "Competitive pricing plus Connecticut financing options available",
-  "Tesla Powerwall certified installation team serving Windsor Locks",
-  "Seamless integration with existing or new solar panel systems",
-  "NABCEP-certified installers with 500+ battery installations completed",
-  "10-year workmanship guarantee on all Windsor Locks installations",
-  "Real-time energy monitoring through smartphone app",
-  "Increase home value with modern energy storage technology"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free Energy Assessment",
-   "description": "We analyze your Windsor Locks home's energy usage, existing solar system (if applicable), and backup power needs to design the perfect battery storage solution."
-  },
-  {
-   "step": 2,
-   "title": "Custom System Design",
-   "description": "Our engineers create a customized battery storage design optimized for your Windsor Locks property, including battery sizing, placement, and integration with your electrical system."
-  },
-  {
-   "step": 3,
-   "title": "Permits & Approvals",
-   "description": "We handle all permitting with Windsor Locks building department, utility interconnection with Eversource, and incentive applications including flexible financings."
-  },
-  {
-   "step": 4,
-   "title": "Professional Installation",
-   "description": "NABCEP-certified technicians install your battery system at your Windsor Locks home with minimal disruption, typically completing installation in 1-2 days."
-  },
-  {
-   "step": 5,
-   "title": "System Activation & Training",
-   "description": "We activate your system, configure energy management settings, and provide complete training on monitoring and optimizing your Windsor Locks battery storage system."
-  }
- ],
- "features": [
-  "Tesla Powerwall 2 & 3 certified installation",
-  "LG Chem, Enphase, and Generac battery options",
-  "Whole-home or partial-home backup configurations",
-  "Smart energy management integration",
-  "Storm Watch mode for automatic charging before severe weather",
-  "Time-based control for maximum utility bill savings",
-  "Solar panel integration and optimization",
-  "Expandable storage capacity for future growth",
-  "UL-certified electrical work and safety compliance",
-  "Comprehensive warranty coverage and ongoing support"
- ],
- "pricingInfo": "Solar battery storage installation in Windsor Locks typically ranges from $12,000 to $25,000 depending on battery capacity and system configuration. Tesla Powerwall systems (13.5 kWh) average $14,000-$16,000 installed. Remember, the competitive pricing reduces costs by $3,640-$6,500. We offer free detailed quotes, multiple financing options including $0-down solar loans, and help maximize all available Connecticut benefits. Contact us for a customized Windsor Locks battery storage proposal.",
- "serviceArea": "Windsor Locks and surrounding Hartford County communities including East Windsor, Enfield, Suffield, and Windsor. We serve all of Connecticut's Pioneer Valley region.",
- "availability": "Monday - Friday: 8:00 AM - 6:00 PM, Saturday: 9:00 AM - 4:00 PM, Sunday: Consultations by appointment",
- "responseTime": "Free consultation scheduling within 24 hours, site assessment within 3-5 days, installation typically completed 4-8 weeks after contract signing",
- "qualifications": [
-  "NABCEP Certified Solar Installation Professionals",
-  "Tesla Powerwall Certified Installers",
-  "Licensed Electricians (CT License #12345)",
-  "Enphase Certified Installer",
-  "BBB A+ Rating",
-  "Connecticut Home Improvement Contractor License"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ battery storage installations across Connecticut",
- "guarantees": [
-  "10-year workmanship guarantee on all installations",
-  "25-year solar panel warranties",
-  "10-year Tesla Powerwall warranty",
-  "Satisfaction guarantee - we're not done until you're thrilled"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Tesla Powerwall battery storage system installed in Windsor Locks Connecticut home",
-   "caption": "Professional Solar Battery Storage Installation in Windsor Locks, CT",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Tesla Powerwall home battery installation",
-    "caption": "Tesla Powerwall - The Gold Standard in Home Battery Storage",
-    "credit": {
-     "photographer": "Tesla",
-     "unsplashUrl": "https://unsplash.com/photos/powerwall-battery"
+  "id": "solar-battery-storage-windsor-locks",
+  "service": "Solar Battery Storage Installation",
+  "serviceSlug": "solar-battery-storage",
+  "location": "Windsor Locks",
+  "locationSlug": "windsor-locks",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Battery Storage Windsor Locks CT - Tesla Powerwall Installation",
+  "metaDescription": "Professional solar battery storage installation in Windsor Locks, CT. Tesla Powerwall certified installers. Energy independence, backup power, financing. Free quote today!",
+  "h1": "Solar Battery Storage Installation in Windsor Locks, Connecticut",
+  "heroHeadline": "Store Solar Energy & Achieve Energy Independence in Windsor Locks",
+  "heroSubheadline": "Tesla Powerwall Installation • Backup Power • Lower Energy Bills • Flexible Financing",
+  "serviceDescription": "Looking for reliable solar battery storage installation in Windsor Locks, Connecticut? Our certified solar battery installers bring advanced energy storage solutions to homeowners and businesses throughout Windsor Locks and Hartford County. With over 12 years of experience installing Tesla Powerwall, LG Chem, and other leading battery systems, we help Windsor Locks residents achieve true energy independence while protecting against power outages.\n\nSolar battery storage transforms how you use energy in your Windsor Locks home. Instead of sending excess solar power back to the grid at minimal rates, store that energy in a home battery backup system and use it when you need it most - during evening peak hours or during power outages. Windsor Locks homeowners are discovering that battery storage isn't just about backup power; it's about maximizing the value of their solar investment and taking control of their energy costs.\n\nOur Windsor Locks solar battery installation service includes comprehensive site assessment, system design customized to your energy usage patterns, professional installation by NABCEP-certified technicians, and complete integration with your existing solar panels or new solar installation. We work with all major battery brands including Tesla Powerwall 2 and Powerwall 3, LG Chem RESU, Enphase IQ Battery, and Generac PWRcell, ensuring you get the perfect energy storage solution for your Windsor Locks property.\n\nWindsor Locks residents benefit from exceptional benefits for battery storage. The Federal Solar Investment financing applies to battery systems when paired with solar panels, and Connecticut offers additional flexible financing through the Energy Storage Solutions program. We handle all permitting, utility interconnection paperwork, and incentive applications to make your Windsor Locks battery storage installation completely hassle-free. Join hundreds of satisfied Windsor Locks homeowners who've achieved energy independence with our professional battery storage solutions.",
+  "shortDescription": "Professional solar battery storage installation in Windsor Locks, CT. Tesla Powerwall certified installers offering energy independence, backup power protection, and maximum solar savings. NABCEP-certified team with 12+ years experience serving Hartford County.",
+  "benefits": [
+    "Energy independence - use your own stored solar power 24/7 in Windsor Locks",
+    "Backup power protection during outages common in Hartford County",
+    "Lower electricity bills by using stored energy during peak rate periods",
+    "Competitive pricing plus Connecticut financing options available",
+    "Tesla Powerwall certified installation team serving Windsor Locks",
+    "Seamless integration with existing or new solar panel systems",
+    "NABCEP-certified installers with 500+ battery installations completed",
+    "10-year workmanship guarantee on all Windsor Locks installations",
+    "Real-time energy monitoring through smartphone app",
+    "Increase home value with modern energy storage technology"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free Energy Assessment",
+      "description": "We analyze your Windsor Locks home's energy usage, existing solar system (if applicable), and backup power needs to design the perfect battery storage solution."
+    },
+    {
+      "step": 2,
+      "title": "Custom System Design",
+      "description": "Our engineers create a customized battery storage design optimized for your Windsor Locks property, including battery sizing, placement, and integration with your electrical system."
+    },
+    {
+      "step": 3,
+      "title": "Permits & Approvals",
+      "description": "We handle all permitting with Windsor Locks building department, utility interconnection with Eversource, and incentive applications including flexible benefits."
+    },
+    {
+      "step": 4,
+      "title": "Professional Installation",
+      "description": "NABCEP-certified technicians install your battery system at your Windsor Locks home with minimal disruption, typically completing installation in 1-2 days."
+    },
+    {
+      "step": 5,
+      "title": "System Activation & Training",
+      "description": "We activate your system, configure energy management settings, and provide complete training on monitoring and optimizing your Windsor Locks battery storage system."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar panels with battery storage system",
-    "caption": "Integrated Solar + Battery Storage for Maximum Energy Independence",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+  ],
+  "features": [
+    "Tesla Powerwall 2 & 3 certified installation",
+    "LG Chem, Enphase, and Generac battery options",
+    "Whole-home or partial-home backup configurations",
+    "Smart energy management integration",
+    "Storm Watch mode for automatic charging before severe weather",
+    "Time-based control for maximum utility bill savings",
+    "Solar panel integration and optimization",
+    "Expandable storage capacity for future growth",
+    "UL-certified electrical work and safety compliance",
+    "Comprehensive warranty coverage and ongoing support"
+  ],
+  "pricingInfo": "Solar battery storage installation in Windsor Locks typically ranges from $12,000 to $25,000 depending on battery capacity and system configuration. Tesla Powerwall systems (13.5 kWh) average $14,000-$16,000 installed. Remember, the competitive pricing reduces costs by $3,640-$6,500. We offer free detailed quotes, multiple financing options including $0-down solar loans, and help maximize all available Connecticut benefits. Contact us for a customized Windsor Locks battery storage proposal.",
+  "serviceArea": "Windsor Locks and surrounding Hartford County communities including East Windsor, Enfield, Suffield, and Windsor. We serve all of Connecticut's Pioneer Valley region.",
+  "availability": "Monday - Friday: 8:00 AM - 6:00 PM, Saturday: 9:00 AM - 4:00 PM, Sunday: Consultations by appointment",
+  "responseTime": "Free consultation scheduling within 24 hours, site assessment within 3-5 days, installation typically completed 4-8 weeks after contract signing",
+  "qualifications": [
+    "NABCEP Certified Solar Installation Professionals",
+    "Tesla Powerwall Certified Installers",
+    "Licensed Electricians (CT License #12345)",
+    "Enphase Certified Installer",
+    "BBB A+ Rating",
+    "Connecticut Home Improvement Contractor License"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ battery storage installations across Connecticut",
+  "guarantees": [
+    "10-year workmanship guarantee on all installations",
+    "25-year solar panel warranties",
+    "10-year Tesla Powerwall warranty",
+    "Satisfaction guarantee - we're not done until you're thrilled"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Tesla Powerwall battery storage system installed in Windsor Locks Connecticut home",
+      "caption": "Professional Solar Battery Storage Installation in Windsor Locks, CT",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Tesla Powerwall home battery installation",
+        "caption": "Tesla Powerwall - The Gold Standard in Home Battery Storage",
+        "credit": {
+          "photographer": "Tesla",
+          "unsplashUrl": "https://unsplash.com/photos/powerwall-battery"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar panels with battery storage system",
+        "caption": "Integrated Solar + Battery Storage for Maximum Energy Independence",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Home battery backup power during outage",
+        "caption": "Backup Power Protection for Windsor Locks Homes",
+        "credit": {
+          "photographer": "Science in HD",
+          "unsplashUrl": "https://unsplash.com/photos/yer_BPC_D8E"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1562564055-71e051d33c19?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar installer working on battery system",
+        "caption": "NABCEP-Certified Installation Team Serving Windsor Locks",
+        "credit": {
+          "photographer": "Los Muertos Crew",
+          "unsplashUrl": "https://unsplash.com/photos/solar-installer"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Choose Solar Battery Storage in Windsor Locks, Connecticut?",
+    "How Solar Battery Storage Works for Windsor Locks Homes",
+    "Tesla Powerwall vs. Other Battery Storage Options",
+    "Connecticut Solar Battery benefits & benefits",
+    "Our Solar Battery Installation Process in Windsor Locks",
+    "Frequently Asked Questions About Battery Storage in Windsor Locks"
+  ],
+  "faq": [
+    {
+      "question": "How much does Tesla Powerwall installation cost in Windsor Locks, CT?",
+      "answer": "Tesla Powerwall installation in Windsor Locks typically costs $14,000-$16,000 for a single 13.5 kWh unit, including all equipment and professional installation. After the competitive pricing, your net cost drops to approximately $10,360-$11,840. Multiple Powerwalls can be installed for greater storage capacity. We provide detailed quotes specific to your Windsor Locks home's energy needs and configuration."
+    },
+    {
+      "question": "Will a solar battery backup my entire Windsor Locks home during power outages?",
+      "answer": "Yes, with proper system sizing. A single Tesla Powerwall (13.5 kWh) can backup essential circuits (lights, refrigerator, internet, some outlets) for 24+ hours. For whole-home backup in Windsor Locks, we typically recommend 2-3 Powerwalls depending on your home's size and energy usage. We'll design a system that provides the backup protection your Windsor Locks family needs."
+    },
+    {
+      "question": "Can I add battery storage to my existing solar panels in Windsor Locks?",
+      "answer": "Absolutely! We regularly retrofit battery storage systems to existing solar installations throughout Windsor Locks and Hartford County. Whether you have a recent solar array or an older system, we can integrate modern battery storage. Tesla Powerwall and other batteries work with virtually all solar panel brands and inverter types. We'll assess your current Windsor Locks system and design the perfect battery integration."
+    },
+    {
+      "question": "What financing options are available for battery storage in Windsor Locks, Connecticut?",
+      "answer": "Windsor Locks residents qualify for the Federal Solar Investment financing when battery storage is paired with solar panels (new or existing). Connecticut also offers state-level benefits through Eversource's Energy Storage Solutions program, providing additional rebates. Combined, these benefits can reduce your battery storage investment by 30-40%. Our team handles all incentive applications for your Windsor Locks installation."
+    },
+    {
+      "question": "How long do solar batteries last in Windsor Locks's climate?",
+      "answer": "Premium batteries like Tesla Powerwall are designed for 10+ years of daily cycling and come with 10-year warranties. In Windsor Locks's climate (cold winters, warm summers), proper installation and temperature management ensure optimal battery lifespan. Most homeowners see 12-15 years of excellent performance. Tesla Powerwall maintains 70% capacity after 10 years. We install batteries in climate-controlled locations when possible to maximize longevity for Windsor Locks customers."
+    },
+    {
+      "question": "Will solar batteries save me money on electricity bills in Windsor Locks?",
+      "answer": "Yes, significantly! Windsor Locks residents served by Eversource face time-of-use rates and demand charges. Battery storage lets you use your stored solar energy during expensive peak evening hours instead of buying grid power. Typical Windsor Locks homeowners save $80-$150 monthly on electricity with optimized battery storage. Over the system's lifetime, savings typically exceed $15,000-$25,000. We'll calculate specific savings for your Windsor Locks home's usage patterns."
+    },
+    {
+      "question": "How long does battery storage installation take in Windsor Locks?",
+      "answer": "Professional battery storage installation at your Windsor Locks home typically takes 1-2 days for the physical installation. The complete timeline from contract signing to activation averages 4-8 weeks, including permitting with Windsor Locks building department, utility approval from Eversource, equipment delivery, and final inspection. We manage the entire process and keep you informed throughout your Windsor Locks installation."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Home battery backup power during outage",
-    "caption": "Backup Power Protection for Windsor Locks Homes",
-    "credit": {
-     "photographer": "Science in HD",
-     "unsplashUrl": "https://unsplash.com/photos/yer_BPC_D8E"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1562564055-71e051d33c19?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar installer working on battery system",
-    "caption": "NABCEP-Certified Installation Team Serving Windsor Locks",
-    "credit": {
-     "photographer": "Los Muertos Crew",
-     "unsplashUrl": "https://unsplash.com/photos/solar-installer"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Choose Solar Battery Storage in Windsor Locks, Connecticut?",
-  "How Solar Battery Storage Works for Windsor Locks Homes",
-  "Tesla Powerwall vs. Other Battery Storage Options",
-  "Connecticut Solar Battery benefits & financings",
-  "Our Solar Battery Installation Process in Windsor Locks",
-  "Frequently Asked Questions About Battery Storage in Windsor Locks"
- ],
- "faq": [
-  {
-   "question": "How much does Tesla Powerwall installation cost in Windsor Locks, CT?",
-   "answer": "Tesla Powerwall installation in Windsor Locks typically costs $14,000-$16,000 for a single 13.5 kWh unit, including all equipment and professional installation. After the competitive pricing, your net cost drops to approximately $10,360-$11,840. Multiple Powerwalls can be installed for greater storage capacity. We provide detailed quotes specific to your Windsor Locks home's energy needs and configuration."
-  },
-  {
-   "question": "Will a solar battery backup my entire Windsor Locks home during power outages?",
-   "answer": "Yes, with proper system sizing. A single Tesla Powerwall (13.5 kWh) can backup essential circuits (lights, refrigerator, internet, some outlets) for 24+ hours. For whole-home backup in Windsor Locks, we typically recommend 2-3 Powerwalls depending on your home's size and energy usage. We'll design a system that provides the backup protection your Windsor Locks family needs."
-  },
-  {
-   "question": "Can I add battery storage to my existing solar panels in Windsor Locks?",
-   "answer": "Absolutely! We regularly retrofit battery storage systems to existing solar installations throughout Windsor Locks and Hartford County. Whether you have a recent solar array or an older system, we can integrate modern battery storage. Tesla Powerwall and other batteries work with virtually all solar panel brands and inverter types. We'll assess your current Windsor Locks system and design the perfect battery integration."
-  },
-  {
-   "question": "What financing options are available for battery storage in Windsor Locks, Connecticut?",
-   "answer": "Windsor Locks residents qualify for the Federal Solar Investment financing when battery storage is paired with solar panels (new or existing). Connecticut also offers state-level benefits through Eversource's Energy Storage Solutions program, providing additional rebates. Combined, these benefits can reduce your battery storage investment by 30-40%. Our team handles all incentive applications for your Windsor Locks installation."
-  },
-  {
-   "question": "How long do solar batteries last in Windsor Locks's climate?",
-   "answer": "Premium batteries like Tesla Powerwall are designed for 10+ years of daily cycling and come with 10-year warranties. In Windsor Locks's climate (cold winters, warm summers), proper installation and temperature management ensure optimal battery lifespan. Most homeowners see 12-15 years of excellent performance. Tesla Powerwall maintains 70% capacity after 10 years. We install batteries in climate-controlled locations when possible to maximize longevity for Windsor Locks customers."
-  },
-  {
-   "question": "Will solar batteries save me money on electricity bills in Windsor Locks?",
-   "answer": "Yes, significantly! Windsor Locks residents served by Eversource face time-of-use rates and demand charges. Battery storage lets you use your stored solar energy during expensive peak evening hours instead of buying grid power. Typical Windsor Locks homeowners save $80-$150 monthly on electricity with optimized battery storage. Over the system's lifetime, savings typically exceed $15,000-$25,000. We'll calculate specific savings for your Windsor Locks home's usage patterns."
-  },
-  {
-   "question": "How long does battery storage installation take in Windsor Locks?",
-   "answer": "Professional battery storage installation at your Windsor Locks home typically takes 1-2 days for the physical installation. The complete timeline from contract signing to activation averages 4-8 weeks, including permitting with Windsor Locks building department, utility approval from Eversource, equipment delivery, and final inspection. We manage the entire process and keep you informed throughout your Windsor Locks installation."
-  }
- ],
- "keywords": [
-  "solar battery storage",
-  "Tesla Powerwall",
-  "home battery backup",
-  "energy storage system",
-  "solar plus storage",
-  "backup power",
-  "battery installation",
-  "LG Chem battery"
- ],
- "localKeywords": [
-  "solar battery storage Windsor Locks",
-  "Tesla Powerwall Windsor Locks CT",
-  "battery installation Hartford County",
-  "solar storage Connecticut",
-  "Powerwall installer Windsor Locks",
-  "home battery backup Windsor Locks",
-  "energy storage Windsor Locks Connecticut"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Solar Battery Storage Quote in Windsor Locks",
- "ctaSecondary": "Schedule Free Energy Assessment",
- "ctaUrgency": "Special Offer Available - Save $3,640+ on Battery Storage"
+  ],
+  "keywords": [
+    "solar battery storage",
+    "Tesla Powerwall",
+    "home battery backup",
+    "energy storage system",
+    "solar plus storage",
+    "backup power",
+    "battery installation",
+    "LG Chem battery"
+  ],
+  "localKeywords": [
+    "solar battery storage Windsor Locks",
+    "Tesla Powerwall Windsor Locks CT",
+    "battery installation Hartford County",
+    "solar storage Connecticut",
+    "Powerwall installer Windsor Locks",
+    "home battery backup Windsor Locks",
+    "energy storage Windsor Locks Connecticut"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Solar Battery Storage Quote in Windsor Locks",
+  "ctaSecondary": "Schedule Free Energy Assessment",
+  "ctaUrgency": "Special Offer Available - Save $3,640+ on Battery Storage"
 }

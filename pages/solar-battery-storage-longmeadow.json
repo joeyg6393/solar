@@ -1,195 +1,195 @@
 {
- "id": "solar-battery-storage-longmeadow",
- "service": "Solar Battery Storage Installation",
- "serviceSlug": "solar-battery-storage",
- "location": "Longmeadow",
- "locationSlug": "longmeadow",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Battery Storage Longmeadow MA - Premium Powerwall Service",
- "metaDescription": "Longmeadow's premium solar battery installer. Tesla Powerwall certified, luxury home expertise, backup power. financing. Free consultation!",
- "h1": "Solar Battery Storage Installation in Longmeadow, Massachusetts",
- "heroHeadline": "Longmeadow's Elite Solar Battery Storage Installer",
- "heroSubheadline": "Tesla Powerwall Certified - Premium Installation for Luxury Homes - Energy Independence Awaits",
- "serviceDescription": "Longmeadow homeowners expect excellence, and that's exactly what we deliver with our professional solar battery storage installation services. As one of Massachusetts' most prestigious communities, Longmeadow residents deserve battery storage solutions that match the quality of their homes. Our certified Tesla Powerwall installers bring over 12 years of experience working with Longmeadow's finest properties, delivering seamless energy independence and sophisticated backup power systems.\n\nLongmeadow's tree-lined streets and beautiful historic homes create a picturesque New England setting, but those same mature trees can become hazards during severe weather. Ice storms, nor'easters, and summer thunderstorms can down power lines and leave even the most beautiful homes in darkness. Solar battery storage eliminates this vulnerability, providing automatic backup power that maintains your home's comfort and security regardless of grid conditions.\n\nWe proudly serve all Longmeadow neighborhoods including Longmeadow Center, Bliss Road area, Williams Street corridor, and estates near Longmeadow Country Club. Our team has completed battery storage installations in some of Longmeadow's most prestigious properties, working discreetly and professionally to integrate cutting-edge energy technology without compromising your home's aesthetic appeal. Whether you're adding battery capacity to existing solar panels or installing a comprehensive solar + storage system, we deliver white-glove service and exceptional results.\n\nAs NABCEP certified professionals with Tesla Powerwall factory certification, we understand the unique requirements of Longmeadow's luxury homes, local building codes, and Eversource interconnection procedures. We manage every detail with the attention to excellence Longmeadow homeowners expect, from initial energy assessment and custom system design to permitting with the Town of Longmeadow, professional installation, and ongoing performance monitoring. Experience energy independence worthy of Longmeadow with solar battery storage that delivers reliability, substantial savings, and peace of mind.",
- "shortDescription": "Longmeadow's premier solar battery storage installer specializing in luxury homes. Tesla Powerwall certified with expert installation, complete backup power, and substantial energy savings delivered with white-glove service.",
- "benefits": [
-  "Premium Energy Independence - Elite battery storage for luxury homes",
-  "Substantial Bill Reduction - Save up to 90% on electricity costs",
-  "Discreet Installation - Preserve your home's aesthetic appeal",
-  "Tesla Powerwall Certified - Factory-trained expert technicians",
-  "Maximum Tax Benefits - federal credit plus financing options",
-  "Historic Home Expertise - Safe installation in vintage properties",
-  "White-Glove Service - The attention to detail Longmeadow expects",
-  "Property Value Enhancement - Premium systems add 4-6% home value"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Private Longmeadow Consultation",
-   "description": "We conduct a discreet, comprehensive assessment of your Longmeadow estate's energy needs, electrical infrastructure, and backup power priorities with complete attention to your privacy."
-  },
-  {
-   "step": 2,
-   "title": "Premium System Design",
-   "description": "Our engineers create an elegant battery storage solution tailored to your Longmeadow property, optimizing performance while maintaining your home's architectural integrity and curb appeal."
-  },
-  {
-   "step": 3,
-   "title": "Seamless Permitting Process",
-   "description": "We handle all permits with the Town of Longmeadow and coordinate with Eversource Energy, managing every regulatory detail so you don't have to."
-  },
-  {
-   "step": 4,
-   "title": "Expert Installation",
-   "description": "Our master electricians install your battery storage system with meticulous attention to detail, typically completing Longmeadow installations in 1-2 days with minimal disruption to your home."
-  },
-  {
-   "step": 5,
-   "title": "Concierge Activation & Support",
-   "description": "We provide comprehensive system commissioning, personalized training, and ongoing white-glove support to ensure your complete satisfaction."
-  }
- ],
- "features": [
-  "Tesla Powerwall 2 & Powerwall+ Premium Installation",
-  "Enphase IQ Battery Systems",
-  "Multiple Premium Battery Brands Available",
-  "Architectural Integration Expertise",
-  "Whole-Home Backup Capability",
-  "Intelligent Energy Management",
-  "Concierge-Level Support",
-  "Extended 10-Year Workmanship Warranty"
- ],
- "pricingInfo": "Premium solar battery storage installations in Longmeadow range from $13,500-$18,500 for Tesla Powerwall systems before benefits. After the federal solar financing and Massachusetts state programs, most Longmeadow homeowners invest $10,000-$13,700 net. With substantial monthly energy savings of $150-$250 through intelligent optimization, payback periods are 7-10 years while significantly enhancing property value. We offer premium financing options tailored to Longmeadow homeowners. Schedule your private consultation for a detailed proposal.",
- "serviceArea": "Longmeadow and surrounding communities including Longmeadow Center, East Longmeadow, and select properties throughout Hampden County",
- "availability": "Monday-Friday 8:00 AM - 6:00 PM, Saturday by appointment, private consultations available",
- "responseTime": "Priority scheduling for Longmeadow residents, installation typically within 2-3 weeks",
- "qualifications": [
-  "NABCEP Certified Solar Professionals",
-  "Tesla Powerwall Certified Premium Installer",
-  "Massachusetts Master Electrician License",
-  "Luxury Home Specialist Certification",
-  "BBB A+ Accredited Business",
-  "MA Construction Supervisor License #123456"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar installations, 200+ battery storage systems including 50+ Longmeadow properties",
- "guarantees": [
-  "10-year premium workmanship warranty",
-  "Tesla Powerwall 10-year manufacturer warranty",
-  "Lifetime concierge system monitoring",
-  "Performance guarantee - 70% capacity retention",
-  "100% satisfaction guarantee"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Tesla Powerwall on luxury Longmeadow home",
-   "caption": "Premium Battery Storage Installation in Longmeadow, MA",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1595421877555-06a8f9a4d4e1?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Premium battery backup system for luxury homes",
-    "caption": "Elite Backup Power for Longmeadow Estates",
-    "credit": {
-     "photographer": "Science in HD",
-     "unsplashUrl": "https://unsplash.com/photos/battery-storage"
+  "id": "solar-battery-storage-longmeadow",
+  "service": "Solar Battery Storage Installation",
+  "serviceSlug": "solar-battery-storage",
+  "location": "Longmeadow",
+  "locationSlug": "longmeadow",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Battery Storage Longmeadow MA - Premium Powerwall Service",
+  "metaDescription": "Longmeadow's premium solar battery installer. Tesla Powerwall certified, luxury home expertise, backup power. financing. Free consultation!",
+  "h1": "Solar Battery Storage Installation in Longmeadow, Massachusetts",
+  "heroHeadline": "Longmeadow's Elite Solar Battery Storage Installer",
+  "heroSubheadline": "Tesla Powerwall Certified - Premium Installation for Luxury Homes - Energy Independence Awaits",
+  "serviceDescription": "Longmeadow homeowners expect excellence, and that's exactly what we deliver with our professional solar battery storage installation services. As one of Massachusetts' most prestigious communities, Longmeadow residents deserve battery storage solutions that match the quality of their homes. Our certified Tesla Powerwall installers bring over 12 years of experience working with Longmeadow's finest properties, delivering seamless energy independence and sophisticated backup power systems.\n\nLongmeadow's tree-lined streets and beautiful historic homes create a picturesque New England setting, but those same mature trees can become hazards during severe weather. Ice storms, nor'easters, and summer thunderstorms can down power lines and leave even the most beautiful homes in darkness. Solar battery storage eliminates this vulnerability, providing automatic backup power that maintains your home's comfort and security regardless of grid conditions.\n\nWe proudly serve all Longmeadow neighborhoods including Longmeadow Center, Bliss Road area, Williams Street corridor, and estates near Longmeadow Country Club. Our team has completed battery storage installations in some of Longmeadow's most prestigious properties, working discreetly and professionally to integrate cutting-edge energy technology without compromising your home's aesthetic appeal. Whether you're adding battery capacity to existing solar panels or installing a comprehensive solar + storage system, we deliver white-glove service and exceptional results.\n\nAs NABCEP certified professionals with Tesla Powerwall factory certification, we understand the unique requirements of Longmeadow's luxury homes, local building codes, and Eversource interconnection procedures. We manage every detail with the attention to excellence Longmeadow homeowners expect, from initial energy assessment and custom system design to permitting with the Town of Longmeadow, professional installation, and ongoing performance monitoring. Experience energy independence worthy of Longmeadow with solar battery storage that delivers reliability, substantial savings, and peace of mind.",
+  "shortDescription": "Longmeadow's premier solar battery storage installer specializing in luxury homes. Tesla Powerwall certified with expert installation, complete backup power, and substantial energy savings delivered with white-glove service.",
+  "benefits": [
+    "Premium Energy Independence - Elite battery storage for luxury homes",
+    "Substantial Bill Reduction - Save up to 90% on electricity costs",
+    "Discreet Installation - Preserve your home's aesthetic appeal",
+    "Tesla Powerwall Certified - Factory-trained expert technicians",
+    "Maximum Savings - federal credit plus financing options",
+    "Historic Home Expertise - Safe installation in vintage properties",
+    "White-Glove Service - The attention to detail Longmeadow expects",
+    "Property Value Enhancement - Premium systems add 4-6% home value"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Private Longmeadow Consultation",
+      "description": "We conduct a discreet, comprehensive assessment of your Longmeadow estate's energy needs, electrical infrastructure, and backup power priorities with complete attention to your privacy."
+    },
+    {
+      "step": 2,
+      "title": "Premium System Design",
+      "description": "Our engineers create an elegant battery storage solution tailored to your Longmeadow property, optimizing performance while maintaining your home's architectural integrity and curb appeal."
+    },
+    {
+      "step": 3,
+      "title": "Seamless Permitting Process",
+      "description": "We handle all permits with the Town of Longmeadow and coordinate with Eversource Energy, managing every regulatory detail so you don't have to."
+    },
+    {
+      "step": 4,
+      "title": "Expert Installation",
+      "description": "Our master electricians install your battery storage system with meticulous attention to detail, typically completing Longmeadow installations in 1-2 days with minimal disruption to your home."
+    },
+    {
+      "step": 5,
+      "title": "Concierge Activation & Support",
+      "description": "We provide comprehensive system commissioning, personalized training, and ongoing white-glove support to ensure your complete satisfaction."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Luxury energy monitoring system dashboard",
-    "caption": "Sophisticated Energy Management & Monitoring",
-    "credit": {
-     "photographer": "Tyler Casey",
-     "unsplashUrl": "https://unsplash.com/photos/solar-monitoring"
+  ],
+  "features": [
+    "Tesla Powerwall 2 & Powerwall+ Premium Installation",
+    "Enphase IQ Battery Systems",
+    "Multiple Premium Battery Brands Available",
+    "Architectural Integration Expertise",
+    "Whole-Home Backup Capability",
+    "Intelligent Energy Management",
+    "Concierge-Level Support",
+    "Extended 10-Year Workmanship Warranty"
+  ],
+  "pricingInfo": "Premium solar battery storage installations in Longmeadow range from $13,500-$18,500 for Tesla Powerwall systems before benefits. After the competitive pricing and Massachusetts state programs, most Longmeadow homeowners invest $10,000-$13,700 net. With substantial monthly energy savings of $150-$250 through intelligent optimization, payback periods are 7-10 years while significantly enhancing property value. We offer premium financing options tailored to Longmeadow homeowners. Schedule your private consultation for a detailed proposal.",
+  "serviceArea": "Longmeadow and surrounding communities including Longmeadow Center, East Longmeadow, and select properties throughout Hampden County",
+  "availability": "Monday-Friday 8:00 AM - 6:00 PM, Saturday by appointment, private consultations available",
+  "responseTime": "Priority scheduling for Longmeadow residents, installation typically within 2-3 weeks",
+  "qualifications": [
+    "NABCEP Certified Solar Professionals",
+    "Tesla Powerwall Certified Premium Installer",
+    "Massachusetts Master Electrician License",
+    "Luxury Home Specialist Certification",
+    "BBB A+ Accredited Business",
+    "MA Construction Supervisor License #123456"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar installations, 200+ battery storage systems including 50+ Longmeadow properties",
+  "guarantees": [
+    "10-year premium workmanship warranty",
+    "Tesla Powerwall 10-year manufacturer warranty",
+    "Lifetime concierge system monitoring",
+    "Performance guarantee - 70% capacity retention",
+    "100% satisfaction guarantee"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Tesla Powerwall on luxury Longmeadow home",
+      "caption": "Premium Battery Storage Installation in Longmeadow, MA",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1595421877555-06a8f9a4d4e1?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Premium battery backup system for luxury homes",
+        "caption": "Elite Backup Power for Longmeadow Estates",
+        "credit": {
+          "photographer": "Science in HD",
+          "unsplashUrl": "https://unsplash.com/photos/battery-storage"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Luxury energy monitoring system dashboard",
+        "caption": "Sophisticated Energy Management & Monitoring",
+        "credit": {
+          "photographer": "Tyler Casey",
+          "unsplashUrl": "https://unsplash.com/photos/solar-monitoring"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Premium solar panels on luxury home",
+        "caption": "Elegant Solar + Storage Integration",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/solar-panels"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Master electrician premium installation",
+        "caption": "Expert Installation by Licensed Master Electricians",
+        "credit": {
+          "photographer": "Umberto",
+          "unsplashUrl": "https://unsplash.com/photos/electrical-work"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Longmeadow's Elite Choose Solar Battery Storage",
+    "Tesla Powerwall for Luxury Longmeadow Homes",
+    "Premium Battery Storage Investment & Returns",
+    "Battery Storage for Historic Longmeadow Properties",
+    "Longmeadow Installation Process & Timeline",
+    "Longmeadow Solar Battery Storage FAQs"
+  ],
+  "faq": [
+    {
+      "question": "How much does premium battery storage cost in Longmeadow?",
+      "answer": "Premium Tesla Powerwall installation in Longmeadow ranges from $13,500-$18,500 before benefits. After the competitive pricing and Massachusetts programs, net investment is approximately $10,000-$13,700. Longmeadow homeowners often install 2-3 Powerwalls for complete whole-home backup. We provide detailed proposals and premium financing options tailored to your needs."
+    },
+    {
+      "question": "Can battery storage be installed discreetly on historic Longmeadow homes?",
+      "answer": "Absolutely! We specialize in discreet battery storage installations on Longmeadow's beautiful historic properties. We carefully select installation locations - typically garages, basements, or side walls - that preserve your home's curb appeal and architectural character. Our team has extensive experience working with Longmeadow's historic properties and understands the importance of maintaining aesthetic integrity."
+    },
+    {
+      "question": "How long will batteries power my Longmeadow estate during outages?",
+      "answer": "For Longmeadow's larger homes, we typically recommend 2-3 Tesla Powerwalls (27-40.5 kWh total) for comprehensive backup power. This configuration can power your entire home including HVAC, kitchen appliances, lighting, and security systems for 24-48 hours during an outage. We'll conduct a detailed assessment of your specific energy needs and recommend the optimal battery configuration during your private consultation."
+    },
+    {
+      "question": "What makes your service different for Longmeadow homeowners?",
+      "answer": "We provide white-glove service that matches Longmeadow's standards of excellence. This includes private consultations, discreet installations that preserve your home's appearance, coordination with your staff or property manager if desired, premium materials and craftsmanship, and ongoing concierge-level support. We understand that Longmeadow homeowners expect the best, and we deliver accordingly."
+    },
+    {
+      "question": "Can battery storage be added to my existing Longmeadow solar system?",
+      "answer": "Yes! We frequently retrofit battery storage to existing solar systems on Longmeadow properties. Whether your solar installation is recent or several years old, we can integrate premium battery storage seamlessly. The process involves adding battery units, potentially upgrading inverters to premium models, and updating electrical connections - all performed with the discretion and quality Longmeadow homeowners expect."
+    },
+    {
+      "question": "What financial benefits are available for Longmeadow residents?",
+      "answer": "Longmeadow homeowners qualify for the flexible financing options on battery storage when paired with solar panels. You can also participate in Massachusetts' ConnectedSolutions program, earning $225-$375 annually per Powerwall. Combined with substantial energy savings ($150-$250 monthly), battery storage provides excellent financial returns while enhancing your property's value and energy independence."
+    },
+    {
+      "question": "How long does installation take for Longmeadow homes?",
+      "answer": "Premium installations in Longmeadow typically take 1-2 days for the physical work, though we schedule carefully to minimize any disruption to your household. The complete process from consultation to activation spans 2-3 weeks, including custom system design, permitting with the Town of Longmeadow, Eversource coordination, installation, and thorough commissioning."
+    },
+    {
+      "question": "Will battery storage increase my Longmeadow property value?",
+      "answer": "Yes! Solar + battery storage systems increase home values by 4-6% in Massachusetts, and the effect is often more pronounced in premium markets like Longmeadow. Discerning buyers increasingly seek energy-independent properties with sophisticated backup power systems. Your premium battery installation, complete with transferable warranties, becomes a significant selling advantage."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Premium solar panels on luxury home",
-    "caption": "Elegant Solar + Storage Integration",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/solar-panels"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Master electrician premium installation",
-    "caption": "Expert Installation by Licensed Master Electricians",
-    "credit": {
-     "photographer": "Umberto",
-     "unsplashUrl": "https://unsplash.com/photos/electrical-work"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Longmeadow's Elite Choose Solar Battery Storage",
-  "Tesla Powerwall for Luxury Longmeadow Homes",
-  "Premium Battery Storage Investment & Returns",
-  "Battery Storage for Historic Longmeadow Properties",
-  "Longmeadow Installation Process & Timeline",
-  "Longmeadow Solar Battery Storage FAQs"
- ],
- "faq": [
-  {
-   "question": "How much does premium battery storage cost in Longmeadow?",
-   "answer": "Premium Tesla Powerwall installation in Longmeadow ranges from $13,500-$18,500 before benefits. After the federal solar financing and Massachusetts programs, net investment is approximately $10,000-$13,700. Longmeadow homeowners often install 2-3 Powerwalls for complete whole-home backup. We provide detailed proposals and premium financing options tailored to your needs."
-  },
-  {
-   "question": "Can battery storage be installed discreetly on historic Longmeadow homes?",
-   "answer": "Absolutely! We specialize in discreet battery storage installations on Longmeadow's beautiful historic properties. We carefully select installation locations - typically garages, basements, or side walls - that preserve your home's curb appeal and architectural character. Our team has extensive experience working with Longmeadow's historic properties and understands the importance of maintaining aesthetic integrity."
-  },
-  {
-   "question": "How long will batteries power my Longmeadow estate during outages?",
-   "answer": "For Longmeadow's larger homes, we typically recommend 2-3 Tesla Powerwalls (27-40.5 kWh total) for comprehensive backup power. This configuration can power your entire home including HVAC, kitchen appliances, lighting, and security systems for 24-48 hours during an outage. We'll conduct a detailed assessment of your specific energy needs and recommend the optimal battery configuration during your private consultation."
-  },
-  {
-   "question": "What makes your service different for Longmeadow homeowners?",
-   "answer": "We provide white-glove service that matches Longmeadow's standards of excellence. This includes private consultations, discreet installations that preserve your home's appearance, coordination with your staff or property manager if desired, premium materials and craftsmanship, and ongoing concierge-level support. We understand that Longmeadow homeowners expect the best, and we deliver accordingly."
-  },
-  {
-   "question": "Can battery storage be added to my existing Longmeadow solar system?",
-   "answer": "Yes! We frequently retrofit battery storage to existing solar systems on Longmeadow properties. Whether your solar installation is recent or several years old, we can integrate premium battery storage seamlessly. The process involves adding battery units, potentially upgrading inverters to premium models, and updating electrical connections - all performed with the discretion and quality Longmeadow homeowners expect."
-  },
-  {
-   "question": "What tax benefits are available for Longmeadow residents?",
-   "answer": "Longmeadow homeowners qualify for the flexible financing options on battery storage when paired with solar panels. You can also participate in Massachusetts' ConnectedSolutions program, earning $225-$375 annually per Powerwall. Combined with substantial energy savings ($150-$250 monthly), battery storage provides excellent financial returns while enhancing your property's value and energy independence."
-  },
-  {
-   "question": "How long does installation take for Longmeadow homes?",
-   "answer": "Premium installations in Longmeadow typically take 1-2 days for the physical work, though we schedule carefully to minimize any disruption to your household. The complete process from consultation to activation spans 2-3 weeks, including custom system design, permitting with the Town of Longmeadow, Eversource coordination, installation, and thorough commissioning."
-  },
-  {
-   "question": "Will battery storage increase my Longmeadow property value?",
-   "answer": "Yes! Solar + battery storage systems increase home values by 4-6% in Massachusetts, and the effect is often more pronounced in premium markets like Longmeadow. Discerning buyers increasingly seek energy-independent properties with sophisticated backup power systems. Your premium battery installation, complete with transferable warranties, becomes a significant selling advantage."
-  }
- ],
- "keywords": [
-  "solar battery storage",
-  "Tesla Powerwall",
-  "luxury home battery",
-  "premium energy storage",
-  "high-end solar batteries",
-  "estate backup power"
- ],
- "localKeywords": [
-  "solar battery storage Longmeadow MA",
-  "Tesla Powerwall Longmeadow",
-  "luxury battery storage Longmeadow",
-  "premium Powerwall Longmeadow Massachusetts",
-  "Longmeadow energy storage",
-  "backup power Longmeadow estates"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Schedule Your Private Consultation",
- "ctaSecondary": "Request Premium Longmeadow Quote",
- "ctaUrgency": "Special Offer - Premium Service Available Now"
+  ],
+  "keywords": [
+    "solar battery storage",
+    "Tesla Powerwall",
+    "luxury home battery",
+    "premium energy storage",
+    "high-end solar batteries",
+    "estate backup power"
+  ],
+  "localKeywords": [
+    "solar battery storage Longmeadow MA",
+    "Tesla Powerwall Longmeadow",
+    "luxury battery storage Longmeadow",
+    "premium Powerwall Longmeadow Massachusetts",
+    "Longmeadow energy storage",
+    "backup power Longmeadow estates"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Schedule Your Private Consultation",
+  "ctaSecondary": "Request Premium Longmeadow Quote",
+  "ctaUrgency": "Special Offer - Premium Service Available Now"
 }

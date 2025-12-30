@@ -1,194 +1,194 @@
 {
- "id": "solar-roof-installation-wilbraham",
- "service": "Solar Roof Installation",
- "serviceSlug": "solar-roof-installation",
- "location": "Wilbraham",
- "locationSlug": "wilbraham",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Roof Installation Wilbraham MA - Tesla Solar Experts",
- "metaDescription": "Expert solar roof installation in Wilbraham, MA. Tesla-certified installers, integrated solar shingles, 25-year warranty. Serving Hampden County. Free quote!",
- "h1": "Professional Tesla Solar Roof Installation in Wilbraham, Massachusetts",
- "heroHeadline": "Wilbraham's Premier Tesla Solar Roof Installers",
- "heroSubheadline": "Energy Independence • Stunning Aesthetics • Lifetime Value",
- "serviceDescription": "Wilbraham homeowners are embracing sustainable energy solutions with premium Tesla Solar Roof installations from our certified specialists. For over 12 years, we've been serving this beautiful community and the surrounding Pioneer Valley region, bringing sophisticated solar roofing technology that perfectly complements Wilbraham's scenic residential character while delivering outstanding energy performance. Unlike conventional solar panels that mount atop existing roofs, Tesla Solar Roof seamlessly integrates photovoltaic technology into premium architectural shingles, creating an elegant, unified appearance while generating abundant clean energy for your Wilbraham home throughout the year.\n\nOur commitment to the Wilbraham community and deep understanding of local architecture ensures every solar roof installation enhances your home's distinctive character while maximizing energy efficiency. Every project is executed by our NABCEP-certified installation professionals who receive specialized Tesla Solar Roof training, guaranteeing exceptional workmanship and meticulous attention to detail. We thoroughly understand Wilbraham's building requirements, climate challenges, and the high standards of this community, designing solar roof systems that perform flawlessly through all New England weather conditions.\n\nWilbraham residents gain substantial financial benefits from solar roof installation: significant reductions in monthly electricity costs, notable increases in property value, environmental leadership, and access to generous Massachusetts solar benefits. The combination of the competitive pricing, Massachusetts SMART program rebates, and Eversource net metering can reduce your solar roof investment by $20,000-$30,000 or more. Many Wilbraham families achieve near-complete energy independence while protecting their households against unpredictable utility rate increases for decades.\n\nOur comprehensive service manages every aspect of your Wilbraham solar roof installation with the professionalism this community deserves. From initial site assessment and custom engineering through permitting with Wilbraham building department, expert installation, electrical integration, utility interconnection with Eversource, and ongoing system monitoring, we handle all the details. Our commitment to transparent communication, competitive pricing, superior quality, and exceptional customer service has earned us an A+ BBB rating and the enduring trust of Wilbraham families who now enjoy energy independence and long-term savings.",
- "shortDescription": "Tesla Solar Roof installation specialists serving Wilbraham, MA. NABCEP-certified professionals deliver premium integrated solar shingle systems with comprehensive warranties and complete service from consultation through activation.",
- "benefits": [
-  "Over 12 years serving Wilbraham and Hampden County",
-  "Tesla Solar Roof certified installation team",
-  "Elegant integrated solar shingles maintaining home beauty",
-  "25-year solar performance warranty plus 10-year installation guarantee",
-  "Boost Wilbraham home values by 15-20%",
-  "Eliminate monthly electricity bills through net metering",
-  "Premium Class 3 hail-rated architectural materials",
-  "Competitive pricing plus Massachusetts SMART benefits",
-  "Advanced real-time monitoring and analytics",
-  "Free comprehensive consultation and custom design"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Wilbraham Property Assessment",
-   "description": "Our specialists conduct thorough evaluation of your Wilbraham home, analyzing roof structure, solar exposure, shading patterns, and energy consumption. We combine satellite imaging with precise on-site measurements to design your optimal solar roof system."
-  },
-  {
-   "step": 2,
-   "title": "Engineering & Wilbraham Permitting",
-   "description": "Our engineers create detailed installation plans optimized for Wilbraham building codes and climate conditions. We handle all permit applications with Wilbraham building department and coordinate interconnection agreements with Eversource."
-  },
-  {
-   "step": 3,
-   "title": "Expert Installation",
-   "description": "Tesla-certified installers carefully remove your existing roof and install your integrated solar system with superior craftsmanship. We employ premium waterproofing, ventilation, and flashing techniques ensuring lasting protection for your Wilbraham home."
-  },
-  {
-   "step": 4,
-   "title": "Electrical System Integration",
-   "description": "Licensed Massachusetts electricians integrate your solar roof with your electrical panel, installing inverters, monitoring equipment, and optional Powerwall batteries. All work exceeds state electrical codes and safety requirements."
-  },
-  {
-   "step": 5,
-   "title": "Activation & Comprehensive Training",
-   "description": "Following Wilbraham inspections and Eversource approval, we activate your system and provide thorough training on monitoring energy production, understanding your savings, and maintaining optimal system performance."
-  }
- ],
- "features": [
-  "Tesla Solar Roof with integrated photovoltaic technology",
-  "Premium tempered glass tiles with architectural beauty",
-  "Tesla Powerwall battery storage integration available",
-  "Sophisticated smartphone monitoring and analytics",
-  "Multiple tile styles to complement any architecture",
-  "50+ year expected roof lifespan",
-  "Massachusetts weather-engineered materials",
-  "Seamless integration preserving home aesthetics"
- ],
- "pricingInfo": "Solar roof installation for Wilbraham homes typically ranges $45,000-$85,000 before benefits, based on roof size, complexity, and energy requirements. Massachusetts provides substantial savings: competitive pricing ($12,000-$22,000), plus SMART program rebates. Premium financing options include $0 down solar loans. Schedule your complimentary Wilbraham consultation for precise pricing.",
- "serviceArea": "Wilbraham, MA and surrounding communities including Springfield, East Longmeadow, Ludlow, Palmer, and throughout Hampden County",
- "availability": "Monday-Friday 7:00 AM - 6:00 PM, Saturday 8:00 AM - 4:00 PM",
- "responseTime": "Free consultation scheduled within 48 hours",
- "qualifications": [
-  "NABCEP Certified Solar Installation Professionals",
-  "Tesla Solar Roof Authorized Installation Team",
-  "Massachusetts State Licensed Roofers",
-  "Licensed Master Electricians",
-  "BBB A+ Rating",
-  "Eversource Authorized Solar Contractor"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar installations across Western Massachusetts",
- "guarantees": [
-  "25-year solar panel performance warranty",
-  "10-year installation workmanship guarantee",
-  "Tesla manufacturer warranties on all components",
-  "100% customer satisfaction guarantee"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Beautiful Tesla solar roof on Wilbraham Massachusetts home",
-   "caption": "Premium solar roof installation in Wilbraham",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1560419015-7c427e8ae5ba?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar installation team working on Wilbraham roof",
-    "caption": "Professional installation experts",
-    "credit": {
-     "photographer": "Bill Mead",
-     "unsplashUrl": "https://unsplash.com/photos/wmaP3Tl80ww"
+  "id": "solar-roof-installation-wilbraham",
+  "service": "Solar Roof Installation",
+  "serviceSlug": "solar-roof-installation",
+  "location": "Wilbraham",
+  "locationSlug": "wilbraham",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Roof Installation Wilbraham MA - Tesla Solar Experts",
+  "metaDescription": "Expert solar roof installation in Wilbraham, MA. Tesla-certified installers, integrated solar shingles, 25-year warranty. Serving Hampden County. Free quote!",
+  "h1": "Professional Tesla Solar Roof Installation in Wilbraham, Massachusetts",
+  "heroHeadline": "Wilbraham's Premier Tesla Solar Roof Installers",
+  "heroSubheadline": "Energy Independence • Stunning Aesthetics • Lifetime Value",
+  "serviceDescription": "Wilbraham homeowners are embracing sustainable energy solutions with premium Tesla Solar Roof installations from our certified specialists. For over 12 years, we've been serving this beautiful community and the surrounding Pioneer Valley region, bringing sophisticated solar roofing technology that perfectly complements Wilbraham's scenic residential character while delivering outstanding energy performance. Unlike conventional solar panels that mount atop existing roofs, Tesla Solar Roof seamlessly integrates photovoltaic technology into premium architectural shingles, creating an elegant, unified appearance while generating abundant clean energy for your Wilbraham home throughout the year.\n\nOur commitment to the Wilbraham community and deep understanding of local architecture ensures every solar roof installation enhances your home's distinctive character while maximizing energy efficiency. Every project is executed by our NABCEP-certified installation professionals who receive specialized Tesla Solar Roof training, guaranteeing exceptional workmanship and meticulous attention to detail. We thoroughly understand Wilbraham's building requirements, climate challenges, and the high standards of this community, designing solar roof systems that perform flawlessly through all New England weather conditions.\n\nWilbraham residents gain substantial financial benefits from solar roof installation: significant reductions in monthly electricity costs, notable increases in property value, environmental leadership, and access to generous Massachusetts solar benefits. The combination of the competitive pricing, Massachusetts SMART program rebates, and Eversource net metering can reduce your solar roof investment by $20,000-$30,000 or more. Many Wilbraham families achieve near-complete energy independence while protecting their households against unpredictable utility rate increases for decades.\n\nOur comprehensive service manages every aspect of your Wilbraham solar roof installation with the professionalism this community deserves. From initial site assessment and custom engineering through permitting with Wilbraham building department, expert installation, electrical integration, utility interconnection with Eversource, and ongoing system monitoring, we handle all the details. Our commitment to transparent communication, competitive pricing, superior quality, and exceptional customer service has earned us an A+ BBB rating and the enduring trust of Wilbraham families who now enjoy energy independence and long-term savings.",
+  "shortDescription": "Tesla Solar Roof installation specialists serving Wilbraham, MA. NABCEP-certified professionals deliver premium integrated solar shingle systems with comprehensive warranties and complete service from consultation through activation.",
+  "benefits": [
+    "Over 12 years serving Wilbraham and Hampden County",
+    "Tesla Solar Roof certified installation team",
+    "Elegant integrated solar shingles maintaining home beauty",
+    "25-year solar performance warranty plus 10-year installation guarantee",
+    "Boost Wilbraham home values by 15-20%",
+    "Eliminate monthly electricity bills through net metering",
+    "Premium Class 3 hail-rated architectural materials",
+    "Competitive pricing plus Massachusetts SMART benefits",
+    "Advanced real-time monitoring and analytics",
+    "Free comprehensive consultation and custom design"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Wilbraham Property Assessment",
+      "description": "Our specialists conduct thorough evaluation of your Wilbraham home, analyzing roof structure, solar exposure, shading patterns, and energy consumption. We combine satellite imaging with precise on-site measurements to design your optimal solar roof system."
+    },
+    {
+      "step": 2,
+      "title": "Engineering & Wilbraham Permitting",
+      "description": "Our engineers create detailed installation plans optimized for Wilbraham building codes and climate conditions. We handle all permit applications with Wilbraham building department and coordinate interconnection agreements with Eversource."
+    },
+    {
+      "step": 3,
+      "title": "Expert Installation",
+      "description": "Tesla-certified installers carefully remove your existing roof and install your integrated solar system with superior craftsmanship. We employ premium waterproofing, ventilation, and flashing techniques ensuring lasting protection for your Wilbraham home."
+    },
+    {
+      "step": 4,
+      "title": "Electrical System Integration",
+      "description": "Licensed Massachusetts electricians integrate your solar roof with your electrical panel, installing inverters, monitoring equipment, and optional Powerwall batteries. All work exceeds state electrical codes and safety requirements."
+    },
+    {
+      "step": 5,
+      "title": "Activation & Comprehensive Training",
+      "description": "Following Wilbraham inspections and Eversource approval, we activate your system and provide thorough training on monitoring energy production, understanding your savings, and maintaining optimal system performance."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Close-up of Tesla solar roof shingles",
-    "caption": "Elegant integrated solar technology",
-    "credit": {
-     "photographer": "Zbynek Burival",
-     "unsplashUrl": "https://unsplash.com/photos/GrmwVnVSSdU"
+  ],
+  "features": [
+    "Tesla Solar Roof with integrated photovoltaic technology",
+    "Premium tempered glass tiles with architectural beauty",
+    "Tesla Powerwall battery storage integration available",
+    "Sophisticated smartphone monitoring and analytics",
+    "Multiple tile styles to complement any architecture",
+    "50+ year expected roof lifespan",
+    "Massachusetts weather-engineered materials",
+    "Seamless integration preserving home aesthetics"
+  ],
+  "pricingInfo": "Solar roof installation for Wilbraham homes typically ranges $45,000-$85,000 before benefits, based on roof size, complexity, and energy requirements. Massachusetts provides substantial savings: competitive pricing ($12,000-$22,000), plus SMART program rebates. Premium financing options include $0 down solar loans. Schedule your complimentary Wilbraham consultation for precise pricing.",
+  "serviceArea": "Wilbraham, MA and surrounding communities including Springfield, East Longmeadow, Ludlow, Palmer, and throughout Hampden County",
+  "availability": "Monday-Friday 7:00 AM - 6:00 PM, Saturday 8:00 AM - 4:00 PM",
+  "responseTime": "Free consultation scheduled within 48 hours",
+  "qualifications": [
+    "NABCEP Certified Solar Installation Professionals",
+    "Tesla Solar Roof Authorized Installation Team",
+    "Massachusetts State Licensed Roofers",
+    "Licensed Master Electricians",
+    "BBB A+ Rating",
+    "Eversource Authorized Solar Contractor"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar installations across Western Massachusetts",
+  "guarantees": [
+    "25-year solar panel performance warranty",
+    "10-year installation workmanship guarantee",
+    "Tesla manufacturer warranties on all components",
+    "100% customer satisfaction guarantee"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Beautiful Tesla solar roof on Wilbraham Massachusetts home",
+      "caption": "Premium solar roof installation in Wilbraham",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1560419015-7c427e8ae5ba?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar installation team working on Wilbraham roof",
+        "caption": "Professional installation experts",
+        "credit": {
+          "photographer": "Bill Mead",
+          "unsplashUrl": "https://unsplash.com/photos/wmaP3Tl80ww"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Close-up of Tesla solar roof shingles",
+        "caption": "Elegant integrated solar technology",
+        "credit": {
+          "photographer": "Zbynek Burival",
+          "unsplashUrl": "https://unsplash.com/photos/GrmwVnVSSdU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar roof installation process",
+        "caption": "Quality installation process",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/XGAZzyLzn18"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Completed solar roof on beautiful Wilbraham home",
+        "caption": "Stunning solar roof transformation",
+        "credit": {
+          "photographer": "Darmau Lee",
+          "unsplashUrl": "https://unsplash.com/photos/GravEn0jUmY"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Wilbraham Homeowners Choose Solar Roof",
+    "Understanding Tesla Solar Roof Technology",
+    "Wilbraham Solar benefits and Financial Benefits",
+    "Your Complete Installation Experience",
+    "Common Solar Roof Questions from Wilbraham Residents",
+    "Request Your Free Wilbraham Solar Roof Consultation"
+  ],
+  "faq": [
+    {
+      "question": "What is the investment for solar roof in Wilbraham?",
+      "answer": "Wilbraham solar roof installations typically range $45,000-$85,000 before benefits, varying with roof size and complexity. Massachusetts offers exceptional benefits: the competitive pricing saves $12,000-$22,000, plus SMART program rebates. We offer premium financing options and will provide a detailed quote for your Wilbraham home."
+    },
+    {
+      "question": "How long does the installation process take?",
+      "answer": "Physical installation takes 5-10 days for most Wilbraham homes. The complete process from consultation to activation spans 8-12 weeks, including custom design, permitting with Wilbraham building department, installation, and Eversource interconnection."
+    },
+    {
+      "question": "Why choose Tesla Solar Roof over traditional panels for my Wilbraham home?",
+      "answer": "Tesla Solar Roof provides superior aesthetics with seamless integration, eliminating visible panel mounting. It offers premium roofing protection and maximizes home value. If your roof needs replacement, it combines both investments with better financial benefits than installing panels on an aging roof."
+    },
+    {
+      "question": "Will solar roof perform well during Wilbraham winters?",
+      "answer": "Absolutely! Solar roofs work effectively year-round in Wilbraham. While snow can temporarily reduce output, panels operate more efficiently in cold temperatures. Most Wilbraham roofs have adequate pitch for natural snow shedding. Net metering credits summer overproduction for winter consumption."
+    },
+    {
+      "question": "What warranties protect my Wilbraham solar roof investment?",
+      "answer": "Your Wilbraham installation includes Tesla's industry-leading 25-year power production warranty, comprehensive manufacturer warranties on all equipment and materials, plus our 10-year workmanship guarantee covering installation quality. Premium roofing materials are engineered for 50+ year lifespan."
+    },
+    {
+      "question": "Can I integrate battery storage with my solar roof?",
+      "answer": "Yes! Tesla Powerwall battery integration is available and highly recommended for all Wilbraham installations. Battery storage enables nighttime solar usage, provides backup power during grid outages, and delivers complete energy independence. Many Wilbraham homeowners install 1-2 Powerwall units."
+    },
+    {
+      "question": "How much energy will my Wilbraham solar roof generate?",
+      "answer": "Energy production varies based on roof size, orientation, pitch, and shading. A typical Wilbraham home with an unshaded south-facing solar roof generates 8,000-12,000 kWh annually, covering 80-100% of average household electricity needs. We provide precise production estimates during your free consultation."
+    },
+    {
+      "question": "Do I need to replace my roof before installing solar?",
+      "answer": "No! Tesla Solar Roof installation includes complete roof replacement as an integral part of the system. If your Wilbraham home's roof needs replacement within the next 10-15 years, installing solar roof now makes exceptional financial sense while maximizing available benefits and rebates."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar roof installation process",
-    "caption": "Quality installation process",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/XGAZzyLzn18"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Completed solar roof on beautiful Wilbraham home",
-    "caption": "Stunning solar roof transformation",
-    "credit": {
-     "photographer": "Darmau Lee",
-     "unsplashUrl": "https://unsplash.com/photos/GravEn0jUmY"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Wilbraham Homeowners Choose Solar Roof",
-  "Understanding Tesla Solar Roof Technology",
-  "Wilbraham Solar benefits and Financial Benefits",
-  "Your Complete Installation Experience",
-  "Common Solar Roof Questions from Wilbraham Residents",
-  "Request Your Free Wilbraham Solar Roof Consultation"
- ],
- "faq": [
-  {
-   "question": "What is the investment for solar roof in Wilbraham?",
-   "answer": "Wilbraham solar roof installations typically range $45,000-$85,000 before benefits, varying with roof size and complexity. Massachusetts offers exceptional benefits: the competitive pricing saves $12,000-$22,000, plus SMART program rebates. We offer premium financing options and will provide a detailed quote for your Wilbraham home."
-  },
-  {
-   "question": "How long does the installation process take?",
-   "answer": "Physical installation takes 5-10 days for most Wilbraham homes. The complete process from consultation to activation spans 8-12 weeks, including custom design, permitting with Wilbraham building department, installation, and Eversource interconnection."
-  },
-  {
-   "question": "Why choose Tesla Solar Roof over traditional panels for my Wilbraham home?",
-   "answer": "Tesla Solar Roof provides superior aesthetics with seamless integration, eliminating visible panel mounting. It offers premium roofing protection and maximizes home value. If your roof needs replacement, it combines both investments with better tax benefits than installing panels on an aging roof."
-  },
-  {
-   "question": "Will solar roof perform well during Wilbraham winters?",
-   "answer": "Absolutely! Solar roofs work effectively year-round in Wilbraham. While snow can temporarily reduce output, panels operate more efficiently in cold temperatures. Most Wilbraham roofs have adequate pitch for natural snow shedding. Net metering credits summer overproduction for winter consumption."
-  },
-  {
-   "question": "What warranties protect my Wilbraham solar roof investment?",
-   "answer": "Your Wilbraham installation includes Tesla's industry-leading 25-year power production warranty, comprehensive manufacturer warranties on all equipment and materials, plus our 10-year workmanship guarantee covering installation quality. Premium roofing materials are engineered for 50+ year lifespan."
-  },
-  {
-   "question": "Can I integrate battery storage with my solar roof?",
-   "answer": "Yes! Tesla Powerwall battery integration is available and highly recommended for all Wilbraham installations. Battery storage enables nighttime solar usage, provides backup power during grid outages, and delivers complete energy independence. Many Wilbraham homeowners install 1-2 Powerwall units."
-  },
-  {
-   "question": "How much energy will my Wilbraham solar roof generate?",
-   "answer": "Energy production varies based on roof size, orientation, pitch, and shading. A typical Wilbraham home with an unshaded south-facing solar roof generates 8,000-12,000 kWh annually, covering 80-100% of average household electricity needs. We provide precise production estimates during your free consultation."
-  },
-  {
-   "question": "Do I need to replace my roof before installing solar?",
-   "answer": "No! Tesla Solar Roof installation includes complete roof replacement as an integral part of the system. If your Wilbraham home's roof needs replacement within the next 10-15 years, installing solar roof now makes exceptional financial sense while maximizing available financings and rebates."
-  }
- ],
- "keywords": [
-  "solar roof",
-  "Tesla solar roof",
-  "solar shingles",
-  "integrated solar roofing",
-  "solar roof system"
- ],
- "localKeywords": [
-  "solar roof Wilbraham MA",
-  "Tesla solar roof Wilbraham",
-  "solar shingles Wilbraham Massachusetts",
-  "Wilbraham solar roof installation",
-  "solar roof Hampden County"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Solar Roof Quote Today",
- "ctaSecondary": "Schedule Free Consultation",
- "ctaUrgency": "Special Offer Available - Act Now"
+  ],
+  "keywords": [
+    "solar roof",
+    "Tesla solar roof",
+    "solar shingles",
+    "integrated solar roofing",
+    "solar roof system"
+  ],
+  "localKeywords": [
+    "solar roof Wilbraham MA",
+    "Tesla solar roof Wilbraham",
+    "solar shingles Wilbraham Massachusetts",
+    "Wilbraham solar roof installation",
+    "solar roof Hampden County"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Solar Roof Quote Today",
+  "ctaSecondary": "Schedule Free Consultation",
+  "ctaUrgency": "Special Offer Available - Act Now"
 }

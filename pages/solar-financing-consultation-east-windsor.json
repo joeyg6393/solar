@@ -1,188 +1,188 @@
 {
- "id": "solar-financing-consultation-east-windsor",
- "service": "Solar Financing & Consultation",
- "serviceSlug": "solar-financing-consultation",
- "location": "East Windsor",
- "locationSlug": "east-windsor",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Financing East Windsor CT - financing + Free Consultation",
- "metaDescription": "Solar financing experts in East Windsor, CT. Navigate loans, financings & CT benefits. Free consultation, zero-down options. Start saving today!",
- "h1": "Solar Financing & Consultation Services in East Windsor, Connecticut",
- "heroHeadline": "Make Solar Affordable in East Windsor with Expert Financing Guidance",
- "heroSubheadline": "Professional Consultation on Solar Loans, Financing Optionss & benefits - Solar Energy Within Reach",
- "serviceDescription": "East Windsor, Connecticut homeowners are discovering that solar energy is within financial reach thanks to expert solar financing consultation services. Our specialized team helps East Windsor residents navigate the complex landscape of solar benefits, financings, and flexible financing options to make clean energy affordable for every household. With the substantial federal solar financing and Connecticut's progressive solar policies, East Windsor property owners can significantly reduce installation costs while eliminating monthly electricity expenses.\n\nOur certified solar financing consultants have extensive experience serving the East Windsor market and understand the unique opportunities available to Hartford County residents. We've cultivated partnerships with leading solar financing institutions to provide competitive loan rates starting as low as 2.99% APR, zero-down payment programs, and flexible repayment terms from 5 to 25 years. Whether you're interested in owning your solar system through financing, exploring lease arrangements, or considering a power purchase agreement (PPA), our team delivers unbiased guidance tailored to your financial circumstances and energy objectives. Each East Windsor consultation includes a comprehensive property evaluation, energy consumption analysis, and detailed financial modeling showing your projected savings over the system's 25+ year lifespan.\n\nOur East Windsor solar financing service extends far beyond simple loan processing. We act as your complete solar energy advocate, helping you understand Connecticut's net metering program that provides utility credits for excess solar generation, navigating the Massachusetts SMART program for additional renewable energy benefits, and identifying utility-specific rebates exclusive to East Windsor customers. Our team remains current on all solar legislation and policies affecting Hartford County homeowners, ensuring you receive every available incentive dollar. We've assisted hundreds of East Windsor families in reducing their electricity costs by 70-95% while simultaneously increasing property values and contributing to environmental sustainability.\n\nWhat sets our East Windsor solar financing consultation apart is our dedication to transparency and comprehensive homeowner education. We never employ aggressive sales tactics or conceal fees in complex contracts. Instead, we provide detailed 25-year financial projections illustrating total investment costs, estimated savings, payback periods, and return on investment. Our consultants invest time answering every question about solar panel warranties, system performance monitoring, ongoing maintenance requirements, and property value enhancement. We firmly believe that well-informed East Windsor homeowners make the best solar investment decisions, and our commitment is to empower you with thorough knowledge for confident decision-making.",
- "shortDescription": "Expert solar financing consultation in East Windsor, CT. Professional guidance on solar loans, flexible financing, and Connecticut benefits. Free property assessment and detailed financial analysis for East Windsor homeowners.",
- "benefits": [
-  "Maximize the full federal solar financing options for East Windsor residents",
-  "Expert assistance with Connecticut SMART program and financing options",
-  "Competitive solar loan rates starting at 2.99% APR",
-  "Zero-down solar financing programs available",
-  "Complimentary comprehensive property and energy evaluation",
-  "Detailed 25-year financial projections and ROI calculations",
-  "Complete support with financing options and incentive applications",
-  "Specialized knowledge of East Windsor utility rates and net metering"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free Initial Consultation",
-   "description": "Begin with a no-cost consultation where our East Windsor solar experts review your current energy bills, discuss your goals, and evaluate your property's solar potential including roof structure and sun exposure patterns."
-  },
-  {
-   "step": 2,
-   "title": "Comprehensive Energy & Financial Assessment",
-   "description": "We conduct a thorough energy audit of your East Windsor property and create personalized financial models showing system costs, all applicable benefits, monthly savings estimates, and long-term return on investment."
-  },
-  {
-   "step": 3,
-   "title": "Financing Solutions Consultation",
-   "description": "Review all available financing options including solar loans with various term lengths, no-cost solar leases, and PPAs. We explain the advantages and considerations of each to help you select the optimal solution."
-  },
-  {
-   "step": 4,
-   "title": "Incentive Optimization & Documentation",
-   "description": "We identify every federal, state, and local incentive available to East Windsor homeowners and manage all required paperwork including financing forms, SMART program applications, and utility rebate submissions."
-  },
-  {
-   "step": 5,
-   "title": "Approval & Installation Coordination",
-   "description": "Following financing approval, we coordinate your professional solar installation, manage all necessary permits and inspections, and oversee utility interconnection for your East Windsor property."
-  }
- ],
- "features": [
-  "NABCEP certified solar financing consultants on staff",
-  "Exclusive partnerships with premier solar financing providers",
-  "Comprehensive knowledge of Connecticut solar policies and regulations",
-  "Full-service incentive identification and application management",
-  "No-pressure consultation with completely transparent pricing",
-  "Detailed 25-year savings analysis and ROI projections",
-  "Continued customer support throughout solar system ownership"
- ],
- "pricingInfo": "Solar financing consultation services are provided at no cost with absolutely no obligation to proceed. Solar loan APRs vary based on creditworthiness and selected financing program, typically ranging from 2.99% to 7.99%. Zero-down payment options available for qualified borrowers. Average solar installation costs in East Windsor range from $15,000 to $37,000 before benefits. The competitive pricing reduces costs by $3,900 to $9,620. Monthly loan payments frequently match or beat current utility bills.",
- "serviceArea": "East Windsor, Connecticut and surrounding Hartford County communities within 30 miles of Springfield",
- "availability": "Monday - Friday: 8:00 AM - 7:00 PM, Saturday: 9:00 AM - 5:00 PM, Sunday: By scheduled appointment",
- "responseTime": "Consultation scheduling within 24 hours, complete financial analysis delivered in 3-5 business days",
- "qualifications": [
-  "NABCEP Certified Solar Professionals",
-  "Connecticut State Licensed Solar Contractors",
-  "BBB A+ Accredited Business",
-  "Member of Solar Energy Industries Association (SEIA)"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ successful solar financing consultations completed",
- "guarantees": [
-  "100% satisfaction guarantee on consultation services",
-  "No-obligation, no-pressure financing proposals",
-  "Transparent pricing with comprehensive written estimates",
-  "Ongoing support for the life of your solar system"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Solar consultant providing financing guidance to East Windsor homeowner",
-   "caption": "Professional Solar Financing Consultation in East Windsor, CT",
-   "credit": {
-    "photographer": "Austin Distel",
-    "unsplashUrl": "https://unsplash.com/photos/rxpThOwuVgE"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Financial planning documents for solar installation",
-    "caption": "Comprehensive Financial Planning for Your Solar Investment",
-    "credit": {
-     "photographer": "Scott Graham",
-     "unsplashUrl": "https://unsplash.com/photos/5fNmWej4tAA"
+  "id": "solar-financing-consultation-east-windsor",
+  "service": "Solar Financing & Consultation",
+  "serviceSlug": "solar-financing-consultation",
+  "location": "East Windsor",
+  "locationSlug": "east-windsor",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Financing East Windsor CT - financing + Free Consultation",
+  "metaDescription": "Solar financing experts in East Windsor, CT. Navigate loans, benefits & CT benefits. Free consultation, zero-down options. Start saving today!",
+  "h1": "Solar Financing & Consultation Services in East Windsor, Connecticut",
+  "heroHeadline": "Make Solar Affordable in East Windsor with Expert Financing Guidance",
+  "heroSubheadline": "Professional Consultation on Solar Loans, Financing Options & benefits - Solar Energy Within Reach",
+  "serviceDescription": "East Windsor, Connecticut homeowners are discovering that solar energy is within financial reach thanks to expert solar financing consultation services. Our specialized team helps East Windsor residents navigate the complex landscape of solar benefits, benefits, and flexible financing options to make clean energy affordable for every household. With the substantial competitive pricing and Connecticut's progressive solar policies, East Windsor property owners can significantly reduce installation costs while eliminating monthly electricity expenses.\n\nOur certified solar financing consultants have extensive experience serving the East Windsor market and understand the unique opportunities available to Hartford County residents. We've cultivated partnerships with leading solar financing institutions to provide competitive loan rates starting as low as 2.99% APR, zero-down payment programs, and flexible repayment terms from 5 to 25 years. Whether you're interested in owning your solar system through your financing, exploring lease arrangements, or considering a power purchase agreement (PPA), our team delivers unbiased guidance tailored to your financial circumstances and energy objectives. Each East Windsor consultation includes a comprehensive property evaluation, energy consumption analysis, and detailed financial modeling showing your projected savings over the system's 25+ year lifespan.\n\nOur East Windsor solar financing service extends far beyond simple loan processing. We act as your complete solar energy advocate, helping you understand Connecticut's net metering program that provides utility credits for excess solar generation, navigating the Massachusetts SMART program for additional renewable energy benefits, and identifying utility-specific rebates exclusive to East Windsor customers. Our team remains current on all solar legislation and policies affecting Hartford County homeowners, ensuring you receive every available incentive dollar. We've assisted hundreds of East Windsor families in reducing their electricity costs by 70-95% while simultaneously increasing property values and contributing to environmental sustainability.\n\nWhat sets our East Windsor solar financing consultation apart is our dedication to transparency and comprehensive homeowner education. We never employ aggressive sales tactics or conceal fees in complex contracts. Instead, we provide detailed 25-year financial projections illustrating total investment costs, estimated savings, payback periods, and return on investment. Our consultants invest time answering every question about solar panel warranties, system performance monitoring, ongoing maintenance requirements, and property value enhancement. We firmly believe that well-informed East Windsor homeowners make the best solar investment decisions, and our commitment is to empower you with thorough knowledge for confident decision-making.",
+  "shortDescription": "Expert solar financing consultation in East Windsor, CT. Professional guidance on solar loans, flexible financing, and Connecticut benefits. Free property assessment and detailed financial analysis for East Windsor homeowners.",
+  "benefits": [
+    "Maximize the full competitive pricing options for East Windsor residents",
+    "Expert assistance with Connecticut SMART program and financing options",
+    "Competitive solar loan rates starting at 2.99% APR",
+    "Zero-down solar financing programs available",
+    "Complimentary comprehensive property and energy evaluation",
+    "Detailed 25-year financial projections and ROI calculations",
+    "Complete support with financing options and incentive applications",
+    "Specialized knowledge of East Windsor utility rates and net metering"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free Initial Consultation",
+      "description": "Begin with a no-cost consultation where our East Windsor solar experts review your current energy bills, discuss your goals, and evaluate your property's solar potential including roof structure and sun exposure patterns."
+    },
+    {
+      "step": 2,
+      "title": "Comprehensive Energy & Financial Assessment",
+      "description": "We conduct a thorough energy audit of your East Windsor property and create personalized financial models showing system costs, all applicable benefits, monthly savings estimates, and long-term return on investment."
+    },
+    {
+      "step": 3,
+      "title": "Financing Solutions Consultation",
+      "description": "Review all available financing options including solar loans with various term lengths, no-cost solar leases, and PPAs. We explain the advantages and considerations of each to help you select the optimal solution."
+    },
+    {
+      "step": 4,
+      "title": "Incentive Optimization & Documentation",
+      "description": "We identify every federal, state, and local incentive available to East Windsor homeowners and manage all required paperwork including financing forms, SMART program applications, and utility rebate submissions."
+    },
+    {
+      "step": 5,
+      "title": "Approval & Installation Coordination",
+      "description": "Following financing approval, we coordinate your professional solar installation, manage all necessary permits and inspections, and oversee utility interconnection for your East Windsor property."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "High-quality solar panel installation on Connecticut residence",
-    "caption": "Expert Solar Installations Throughout East Windsor",
-    "credit": {
-     "photographer": "Vivint Solar",
-     "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+  ],
+  "features": [
+    "NABCEP certified solar financing consultants on staff",
+    "Exclusive partnerships with premier solar financing providers",
+    "Comprehensive knowledge of Connecticut solar policies and regulations",
+    "Full-service incentive identification and application management",
+    "No-pressure consultation with completely transparent pricing",
+    "Detailed 25-year savings analysis and ROI projections",
+    "Continued customer support throughout solar system ownership"
+  ],
+  "pricingInfo": "Solar financing consultation services are provided at no cost with absolutely no obligation to proceed. Solar loan APRs vary based on creditworthiness and selected financing program, typically ranging from 2.99% to 7.99%. Zero-down payment options available for qualified borrowers. Average solar installation costs in East Windsor range from $15,000 to $37,000 before benefits. The competitive pricing reduces costs by $3,900 to $9,620. Monthly loan payments frequently match or beat current utility bills.",
+  "serviceArea": "East Windsor, Connecticut and surrounding Hartford County communities within 30 miles of Springfield",
+  "availability": "Monday - Friday: 8:00 AM - 7:00 PM, Saturday: 9:00 AM - 5:00 PM, Sunday: By scheduled appointment",
+  "responseTime": "Consultation scheduling within 24 hours, complete financial analysis delivered in 3-5 business days",
+  "qualifications": [
+    "NABCEP Certified Solar Professionals",
+    "Connecticut State Licensed Solar Contractors",
+    "BBB A+ Accredited Business",
+    "Member of Solar Energy Industries Association (SEIA)"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ successful solar financing consultations completed",
+  "guarantees": [
+    "100% satisfaction guarantee on consultation services",
+    "No-obligation, no-pressure financing proposals",
+    "Transparent pricing with comprehensive written estimates",
+    "Ongoing support for the life of your solar system"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Solar consultant providing financing guidance to East Windsor homeowner",
+      "caption": "Professional Solar Financing Consultation in East Windsor, CT",
+      "credit": {
+        "photographer": "Austin Distel",
+        "unsplashUrl": "https://unsplash.com/photos/rxpThOwuVgE"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Financial planning documents for solar installation",
+        "caption": "Comprehensive Financial Planning for Your Solar Investment",
+        "credit": {
+          "photographer": "Scott Graham",
+          "unsplashUrl": "https://unsplash.com/photos/5fNmWej4tAA"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "High-quality solar panel installation on Connecticut residence",
+        "caption": "Expert Solar Installations Throughout East Windsor",
+        "credit": {
+          "photographer": "Vivint Solar",
+          "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar energy savings analytics and performance charts",
+        "caption": "Track Your Solar Savings and System Performance",
+        "credit": {
+          "photographer": "Luke Chesser",
+          "unsplashUrl": "https://unsplash.com/photos/JKUTrJ4vK00"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Happy homeowner after solar financing consultation",
+        "caption": "Join Hundreds of Satisfied East Windsor Solar Customers",
+        "credit": {
+          "photographer": "Christina @ wocintechchat.com",
+          "unsplashUrl": "https://unsplash.com/photos/OtHEYbQXLFU"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Expert Solar Financing Consultation for East Windsor Homeowners",
+    "solar benefits and benefits Available in East Windsor, CT",
+    "Flexible Solar Financing Options for East Windsor Residents",
+    "The Solar Financing Process in East Windsor, Connecticut",
+    "Common Solar Financing Questions from East Windsor Homeowners"
+  ],
+  "faq": [
+    {
+      "question": "What solar financing options can East Windsor, CT residents claim?",
+      "answer": "East Windsor homeowners qualify for the flexible financing options which applies to the complete cost of your solar system including installation. Connecticut also provides the SMART program for solar renewable energy credits, net metering that credits your utility account for excess solar production, and various utility-specific rebates. Our consultation service researches all benefits applicable to your East Windsor property to ensure maximum savings."
+    },
+    {
+      "question": "What types of solar financing are available in East Windsor?",
+      "answer": "East Windsor residents can choose from multiple financing options: solar loans with 5-25 year terms and competitive interest rates starting at 2.99% APR, solar leases requiring no upfront investment with predictable monthly payments, and power purchase agreements (PPAs) where you pay only for the electricity your system produces. Zero-down solar loans are available for qualified applicants. During your free consultation, we analyze which option delivers the best financial outcome for your specific situation."
+    },
+    {
+      "question": "How much money can East Windsor homeowners save with solar?",
+      "answer": "Savings depend on your current electricity consumption, solar system size, and chosen financing method, but typical East Windsor homeowners reduce electric bills by 70-95%. Over a 25-year period, total savings usually range from $32,000 to $75,000. The competitive pricing immediately reduces your installation cost by thousands of dollars. We provide precise savings projections based on your actual East Windsor utility rates and consumption patterns during consultation."
+    },
+    {
+      "question": "What credit score do I need for solar financing in East Windsor?",
+      "answer": "While credit scores of 650 or above typically qualify for the most favorable solar loan rates, we work with multiple financing partners who serve diverse credit profiles. Even with lower credit scores, solar lease and PPA options may be available with minimal credit requirements. During your confidential consultation, we'll review your credit situation and identify the most appropriate financing solutions available to you."
+    },
+    {
+      "question": "How quickly can I get solar financing approved in East Windsor?",
+      "answer": "The complete timeline from initial consultation to financing approval typically spans 1-3 weeks. We schedule free consultations within 24 hours of your request, deliver comprehensive financial analysis within 3-5 business days, and most financing applications receive approval within 5-7 business days after submission. Once approved, solar installation in East Windsor usually begins within 4-8 weeks depending on permit processing and weather conditions."
+    },
+    {
+      "question": "Is solar financing consultation truly free in East Windsor?",
+      "answer": "Yes, absolutely! Our East Windsor solar financing consultation is completely free with zero obligation to proceed. We provide comprehensive property assessments, detailed energy audits, financial projections, and incentive research at no charge to you. We believe in educating homeowners so they can make informed decisions. You'll only move forward if the financial benefits clearly make sense for your situation."
+    },
+    {
+      "question": "What happens to my solar system if I sell my East Windsor home?",
+      "answer": "If you own your solar system through a loan, you have several options when selling: pay off the remaining loan balance at closing using sale proceeds, transfer the loan to the buyer with lender approval, or include the loan payoff amount in your home's sale price. Studies consistently show that solar systems increase home values by more than the remaining loan balance, making your East Windsor property more attractive to potential buyers. We thoroughly discuss these scenarios during your consultation."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar energy savings analytics and performance charts",
-    "caption": "Track Your Solar Savings and System Performance",
-    "credit": {
-     "photographer": "Luke Chesser",
-     "unsplashUrl": "https://unsplash.com/photos/JKUTrJ4vK00"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Happy homeowner after solar financing consultation",
-    "caption": "Join Hundreds of Satisfied East Windsor Solar Customers",
-    "credit": {
-     "photographer": "Christina @ wocintechchat.com",
-     "unsplashUrl": "https://unsplash.com/photos/OtHEYbQXLFU"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Expert Solar Financing Consultation for East Windsor Homeowners",
-  "Solar financings and benefits Available in East Windsor, CT",
-  "Flexible Solar Financing Options for East Windsor Residents",
-  "The Solar Financing Process in East Windsor, Connecticut",
-  "Common Solar Financing Questions from East Windsor Homeowners"
- ],
- "faq": [
-  {
-   "question": "What solar financing options can East Windsor, CT residents claim?",
-   "answer": "East Windsor homeowners qualify for the flexible financing options which applies to the complete cost of your solar system including installation. Connecticut also provides the SMART program for solar renewable energy credits, net metering that credits your utility account for excess solar production, and various utility-specific rebates. Our consultation service researches all benefits applicable to your East Windsor property to ensure maximum savings."
-  },
-  {
-   "question": "What types of solar financing are available in East Windsor?",
-   "answer": "East Windsor residents can choose from multiple financing options: solar loans with 5-25 year terms and competitive interest rates starting at 2.99% APR, solar leases requiring no upfront investment with predictable monthly payments, and power purchase agreements (PPAs) where you pay only for the electricity your system produces. Zero-down solar loans are available for qualified applicants. During your free consultation, we analyze which option delivers the best financial outcome for your specific situation."
-  },
-  {
-   "question": "How much money can East Windsor homeowners save with solar?",
-   "answer": "Savings depend on your current electricity consumption, solar system size, and chosen financing method, but typical East Windsor homeowners reduce electric bills by 70-95%. Over a 25-year period, total savings usually range from $32,000 to $75,000. The competitive pricing immediately reduces your installation cost by thousands of dollars. We provide precise savings projections based on your actual East Windsor utility rates and consumption patterns during consultation."
-  },
-  {
-   "question": "What credit score do I need for solar financing in East Windsor?",
-   "answer": "While credit scores of 650 or above typically qualify for the most favorable solar loan rates, we work with multiple financing partners who serve diverse credit profiles. Even with lower credit scores, solar lease and PPA options may be available with minimal credit requirements. During your confidential consultation, we'll review your credit situation and identify the most appropriate financing solutions available to you."
-  },
-  {
-   "question": "How quickly can I get solar financing approved in East Windsor?",
-   "answer": "The complete timeline from initial consultation to financing approval typically spans 1-3 weeks. We schedule free consultations within 24 hours of your request, deliver comprehensive financial analysis within 3-5 business days, and most financing applications receive approval within 5-7 business days after submission. Once approved, solar installation in East Windsor usually begins within 4-8 weeks depending on permit processing and weather conditions."
-  },
-  {
-   "question": "Is solar financing consultation truly free in East Windsor?",
-   "answer": "Yes, absolutely! Our East Windsor solar financing consultation is completely free with zero obligation to proceed. We provide comprehensive property assessments, detailed energy audits, financial projections, and incentive research at no charge to you. We believe in educating homeowners so they can make informed decisions. You'll only move forward if the financial benefits clearly make sense for your situation."
-  },
-  {
-   "question": "What happens to my solar system if I sell my East Windsor home?",
-   "answer": "If you own your solar system through a loan, you have several options when selling: pay off the remaining loan balance at closing using sale proceeds, transfer the loan to the buyer with lender approval, or include the loan payoff amount in your home's sale price. Studies consistently show that solar systems increase home values by more than the remaining loan balance, making your East Windsor property more attractive to potential buyers. We thoroughly discuss these scenarios during your consultation."
-  }
- ],
- "keywords": [
-  "solar financing",
-  "solar consultation",
-  "solar loans",
-  "federal solar financing",
-  "Connecticut solar benefits",
-  "solar savings",
-  "solar lease options",
-  "solar PPA"
- ],
- "localKeywords": [
-  "solar financing East Windsor CT",
-  "solar consultation East Windsor",
-  "East Windsor solar benefits",
-  "solar financing East Windsor",
-  "Hartford County solar loans",
-  "East Windsor CT solar financing"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Solar Financing Consultation Today",
- "ctaSecondary": "Schedule Free Consultation",
- "ctaUrgency": "Special Offer Available Now!"
+  ],
+  "keywords": [
+    "solar financing",
+    "solar consultation",
+    "solar loans",
+    "competitive pricing",
+    "Connecticut solar benefits",
+    "solar savings",
+    "solar lease options",
+    "solar PPA"
+  ],
+  "localKeywords": [
+    "solar financing East Windsor CT",
+    "solar consultation East Windsor",
+    "East Windsor solar benefits",
+    "solar financing East Windsor",
+    "Hartford County solar loans",
+    "East Windsor CT solar financing"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Solar Financing Consultation Today",
+  "ctaSecondary": "Schedule Free Consultation",
+  "ctaUrgency": "Special Offer Available Now!"
 }

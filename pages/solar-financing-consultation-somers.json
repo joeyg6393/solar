@@ -1,188 +1,188 @@
 {
- "id": "solar-financing-consultation-somers",
- "service": "Solar Financing & Consultation",
- "serviceSlug": "solar-financing-consultation",
- "location": "Somers",
- "locationSlug": "somers",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Financing Somers CT - Free Solar Consultation & financings | Act Now",
- "metaDescription": "Expert solar financing in Somers, CT. Get professional service plus CT benefits. Free consultation, zero-down options. Save thousands on solar today!",
- "h1": "Solar Financing & Consultation Services in Somers, Connecticut",
- "heroHeadline": "Power Your Somers Home with Smart Solar Financing Solutions",
- "heroSubheadline": "Expert Guidance on Solar Loans, Financing Optionss & benefits - Turn Your Roof into Savings",
- "serviceDescription": "Somers, Connecticut residents are embracing clean energy with the help of expert solar financing consultation that makes going solar accessible and affordable for every budget. Our specialized solar financing services help Somers homeowners and businesses navigate the maze of solar benefits, financings, and flexible financing programs to unlock maximum savings. With the substantial federal solar financing and Connecticut's generous flexible financing, there's never been a better time for Somers property owners to invest in solar energy.\n\nOur NABCEP-certified solar consultants bring over 12 years of experience helping Somers residents design custom financing solutions that align with their energy goals and financial situations. We've established relationships with premier solar financing institutions to offer highly competitive loan rates, zero-down payment programs, and flexible terms ranging from 5 to 25 years. Whether you prefer system ownership through financing, exploring lease options, or considering power purchase agreements (PPAs), our team provides objective guidance without sales pressure. Every Somers consultation includes a thorough property assessment, energy usage analysis, and detailed financial projections showing your investment return over the system's lifetime.\n\nOur Somers solar financing consultation goes far beyond simple loan applications. We serve as your complete solar advocate, helping you understand Connecticut's net metering program that credits your account for excess solar production, navigating the SMART program for additional renewable energy benefits, and identifying utility-specific rebates available to Somers residents. Our team continuously monitors changes to federal, state, and local solar policies affecting Tolland County homeowners, ensuring you capture every available incentive dollar. We've helped hundreds of Somers families slash their electricity costs by 65-90% while boosting property values and reducing their carbon footprint.\n\nWhat distinguishes our Somers solar financing service is our unwavering commitment to transparency and homeowner education. We never rush decisions or hide costs in complicated contracts. Instead, we provide clear 25-year financial models showing total investment, projected savings, payback timelines, and return on investment percentages. Our consultants dedicate time to answering all your questions about equipment warranties, system monitoring, maintenance expectations, and home value impacts. We believe that educated Somers homeowners make the best solar decisions, and our mission is to empower you with comprehensive knowledge to invest confidently in your energy future.",
- "shortDescription": "Professional solar financing consultation in Somers, CT. Navigate solar loans, financing options, and Connecticut benefits with certified experts. Free energy assessment and customized financial analysis for Somers homeowners.",
- "benefits": [
-  "Take full advantage of the federal solar financing options in Somers",
-  "Expert navigation of Connecticut SMART program and financing options",
-  "Access to solar loans with rates as low as 2.99% APR",
-  "Zero-down solar financing programs for qualified Somers residents",
-  "Free comprehensive property and energy assessment",
-  "Detailed 25-year savings projections with ROI analysis",
-  "Full support with all financing options and incentive applications",
-  "Specialized knowledge of Somers utility rates and net metering"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Complimentary Solar Consultation",
-   "description": "Schedule your free consultation with our Somers solar financing specialists. We'll review your energy usage, utility bills, and assess your property's solar suitability including roof condition and sun exposure."
-  },
-  {
-   "step": 2,
-   "title": "Detailed Energy Audit & Financial Modeling",
-   "description": "We perform an in-depth energy audit of your Somers property and develop customized financial projections showing installation costs, all available benefits, monthly savings, and long-term ROI."
-  },
-  {
-   "step": 3,
-   "title": "Financing Options Review",
-   "description": "Explore personalized financing solutions including solar loans with various terms, solar leases with no upfront costs, and PPAs. We explain each option's benefits and help you choose the best fit."
-  },
-  {
-   "step": 4,
-   "title": "Incentive Maximization & Applications",
-   "description": "We research all federal, state, and local benefits available to Somers residents and manage all paperwork including financing documentation, SMART program enrollment, and utility rebate submissions."
-  },
-  {
-   "step": 5,
-   "title": "Financing Approval & Installation",
-   "description": "Once your financing is approved, we coordinate professional solar installation, handle all permits and inspections, and manage utility interconnection for your Somers property."
-  }
- ],
- "features": [
-  "NABCEP certified solar financing professionals",
-  "Strategic partnerships with top solar lenders nationwide",
-  "Deep expertise in Connecticut solar regulations and benefits",
-  "Complete incentive research and paperwork management",
-  "Transparent consultation with no hidden fees or obligations",
-  "Comprehensive 25-year financial and savings analysis",
-  "Ongoing customer support throughout system ownership"
- ],
- "pricingInfo": "Solar financing consultation is completely free with zero obligation to purchase. Solar loan interest rates vary based on credit profile and program selection, typically ranging from 2.99% to 7.99% APR. Zero-down options available for qualified applicants. Solar system costs in Somers generally range from $15,500 to $36,000 before benefits. The competitive pricing reduces costs by $4,030 to $9,360. Monthly payments often lower than current electric bills.",
- "serviceArea": "Somers, Connecticut and surrounding Tolland County and Hartford County areas within 30 miles",
- "availability": "Monday - Friday: 8:00 AM - 7:00 PM, Saturday: 9:00 AM - 5:00 PM, Sunday: Appointments available",
- "responseTime": "Free consultations scheduled within 24 hours, comprehensive financial analysis provided within 3-5 business days",
- "qualifications": [
-  "NABCEP Certified Solar Consultants",
-  "Connecticut Licensed Solar Installation Contractors",
-  "Better Business Bureau A+ Rating",
-  "Solar Energy Industries Association (SEIA) Member"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar financing consultations successfully completed",
- "guarantees": [
-  "100% satisfaction guarantee on all consultation services",
-  "No-obligation financing quotes and proposals",
-  "Transparent pricing with detailed written estimates",
-  "Comprehensive support throughout solar ownership"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Solar financing consultation meeting in Somers Connecticut home",
-   "caption": "Expert Solar Financing Consultation Services in Somers, CT",
-   "credit": {
-    "photographer": "Mimi Thian",
-    "unsplashUrl": "https://unsplash.com/photos/vdXMSiX-n6M"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1554224311-beee2f720c7f?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Financial documents and calculator for solar investment analysis",
-    "caption": "Transparent Financial Analysis for Your Solar Investment",
-    "credit": {
-     "photographer": "Campaign Creators",
-     "unsplashUrl": "https://unsplash.com/photos/gMsnXqILjp4"
+  "id": "solar-financing-consultation-somers",
+  "service": "Solar Financing & Consultation",
+  "serviceSlug": "solar-financing-consultation",
+  "location": "Somers",
+  "locationSlug": "somers",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Financing Somers CT - Free Solar Consultation & benefits | Act Now",
+  "metaDescription": "Expert solar financing in Somers, CT. Get professional service plus CT benefits. Free consultation, zero-down options. Save thousands on solar today!",
+  "h1": "Solar Financing & Consultation Services in Somers, Connecticut",
+  "heroHeadline": "Power Your Somers Home with Smart Solar Financing Solutions",
+  "heroSubheadline": "Expert Guidance on Solar Loans, Financing Options & benefits - Turn Your Roof into Savings",
+  "serviceDescription": "Somers, Connecticut residents are embracing clean energy with the help of expert solar financing consultation that makes going solar accessible and affordable for every budget. Our specialized solar financing services help Somers homeowners and businesses navigate the maze of solar benefits, benefits, and flexible financing programs to unlock maximum savings. With the substantial competitive pricing and Connecticut's generous flexible financing, there's never been a better time for Somers property owners to invest in solar energy.\n\nOur NABCEP-certified solar consultants bring over 12 years of experience helping Somers residents design custom financing solutions that align with their energy goals and financial situations. We've established relationships with premier solar financing institutions to offer highly competitive loan rates, zero-down payment programs, and flexible terms ranging from 5 to 25 years. Whether you prefer system ownership through your financing, exploring lease options, or considering power purchase agreements (PPAs), our team provides objective guidance without sales pressure. Every Somers consultation includes a thorough property assessment, energy usage analysis, and detailed financial projections showing your investment return over the system's lifetime.\n\nOur Somers solar financing consultation goes far beyond simple loan applications. We serve as your complete solar advocate, helping you understand Connecticut's net metering program that credits your account for excess solar production, navigating the SMART program for additional renewable energy benefits, and identifying utility-specific rebates available to Somers residents. Our team continuously monitors changes to federal, state, and local solar policies affecting Tolland County homeowners, ensuring you capture every available incentive dollar. We've helped hundreds of Somers families slash their electricity costs by 65-90% while boosting property values and reducing their carbon footprint.\n\nWhat distinguishes our Somers solar financing service is our unwavering commitment to transparency and homeowner education. We never rush decisions or hide costs in complicated contracts. Instead, we provide clear 25-year financial models showing total investment, projected savings, payback timelines, and return on investment percentages. Our consultants dedicate time to answering all your questions about equipment warranties, system monitoring, maintenance expectations, and home value impacts. We believe that educated Somers homeowners make the best solar decisions, and our mission is to empower you with comprehensive knowledge to invest confidently in your energy future.",
+  "shortDescription": "Professional solar financing consultation in Somers, CT. Navigate solar loans, financing options, and Connecticut benefits with certified experts. Free energy assessment and customized financial analysis for Somers homeowners.",
+  "benefits": [
+    "Take full advantage of the competitive pricing options in Somers",
+    "Expert navigation of Connecticut SMART program and financing options",
+    "Access to solar loans with rates as low as 2.99% APR",
+    "Zero-down solar financing programs for qualified Somers residents",
+    "Free comprehensive property and energy assessment",
+    "Detailed 25-year savings projections with ROI analysis",
+    "Full support with all financing options and incentive applications",
+    "Specialized knowledge of Somers utility rates and net metering"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Complimentary Solar Consultation",
+      "description": "Schedule your free consultation with our Somers solar financing specialists. We'll review your energy usage, utility bills, and assess your property's solar suitability including roof condition and sun exposure."
+    },
+    {
+      "step": 2,
+      "title": "Detailed Energy Audit & Financial Modeling",
+      "description": "We perform an in-depth energy audit of your Somers property and develop customized financial projections showing installation costs, all available benefits, monthly savings, and long-term ROI."
+    },
+    {
+      "step": 3,
+      "title": "Financing Options Review",
+      "description": "Explore personalized financing solutions including solar loans with various terms, solar leases with no upfront costs, and PPAs. We explain each option's benefits and help you choose the best fit."
+    },
+    {
+      "step": 4,
+      "title": "Incentive Maximization & Applications",
+      "description": "We research all federal, state, and local benefits available to Somers residents and manage all paperwork including financing documentation, SMART program enrollment, and utility rebate submissions."
+    },
+    {
+      "step": 5,
+      "title": "Financing Approval & Installation",
+      "description": "Once your financing is approved, we coordinate professional solar installation, handle all permits and inspections, and manage utility interconnection for your Somers property."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Residential solar panel installation on Connecticut home",
-    "caption": "Premium Solar Installations Throughout Somers",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/XGAZzyLzn18"
+  ],
+  "features": [
+    "NABCEP certified solar financing professionals",
+    "Strategic partnerships with top solar lenders nationwide",
+    "Deep expertise in Connecticut solar regulations and benefits",
+    "Complete incentive research and paperwork management",
+    "Transparent consultation with no hidden fees or obligations",
+    "Comprehensive 25-year financial and savings analysis",
+    "Ongoing customer support throughout system ownership"
+  ],
+  "pricingInfo": "Solar financing consultation is completely free with zero obligation to purchase. Solar loan interest rates vary based on credit profile and program selection, typically ranging from 2.99% to 7.99% APR. Zero-down options available for qualified applicants. Solar system costs in Somers generally range from $15,500 to $36,000 before benefits. The competitive pricing reduces costs by $4,030 to $9,360. Monthly payments often lower than current electric bills.",
+  "serviceArea": "Somers, Connecticut and surrounding Tolland County and Hartford County areas within 30 miles",
+  "availability": "Monday - Friday: 8:00 AM - 7:00 PM, Saturday: 9:00 AM - 5:00 PM, Sunday: Appointments available",
+  "responseTime": "Free consultations scheduled within 24 hours, comprehensive financial analysis provided within 3-5 business days",
+  "qualifications": [
+    "NABCEP Certified Solar Consultants",
+    "Connecticut Licensed Solar Installation Contractors",
+    "Better Business Bureau A+ Rating",
+    "Solar Energy Industries Association (SEIA) Member"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar financing consultations successfully completed",
+  "guarantees": [
+    "100% satisfaction guarantee on all consultation services",
+    "No-obligation financing quotes and proposals",
+    "Transparent pricing with detailed written estimates",
+    "Comprehensive support throughout solar ownership"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Solar financing consultation meeting in Somers Connecticut home",
+      "caption": "Expert Solar Financing Consultation Services in Somers, CT",
+      "credit": {
+        "photographer": "Mimi Thian",
+        "unsplashUrl": "https://unsplash.com/photos/vdXMSiX-n6M"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1554224311-beee2f720c7f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Financial documents and calculator for solar investment analysis",
+        "caption": "Transparent Financial Analysis for Your Solar Investment",
+        "credit": {
+          "photographer": "Campaign Creators",
+          "unsplashUrl": "https://unsplash.com/photos/gMsnXqILjp4"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Residential solar panel installation on Connecticut home",
+        "caption": "Premium Solar Installations Throughout Somers",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/XGAZzyLzn18"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Business analytics showing solar energy savings charts",
+        "caption": "Maximize Your Solar Savings with Data-Driven Insights",
+        "credit": {
+          "photographer": "Stephen Dawson",
+          "unsplashUrl": "https://unsplash.com/photos/qwtCeJ5cLYs"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Satisfied homeowner after successful solar consultation",
+        "caption": "Join Our Growing Community of Satisfied Somers Customers",
+        "credit": {
+          "photographer": "LinkedIn Sales Solutions",
+          "unsplashUrl": "https://unsplash.com/photos/pAtA8xe_iVM"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Somers Homeowners Choose Our Solar Financing Consultation",
+    "Understanding solar benefits and benefits in Somers, CT",
+    "Solar Financing Options Tailored for Somers Residents",
+    "Your Solar Financing Journey in Somers, Connecticut",
+    "Solar Financing Questions from Somers Homeowners"
+  ],
+  "faq": [
+    {
+      "question": "What solar financing options are available to Somers, CT residents?",
+      "answer": "Somers homeowners can access the flexible financing options which applies to total system costs including installation. Connecticut also offers the SMART program for solar renewable energy credits, net metering that credits excess production to your utility bill, and various local utility rebates. Our consultation service identifies every incentive applicable to your specific Somers property to maximize savings."
+    },
+    {
+      "question": "What solar financing options do you offer Somers homeowners?",
+      "answer": "We provide multiple financing paths for Somers residents: solar loans with 5-25 year terms and competitive rates starting at 2.99% APR, solar leases requiring no upfront investment with fixed monthly payments, and power purchase agreements (PPAs) where you pay only for electricity generated. Zero-down financing is available for qualified applicants. During your free consultation, we analyze which option provides optimal financial results for your situation."
+    },
+    {
+      "question": "How much can Somers homeowners save by going solar?",
+      "answer": "Savings vary based on your current electricity consumption, system size, and financing method, but most Somers homeowners reduce electric bills by 65-90%. Over 25 years, cumulative savings typically range from $30,000 to $70,000. The competitive pricing immediately reduces your system cost by thousands. We provide precise savings calculations based on your actual Somers utility rates and usage patterns during consultation."
+    },
+    {
+      "question": "What credit score is needed for solar financing in Somers?",
+      "answer": "While credit scores of 650 or higher typically qualify for the best solar loan rates, we partner with multiple lenders serving various credit profiles. Even with less-than-perfect credit, options like solar leases and PPAs may be available with minimal credit requirements. During your confidential consultation, we'll assess your credit situation and identify the most suitable financing solutions for you."
+    },
+    {
+      "question": "How long does solar financing approval take in Somers?",
+      "answer": "From initial consultation to financing approval typically takes 1-3 weeks. We schedule free consultations within 24 hours, deliver comprehensive financial analysis within 3-5 business days, and financing applications usually receive approval within 5-7 business days. Once approved, solar installation in Somers begins within 4-8 weeks depending on permitting requirements and scheduling."
+    },
+    {
+      "question": "Is your solar financing consultation really free in Somers?",
+      "answer": "Absolutely yes! Our Somers solar financing consultation is 100% free with zero obligation to move forward. We provide complete property assessments, energy audits, financial projections, and incentive research at no cost. We believe in empowering homeowners through education so you can make informed decisions. You'll only proceed if the financial benefits make sense for your situation."
+    },
+    {
+      "question": "What happens to my solar loan if I sell my Somers home?",
+      "answer": "If you own your solar system through a loan, you have several options when selling your Somers home: pay off the remaining loan balance at closing using sale proceeds, transfer the loan to the home buyer with lender approval, or factor the payoff into your asking price. Research shows solar systems typically increase home value by more than the remaining loan balance. We discuss these scenarios thoroughly during consultation."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Business analytics showing solar energy savings charts",
-    "caption": "Maximize Your Solar Savings with Data-Driven Insights",
-    "credit": {
-     "photographer": "Stephen Dawson",
-     "unsplashUrl": "https://unsplash.com/photos/qwtCeJ5cLYs"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Satisfied homeowner after successful solar consultation",
-    "caption": "Join Our Growing Community of Satisfied Somers Customers",
-    "credit": {
-     "photographer": "LinkedIn Sales Solutions",
-     "unsplashUrl": "https://unsplash.com/photos/pAtA8xe_iVM"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Somers Homeowners Choose Our Solar Financing Consultation",
-  "Understanding Solar financings and benefits in Somers, CT",
-  "Solar Financing Options Tailored for Somers Residents",
-  "Your Solar Financing Journey in Somers, Connecticut",
-  "Solar Financing Questions from Somers Homeowners"
- ],
- "faq": [
-  {
-   "question": "What solar financing options are available to Somers, CT residents?",
-   "answer": "Somers homeowners can access the flexible financing options which applies to total system costs including installation. Connecticut also offers the SMART program for solar renewable energy credits, net metering that credits excess production to your utility bill, and various local utility rebates. Our consultation service identifies every incentive applicable to your specific Somers property to maximize savings."
-  },
-  {
-   "question": "What solar financing options do you offer Somers homeowners?",
-   "answer": "We provide multiple financing paths for Somers residents: solar loans with 5-25 year terms and competitive rates starting at 2.99% APR, solar leases requiring no upfront investment with fixed monthly payments, and power purchase agreements (PPAs) where you pay only for electricity generated. Zero-down financing is available for qualified applicants. During your free consultation, we analyze which option provides optimal financial results for your situation."
-  },
-  {
-   "question": "How much can Somers homeowners save by going solar?",
-   "answer": "Savings vary based on your current electricity consumption, system size, and financing method, but most Somers homeowners reduce electric bills by 65-90%. Over 25 years, cumulative savings typically range from $30,000 to $70,000. The competitive pricing immediately reduces your system cost by thousands. We provide precise savings calculations based on your actual Somers utility rates and usage patterns during consultation."
-  },
-  {
-   "question": "What credit score is needed for solar financing in Somers?",
-   "answer": "While credit scores of 650 or higher typically qualify for the best solar loan rates, we partner with multiple lenders serving various credit profiles. Even with less-than-perfect credit, options like solar leases and PPAs may be available with minimal credit requirements. During your confidential consultation, we'll assess your credit situation and identify the most suitable financing solutions for you."
-  },
-  {
-   "question": "How long does solar financing approval take in Somers?",
-   "answer": "From initial consultation to financing approval typically takes 1-3 weeks. We schedule free consultations within 24 hours, deliver comprehensive financial analysis within 3-5 business days, and financing applications usually receive approval within 5-7 business days. Once approved, solar installation in Somers begins within 4-8 weeks depending on permitting requirements and scheduling."
-  },
-  {
-   "question": "Is your solar financing consultation really free in Somers?",
-   "answer": "Absolutely yes! Our Somers solar financing consultation is 100% free with zero obligation to move forward. We provide complete property assessments, energy audits, financial projections, and incentive research at no cost. We believe in empowering homeowners through education so you can make informed decisions. You'll only proceed if the financial benefits make sense for your situation."
-  },
-  {
-   "question": "What happens to my solar loan if I sell my Somers home?",
-   "answer": "If you own your solar system through a loan, you have several options when selling your Somers home: pay off the remaining loan balance at closing using sale proceeds, transfer the loan to the home buyer with lender approval, or factor the payoff into your asking price. Research shows solar systems typically increase home value by more than the remaining loan balance. We discuss these scenarios thoroughly during consultation."
-  }
- ],
- "keywords": [
-  "solar financing",
-  "solar consultation",
-  "solar loans Connecticut",
-  "solar financings",
-  "solar benefits",
-  "solar ROI calculator",
-  "solar lease",
-  "solar PPA financing"
- ],
- "localKeywords": [
-  "solar financing Somers CT",
-  "solar consultation Somers",
-  "Somers solar benefits",
-  "solar financing Somers",
-  "Tolland County solar loans",
-  "Somers CT solar financing"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Solar Financing Consultation Today",
- "ctaSecondary": "Schedule Free Consultation",
- "ctaUrgency": "Special Offer Available - Don't Wait!"
+  ],
+  "keywords": [
+    "solar financing",
+    "solar consultation",
+    "solar loans Connecticut",
+    "solar benefits",
+    "solar benefits",
+    "solar ROI calculator",
+    "solar lease",
+    "solar PPA financing"
+  ],
+  "localKeywords": [
+    "solar financing Somers CT",
+    "solar consultation Somers",
+    "Somers solar benefits",
+    "solar financing Somers",
+    "Tolland County solar loans",
+    "Somers CT solar financing"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Solar Financing Consultation Today",
+  "ctaSecondary": "Schedule Free Consultation",
+  "ctaUrgency": "Special Offer Available - Don't Wait!"
 }

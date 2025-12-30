@@ -1,193 +1,193 @@
 {
- "id": "solar-maintenance-repair-granby",
- "service": "Solar Panel Maintenance & Repair",
- "serviceSlug": "solar-maintenance-repair",
- "location": "Granby",
- "locationSlug": "granby",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Panel Maintenance Granby MA - Expert Repair Service",
- "metaDescription": "Trusted solar panel maintenance & repair in Granby, MA. Professional cleaning, diagnostics, repairs. Rural solar specialists. 24/7 emergency service. Call now!",
- "h1": "Expert Solar Panel Maintenance & Repair in Granby, MA",
- "heroHeadline": "Granby's Trusted Solar Maintenance & Repair Professionals",
- "heroSubheadline": "Rural Solar Experts Keeping Your System Running at Peak Performance",
- "serviceDescription": "Nestled in the scenic hills of Hampshire County, Granby, Massachusetts has embraced solar energy as a path to sustainability and energy independence. Our dedicated solar panel maintenance and repair services are specifically designed for Granby's rural residential and small business solar installations. Understanding the unique challenges that come with maintaining solar systems in rural New England - from wildlife interactions to seasonal weather extremes - our experienced team provides comprehensive care that protects your solar investment and maximizes energy production year-round.\n\nGranby's beautiful natural setting comes with specific maintenance considerations for solar installations. Tree coverage, seasonal leaf accumulation, snow loads, and exposure to the elements can all impact solar performance. Our maintenance programs address these challenges head-on with thorough inspections, professional cleaning, and preventative repairs that keep your system operating efficiently through all four seasons. We serve homeowners throughout Granby Center, South Granby, and the surrounding rural areas with the same commitment to quality and customer satisfaction.\n\nOur comprehensive maintenance services include meticulous solar panel cleaning using eco-friendly solutions, complete system diagnostics, inverter testing and repair, electrical connection inspection, mounting hardware assessment, and performance optimization. We understand that many Granby residents chose solar for both environmental and financial reasons, and we're committed to ensuring your system delivers maximum return on investment. Our preventative maintenance approach catches small issues before they become expensive repairs.\n\nWith over 12 years serving Hampshire County communities, we've built a reputation for reliability, expertise, and transparent pricing. Our NABCEP certified technicians stay current with the latest solar technology and best practices, bringing that knowledge to every Granby service call. Whether you need routine maintenance or emergency repair, we're your local solar experts dedicated to keeping your clean energy flowing.",
- "shortDescription": "Professional solar panel maintenance and repair serving Granby, MA. Expert cleaning, comprehensive diagnostics, fast repairs for rural residential and commercial solar systems. Certified technicians with 12+ years experience.",
- "benefits": [
-  "Local expertise serving Granby's rural solar installations",
-  "Comprehensive cleaning removes leaves, pollen, and debris",
-  "Preventative maintenance extends solar panel lifespan",
-  "Quick emergency response minimizes system downtime",
-  "Certified technicians for all major solar brands",
-  "Eco-friendly cleaning safe for Granby's natural environment",
-  "Detailed performance monitoring and reporting",
-  "Seasonal maintenance programs for New England climate"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Easy Scheduling",
-   "description": "Contact our team to schedule your Granby solar maintenance. We offer flexible appointment times and can accommodate urgent repair needs with same-day or next-day service."
-  },
-  {
-   "step": 2,
-   "title": "Complete System Inspection",
-   "description": "Our certified technicians thoroughly inspect every component of your solar system including panels, mounting hardware, inverters, and electrical connections, checking for damage, wear, or performance issues."
-  },
-  {
-   "step": 3,
-   "title": "Professional Cleaning",
-   "description": "We safely clean your solar panels using specialized equipment and environmentally responsible solutions, removing accumulated dirt, leaves, pollen, bird droppings, and other debris that reduce efficiency."
-  },
-  {
-   "step": 4,
-   "title": "Repair & Optimization",
-   "description": "Complete any necessary repairs with quality parts, update inverter firmware, optimize system settings, and test all electrical connections to ensure safe, efficient operation of your Granby solar system."
-  },
-  {
-   "step": 5,
-   "title": "Service Documentation",
-   "description": "Receive a comprehensive service report with before/after photos, performance data, completed repairs, and personalized maintenance recommendations to keep your system performing optimally."
-  }
- ],
- "features": [
-  "Specialized rural solar system maintenance",
-  "Professional eco-friendly panel cleaning",
-  "Complete inverter diagnostics and repair",
-  "Wildlife damage assessment and prevention",
-  "Tree shading analysis and recommendations",
-  "Snow load and ice dam damage inspection",
-  "Performance monitoring system setup",
-  "Annual maintenance contracts available"
- ],
- "pricingInfo": "Solar maintenance service in Granby starts at $299 for residential systems. We offer competitively priced annual maintenance contracts that include multiple visits and priority scheduling. All repair work is estimated upfront with transparent pricing - no hidden fees. Emergency service available with clear pricing provided before work begins. We'll also help you navigate any applicable manufacturer warranties. Contact us for a free consultation and customized maintenance plan for your Granby solar installation.",
- "serviceArea": "Granby, South Granby, and surrounding Hampshire County communities within 20 miles",
- "availability": "Monday - Friday: 7:30 AM - 6:00 PM, Saturday: 8:00 AM - 3:00 PM, 24/7 emergency service for critical failures",
- "responseTime": "Same-day service available for emergencies, routine maintenance scheduled within 5 business days",
- "qualifications": [
-  "NABCEP Certified PV Installation Professional",
-  "Licensed Electricians - Massachusetts State License",
-  "OSHA Safety Certified for Elevated Work",
-  "Certified by Major Solar Panel Manufacturers",
-  "Fully Insured - General Liability & Workers Comp",
-  "BBB Accredited Business - A+ Rating"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar systems serviced",
- "guarantees": [
-  "100% satisfaction guarantee",
-  "1-year warranty on all repair work",
-  "Performance improvement or money back",
-  "No-damage guarantee on cleaning services"
- ],
- "emergencyAvailable": true,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Solar maintenance technician servicing residential solar panels in Granby MA",
-   "caption": "Professional Solar Panel Maintenance in Granby, Massachusetts",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Technician cleaning solar panels in rural setting",
-    "caption": "Expert cleaning for Granby's rural solar installations",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+  "id": "solar-maintenance-repair-granby",
+  "service": "Solar Panel Maintenance & Repair",
+  "serviceSlug": "solar-maintenance-repair",
+  "location": "Granby",
+  "locationSlug": "granby",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Panel Maintenance Granby MA - Expert Repair Service",
+  "metaDescription": "Trusted solar panel maintenance & repair in Granby, MA. Professional cleaning, diagnostics, repairs. Rural solar specialists. 24/7 emergency service. Call now!",
+  "h1": "Expert Solar Panel Maintenance & Repair in Granby, MA",
+  "heroHeadline": "Granby's Trusted Solar Maintenance & Repair Professionals",
+  "heroSubheadline": "Rural Solar Experts Keeping Your System Running at Peak Performance",
+  "serviceDescription": "Nestled in the scenic hills of Hampshire County, Granby, Massachusetts has embraced solar energy as a path to sustainability and energy independence. Our dedicated solar panel maintenance and repair services are specifically designed for Granby's rural residential and small business solar installations. Understanding the unique challenges that come with maintaining solar systems in rural New England - from wildlife interactions to seasonal weather extremes - our experienced team provides comprehensive care that protects your solar investment and maximizes energy production year-round.\n\nGranby's beautiful natural setting comes with specific maintenance considerations for solar installations. Tree coverage, seasonal leaf accumulation, snow loads, and exposure to the elements can all impact solar performance. Our maintenance programs address these challenges head-on with thorough inspections, professional cleaning, and preventative repairs that keep your system operating efficiently through all four seasons. We serve homeowners throughout Granby Center, South Granby, and the surrounding rural areas with the same commitment to quality and customer satisfaction.\n\nOur comprehensive maintenance services include meticulous solar panel cleaning using eco-friendly solutions, complete system diagnostics, inverter testing and repair, electrical connection inspection, mounting hardware assessment, and performance optimization. We understand that many Granby residents chose solar for both environmental and financial reasons, and we're committed to ensuring your system delivers maximum return on investment. Our preventative maintenance approach catches small issues before they become expensive repairs.\n\nWith over 12 years serving Hampshire County communities, we've built a reputation for reliability, expertise, and transparent pricing. Our NABCEP certified technicians stay current with the latest solar technology and best practices, bringing that knowledge to every Granby service call. Whether you need routine maintenance or emergency repair, we're your local solar experts dedicated to keeping your clean energy flowing.",
+  "shortDescription": "Professional solar panel maintenance and repair serving Granby, MA. Expert cleaning, comprehensive diagnostics, fast repairs for rural residential and commercial solar systems. Certified technicians with 12+ years experience.",
+  "benefits": [
+    "Local expertise serving Granby's rural solar installations",
+    "Comprehensive cleaning removes leaves, pollen, and debris",
+    "Preventative maintenance extends solar panel lifespan",
+    "Quick emergency response minimizes system downtime",
+    "Certified technicians for all major solar brands",
+    "Eco-friendly cleaning safe for Granby's natural environment",
+    "Detailed performance monitoring and reporting",
+    "Seasonal maintenance programs for New England climate"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Easy Scheduling",
+      "description": "Contact our team to schedule your Granby solar maintenance. We offer flexible appointment times and can accommodate urgent repair needs with same-day or next-day service."
+    },
+    {
+      "step": 2,
+      "title": "Complete System Inspection",
+      "description": "Our certified technicians thoroughly inspect every component of your solar system including panels, mounting hardware, inverters, and electrical connections, checking for damage, wear, or performance issues."
+    },
+    {
+      "step": 3,
+      "title": "Professional Cleaning",
+      "description": "We safely clean your solar panels using specialized equipment and environmentally responsible solutions, removing accumulated dirt, leaves, pollen, bird droppings, and other debris that reduce efficiency."
+    },
+    {
+      "step": 4,
+      "title": "Repair & Optimization",
+      "description": "Complete any necessary repairs with quality parts, update inverter firmware, optimize system settings, and test all electrical connections to ensure safe, efficient operation of your Granby solar system."
+    },
+    {
+      "step": 5,
+      "title": "Service Documentation",
+      "description": "Receive a comprehensive service report with before/after photos, performance data, completed repairs, and personalized maintenance recommendations to keep your system performing optimally."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar system diagnostic testing equipment",
-    "caption": "Advanced diagnostics for optimal performance",
-    "credit": {
-     "photographer": "Los Muertos Crew",
-     "unsplashUrl": "https://unsplash.com/photos/xxNRxx343nM"
+  ],
+  "features": [
+    "Specialized rural solar system maintenance",
+    "Professional eco-friendly panel cleaning",
+    "Complete inverter diagnostics and repair",
+    "Wildlife damage assessment and prevention",
+    "Tree shading analysis and recommendations",
+    "Snow load and ice dam damage inspection",
+    "Performance monitoring system setup",
+    "Annual maintenance contracts available"
+  ],
+  "pricingInfo": "Solar maintenance service in Granby starts at $299 for residential systems. We offer competitively priced annual maintenance contracts that include multiple visits and priority scheduling. All repair work is estimated upfront with transparent pricing - no hidden fees. Emergency service available with clear pricing provided before work begins. We'll also help you navigate any applicable manufacturer warranties. Contact us for a free consultation and customized maintenance plan for your Granby solar installation.",
+  "serviceArea": "Granby, South Granby, and surrounding Hampshire County communities within 20 miles",
+  "availability": "Monday - Friday: 7:30 AM - 6:00 PM, Saturday: 8:00 AM - 3:00 PM, 24/7 emergency service for critical failures",
+  "responseTime": "Same-day service available for emergencies, routine maintenance scheduled within 5 business days",
+  "qualifications": [
+    "NABCEP Certified PV Installation Professional",
+    "Licensed Electricians - Massachusetts State License",
+    "OSHA Safety Certified for Elevated Work",
+    "Certified by Major Solar Panel Manufacturers",
+    "Fully Insured - General Liability & Workers Comp",
+    "BBB Accredited Business - A+ Rating"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar systems serviced",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "1-year warranty on all repair work",
+    "Performance improvement or money back",
+    "No-damage guarantee on cleaning services"
+  ],
+  "emergencyAvailable": true,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Solar maintenance technician servicing residential solar panels in Granby MA",
+      "caption": "Professional Solar Panel Maintenance in Granby, Massachusetts",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Technician cleaning solar panels in rural setting",
+        "caption": "Expert cleaning for Granby's rural solar installations",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar system diagnostic testing equipment",
+        "caption": "Advanced diagnostics for optimal performance",
+        "credit": {
+          "photographer": "Los Muertos Crew",
+          "unsplashUrl": "https://unsplash.com/photos/xxNRxx343nM"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar inverter maintenance and electrical testing",
+        "caption": "Comprehensive electrical system inspection",
+        "credit": {
+          "photographer": "Anders J",
+          "unsplashUrl": "https://unsplash.com/photos/ckYMu0C1LZ4"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1595437193398-f24279553f4f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Residential solar panel installation in rural Granby",
+        "caption": "Maintaining Granby's residential solar investments",
+        "credit": {
+          "photographer": "Chelsea",
+          "unsplashUrl": "https://unsplash.com/photos/fwAI30jRKj4"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Solar Panel Maintenance for Granby's Rural Homes",
+    "Common Solar Challenges in Rural New England",
+    "Professional Solar Panel Cleaning Services",
+    "Protecting Your Solar Investment in Granby",
+    "Emergency Solar Repair When You Need It Most",
+    "Frequently Asked Questions About Solar Maintenance"
+  ],
+  "faq": [
+    {
+      "question": "How does Granby's tree coverage affect solar panel maintenance needs?",
+      "answer": "Granby's beautiful wooded landscape means many solar installations deal with falling leaves, tree sap, and pollen accumulation. These organic materials can significantly reduce panel efficiency if not regularly removed. We recommend at least biannual cleaning - once in late spring after pollen season and again in late fall after leaves have dropped. Systems under heavy tree coverage may benefit from quarterly maintenance."
+    },
+    {
+      "question": "Should I be concerned about wildlife damaging my solar panels in Granby?",
+      "answer": "Yes, wildlife is a consideration in rural Granby. Squirrels, birds, and occasionally larger animals can damage wiring, nest under panels, or cause other issues. During our inspections, we check for signs of wildlife interference and can install protective measures like critter guards. We also assess whether nearby trees provide easy access for animals and recommend trimming if necessary."
+    },
+    {
+      "question": "How do Granby's winters affect solar panel performance?",
+      "answer": "Winter in Granby brings snow that can temporarily cover panels and ice that may damage mounting systems. However, snow often slides off tilted panels naturally. More concerning is the freeze-thaw cycle that can stress mounting hardware and create small cracks. We recommend fall inspection and maintenance to prepare your system for winter, and spring service to address any winter damage."
+    },
+    {
+      "question": "What's included in your routine maintenance service?",
+      "answer": "Our comprehensive Granby solar maintenance includes: thorough panel cleaning, visual inspection of all panels and mounting hardware, inverter diagnostics, electrical connection testing, performance analysis compared to expected output, firmware updates if needed, and a detailed report with photos and recommendations. We also check for wildlife damage and shading issues specific to rural installations."
+    },
+    {
+      "question": "How quickly can you respond to solar emergencies in Granby?",
+      "answer": "We offer same-day emergency service for Granby residents when possible, typically responding within 4-6 hours during business hours. For after-hours emergencies involving electrical hazards or storm damage, we aim for response within 8 hours. Most common issues can be resolved on the first visit with our well-stocked service vehicles."
+    },
+    {
+      "question": "Is professional solar cleaning worth the cost?",
+      "answer": "Absolutely! Professional cleaning can restore 15-30% efficiency loss from dirt and debris. For a typical Granby home solar system producing $100-150 in monthly savings, that's $200-400 in recovered annual production - far more than the cost of cleaning. Plus, professional service includes safety equipment and inspection for issues you might miss doing it yourself."
+    },
+    {
+      "question": "Can you service older solar systems installed years ago?",
+      "answer": "Yes! We maintain and repair solar systems of all ages and brands throughout Granby. Older systems often benefit most from professional maintenance, as components may be nearing end of life. We can source replacement parts for discontinued models and recommend cost-effective upgrades when appropriate. Our goal is to extend your system's productive life as long as possible."
+    },
+    {
+      "question": "Do you offer maintenance contracts for Granby customers?",
+      "answer": "Yes, we offer annual maintenance contracts that provide excellent value for Granby solar owners. Contracts include scheduled cleaning and inspection visits, priority emergency service, discounted repair rates, and detailed performance tracking. Many customers find the peace of mind and guaranteed savings worth the investment. We can customize a contract to match your system's specific needs."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar inverter maintenance and electrical testing",
-    "caption": "Comprehensive electrical system inspection",
-    "credit": {
-     "photographer": "Anders J",
-     "unsplashUrl": "https://unsplash.com/photos/ckYMu0C1LZ4"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1595437193398-f24279553f4f?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Residential solar panel installation in rural Granby",
-    "caption": "Maintaining Granby's residential solar investments",
-    "credit": {
-     "photographer": "Chelsea",
-     "unsplashUrl": "https://unsplash.com/photos/fwAI30jRKj4"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Solar Panel Maintenance for Granby's Rural Homes",
-  "Common Solar Challenges in Rural New England",
-  "Professional Solar Panel Cleaning Services",
-  "Protecting Your Solar Investment in Granby",
-  "Emergency Solar Repair When You Need It Most",
-  "Frequently Asked Questions About Solar Maintenance"
- ],
- "faq": [
-  {
-   "question": "How does Granby's tree coverage affect solar panel maintenance needs?",
-   "answer": "Granby's beautiful wooded landscape means many solar installations deal with falling leaves, tree sap, and pollen accumulation. These organic materials can significantly reduce panel efficiency if not regularly removed. We recommend at least biannual cleaning - once in late spring after pollen season and again in late fall after leaves have dropped. Systems under heavy tree coverage may benefit from quarterly maintenance."
-  },
-  {
-   "question": "Should I be concerned about wildlife damaging my solar panels in Granby?",
-   "answer": "Yes, wildlife is a consideration in rural Granby. Squirrels, birds, and occasionally larger animals can damage wiring, nest under panels, or cause other issues. During our inspections, we check for signs of wildlife interference and can install protective measures like critter guards. We also assess whether nearby trees provide easy access for animals and recommend trimming if necessary."
-  },
-  {
-   "question": "How do Granby's winters affect solar panel performance?",
-   "answer": "Winter in Granby brings snow that can temporarily cover panels and ice that may damage mounting systems. However, snow often slides off tilted panels naturally. More concerning is the freeze-thaw cycle that can stress mounting hardware and create small cracks. We recommend fall inspection and maintenance to prepare your system for winter, and spring service to address any winter damage."
-  },
-  {
-   "question": "What's included in your routine maintenance service?",
-   "answer": "Our comprehensive Granby solar maintenance includes: thorough panel cleaning, visual inspection of all panels and mounting hardware, inverter diagnostics, electrical connection testing, performance analysis compared to expected output, firmware updates if needed, and a detailed report with photos and recommendations. We also check for wildlife damage and shading issues specific to rural installations."
-  },
-  {
-   "question": "How quickly can you respond to solar emergencies in Granby?",
-   "answer": "We offer same-day emergency service for Granby residents when possible, typically responding within 4-6 hours during business hours. For after-hours emergencies involving electrical hazards or storm damage, we aim for response within 8 hours. Most common issues can be resolved on the first visit with our well-stocked service vehicles."
-  },
-  {
-   "question": "Is professional solar cleaning worth the cost?",
-   "answer": "Absolutely! Professional cleaning can restore 15-30% efficiency loss from dirt and debris. For a typical Granby home solar system producing $100-150 in monthly savings, that's $200-400 in recovered annual production - far more than the cost of cleaning. Plus, professional service includes safety equipment and inspection for issues you might miss doing it yourself."
-  },
-  {
-   "question": "Can you service older solar systems installed years ago?",
-   "answer": "Yes! We maintain and repair solar systems of all ages and brands throughout Granby. Older systems often benefit most from professional maintenance, as components may be nearing end of life. We can source replacement parts for discontinued models and recommend cost-effective upgrades when appropriate. Our goal is to extend your system's productive life as long as possible."
-  },
-  {
-   "question": "Do you offer maintenance contracts for Granby customers?",
-   "answer": "Yes, we offer annual maintenance contracts that provide excellent value for Granby solar owners. Contracts include scheduled cleaning and inspection visits, priority emergency service, discounted repair rates, and detailed performance tracking. Many customers find the peace of mind and guaranteed savings worth the investment. We can customize a contract to match your system's specific needs."
-  }
- ],
- "keywords": [
-  "solar panel maintenance",
-  "solar panel repair",
-  "solar cleaning service",
-  "rural solar maintenance",
-  "inverter repair",
-  "solar system optimization"
- ],
- "localKeywords": [
-  "solar maintenance Granby MA",
-  "Granby solar panel repair",
-  "rural solar service Hampshire County",
-  "Granby solar cleaning",
-  "Western Massachusetts solar maintenance"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Schedule Granby Solar Maintenance Today",
- "ctaSecondary": "Get Free System Performance Check",
- "ctaUrgency": "Protect Your Solar Investment - Call Now"
+  ],
+  "keywords": [
+    "solar panel maintenance",
+    "solar panel repair",
+    "solar cleaning service",
+    "rural solar maintenance",
+    "inverter repair",
+    "solar system optimization"
+  ],
+  "localKeywords": [
+    "solar maintenance Granby MA",
+    "Granby solar panel repair",
+    "rural solar service Hampshire County",
+    "Granby solar cleaning",
+    "Western Massachusetts solar maintenance"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Schedule Granby Solar Maintenance Today",
+  "ctaSecondary": "Get Free System Performance Check",
+  "ctaUrgency": "Protect Your Solar Investment - Call Now"
 }

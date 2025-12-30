@@ -1,189 +1,189 @@
 {
- "id": "solar-maintenance-repair-wilbraham",
- "service": "Solar Panel Maintenance & Repair",
- "serviceSlug": "solar-maintenance-repair",
- "location": "Wilbraham",
- "locationSlug": "wilbraham",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Panel Repair Wilbraham MA - Expert Maintenance Service",
- "metaDescription": "Wilbraham's premier solar panel maintenance & repair company. Professional service, certified techs, fast response. Maximize your solar savings. Call today!",
- "h1": "Professional Solar Panel Maintenance & Repair in Wilbraham, MA",
- "heroHeadline": "Wilbraham's Trusted Solar System Maintenance Experts",
- "heroSubheadline": "Expert Care for Your Solar Investment - Ensuring Peak Performance Year-Round",
- "serviceDescription": "Wilbraham, Massachusetts, with its scenic rural character and commitment to sustainability, has seen significant growth in residential and agricultural solar installations. Our professional solar panel maintenance and repair services help Wilbraham homeowners and businesses protect their solar investments and maximize long-term energy production.\n\nServing Wilbraham for over 12 years, we understand the unique factors affecting solar performance throughout this eastern Hampden County town. From properties near Crane Pond to homes throughout Wilbraham's established neighborhoods and rural areas, our team has maintained hundreds of solar installations across diverse settings. We recognize how Wilbraham's mix of forested areas, open spaces, and seasonal weather patterns create specific maintenance needs for local solar systems.\n\nOur comprehensive solar maintenance programs include professional panel cleaning using advanced techniques and equipment, complete electrical system inspections, inverter diagnostics and repairs, mounting hardware verification and reinforcement, thermal imaging inspections to detect efficiency-robbing defects before they cause system failures, and detailed performance analysis comparing actual production to expected output. Whether you operate a residential system, agricultural solar installation, or commercial array, our NABCEP certified technicians provide expert service tailored to Wilbraham's conditions.\n\nWe service all major solar equipment manufacturers including SunPower, LG, Canadian Solar, Trina, REC, Hanwha Q CELLS, and others. Our technicians are trained on all inverter configurations—traditional string inverters, Enphase microinverters, SolarEdge power optimizers, and equipment from Fronius, SMA, Schneider Electric, and additional manufacturers. This comprehensive expertise ensures your Wilbraham solar system receives manufacturer-compliant service that protects warranties while maintaining peak performance regardless of equipment type or installation age.\n\nPreventative maintenance is essential for Wilbraham solar systems. The town's rural character means solar panels often face unique challenges including higher pollen levels from surrounding forests, agricultural dust in farming areas, seasonal leaf debris, wildlife interference, and winter snow accumulation. Our proactive maintenance programs address these specific Wilbraham conditions, keeping your system operating efficiently throughout all seasons. Contact our Wilbraham solar service team today to schedule your comprehensive system evaluation and protect your renewable energy investment.",
- "shortDescription": "Expert solar panel maintenance and repair services for Wilbraham, MA properties. Our certified professionals provide thorough cleaning, comprehensive inspections, and reliable repairs ensuring your solar system delivers maximum energy production year after year.",
- "benefits": [
-  "12+ years serving Wilbraham's solar community",
-  "NABCEP certified solar professionals",
-  "Specialized expertise with rural solar installations",
-  "Flexible maintenance plans for all system sizes",
-  "24/7 emergency repair services",
-  "All solar brands and equipment types serviced",
-  "Free performance diagnostics and analysis",
-  "Warranty-preserving service and documentation"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Contact & Scheduling",
-   "description": "Reach out to our Wilbraham solar service team to arrange your maintenance or repair appointment. We offer flexible scheduling including weekends and understand the unique access requirements of rural and agricultural properties."
-  },
-  {
-   "step": 2,
-   "title": "Comprehensive System Evaluation",
-   "description": "Our certified technicians perform a thorough 32-point inspection of your Wilbraham solar installation, examining all panels, inverter systems, electrical connections, mounting hardware, and wiring. Advanced thermal imaging reveals problems invisible during standard visual inspection."
-  },
-  {
-   "step": 3,
-   "title": "Professional Panel Cleaning",
-   "description": "Using eco-friendly cleaning solutions and professional-grade equipment designed for solar panels, we safely remove dirt, pollen, agricultural dust, bird droppings, tree debris, and other contaminants that reduce energy production on Wilbraham systems."
-  },
-  {
-   "step": 4,
-   "title": "Expert Repairs & Optimization",
-   "description": "We address identified issues with precision repairs, install quality replacement components, service and secure electrical connections, update inverter firmware, optimize system settings, and make adjustments to ensure maximum performance for Wilbraham's specific conditions."
-  },
-  {
-   "step": 5,
-   "title": "Detailed Documentation & Recommendations",
-   "description": "You receive a comprehensive service report including photographs, system condition assessment, energy production analysis, complete work documentation, and personalized recommendations for maintaining peak efficiency between professional maintenance visits."
-  }
- ],
- "features": [
-  "Advanced thermal imaging diagnostics",
-  "Complete inverter and microinverter service",
-  "Electrical safety testing and code compliance",
-  "Mounting system integrity verification",
-  "Agricultural and rural installation expertise",
-  "Production monitoring optimization",
-  "Seasonal maintenance for Wilbraham climate",
-  "Wildlife and pest deterrent installation"
- ],
- "pricingInfo": "Wilbraham solar maintenance pricing depends on system size, location, and service requirements. Standard residential cleaning and inspection ranges $200-$450. Agricultural and ground-mount systems priced based on size and accessibility. Annual preventative maintenance plans start at $299 and include bi-annual service visits, priority scheduling, repair discounts, and continuous performance monitoring. Emergency repairs at standard rates with no travel fees for Wilbraham. Free diagnostics with all consultations.",
- "serviceArea": "Wilbraham, MA and surrounding areas including Hampden, Ludlow, Palmer, and Monson",
- "availability": "Monday-Friday 7:00 AM - 6:00 PM, Saturday 8:00 AM - 5:00 PM, 24/7 emergency service",
- "responseTime": "Same-day service available for Wilbraham, 4-hour emergency response",
- "qualifications": [
-  "NABCEP Certified Solar Professionals",
-  "Massachusetts Licensed Electricians",
-  "OSHA Safety Certified",
-  "Agricultural Solar Installation Experience",
-  "Fully Insured & Bonded",
-  "BBB A+ Accredited"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar systems maintained",
- "guarantees": [
-  "100% satisfaction guarantee on all services",
-  "1-year warranty on repair work and parts",
-  "Performance improvement guarantee",
-  "No hidden fees or surprise charges"
- ],
- "emergencyAvailable": true,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Professional solar technician performing maintenance on Wilbraham MA solar panel system",
-   "caption": "Expert Solar Panel Maintenance & Repair in Wilbraham, Massachusetts",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar technician inspecting panel connections in Wilbraham",
-    "caption": "Comprehensive electrical diagnostics and testing",
-    "credit": {
-     "photographer": "Los Muertos Crew",
-     "unsplashUrl": "https://unsplash.com/photos/solar-panels"
+  "id": "solar-maintenance-repair-wilbraham",
+  "service": "Solar Panel Maintenance & Repair",
+  "serviceSlug": "solar-maintenance-repair",
+  "location": "Wilbraham",
+  "locationSlug": "wilbraham",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Panel Repair Wilbraham MA - Expert Maintenance Service",
+  "metaDescription": "Wilbraham's premier solar panel maintenance & repair company. Professional service, certified techs, fast response. Maximize your solar savings. Call today!",
+  "h1": "Professional Solar Panel Maintenance & Repair in Wilbraham, MA",
+  "heroHeadline": "Wilbraham's Trusted Solar System Maintenance Experts",
+  "heroSubheadline": "Expert Care for Your Solar Investment - Ensuring Peak Performance Year-Round",
+  "serviceDescription": "Wilbraham, Massachusetts, with its scenic rural character and commitment to sustainability, has seen significant growth in residential and agricultural solar installations. Our professional solar panel maintenance and repair services help Wilbraham homeowners and businesses protect their solar investments and maximize long-term energy production.\n\nServing Wilbraham for over 12 years, we understand the unique factors affecting solar performance throughout this eastern Hampden County town. From properties near Crane Pond to homes throughout Wilbraham's established neighborhoods and rural areas, our team has maintained hundreds of solar installations across diverse settings. We recognize how Wilbraham's mix of forested areas, open spaces, and seasonal weather patterns create specific maintenance needs for local solar systems.\n\nOur comprehensive solar maintenance programs include professional panel cleaning using advanced techniques and equipment, complete electrical system inspections, inverter diagnostics and repairs, mounting hardware verification and reinforcement, thermal imaging inspections to detect efficiency-robbing defects before they cause system failures, and detailed performance analysis comparing actual production to expected output. Whether you operate a residential system, agricultural solar installation, or commercial array, our NABCEP certified technicians provide expert service tailored to Wilbraham's conditions.\n\nWe service all major solar equipment manufacturers including SunPower, LG, Canadian Solar, Trina, REC, Hanwha Q CELLS, and others. Our technicians are trained on all inverter configurations—traditional string inverters, Enphase microinverters, SolarEdge power optimizers, and equipment from Fronius, SMA, Schneider Electric, and additional manufacturers. This comprehensive expertise ensures your Wilbraham solar system receives manufacturer-compliant service that protects warranties while maintaining peak performance regardless of equipment type or installation age.\n\nPreventative maintenance is essential for Wilbraham solar systems. The town's rural character means solar panels often face unique challenges including higher pollen levels from surrounding forests, agricultural dust in farming areas, seasonal leaf debris, wildlife interference, and winter snow accumulation. Our proactive maintenance programs address these specific Wilbraham conditions, keeping your system operating efficiently throughout all seasons. Contact our Wilbraham solar service team today to schedule your comprehensive system evaluation and protect your renewable energy investment.",
+  "shortDescription": "Expert solar panel maintenance and repair services for Wilbraham, MA properties. Our certified professionals provide thorough cleaning, comprehensive inspections, and reliable repairs ensuring your solar system delivers maximum energy production year after year.",
+  "benefits": [
+    "12+ years serving Wilbraham's solar community",
+    "NABCEP certified solar professionals",
+    "Specialized expertise with rural solar installations",
+    "Flexible maintenance plans for all system sizes",
+    "24/7 emergency repair services",
+    "All solar brands and equipment types serviced",
+    "Free performance diagnostics and analysis",
+    "Warranty-preserving service and documentation"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Contact & Scheduling",
+      "description": "Reach out to our Wilbraham solar service team to arrange your maintenance or repair appointment. We offer flexible scheduling including weekends and understand the unique access requirements of rural and agricultural properties."
+    },
+    {
+      "step": 2,
+      "title": "Comprehensive System Evaluation",
+      "description": "Our certified technicians perform a thorough 32-point inspection of your Wilbraham solar installation, examining all panels, inverter systems, electrical connections, mounting hardware, and wiring. Advanced thermal imaging reveals problems invisible during standard visual inspection."
+    },
+    {
+      "step": 3,
+      "title": "Professional Panel Cleaning",
+      "description": "Using eco-friendly cleaning solutions and professional-grade equipment designed for solar panels, we safely remove dirt, pollen, agricultural dust, bird droppings, tree debris, and other contaminants that reduce energy production on Wilbraham systems."
+    },
+    {
+      "step": 4,
+      "title": "Expert Repairs & Optimization",
+      "description": "We address identified issues with precision repairs, install quality replacement components, service and secure electrical connections, update inverter firmware, optimize system settings, and make adjustments to ensure maximum performance for Wilbraham's specific conditions."
+    },
+    {
+      "step": 5,
+      "title": "Detailed Documentation & Recommendations",
+      "description": "You receive a comprehensive service report including photographs, system condition assessment, energy production analysis, complete work documentation, and personalized recommendations for maintaining peak efficiency between professional maintenance visits."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Professional cleaning solar panel system",
-    "caption": "Expert solar panel cleaning for Wilbraham installations",
-    "credit": {
-     "photographer": "Gustavo Fring",
-     "unsplashUrl": "https://unsplash.com/photos/solar-cleaning"
+  ],
+  "features": [
+    "Advanced thermal imaging diagnostics",
+    "Complete inverter and microinverter service",
+    "Electrical safety testing and code compliance",
+    "Mounting system integrity verification",
+    "Agricultural and rural installation expertise",
+    "Production monitoring optimization",
+    "Seasonal maintenance for Wilbraham climate",
+    "Wildlife and pest deterrent installation"
+  ],
+  "pricingInfo": "Wilbraham solar maintenance pricing depends on system size, location, and service requirements. Standard residential cleaning and inspection ranges $200-$450. Agricultural and ground-mount systems priced based on size and accessibility. Annual preventative maintenance plans start at $299 and include bi-annual service visits, priority scheduling, repair discounts, and continuous performance monitoring. Emergency repairs at standard rates with no travel fees for Wilbraham. Free diagnostics with all consultations.",
+  "serviceArea": "Wilbraham, MA and surrounding areas including Hampden, Ludlow, Palmer, and Monson",
+  "availability": "Monday-Friday 7:00 AM - 6:00 PM, Saturday 8:00 AM - 5:00 PM, 24/7 emergency service",
+  "responseTime": "Same-day service available for Wilbraham, 4-hour emergency response",
+  "qualifications": [
+    "NABCEP Certified Solar Professionals",
+    "Massachusetts Licensed Electricians",
+    "OSHA Safety Certified",
+    "Agricultural Solar Installation Experience",
+    "Fully Insured & Bonded",
+    "BBB A+ Accredited"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar systems maintained",
+  "guarantees": [
+    "100% satisfaction guarantee on all services",
+    "1-year warranty on repair work and parts",
+    "Performance improvement guarantee",
+    "No hidden fees or surprise charges"
+  ],
+  "emergencyAvailable": true,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional solar technician performing maintenance on Wilbraham MA solar panel system",
+      "caption": "Expert Solar Panel Maintenance & Repair in Wilbraham, Massachusetts",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar technician inspecting panel connections in Wilbraham",
+        "caption": "Comprehensive electrical diagnostics and testing",
+        "credit": {
+          "photographer": "Los Muertos Crew",
+          "unsplashUrl": "https://unsplash.com/photos/solar-panels"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional cleaning solar panel system",
+        "caption": "Expert solar panel cleaning for Wilbraham installations",
+        "credit": {
+          "photographer": "Gustavo Fring",
+          "unsplashUrl": "https://unsplash.com/photos/solar-cleaning"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Inverter diagnostics and maintenance work",
+        "caption": "Complete inverter service and repair expertise",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/inverter-maintenance"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar panels on Wilbraham property with blue sky",
+        "caption": "Protecting Wilbraham solar investments with expert care",
+        "credit": {
+          "photographer": "Zbynek Burival",
+          "unsplashUrl": "https://unsplash.com/photos/solar-roof"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Wilbraham Property Owners Choose Our Solar Maintenance",
+    "Common Solar Panel Challenges in Wilbraham",
+    "Our Complete Solar Maintenance Process",
+    "Signs Your Wilbraham Solar System Needs Professional Service",
+    "Wilbraham Solar Panel Maintenance FAQs",
+    "Contact Wilbraham's Solar Maintenance Experts Today"
+  ],
+  "faq": [
+    {
+      "question": "How often should Wilbraham solar panels be professionally maintained?",
+      "answer": "Most Wilbraham solar systems benefit from annual professional maintenance. However, properties in heavily forested areas with high pollen levels, agricultural installations exposed to crop dust, or systems near bird nesting areas may need bi-annual service. Ground-mount systems and larger commercial installations often benefit from quarterly inspections to ensure consistent optimal performance."
+    },
+    {
+      "question": "Do you service ground-mounted solar systems in Wilbraham?",
+      "answer": "Absolutely! We have extensive experience maintaining ground-mounted solar arrays throughout Wilbraham, including agricultural installations and residential ground-mount systems. These systems face unique challenges including ground-level debris accumulation, wildlife interference, and vegetation management. Our maintenance programs are specifically designed to address these ground-mount considerations."
+    },
+    {
+      "question": "What maintenance do rural solar systems in Wilbraham need?",
+      "answer": "Rural Wilbraham solar systems often face higher pollen accumulation from surrounding forests, agricultural dust in farming areas, increased wildlife activity, and debris from nearby vegetation. We recommend annual maintenance minimum, with spring cleaning after pollen season particularly important. Our rural solar maintenance includes wildlife deterrent assessment and vegetation management recommendations."
+    },
+    {
+      "question": "Can you repair solar panels damaged by wildlife?",
+      "answer": "Yes, we frequently repair wildlife-related damage in Wilbraham including chewed wiring (from rodents), nesting damage (from birds), and physical impacts. We also install deterrent systems to prevent future wildlife damage including wire guards, bird netting, and pest barriers. Our experience with rural installations means we understand and can effectively address these common Wilbraham challenges."
+    },
+    {
+      "question": "Do you provide emergency repair service in Wilbraham?",
+      "answer": "Yes, we offer 24/7 emergency solar repair services throughout Wilbraham. If your system completely fails, shows critical error messages, suffers storm damage, or has safety concerns, call our emergency line immediately. We prioritize critical situations and typically respond within 4 hours for Wilbraham customers, including rural locations."
+    },
+    {
+      "question": "What's included in your annual maintenance plan for Wilbraham?",
+      "answer": "Our Wilbraham annual plan includes: two comprehensive service visits (spring and fall), complete professional panel cleaning, detailed 32-point system inspection, inverter diagnostics and testing, electrical safety verification, mounting hardware check, vegetation management assessment for ground-mount systems, wildlife deterrent inspection, production monitoring analysis, priority emergency service, 15% discount on repairs, and detailed performance reports."
+    },
+    {
+      "question": "How can I tell if my Wilbraham solar system is underperforming?",
+      "answer": "Compare current energy production to previous years' data for the same season. Drops of 15% or more often indicate maintenance needs—commonly from dirty panels, equipment malfunctions, or vegetation growth creating new shading. Other warning signs include inverter error messages, monitoring system alerts, higher electric bills, or visible damage. Contact us for free diagnostics to definitively assess your system's performance."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Inverter diagnostics and maintenance work",
-    "caption": "Complete inverter service and repair expertise",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/inverter-maintenance"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar panels on Wilbraham property with blue sky",
-    "caption": "Protecting Wilbraham solar investments with expert care",
-    "credit": {
-     "photographer": "Zbynek Burival",
-     "unsplashUrl": "https://unsplash.com/photos/solar-roof"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Wilbraham Property Owners Choose Our Solar Maintenance",
-  "Common Solar Panel Challenges in Wilbraham",
-  "Our Complete Solar Maintenance Process",
-  "Signs Your Wilbraham Solar System Needs Professional Service",
-  "Wilbraham Solar Panel Maintenance FAQs",
-  "Contact Wilbraham's Solar Maintenance Experts Today"
- ],
- "faq": [
-  {
-   "question": "How often should Wilbraham solar panels be professionally maintained?",
-   "answer": "Most Wilbraham solar systems benefit from annual professional maintenance. However, properties in heavily forested areas with high pollen levels, agricultural installations exposed to crop dust, or systems near bird nesting areas may need bi-annual service. Ground-mount systems and larger commercial installations often benefit from quarterly inspections to ensure consistent optimal performance."
-  },
-  {
-   "question": "Do you service ground-mounted solar systems in Wilbraham?",
-   "answer": "Absolutely! We have extensive experience maintaining ground-mounted solar arrays throughout Wilbraham, including agricultural installations and residential ground-mount systems. These systems face unique challenges including ground-level debris accumulation, wildlife interference, and vegetation management. Our maintenance programs are specifically designed to address these ground-mount considerations."
-  },
-  {
-   "question": "What maintenance do rural solar systems in Wilbraham need?",
-   "answer": "Rural Wilbraham solar systems often face higher pollen accumulation from surrounding forests, agricultural dust in farming areas, increased wildlife activity, and debris from nearby vegetation. We recommend annual maintenance minimum, with spring cleaning after pollen season particularly important. Our rural solar maintenance includes wildlife deterrent assessment and vegetation management recommendations."
-  },
-  {
-   "question": "Can you repair solar panels damaged by wildlife?",
-   "answer": "Yes, we frequently repair wildlife-related damage in Wilbraham including chewed wiring (from rodents), nesting damage (from birds), and physical impacts. We also install deterrent systems to prevent future wildlife damage including wire guards, bird netting, and pest barriers. Our experience with rural installations means we understand and can effectively address these common Wilbraham challenges."
-  },
-  {
-   "question": "Do you provide emergency repair service in Wilbraham?",
-   "answer": "Yes, we offer 24/7 emergency solar repair services throughout Wilbraham. If your system completely fails, shows critical error messages, suffers storm damage, or has safety concerns, call our emergency line immediately. We prioritize critical situations and typically respond within 4 hours for Wilbraham customers, including rural locations."
-  },
-  {
-   "question": "What's included in your annual maintenance plan for Wilbraham?",
-   "answer": "Our Wilbraham annual plan includes: two comprehensive service visits (spring and fall), complete professional panel cleaning, detailed 32-point system inspection, inverter diagnostics and testing, electrical safety verification, mounting hardware check, vegetation management assessment for ground-mount systems, wildlife deterrent inspection, production monitoring analysis, priority emergency service, 15% discount on repairs, and detailed performance reports."
-  },
-  {
-   "question": "How can I tell if my Wilbraham solar system is underperforming?",
-   "answer": "Compare current energy production to previous years' data for the same season. Drops of 15% or more often indicate maintenance needs—commonly from dirty panels, equipment malfunctions, or vegetation growth creating new shading. Other warning signs include inverter error messages, monitoring system alerts, higher electric bills, or visible damage. Contact us for free diagnostics to definitively assess your system's performance."
-  }
- ],
- "keywords": [
-  "solar panel maintenance",
-  "solar repair service",
-  "rural solar maintenance",
-  "solar inspection",
-  "inverter repair",
-  "ground mount solar service"
- ],
- "localKeywords": [
-  "solar maintenance Wilbraham MA",
-  "solar panel repair Wilbraham",
-  "Wilbraham solar service",
-  "solar cleaning Wilbraham Massachusetts",
-  "Wilbraham solar technician"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Schedule Wilbraham Solar Maintenance",
- "ctaSecondary": "Request Free System Inspection",
- "ctaUrgency": "Keep Your System Running at Peak Efficiency"
+  ],
+  "keywords": [
+    "solar panel maintenance",
+    "solar repair service",
+    "rural solar maintenance",
+    "solar inspection",
+    "inverter repair",
+    "ground mount solar service"
+  ],
+  "localKeywords": [
+    "solar maintenance Wilbraham MA",
+    "solar panel repair Wilbraham",
+    "Wilbraham solar service",
+    "solar cleaning Wilbraham Massachusetts",
+    "Wilbraham solar technician"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Schedule Wilbraham Solar Maintenance",
+  "ctaSecondary": "Request Free System Inspection",
+  "ctaUrgency": "Keep Your System Running at Peak Efficiency"
 }

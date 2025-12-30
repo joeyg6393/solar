@@ -1,190 +1,190 @@
 {
- "id": "ev-charger-installation-holyoke",
- "service": "EV Charger Installation",
- "serviceSlug": "ev-charger-installation",
- "location": "Holyoke",
- "locationSlug": "holyoke",
- "serviceNiche": "Solar Installers",
- "pageTitle": "EV Charger Installation Holyoke MA - Fast Home EV Charging",
- "metaDescription": "Professional EV charger installation in Holyoke MA. Expert electricians install Tesla, ChargePoint & all Level 2 chargers. flexible financings up to $1,000!",
- "h1": "EV Charger Installation in Holyoke, Massachusetts",
- "heroHeadline": "The Paper City's EV Charging Installation Experts",
- "heroSubheadline": "Transform Your Holyoke Home with Professional Level 2 Charging",
- "serviceDescription": "Holyoke, known as the Paper City, is rapidly becoming a leader in clean energy adoption throughout Western Massachusetts. As more Holyoke residents embrace electric vehicles, the demand for professional home charging installations has surged. Our certified electricians specialize in installing Level 2 EV charging stations that deliver fast, convenient, overnight charging right at your Holyoke home. With over 12 years serving the Pioneer Valley, we understand the unique electrical requirements of Holyoke's historic mill conversions and traditional neighborhoods alike.\n\nLocated along the Connecticut River just 8 miles north of Springfield, Holyoke presents unique opportunities for sustainable living. We help Holyoke homeowners complete their clean energy transition by installing state-of-the-art EV chargers from leading brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox, Grizzl-E, and Wallbox Pulsar Plus. Whether you live in the historic Highlands neighborhood, near Mount Tom, or in one of Holyoke's revitalized downtown loft conversions, we provide customized charging solutions that work seamlessly with your home's electrical infrastructure.\n\nOur comprehensive service includes electrical panel assessments, capacity upgrades when needed, permit handling, and final inspections ensuring code compliance. We install smart chargers with WiFi connectivity and mobile app control, allowing you to schedule charging during off-peak hours to minimize electricity costs. Many of our Holyoke clients pair EV chargers with solar panel installations, creating completely sustainable transportation powered by clean energy generated on their own rooftops.\n\nHolyoke residents benefit from our expertise navigating flexible financings offering up to $1,000 back on installation costs, plus Massachusetts flexible financing and potential utility company rebates. Our installations typically complete in just 3-5 hours, and we work around your schedule to minimize disruption. Join the growing community of Holyoke EV owners enjoying the convenience, savings, and environmental benefits of home charging.",
- "shortDescription": "Top-rated EV charger installation serving Holyoke, MA. Licensed electricians install all major Level 2 charging stations for home use. Fast service with expert guidance on benefits and rebates.",
- "benefits": [
-  "Serving all Holyoke neighborhoods from Highlands to downtown lofts",
-  "Fast Level 2 charging - fully charge overnight at home",
-  "EVITP certified electricians with 12+ years experience",
-  "All major brands: Tesla, ChargePoint, JuiceBox, Grizzl-E, Wallbox",
-  "Help securing flexible financings up to $1,000",
-  "Smart chargers with app control and energy monitoring",
-  "Electrical panel evaluations and upgrades included",
-  "Pair with solar panels for 100% clean energy charging"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free Holyoke Home Consultation",
-   "description": "We assess your Holyoke property's electrical system, parking setup, and EV charging needs. We'll recommend the ideal Level 2 charger for your vehicle and budget."
-  },
-  {
-   "step": 2,
-   "title": "Electrical System Assessment",
-   "description": "Our licensed electricians evaluate your electrical panel's capacity to support 240V Level 2 charging. We provide transparent recommendations for any necessary upgrades."
-  },
-  {
-   "step": 3,
-   "title": "Permitting and Rebate Navigation",
-   "description": "We handle all Holyoke city permits and electrical inspections. Our team helps you apply for federal Alternative Fuel financings and Massachusetts EV benefits."
-  },
-  {
-   "step": 4,
-   "title": "Professional Charger Installation",
-   "description": "Certified electricians install your charger with a dedicated 240V circuit, professional mounting, and proper cable management. Most Holyoke installations complete in 3-5 hours."
-  },
-  {
-   "step": 5,
-   "title": "Testing and User Training",
-   "description": "We thoroughly test your new charging station and provide complete training on smart features including scheduling, monitoring energy use, and optimizing charging costs."
-  }
- ],
- "features": [
-  "Level 2 charging (240V) - 25-50 miles of range per hour",
-  "Indoor garage and outdoor weatherproof installations",
-  "Smart WiFi chargers with mobile app integration",
-  "Scheduled charging during off-peak electricity rates",
-  "Energy consumption monitoring and cost tracking",
-  "Solar panel integration for renewable EV charging",
-  "Circuit breaker additions and panel modifications",
-  "Professional mounting and cable management systems"
- ],
- "pricingInfo": "EV charger installation in Holyoke ranges from $850-$2,500 depending on charger brand, electrical panel distance, and any required electrical upgrades. flexible financings cover up to $1,000 of installation costs. We provide transparent, detailed quotes with no hidden fees. Free in-home assessments for all Holyoke residents.",
- "serviceArea": "Holyoke MA and surrounding communities including South Hadley, Easthampton, Chicopee, Springfield",
- "availability": "Monday-Saturday, 7:00 AM - 6:00 PM. Emergency electrical service available.",
- "responseTime": "Free quotes within 24 hours. Installation typically scheduled within 1-2 weeks.",
- "qualifications": [
-  "Massachusetts Licensed Master Electricians",
-  "NABCEP Certified Solar Professionals",
-  "EVITP Certified EV Charger Installers",
-  "Fully Insured & Bonded ($2M liability)"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ installations",
- "guarantees": [
-  "Lifetime workmanship warranty",
-  "5-year manufacturer warranty on chargers",
-  "Code-compliant installation guarantee",
-  "30-day satisfaction guarantee"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1609221975938-e1bb0e1e93d6?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Electric vehicle charging at home in Holyoke MA",
-   "caption": "Professional EV Charging Solutions for Holyoke Homes",
-   "credit": {
-    "photographer": "Rathaphon Nanthapreecha",
-    "unsplashUrl": "https://unsplash.com/photos/dFDVIClR7hk"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Modern wall-mounted EV charger installation",
-    "caption": "Clean professional installations throughout Holyoke",
-    "credit": {
-     "photographer": "Waldemar",
-     "unsplashUrl": "https://unsplash.com/photos/1bNQVGzuy0U"
+  "id": "ev-charger-installation-holyoke",
+  "service": "EV Charger Installation",
+  "serviceSlug": "ev-charger-installation",
+  "location": "Holyoke",
+  "locationSlug": "holyoke",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "EV Charger Installation Holyoke MA - Fast Home EV Charging",
+  "metaDescription": "Professional EV charger installation in Holyoke MA. Expert electricians install Tesla, ChargePoint & all Level 2 chargers. flexible benefits up to $1,000!",
+  "h1": "EV Charger Installation in Holyoke, Massachusetts",
+  "heroHeadline": "The Paper City's EV Charging Installation Experts",
+  "heroSubheadline": "Transform Your Holyoke Home with Professional Level 2 Charging",
+  "serviceDescription": "Holyoke, known as the Paper City, is rapidly becoming a leader in clean energy adoption throughout Western Massachusetts. As more Holyoke residents embrace electric vehicles, the demand for professional home charging installations has surged. Our certified electricians specialize in installing Level 2 EV charging stations that deliver fast, convenient, overnight charging right at your Holyoke home. With over 12 years serving the Pioneer Valley, we understand the unique electrical requirements of Holyoke's historic mill conversions and traditional neighborhoods alike.\n\nLocated along the Connecticut River just 8 miles north of Springfield, Holyoke presents unique opportunities for sustainable living. We help Holyoke homeowners complete their clean energy transition by installing state-of-the-art EV chargers from leading brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox, Grizzl-E, and Wallbox Pulsar Plus. Whether you live in the historic Highlands neighborhood, near Mount Tom, or in one of Holyoke's revitalized downtown loft conversions, we provide customized charging solutions that work seamlessly with your home's electrical infrastructure.\n\nOur comprehensive service includes electrical panel assessments, capacity upgrades when needed, permit handling, and final inspections ensuring code compliance. We install smart chargers with WiFi connectivity and mobile app control, allowing you to schedule charging during off-peak hours to minimize electricity costs. Many of our Holyoke clients pair EV chargers with solar panel installations, creating completely sustainable transportation powered by clean energy generated on their own rooftops.\n\nHolyoke residents benefit from our expertise navigating flexible benefits offering up to $1,000 back on installation costs, plus Massachusetts flexible financing and potential utility company rebates. Our installations typically complete in just 3-5 hours, and we work around your schedule to minimize disruption. Join the growing community of Holyoke EV owners enjoying the convenience, savings, and environmental benefits of home charging.",
+  "shortDescription": "Top-rated EV charger installation serving Holyoke, MA. Licensed electricians install all major Level 2 charging stations for home use. Fast service with expert guidance on benefits and rebates.",
+  "benefits": [
+    "Serving all Holyoke neighborhoods from Highlands to downtown lofts",
+    "Fast Level 2 charging - fully charge overnight at home",
+    "EVITP certified electricians with 12+ years experience",
+    "All major brands: Tesla, ChargePoint, JuiceBox, Grizzl-E, Wallbox",
+    "Help securing flexible benefits up to $1,000",
+    "Smart chargers with app control and energy monitoring",
+    "Electrical panel evaluations and upgrades included",
+    "Pair with solar panels for 100% clean energy charging"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free Holyoke Home Consultation",
+      "description": "We assess your Holyoke property's electrical system, parking setup, and EV charging needs. We'll recommend the ideal Level 2 charger for your vehicle and budget."
+    },
+    {
+      "step": 2,
+      "title": "Electrical System Assessment",
+      "description": "Our licensed electricians evaluate your electrical panel's capacity to support 240V Level 2 charging. We provide transparent recommendations for any necessary upgrades."
+    },
+    {
+      "step": 3,
+      "title": "Permitting and Rebate Navigation",
+      "description": "We handle all Holyoke city permits and electrical inspections. Our team helps you apply for federal Alternative Fuel benefits and Massachusetts EV benefits."
+    },
+    {
+      "step": 4,
+      "title": "Professional Charger Installation",
+      "description": "Certified electricians install your charger with a dedicated 240V circuit, professional mounting, and proper cable management. Most Holyoke installations complete in 3-5 hours."
+    },
+    {
+      "step": 5,
+      "title": "Testing and User Training",
+      "description": "We thoroughly test your new charging station and provide complete training on smart features including scheduling, monitoring energy use, and optimizing charging costs."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1617788138017-80ad40651399?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Tesla vehicle charging at residential garage",
-    "caption": "Tesla Wall Connector and all major brands",
-    "credit": {
-     "photographer": "Brecht Denil",
-     "unsplashUrl": "https://unsplash.com/photos/iRqHRj6kRjU"
+  ],
+  "features": [
+    "Level 2 charging (240V) - 25-50 miles of range per hour",
+    "Indoor garage and outdoor weatherproof installations",
+    "Smart WiFi chargers with mobile app integration",
+    "Scheduled charging during off-peak electricity rates",
+    "Energy consumption monitoring and cost tracking",
+    "Solar panel integration for renewable EV charging",
+    "Circuit breaker additions and panel modifications",
+    "Professional mounting and cable management systems"
+  ],
+  "pricingInfo": "EV charger installation in Holyoke ranges from $850-$2,500 depending on charger brand, electrical panel distance, and any required electrical upgrades. flexible benefits cover up to $1,000 of installation costs. We provide transparent, detailed quotes with no hidden fees. Free in-home assessments for all Holyoke residents.",
+  "serviceArea": "Holyoke MA and surrounding communities including South Hadley, Easthampton, Chicopee, Springfield",
+  "availability": "Monday-Saturday, 7:00 AM - 6:00 PM. Emergency electrical service available.",
+  "responseTime": "Free quotes within 24 hours. Installation typically scheduled within 1-2 weeks.",
+  "qualifications": [
+    "Massachusetts Licensed Master Electricians",
+    "NABCEP Certified Solar Professionals",
+    "EVITP Certified EV Charger Installers",
+    "Fully Insured & Bonded ($2M liability)"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ installations",
+  "guarantees": [
+    "Lifetime workmanship warranty",
+    "5-year manufacturer warranty on chargers",
+    "Code-compliant installation guarantee",
+    "30-day satisfaction guarantee"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1609221975938-e1bb0e1e93d6?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Electric vehicle charging at home in Holyoke MA",
+      "caption": "Professional EV Charging Solutions for Holyoke Homes",
+      "credit": {
+        "photographer": "Rathaphon Nanthapreecha",
+        "unsplashUrl": "https://unsplash.com/photos/dFDVIClR7hk"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Modern wall-mounted EV charger installation",
+        "caption": "Clean professional installations throughout Holyoke",
+        "credit": {
+          "photographer": "Waldemar",
+          "unsplashUrl": "https://unsplash.com/photos/1bNQVGzuy0U"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1617788138017-80ad40651399?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Tesla vehicle charging at residential garage",
+        "caption": "Tesla Wall Connector and all major brands",
+        "credit": {
+          "photographer": "Brecht Denil",
+          "unsplashUrl": "https://unsplash.com/photos/iRqHRj6kRjU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "EV charging cable connector detail",
+        "caption": "Smart charging technology for Holyoke homes",
+        "credit": {
+          "photographer": "CHUTTERSNAP",
+          "unsplashUrl": "https://unsplash.com/photos/xJLsHl0hIik"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Licensed electrician performing installation work",
+        "caption": "Certified electricians ensuring safe installations",
+        "credit": {
+          "photographer": "Scott Graham",
+          "unsplashUrl": "https://unsplash.com/photos/5fNmWej4tAA"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Holyoke Residents Choose Professional EV Charger Installation",
+    "Our Step-by-Step Installation Process in Holyoke",
+    "Top EV Charger Brands for Massachusetts Homes",
+    "flexible benefits and financing options for Holyoke",
+    "Holyoke EV Charger Installation FAQs"
+  ],
+  "faq": [
+    {
+      "question": "How long does EV charger installation take in Holyoke?",
+      "answer": "Most EV charger installations in Holyoke take 3-5 hours for standard installations. This includes mounting the charger, installing the dedicated 240V circuit from your panel, and final testing. If your Holyoke home needs electrical panel upgrades, the installation may take 6-8 hours. We provide accurate timelines during your free consultation."
+    },
+    {
+      "question": "What's the best EV charger for Holyoke's climate?",
+      "answer": "For Holyoke's New England climate with cold winters, we recommend weatherproof chargers like Grizzl-E (rated -40°F to 122°F), ChargePoint Home Flex, or JuiceBox 48. These chargers handle Massachusetts weather perfectly. For indoor garage installations, Tesla Wall Connector and Wallbox Pulsar Plus are excellent choices. We'll recommend the best option for your specific situation."
+    },
+    {
+      "question": "Can I charge my EV with solar panels in Holyoke?",
+      "answer": "Absolutely! Holyoke receives excellent solar exposure, making solar-powered EV charging highly effective. We design integrated solar and EV charging systems that can power your vehicle with 100% renewable energy. This eliminates both gasoline and grid electricity costs, providing maximum savings and environmental benefits for Holyoke homeowners."
+    },
+    {
+      "question": "Does my Holyoke home need electrical upgrades for an EV charger?",
+      "answer": "It depends on your home's age and electrical panel capacity. Level 2 EV chargers require a dedicated 40-50 amp, 240V circuit. Most Holyoke homes built after 1990 can support this without major upgrades. Older homes, especially historic properties near downtown, may need panel upgrades. We provide free assessments to determine exactly what's needed."
+    },
+    {
+      "question": "What federal and state financing options are available in Holyoke?",
+      "answer": "Holyoke residents qualify for the federal Alternative Fuel Vehicle Refueling Property Credit, which covers 30% of installation costs up to $1,000. Massachusetts offers MOR-EV rebates for EV purchases, and some utility companies provide additional charger benefits. We help you navigate all available programs to maximize your savings."
+    },
+    {
+      "question": "Which EV charger brands do you install in Holyoke?",
+      "answer": "We install all major Level 2 EV charger brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox 40/48, Grizzl-E, Wallbox Pulsar Plus, Emporia, and ClipperCreek. Each brand offers different features and price points. During your consultation, we'll help you choose the perfect charger for your EV model, budget, and smart home needs."
+    },
+    {
+      "question": "Do I need a permit for EV charger installation in Holyoke?",
+      "answer": "Yes, Holyoke requires electrical permits for Level 2 EV charger installations to ensure safety and code compliance. We handle all permits, inspections, and paperwork with the Holyoke Building Department as part of our service. Our licensed electricians ensure your installation meets all Massachusetts electrical codes."
+    },
+    {
+      "question": "How much does it cost to charge an EV at home in Holyoke?",
+      "answer": "With Holyoke's average electricity rates around $0.22-0.24/kWh, fully charging a typical EV (60 kWh battery) costs approximately $13-15, providing 200-300 miles of range. That's equivalent to paying about $1.50 per gallon for gas! Smart chargers can reduce costs further by scheduling charging during off-peak hours. With solar panels, your charging costs approach zero."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "EV charging cable connector detail",
-    "caption": "Smart charging technology for Holyoke homes",
-    "credit": {
-     "photographer": "CHUTTERSNAP",
-     "unsplashUrl": "https://unsplash.com/photos/xJLsHl0hIik"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Licensed electrician performing installation work",
-    "caption": "Certified electricians ensuring safe installations",
-    "credit": {
-     "photographer": "Scott Graham",
-     "unsplashUrl": "https://unsplash.com/photos/5fNmWej4tAA"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Holyoke Residents Choose Professional EV Charger Installation",
-  "Our Step-by-Step Installation Process in Holyoke",
-  "Top EV Charger Brands for Massachusetts Homes",
-  "flexible financings and financing options for Holyoke",
-  "Holyoke EV Charger Installation FAQs"
- ],
- "faq": [
-  {
-   "question": "How long does EV charger installation take in Holyoke?",
-   "answer": "Most EV charger installations in Holyoke take 3-5 hours for standard installations. This includes mounting the charger, installing the dedicated 240V circuit from your panel, and final testing. If your Holyoke home needs electrical panel upgrades, the installation may take 6-8 hours. We provide accurate timelines during your free consultation."
-  },
-  {
-   "question": "What's the best EV charger for Holyoke's climate?",
-   "answer": "For Holyoke's New England climate with cold winters, we recommend weatherproof chargers like Grizzl-E (rated -40°F to 122°F), ChargePoint Home Flex, or JuiceBox 48. These chargers handle Massachusetts weather perfectly. For indoor garage installations, Tesla Wall Connector and Wallbox Pulsar Plus are excellent choices. We'll recommend the best option for your specific situation."
-  },
-  {
-   "question": "Can I charge my EV with solar panels in Holyoke?",
-   "answer": "Absolutely! Holyoke receives excellent solar exposure, making solar-powered EV charging highly effective. We design integrated solar and EV charging systems that can power your vehicle with 100% renewable energy. This eliminates both gasoline and grid electricity costs, providing maximum savings and environmental benefits for Holyoke homeowners."
-  },
-  {
-   "question": "Does my Holyoke home need electrical upgrades for an EV charger?",
-   "answer": "It depends on your home's age and electrical panel capacity. Level 2 EV chargers require a dedicated 40-50 amp, 240V circuit. Most Holyoke homes built after 1990 can support this without major upgrades. Older homes, especially historic properties near downtown, may need panel upgrades. We provide free assessments to determine exactly what's needed."
-  },
-  {
-   "question": "What federal and state financing options are available in Holyoke?",
-   "answer": "Holyoke residents qualify for the federal Alternative Fuel Vehicle Refueling Property Credit, which covers 30% of installation costs up to $1,000. Massachusetts offers MOR-EV rebates for EV purchases, and some utility companies provide additional charger benefits. We help you navigate all available programs to maximize your savings."
-  },
-  {
-   "question": "Which EV charger brands do you install in Holyoke?",
-   "answer": "We install all major Level 2 EV charger brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox 40/48, Grizzl-E, Wallbox Pulsar Plus, Emporia, and ClipperCreek. Each brand offers different features and price points. During your consultation, we'll help you choose the perfect charger for your EV model, budget, and smart home needs."
-  },
-  {
-   "question": "Do I need a permit for EV charger installation in Holyoke?",
-   "answer": "Yes, Holyoke requires electrical permits for Level 2 EV charger installations to ensure safety and code compliance. We handle all permits, inspections, and paperwork with the Holyoke Building Department as part of our service. Our licensed electricians ensure your installation meets all Massachusetts electrical codes."
-  },
-  {
-   "question": "How much does it cost to charge an EV at home in Holyoke?",
-   "answer": "With Holyoke's average electricity rates around $0.22-0.24/kWh, fully charging a typical EV (60 kWh battery) costs approximately $13-15, providing 200-300 miles of range. That's equivalent to paying about $1.50 per gallon for gas! Smart chargers can reduce costs further by scheduling charging during off-peak hours. With solar panels, your charging costs approach zero."
-  }
- ],
- "keywords": [
-  "EV charger installation",
-  "Level 2 charging station",
-  "electric vehicle charger",
-  "home EV charging",
-  "Tesla charger",
-  "smart EV charger"
- ],
- "localKeywords": [
-  "EV charger installation Holyoke MA",
-  "electric car charging Holyoke",
-  "Holyoke EV charging station",
-  "home EV charger Massachusetts",
-  "Tesla charger Holyoke"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Holyoke EV Charger Quote",
- "ctaSecondary": "Schedule Free Home Assessment",
- "ctaUrgency": "special offer: Save Up to $1,000 on Installation"
+  ],
+  "keywords": [
+    "EV charger installation",
+    "Level 2 charging station",
+    "electric vehicle charger",
+    "home EV charging",
+    "Tesla charger",
+    "smart EV charger"
+  ],
+  "localKeywords": [
+    "EV charger installation Holyoke MA",
+    "electric car charging Holyoke",
+    "Holyoke EV charging station",
+    "home EV charger Massachusetts",
+    "Tesla charger Holyoke"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Holyoke EV Charger Quote",
+  "ctaSecondary": "Schedule Free Home Assessment",
+  "ctaUrgency": "special offer: Save Up to $1,000 on Installation"
 }

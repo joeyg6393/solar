@@ -1,206 +1,206 @@
 {
- "id": "residential-solar-installation-springfield",
- "service": "Residential Solar Panel Installation",
- "serviceSlug": "residential-solar-installation",
- "location": "Springfield",
- "locationSlug": "springfield",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Residential Solar Panels Springfield MA | Free Quote",
- "metaDescription": "Top residential solar panel installation in Springfield, MA. Expert NABCEP-certified installers. 12+ years experience, 500+ installs. Free consultation. Call now!",
- "h1": "Residential Solar Panel Installation in Springfield, Massachusetts",
- "heroHeadline": "Transform Your Springfield Home with Solar Energy",
- "heroSubheadline": "Save Up to 70% on Electric Bills - Flexible Financing Available - Professional Installation",
- "serviceDescription": "Looking for residential solar panel installation in Springfield, Massachusetts? Our expert team has been serving Springfield homeowners for over 12 years, delivering clean, renewable energy solutions that dramatically reduce electric bills while increasing home value. Springfield's sunny climate makes it an ideal location for solar energy, with homeowners typically seeing 50-70% reductions in their electricity costs.\n\nAs Springfield's trusted solar installation company, we provide comprehensive residential solar solutions from initial consultation through installation and beyond. Our NABCEP-certified installers are experts in Massachusetts building codes and utility regulations, ensuring your solar system is installed correctly and efficiently. We handle all aspects of the installation process, including structural assessments, electrical work, permitting, and utility interconnection, making the transition to solar energy seamless for Springfield residents.\n\nEvery Springfield home is unique, which is why we custom-design each solar system to maximize energy production based on your roof orientation, shading, and energy consumption patterns. We use only premium tier-1 solar panels with 25-year warranties and industry-leading inverters to ensure your system performs optimally for decades. Our installations in Springfield neighborhoods like Sixteen Acres, Forest Park, and East Springfield consistently exceed energy production expectations.\n\nWe're committed to making solar energy affordable for Springfield families. With our flexible financing options including $0 down solar loans, many Springfield homeowners start saving money from day one. Our team helps you navigate all available financing options to maximize your return on investment. Join hundreds of satisfied Springfield homeowners who have made the switch to clean, renewable solar energy.",
- "shortDescription": "Professional residential solar panel installation in Springfield, MA. Over 12 years serving Springfield homeowners with custom solar solutions. Save up to 70% on electric bills with flexible financing. Free consultation and quote available.",
- "benefits": [
-  "Save 50-70% on electricity bills in Springfield, MA",
-  "Flexible financing with $0 down payment options",
-  "Increase home value by $15,000-$25,000 on average",
-  "12+ years experience serving Springfield and Pioneer Valley",
-  "NABCEP-certified solar installers with local expertise",
-  "Custom solar designs optimized for Springfield's climate",
-  "Premium tier-1 solar panels with 25-year warranties",
-  "Complete permitting and utility interconnection handled for you",
-  "Flexible financing options including $0 down solar loans",
-  "10-year workmanship guarantee on all installations",
-  "Local Springfield company - we're your neighbors",
-  "Free energy audit and solar consultation"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free Solar Consultation",
-   "description": "We visit your Springfield home to assess your roof, review your energy bills, and discuss your solar goals. Our experts evaluate sun exposure, shading, and structural integrity to design the perfect system for your property."
-  },
-  {
-   "step": 2,
-   "title": "Custom System Design & Proposal",
-   "description": "Using advanced solar modeling software, we create a custom solar panel layout optimized for your Springfield home. You'll receive a detailed proposal showing projected energy production, savings, available benefits, and financing options."
-  },
-  {
-   "step": 3,
-   "title": "Permitting & Approvals",
-   "description": "Our team handles all Springfield building permits, utility applications, and interconnection agreements. We work directly with the City of Springfield and your utility company to ensure full compliance with local regulations."
-  },
-  {
-   "step": 4,
-   "title": "Professional Installation",
-   "description": "Our NABCEP-certified installers complete your solar panel installation in 1-3 days, typically. We mount premium solar panels, install inverters and monitoring equipment, and complete all electrical work to code. Minimal disruption to your daily routine."
-  },
-  {
-   "step": 5,
-   "title": "Inspection & Activation",
-   "description": "After Springfield building inspection approval and utility permission to operate, we activate your solar system and train you on monitoring your energy production. Start generating clean energy and savings immediately!"
-  },
-  {
-   "step": 6,
-   "title": "Ongoing Support & Monitoring",
-   "description": "We provide continuous system monitoring and are always available for questions or service needs. Your solar panels come with a 25-year warranty and our 10-year workmanship guarantee ensures peace of mind for decades."
-  }
- ],
- "features": [
-  "Premium tier-1 solar panels (LG, REC, Panasonic, Q-Cells)",
-  "High-efficiency inverters (Enphase, SolarEdge, Tesla)",
-  "Real-time energy monitoring apps",
-  "Roof integrity assessment and repairs if needed",
-  "Critter guards and wildlife protection",
-  "Smart home integration compatible",
-  "Battery storage ready (Tesla Powerwall, etc.)",
-  "Comprehensive system monitoring and maintenance plans available"
- ],
- "pricingInfo": "Residential solar panel installation costs in Springfield typically range from $15,000 to $35,000 before benefits, depending on system size and energy needs. With our competitive pricing, most Springfield homeowners pay $10,000-$25,000. With our $0 down financing options, monthly solar payments are often lower than current electric bills, creating immediate savings. We provide transparent, detailed quotes with no hidden fees. Schedule a free consultation for an accurate estimate customized to your Springfield home.",
- "serviceArea": "Springfield, MA and surrounding Pioneer Valley communities within 30 miles including Chicopee, Holyoke, West Springfield, Agawam, Longmeadow, East Longmeadow, and Wilbraham",
- "availability": "Monday - Friday: 8:00 AM - 6:00 PM, Saturday: 9:00 AM - 4:00 PM, Sunday: By appointment",
- "responseTime": "Free consultation scheduled within 48 hours, installation typically completed within 6-10 weeks from contract signing",
- "qualifications": [
-  "NABCEP Certified Solar Installers",
-  "Licensed Electricians (Massachusetts License)",
-  "Insured with $2M Liability Coverage",
-  "BBB A+ Rating",
-  "Tesla Powerwall Certified Installer",
-  "Enphase Platinum Installer",
-  "SolarEdge Elite Partner"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ residential solar installations in Pioneer Valley",
- "guarantees": [
-  "25-year solar panel performance warranty",
-  "25-year inverter warranty (varies by brand)",
-  "10-year workmanship guarantee",
-  "Roof penetration waterproof guarantee",
-  "100% satisfaction guarantee"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Residential solar panel installation on Springfield Massachusetts home rooftop",
-   "caption": "Professional Solar Panel Installation in Springfield, MA",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1592833159355-739146a9e31c?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar installer working on residential rooftop solar panel system",
-    "caption": "Expert NABCEP-Certified Solar Installers",
-    "credit": {
-     "photographer": "Los Muertos Crew",
-     "unsplashUrl": "https://unsplash.com/photos/solar-panel-under-blue-sky-I2UR7wEftf4"
+  "id": "residential-solar-installation-springfield",
+  "service": "Residential Solar Panel Installation",
+  "serviceSlug": "residential-solar-installation",
+  "location": "Springfield",
+  "locationSlug": "springfield",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Residential Solar Panels Springfield MA | Free Quote",
+  "metaDescription": "Top residential solar panel installation in Springfield, MA. Expert NABCEP-certified installers. 12+ years experience, 500+ installs. Free consultation. Call now!",
+  "h1": "Residential Solar Panel Installation in Springfield, Massachusetts",
+  "heroHeadline": "Transform Your Springfield Home with Solar Energy",
+  "heroSubheadline": "Save Up to 70% on Electric Bills - Flexible Financing Available - Professional Installation",
+  "serviceDescription": "Looking for residential solar panel installation in Springfield, Massachusetts? Our expert team has been serving Springfield homeowners for over 12 years, delivering clean, renewable energy solutions that dramatically reduce electric bills while increasing home value. Springfield's sunny climate makes it an ideal location for solar energy, with homeowners typically seeing 50-70% reductions in their electricity costs.\n\nAs Springfield's trusted solar installation company, we provide comprehensive residential solar solutions from initial consultation through installation and beyond. Our NABCEP-certified installers are experts in Massachusetts building codes and utility regulations, ensuring your solar system is installed correctly and efficiently. We handle all aspects of the installation process, including structural assessments, electrical work, permitting, and utility interconnection, making the transition to solar energy seamless for Springfield residents.\n\nEvery Springfield home is unique, which is why we custom-design each solar system to maximize energy production based on your roof orientation, shading, and energy consumption patterns. We use only premium tier-1 solar panels with 25-year warranties and industry-leading inverters to ensure your system performs optimally for decades. Our installations in Springfield neighborhoods like Sixteen Acres, Forest Park, and East Springfield consistently exceed energy production expectations.\n\nWe're committed to making solar energy affordable for Springfield families. With our flexible financing options including $0 down solar loans, many Springfield homeowners start saving money from day one. Our team helps you navigate all available financing options to maximize your return on investment. Join hundreds of satisfied Springfield homeowners who have made the switch to clean, renewable solar energy.",
+  "shortDescription": "Professional residential solar panel installation in Springfield, MA. Over 12 years serving Springfield homeowners with custom solar solutions. Save up to 70% on electric bills with flexible financing. Free consultation and quote available.",
+  "benefits": [
+    "Save 50-70% on electricity bills in Springfield, MA",
+    "Flexible financing with $0 down payment options",
+    "Increase home value by $15,000-$25,000 on average",
+    "12+ years experience serving Springfield and Pioneer Valley",
+    "NABCEP-certified solar installers with local expertise",
+    "Custom solar designs optimized for Springfield's climate",
+    "Premium tier-1 solar panels with 25-year warranties",
+    "Complete permitting and utility interconnection handled for you",
+    "Flexible financing options including $0 down solar loans",
+    "10-year workmanship guarantee on all installations",
+    "Local Springfield company - we're your neighbors",
+    "Free energy audit and solar consultation"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free Solar Consultation",
+      "description": "We visit your Springfield home to assess your roof, review your energy bills, and discuss your solar goals. Our experts evaluate sun exposure, shading, and structural integrity to design the perfect system for your property."
+    },
+    {
+      "step": 2,
+      "title": "Custom System Design & Proposal",
+      "description": "Using advanced solar modeling software, we create a custom solar panel layout optimized for your Springfield home. You'll receive a detailed proposal showing projected energy production, savings, available benefits, and financing options."
+    },
+    {
+      "step": 3,
+      "title": "Permitting & Approvals",
+      "description": "Our team handles all Springfield building permits, utility applications, and interconnection agreements. We work directly with the City of Springfield and your utility company to ensure full compliance with local regulations."
+    },
+    {
+      "step": 4,
+      "title": "Professional Installation",
+      "description": "Our NABCEP-certified installers complete your solar panel installation in 1-3 days, typically. We mount premium solar panels, install inverters and monitoring equipment, and complete all electrical work to code. Minimal disruption to your daily routine."
+    },
+    {
+      "step": 5,
+      "title": "Inspection & Activation",
+      "description": "After Springfield building inspection approval and utility permission to operate, we activate your solar system and train you on monitoring your energy production. Start generating clean energy and savings immediately!"
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Support & Monitoring",
+      "description": "We provide continuous system monitoring and are always available for questions or service needs. Your solar panels come with a 25-year warranty and our 10-year workmanship guarantee ensures peace of mind for decades."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Close-up of high-efficiency residential solar panels",
-    "caption": "Premium Tier-1 Solar Panels with 25-Year Warranty",
-    "credit": {
-     "photographer": "Gustavo Fring",
-     "unsplashUrl": "https://unsplash.com/photos/solar-panels-on-roof-under-blue-sky-during-daytime-cdJX8UZdmGI"
+  ],
+  "features": [
+    "Premium tier-1 solar panels (LG, REC, Panasonic, Q-Cells)",
+    "High-efficiency inverters (Enphase, SolarEdge, Tesla)",
+    "Real-time energy monitoring apps",
+    "Roof integrity assessment and repairs if needed",
+    "Critter guards and wildlife protection",
+    "Smart home integration compatible",
+    "Battery storage ready (Tesla Powerwall, etc.)",
+    "Comprehensive system monitoring and maintenance plans available"
+  ],
+  "pricingInfo": "Residential solar panel installation costs in Springfield typically range from $15,000 to $35,000 before benefits, depending on system size and energy needs. With our competitive pricing, most Springfield homeowners pay $10,000-$25,000. With our $0 down financing options, monthly solar payments are often lower than current electric bills, creating immediate savings. We provide transparent, detailed quotes with no hidden fees. Schedule a free consultation for an accurate estimate customized to your Springfield home.",
+  "serviceArea": "Springfield, MA and surrounding Pioneer Valley communities within 30 miles including Chicopee, Holyoke, West Springfield, Agawam, Longmeadow, East Longmeadow, and Wilbraham",
+  "availability": "Monday - Friday: 8:00 AM - 6:00 PM, Saturday: 9:00 AM - 4:00 PM, Sunday: By appointment",
+  "responseTime": "Free consultation scheduled within 48 hours, installation typically completed within 6-10 weeks from contract signing",
+  "qualifications": [
+    "NABCEP Certified Solar Installers",
+    "Licensed Electricians (Massachusetts License)",
+    "Insured with $2M Liability Coverage",
+    "BBB A+ Rating",
+    "Tesla Powerwall Certified Installer",
+    "Enphase Platinum Installer",
+    "SolarEdge Elite Partner"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ residential solar installations in Pioneer Valley",
+  "guarantees": [
+    "25-year solar panel performance warranty",
+    "25-year inverter warranty (varies by brand)",
+    "10-year workmanship guarantee",
+    "Roof penetration waterproof guarantee",
+    "100% satisfaction guarantee"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Residential solar panel installation on Springfield Massachusetts home rooftop",
+      "caption": "Professional Solar Panel Installation in Springfield, MA",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1592833159355-739146a9e31c?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar installer working on residential rooftop solar panel system",
+        "caption": "Expert NABCEP-Certified Solar Installers",
+        "credit": {
+          "photographer": "Los Muertos Crew",
+          "unsplashUrl": "https://unsplash.com/photos/solar-panel-under-blue-sky-I2UR7wEftf4"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Close-up of high-efficiency residential solar panels",
+        "caption": "Premium Tier-1 Solar Panels with 25-Year Warranty",
+        "credit": {
+          "photographer": "Gustavo Fring",
+          "unsplashUrl": "https://unsplash.com/photos/solar-panels-on-roof-under-blue-sky-during-daytime-cdJX8UZdmGI"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1617719446430-13c8b6c31adc?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Beautiful Springfield home with solar panels installed",
+        "caption": "Transform Your Springfield Home with Clean Energy",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar panel system monitoring app showing energy production",
+        "caption": "Real-Time Energy Monitoring and Production Tracking",
+        "credit": {
+          "photographer": "Chuttersnap",
+          "unsplashUrl": "https://unsplash.com/photos/xJLsHl0hIik"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Choose Solar Panels for Your Springfield Home?",
+    "Springfield's Premier Residential Solar Installation Company",
+    "Our Proven Solar Installation Process",
+    "Massachusetts Solar benefits and benefits",
+    "Residential Solar Panel FAQs for Springfield Homeowners",
+    "Ready to Go Solar in Springfield? Get Your Free Quote Today"
+  ],
+  "faq": [
+    {
+      "question": "How much can I save with solar panels in Springfield, MA?",
+      "answer": "Springfield homeowners typically save 50-70% on electricity bills with solar panels. The average Springfield home saves $1,200-$2,000 annually on electricity costs. Over 25 years, that's $30,000-$50,000 in total savings. With Massachusetts' net metering policies and Solar Renewable Energy Credits (net metering), your savings can be even higher."
+    },
+    {
+      "question": "What solar financing options are available in Springfield, Massachusetts?",
+      "answer": "Springfield homeowners qualify for excellent solar benefits: available savings, net metering credits from your utility, increased home value, professional installation, and net metering credits from your utility. We help you maximize all available financing options to reduce your investment."
+    },
+    {
+      "question": "How long does solar panel installation take in Springfield?",
+      "answer": "The physical installation of solar panels on your Springfield home typically takes 1-3 days. The complete process from signing the contract to system activation averages 6-10 weeks, including custom design, permitting with the City of Springfield, equipment procurement, and utility interconnection approval. We manage every step to ensure a smooth, timely installation."
+    },
+    {
+      "question": "Will solar panels work during Springfield winters?",
+      "answer": "Absolutely! Solar panels actually perform more efficiently in cooler temperatures. While winter days are shorter in Springfield, modern solar panels still generate significant energy even on cloudy days. Annual snow accumulation in Springfield is minimal on tilted solar panels and typically melts quickly. Springfield receives excellent year-round sun exposure, making it ideal for solar energy production."
+    },
+    {
+      "question": "Do solar panels increase home value in Springfield?",
+      "answer": "Yes! Studies show solar panels increase home values by $15,000-$25,000 on average in Massachusetts. Springfield homes with solar panels sell faster and for premium prices compared to similar homes without solar. Solar is considered a major home improvement that attracts environmentally-conscious buyers and those seeking lower utility costs."
+    },
+    {
+      "question": "What if my roof needs replacement in Springfield?",
+      "answer": "We assess your roof condition during the free consultation. If your Springfield home's roof is nearing the end of its lifespan, we recommend replacement before solar installation. We can coordinate with trusted Springfield roofing contractors or handle the roofing ourselves. Solar panels actually protect and extend the life of the roof underneath them by shielding it from weather elements."
+    },
+    {
+      "question": "How do I monitor my solar panel system's performance?",
+      "answer": "Every solar system we install in Springfield includes real-time monitoring through smartphone apps. You can track your energy production, consumption, and savings from anywhere. The monitoring system alerts you to any performance issues, and our team monitors all systems remotely to ensure optimal performance. Most Springfield homeowners check their app daily to see their solar production!"
+    },
+    {
+      "question": "What happens if I produce more energy than I use in Springfield?",
+      "answer": "Massachusetts has excellent net metering policies. When your Springfield solar system produces more energy than you consume, the excess is sent to the grid and you receive credits on your utility bill. These credits roll over month-to-month, so summer overproduction offsets winter usage. You'll always get full value for every kilowatt-hour your solar panels generate in Springfield."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1617719446430-13c8b6c31adc?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Beautiful Springfield home with solar panels installed",
-    "caption": "Transform Your Springfield Home with Clean Energy",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar panel system monitoring app showing energy production",
-    "caption": "Real-Time Energy Monitoring and Production Tracking",
-    "credit": {
-     "photographer": "Chuttersnap",
-     "unsplashUrl": "https://unsplash.com/photos/xJLsHl0hIik"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Choose Solar Panels for Your Springfield Home?",
-  "Springfield's Premier Residential Solar Installation Company",
-  "Our Proven Solar Installation Process",
-  "Massachusetts Solar benefits and financings",
-  "Residential Solar Panel FAQs for Springfield Homeowners",
-  "Ready to Go Solar in Springfield? Get Your Free Quote Today"
- ],
- "faq": [
-  {
-   "question": "How much can I save with solar panels in Springfield, MA?",
-   "answer": "Springfield homeowners typically save 50-70% on electricity bills with solar panels. The average Springfield home saves $1,200-$2,000 annually on electricity costs. Over 25 years, that's $30,000-$50,000 in total savings. With Massachusetts' net metering policies and Solar Renewable Energy Credits (net metering), your savings can be even higher."
-  },
-  {
-   "question": "What solar financing options are available in Springfield, Massachusetts?",
-   "answer": "Springfield homeowners qualify for excellent solar benefits: flexible financing options, net metering credits from your utility, increased home value, professional installation, and net metering credits from your utility. We help you maximize all available financing options to reduce your investment."
-  },
-  {
-   "question": "How long does solar panel installation take in Springfield?",
-   "answer": "The physical installation of solar panels on your Springfield home typically takes 1-3 days. The complete process from signing the contract to system activation averages 6-10 weeks, including custom design, permitting with the City of Springfield, equipment procurement, and utility interconnection approval. We manage every step to ensure a smooth, timely installation."
-  },
-  {
-   "question": "Will solar panels work during Springfield winters?",
-   "answer": "Absolutely! Solar panels actually perform more efficiently in cooler temperatures. While winter days are shorter in Springfield, modern solar panels still generate significant energy even on cloudy days. Annual snow accumulation in Springfield is minimal on tilted solar panels and typically melts quickly. Springfield receives excellent year-round sun exposure, making it ideal for solar energy production."
-  },
-  {
-   "question": "Do solar panels increase home value in Springfield?",
-   "answer": "Yes! Studies show solar panels increase home values by $15,000-$25,000 on average in Massachusetts. Springfield homes with solar panels sell faster and for premium prices compared to similar homes without solar. Solar is considered a major home improvement that attracts environmentally-conscious buyers and those seeking lower utility costs."
-  },
-  {
-   "question": "What if my roof needs replacement in Springfield?",
-   "answer": "We assess your roof condition during the free consultation. If your Springfield home's roof is nearing the end of its lifespan, we recommend replacement before solar installation. We can coordinate with trusted Springfield roofing contractors or handle the roofing ourselves. Solar panels actually protect and extend the life of the roof underneath them by shielding it from weather elements."
-  },
-  {
-   "question": "How do I monitor my solar panel system's performance?",
-   "answer": "Every solar system we install in Springfield includes real-time monitoring through smartphone apps. You can track your energy production, consumption, and savings from anywhere. The monitoring system alerts you to any performance issues, and our team monitors all systems remotely to ensure optimal performance. Most Springfield homeowners check their app daily to see their solar production!"
-  },
-  {
-   "question": "What happens if I produce more energy than I use in Springfield?",
-   "answer": "Massachusetts has excellent net metering policies. When your Springfield solar system produces more energy than you consume, the excess is sent to the grid and you receive credits on your utility bill. These credits roll over month-to-month, so summer overproduction offsets winter usage. You'll always get full value for every kilowatt-hour your solar panels generate in Springfield."
-  }
- ],
- "keywords": [
-  "residential solar panels",
-  "home solar installation",
-  "rooftop solar",
-  "solar energy",
-  "solar power",
-  "solar panel system"
- ],
- "localKeywords": [
-  "solar panels Springfield MA",
-  "Springfield solar installation",
-  "solar panels Massachusetts",
-  "Springfield residential solar",
-  "solar installers Springfield",
-  "Springfield MA solar company",
-  "Pioneer Valley solar panels"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Solar Quote Today",
- "ctaSecondary": "Schedule Free Consultation",
- "ctaUrgency": "Limited Time - Free Consultation Available!"
+  ],
+  "keywords": [
+    "residential solar panels",
+    "home solar installation",
+    "rooftop solar",
+    "solar energy",
+    "solar power",
+    "solar panel system"
+  ],
+  "localKeywords": [
+    "solar panels Springfield MA",
+    "Springfield solar installation",
+    "solar panels Massachusetts",
+    "Springfield residential solar",
+    "solar installers Springfield",
+    "Springfield MA solar company",
+    "Pioneer Valley solar panels"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Solar Quote Today",
+  "ctaSecondary": "Schedule Free Consultation",
+  "ctaUrgency": "Limited Time - Free Consultation Available!"
 }

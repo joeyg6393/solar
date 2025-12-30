@@ -1,196 +1,196 @@
 {
- "id": "solar-battery-storage-westfield",
- "service": "Solar Battery Storage Installation",
- "serviceSlug": "solar-battery-storage",
- "location": "Westfield",
- "locationSlug": "westfield",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Battery Storage Westfield MA - Tesla Powerwall Pros",
- "metaDescription": "Westfield's top solar battery storage experts. Tesla Powerwall certified installation, backup power, financing. Energy freedom starts here!",
- "h1": "Solar Battery Storage Installation in Westfield, Massachusetts",
- "heroHeadline": "Westfield's Premier Solar Battery Storage Installer",
- "heroSubheadline": "Tesla Powerwall Experts - Energy Independence for Whip City - Free Consultation Available",
- "serviceDescription": "Westfield homeowners are taking control of their energy future with professional solar battery storage installation. Known as the Whip City, Westfield is experiencing a clean energy revolution as residents discover the benefits of storing solar power for use anytime. Our certified Tesla Powerwall installers bring over a decade of experience to every Westfield battery storage project, delivering energy independence and storm protection you can count on.\n\nLocated at the western edge of the Pioneer Valley, Westfield experiences diverse weather patterns that can impact electrical service. From nor'easters bringing heavy snow and ice to severe summer thunderstorms, power outages are an unfortunate reality for Westfield residents. Solar battery storage eliminates this vulnerability, providing seamless backup power that keeps your home running smoothly regardless of grid conditions.\n\nWe proudly serve all Westfield neighborhoods including Downtown Westfield, Wyben, Russellville, Southampton Road, and the Greater Westfield area. Our team has completed battery storage installations throughout Hampden County, with dozens of satisfied customers right here in Westfield. Whether you're looking to add battery capacity to your existing solar panels or install a comprehensive solar + storage system, we deliver customized solutions that maximize your investment.\n\nAs NABCEP certified professionals with Tesla Powerwall factory training, we understand the specific requirements of Westfield homes and Massachusetts electrical codes. We manage every aspect of your project including detailed energy assessment, custom system design, permitting with the City of Westfield, utility interconnection with Eversource, professional installation, and ongoing system monitoring. Experience true energy independence in Westfield with solar battery storage that delivers reliability, savings, and environmental benefits.",
- "shortDescription": "Westfield's trusted solar battery storage installer. Tesla Powerwall certified with 12+ years experience. Complete energy independence, backup power protection, and significant savings for Whip City homeowners.",
- "benefits": [
-  "24/7 Power Security - Keep Westfield home powered during any outage",
-  "Slash Electric Bills - Save 85-95% on electricity with smart storage",
-  "Weather Protection - Storm-proof your home against Westfield weather",
-  "Tesla Powerwall Certified - Factory-trained expert installers",
-  "Maximum benefits - federal credit plus state rebates",
-  "Retrofit or New Install - Works with existing or new solar systems",
-  "Local Westfield Team - Fast response and personalized service",
-  "Proven Track Record - 200+ successful battery installations"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free Westfield Energy Assessment",
-   "description": "We visit your Westfield property to analyze energy consumption patterns, evaluate electrical infrastructure, and understand your specific backup power priorities."
-  },
-  {
-   "step": 2,
-   "title": "Custom Battery System Design",
-   "description": "Our engineering team creates a tailored battery storage solution for your Westfield home, optimizing battery capacity, placement, and backup circuit selection."
-  },
-  {
-   "step": 3,
-   "title": "Permits & Utility Approvals",
-   "description": "We manage all permitting requirements with the City of Westfield and coordinate interconnection agreements with Eversource Energy for seamless approval."
-  },
-  {
-   "step": 4,
-   "title": "Expert Installation Day",
-   "description": "Our Massachusetts licensed electricians install your battery storage system professionally, typically completing Westfield projects in just 1-2 days."
-  },
-  {
-   "step": 5,
-   "title": "System Activation & Training",
-   "description": "We commission your system, set up mobile monitoring applications, and provide comprehensive training so you can manage your energy storage confidently."
-  }
- ],
- "features": [
-  "Tesla Powerwall 2 & Powerwall+ Available",
-  "Enphase IQ Battery Solutions",
-  "LG Chem RESU Systems",
-  "AC & DC-Coupled Configurations",
-  "Whole-Home or Critical Load Backup",
-  "Smart Grid & Time-of-Use Optimization",
-  "Real-Time Mobile Monitoring",
-  "10-Year Installation Warranty"
- ],
- "pricingInfo": "Solar battery storage in Westfield starts at approximately $12,500-$16,500 for a Tesla Powerwall system before benefits. After the federal solar financing and Massachusetts state rebates, most Westfield homeowners invest $9,200-$12,200 net. With typical energy savings of $110-210 per month through time-of-use optimization and grid independence, payback periods range from 8-11 years. We offer attractive financing with $0 down and monthly payments often lower than your electricity savings. Schedule your free Westfield consultation for an exact quote.",
- "serviceArea": "Westfield and surrounding areas including Wyben, Russellville, Southampton Road, Downtown Westfield, and all of Hampden County",
- "availability": "Monday-Saturday 7:00 AM - 6:00 PM, Sunday consultations by appointment",
- "responseTime": "Same-day or next-day consultation scheduling, installation typically within 2-4 weeks",
- "qualifications": [
-  "NABCEP Certified PV Installation Professionals",
-  "Tesla Powerwall Certified Company",
-  "Massachusetts Licensed Master Electricians",
-  "Enphase Certified Installer",
-  "BBB A+ Accredited Rating",
-  "MA CSL License #123456"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar installations, 200+ battery storage systems across Western MA",
- "guarantees": [
-  "10-year workmanship warranty",
-  "Tesla Powerwall 10-year manufacturer warranty",
-  "Lifetime system monitoring included",
-  "Performance guarantee - 70% capacity after 10 years",
-  "100% satisfaction guarantee"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Tesla Powerwall battery storage installed on Westfield home",
-   "caption": "Professional Tesla Powerwall Installation in Westfield, MA",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1595421877555-06a8f9a4d4e1?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Battery backup providing emergency power during outage",
-    "caption": "Reliable Backup Power for Westfield Storms",
-    "credit": {
-     "photographer": "Science in HD",
-     "unsplashUrl": "https://unsplash.com/photos/battery-storage"
+  "id": "solar-battery-storage-westfield",
+  "service": "Solar Battery Storage Installation",
+  "serviceSlug": "solar-battery-storage",
+  "location": "Westfield",
+  "locationSlug": "westfield",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Battery Storage Westfield MA - Tesla Powerwall Pros",
+  "metaDescription": "Westfield's top solar battery storage experts. Tesla Powerwall certified installation, backup power, financing. Energy freedom starts here!",
+  "h1": "Solar Battery Storage Installation in Westfield, Massachusetts",
+  "heroHeadline": "Westfield's Premier Solar Battery Storage Installer",
+  "heroSubheadline": "Tesla Powerwall Experts - Energy Independence for Whip City - Free Consultation Available",
+  "serviceDescription": "Westfield homeowners are taking control of their energy future with professional solar battery storage installation. Known as the Whip City, Westfield is experiencing a clean energy revolution as residents discover the benefits of storing solar power for use anytime. Our certified Tesla Powerwall installers bring over a decade of experience to every Westfield battery storage project, delivering energy independence and storm protection you can count on.\n\nLocated at the western edge of the Pioneer Valley, Westfield experiences diverse weather patterns that can impact electrical service. From nor'easters bringing heavy snow and ice to severe summer thunderstorms, power outages are an unfortunate reality for Westfield residents. Solar battery storage eliminates this vulnerability, providing seamless backup power that keeps your home running smoothly regardless of grid conditions.\n\nWe proudly serve all Westfield neighborhoods including Downtown Westfield, Wyben, Russellville, Southampton Road, and the Greater Westfield area. Our team has completed battery storage installations throughout Hampden County, with dozens of satisfied customers right here in Westfield. Whether you're looking to add battery capacity to your existing solar panels or install a comprehensive solar + storage system, we deliver customized solutions that maximize your investment.\n\nAs NABCEP certified professionals with Tesla Powerwall factory training, we understand the specific requirements of Westfield homes and Massachusetts electrical codes. We manage every aspect of your project including detailed energy assessment, custom system design, permitting with the City of Westfield, utility interconnection with Eversource, professional installation, and ongoing system monitoring. Experience true energy independence in Westfield with solar battery storage that delivers reliability, savings, and environmental benefits.",
+  "shortDescription": "Westfield's trusted solar battery storage installer. Tesla Powerwall certified with 12+ years experience. Complete energy independence, backup power protection, and significant savings for Whip City homeowners.",
+  "benefits": [
+    "24/7 Power Security - Keep Westfield home powered during any outage",
+    "Slash Electric Bills - Save 85-95% on electricity with smart storage",
+    "Weather Protection - Storm-proof your home against Westfield weather",
+    "Tesla Powerwall Certified - Factory-trained expert installers",
+    "Maximum benefits - federal credit plus state rebates",
+    "Retrofit or New Install - Works with existing or new solar systems",
+    "Local Westfield Team - Fast response and personalized service",
+    "Proven Track Record - 200+ successful battery installations"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free Westfield Energy Assessment",
+      "description": "We visit your Westfield property to analyze energy consumption patterns, evaluate electrical infrastructure, and understand your specific backup power priorities."
+    },
+    {
+      "step": 2,
+      "title": "Custom Battery System Design",
+      "description": "Our engineering team creates a tailored battery storage solution for your Westfield home, optimizing battery capacity, placement, and backup circuit selection."
+    },
+    {
+      "step": 3,
+      "title": "Permits & Utility Approvals",
+      "description": "We manage all permitting requirements with the City of Westfield and coordinate interconnection agreements with Eversource Energy for seamless approval."
+    },
+    {
+      "step": 4,
+      "title": "Expert Installation Day",
+      "description": "Our Massachusetts licensed electricians install your battery storage system professionally, typically completing Westfield projects in just 1-2 days."
+    },
+    {
+      "step": 5,
+      "title": "System Activation & Training",
+      "description": "We commission your system, set up mobile monitoring applications, and provide comprehensive training so you can manage your energy storage confidently."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Energy storage monitoring app interface",
-    "caption": "Monitor & Control Your Battery from Anywhere",
-    "credit": {
-     "photographer": "Tyler Casey",
-     "unsplashUrl": "https://unsplash.com/photos/solar-monitoring"
+  ],
+  "features": [
+    "Tesla Powerwall 2 & Powerwall+ Available",
+    "Enphase IQ Battery Solutions",
+    "LG Chem RESU Systems",
+    "AC & DC-Coupled Configurations",
+    "Whole-Home or Critical Load Backup",
+    "Smart Grid & Time-of-Use Optimization",
+    "Real-Time Mobile Monitoring",
+    "10-Year Installation Warranty"
+  ],
+  "pricingInfo": "Solar battery storage in Westfield starts at approximately $12,500-$16,500 for a Tesla Powerwall system before benefits. After the competitive pricing and Massachusetts state rebates, most Westfield homeowners invest $9,200-$12,200 net. With typical energy savings of $110-210 per month through time-of-use optimization and grid independence, payback periods range from 8-11 years. We offer attractive financing with $0 down and monthly payments often lower than your electricity savings. Schedule your free Westfield consultation for an exact quote.",
+  "serviceArea": "Westfield and surrounding areas including Wyben, Russellville, Southampton Road, Downtown Westfield, and all of Hampden County",
+  "availability": "Monday-Saturday 7:00 AM - 6:00 PM, Sunday consultations by appointment",
+  "responseTime": "Same-day or next-day consultation scheduling, installation typically within 2-4 weeks",
+  "qualifications": [
+    "NABCEP Certified PV Installation Professionals",
+    "Tesla Powerwall Certified Company",
+    "Massachusetts Licensed Master Electricians",
+    "Enphase Certified Installer",
+    "BBB A+ Accredited Rating",
+    "MA CSL License #123456"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar installations, 200+ battery storage systems across Western MA",
+  "guarantees": [
+    "10-year workmanship warranty",
+    "Tesla Powerwall 10-year manufacturer warranty",
+    "Lifetime system monitoring included",
+    "Performance guarantee - 70% capacity after 10 years",
+    "100% satisfaction guarantee"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Tesla Powerwall battery storage installed on Westfield home",
+      "caption": "Professional Tesla Powerwall Installation in Westfield, MA",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1595421877555-06a8f9a4d4e1?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Battery backup providing emergency power during outage",
+        "caption": "Reliable Backup Power for Westfield Storms",
+        "credit": {
+          "photographer": "Science in HD",
+          "unsplashUrl": "https://unsplash.com/photos/battery-storage"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Energy storage monitoring app interface",
+        "caption": "Monitor & Control Your Battery from Anywhere",
+        "credit": {
+          "photographer": "Tyler Casey",
+          "unsplashUrl": "https://unsplash.com/photos/solar-monitoring"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Residential solar panels on Westfield rooftop",
+        "caption": "Solar + Storage Integration for Maximum Savings",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/solar-panels"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Licensed electrician installing battery system",
+        "caption": "Expert Installation by Westfield Licensed Electricians",
+        "credit": {
+          "photographer": "Umberto",
+          "unsplashUrl": "https://unsplash.com/photos/electrical-work"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Benefits of Solar Battery Storage for Westfield Homes",
+    "Tesla Powerwall Installation in Westfield",
+    "Solar Battery Storage Costs & ROI in Westfield",
+    "How Battery Storage Works with Your Solar Panels",
+    "Westfield Battery Storage Installation Timeline",
+    "Frequently Asked Questions - Westfield Solar Batteries"
+  ],
+  "faq": [
+    {
+      "question": "How much does solar battery storage cost in Westfield?",
+      "answer": "A Tesla Powerwall installation in Westfield typically costs $12,500-$16,500 before benefits. After applying the competitive pricing and Massachusetts rebates, your net investment is approximately $9,200-$12,200. Most Westfield residents install 1-2 Powerwalls based on their backup needs and home size. We provide free detailed quotes and financing options including $0 down plans."
+    },
+    {
+      "question": "How long will a battery power my Westfield home?",
+      "answer": "One Tesla Powerwall (13.5 kWh) can power essential circuits in a typical Westfield home for 24-36 hours during an outage, including lights, refrigerator, internet, heating controls, and select outlets. For whole-home backup including HVAC, water heater, and all appliances, most Westfield homes require 2-3 Powerwalls. We'll assess your specific needs during our free consultation."
+    },
+    {
+      "question": "Can battery storage handle Westfield's cold winters?",
+      "answer": "Absolutely! Tesla Powerwall and other premium battery systems are engineered to operate reliably in Massachusetts winter conditions, functioning efficiently from -4°F to 122°F. We typically install batteries in garages or on exterior walls with proper weather protection. Westfield homeowners have successfully used battery backup through severe winter storms without any performance issues."
+    },
+    {
+      "question": "Can I add batteries to my existing Westfield solar system?",
+      "answer": "Yes! Battery storage can be retrofitted to almost any existing solar panel system in Westfield. Whether your solar installation is brand new or 10+ years old, we can integrate battery storage seamlessly. The retrofit process involves installing the battery unit, potentially upgrading your inverter, and updating electrical connections. Most Westfield retrofit projects are completed in 1-2 days."
+    },
+    {
+      "question": "What financing options are available for battery storage in Westfield?",
+      "answer": "Westfield homeowners qualify for the flexible financing options on battery storage when paired with solar panels. You can also participate in Massachusetts' ConnectedSolutions program, earning $225-$375 annually per Powerwall for providing grid support. Combined with energy savings through time-of-use optimization, battery storage delivers excellent financial returns."
+    },
+    {
+      "question": "How long does installation take in Westfield?",
+      "answer": "The physical installation of solar battery storage in Westfield takes 1-2 days for most residential projects. The complete process from initial consultation to system activation typically spans 3-4 weeks, including custom system design, permitting with the City of Westfield, Eversource interconnection approval, professional installation, and final inspection."
+    },
+    {
+      "question": "Tesla Powerwall vs Enphase IQ Battery - which is better for Westfield?",
+      "answer": "Both are excellent choices! Tesla Powerwall offers 13.5 kWh per unit in a sleek all-in-one design - ideal for most Westfield homes. Enphase IQ Battery provides modular flexibility (start with 3.3 kWh, expand as needed) and integrates perfectly with Enphase microinverters. We'll recommend the best option based on your existing solar setup, backup requirements, and budget during your free consultation."
+    },
+    {
+      "question": "Will battery storage increase my Westfield home's value?",
+      "answer": "Yes! Research shows that solar + battery storage systems increase home values by 4-6% in Massachusetts. Westfield homebuyers increasingly prioritize energy independence and backup power capability, especially after experiencing storm-related outages. Your battery system transfers to future owners with remaining warranty coverage, making it a valuable selling feature."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Residential solar panels on Westfield rooftop",
-    "caption": "Solar + Storage Integration for Maximum Savings",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/solar-panels"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Licensed electrician installing battery system",
-    "caption": "Expert Installation by Westfield Licensed Electricians",
-    "credit": {
-     "photographer": "Umberto",
-     "unsplashUrl": "https://unsplash.com/photos/electrical-work"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Benefits of Solar Battery Storage for Westfield Homes",
-  "Tesla Powerwall Installation in Westfield",
-  "Solar Battery Storage Costs & ROI in Westfield",
-  "How Battery Storage Works with Your Solar Panels",
-  "Westfield Battery Storage Installation Timeline",
-  "Frequently Asked Questions - Westfield Solar Batteries"
- ],
- "faq": [
-  {
-   "question": "How much does solar battery storage cost in Westfield?",
-   "answer": "A Tesla Powerwall installation in Westfield typically costs $12,500-$16,500 before benefits. After applying the federal solar financing and Massachusetts rebates, your net investment is approximately $9,200-$12,200. Most Westfield residents install 1-2 Powerwalls based on their backup needs and home size. We provide free detailed quotes and financing options including $0 down plans."
-  },
-  {
-   "question": "How long will a battery power my Westfield home?",
-   "answer": "One Tesla Powerwall (13.5 kWh) can power essential circuits in a typical Westfield home for 24-36 hours during an outage, including lights, refrigerator, internet, heating controls, and select outlets. For whole-home backup including HVAC, water heater, and all appliances, most Westfield homes require 2-3 Powerwalls. We'll assess your specific needs during our free consultation."
-  },
-  {
-   "question": "Can battery storage handle Westfield's cold winters?",
-   "answer": "Absolutely! Tesla Powerwall and other premium battery systems are engineered to operate reliably in Massachusetts winter conditions, functioning efficiently from -4°F to 122°F. We typically install batteries in garages or on exterior walls with proper weather protection. Westfield homeowners have successfully used battery backup through severe winter storms without any performance issues."
-  },
-  {
-   "question": "Can I add batteries to my existing Westfield solar system?",
-   "answer": "Yes! Battery storage can be retrofitted to almost any existing solar panel system in Westfield. Whether your solar installation is brand new or 10+ years old, we can integrate battery storage seamlessly. The retrofit process involves installing the battery unit, potentially upgrading your inverter, and updating electrical connections. Most Westfield retrofit projects are completed in 1-2 days."
-  },
-  {
-   "question": "What financing options are available for battery storage in Westfield?",
-   "answer": "Westfield homeowners qualify for the flexible financing options on battery storage when paired with solar panels. You can also participate in Massachusetts' ConnectedSolutions program, earning $225-$375 annually per Powerwall for providing grid support. Combined with energy savings through time-of-use optimization, battery storage delivers excellent financial returns."
-  },
-  {
-   "question": "How long does installation take in Westfield?",
-   "answer": "The physical installation of solar battery storage in Westfield takes 1-2 days for most residential projects. The complete process from initial consultation to system activation typically spans 3-4 weeks, including custom system design, permitting with the City of Westfield, Eversource interconnection approval, professional installation, and final inspection."
-  },
-  {
-   "question": "Tesla Powerwall vs Enphase IQ Battery - which is better for Westfield?",
-   "answer": "Both are excellent choices! Tesla Powerwall offers 13.5 kWh per unit in a sleek all-in-one design - ideal for most Westfield homes. Enphase IQ Battery provides modular flexibility (start with 3.3 kWh, expand as needed) and integrates perfectly with Enphase microinverters. We'll recommend the best option based on your existing solar setup, backup requirements, and budget during your free consultation."
-  },
-  {
-   "question": "Will battery storage increase my Westfield home's value?",
-   "answer": "Yes! Research shows that solar + battery storage systems increase home values by 4-6% in Massachusetts. Westfield homebuyers increasingly prioritize energy independence and backup power capability, especially after experiencing storm-related outages. Your battery system transfers to future owners with remaining warranty coverage, making it a valuable selling feature."
-  }
- ],
- "keywords": [
-  "solar battery storage",
-  "Tesla Powerwall",
-  "home battery backup",
-  "energy storage system",
-  "solar batteries",
-  "backup power"
- ],
- "localKeywords": [
-  "solar battery storage Westfield MA",
-  "Tesla Powerwall Westfield",
-  "battery storage Westfield Massachusetts",
-  "Powerwall installation Westfield",
-  "solar battery Hampden County",
-  "backup power Westfield",
-  "Westfield energy storage"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Westfield Battery Quote",
- "ctaSecondary": "Schedule Free Energy Assessment",
- "ctaUrgency": "Special Offer Available Now!"
+  ],
+  "keywords": [
+    "solar battery storage",
+    "Tesla Powerwall",
+    "home battery backup",
+    "energy storage system",
+    "solar batteries",
+    "backup power"
+  ],
+  "localKeywords": [
+    "solar battery storage Westfield MA",
+    "Tesla Powerwall Westfield",
+    "battery storage Westfield Massachusetts",
+    "Powerwall installation Westfield",
+    "solar battery Hampden County",
+    "backup power Westfield",
+    "Westfield energy storage"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Westfield Battery Quote",
+  "ctaSecondary": "Schedule Free Energy Assessment",
+  "ctaUrgency": "Special Offer Available Now!"
 }

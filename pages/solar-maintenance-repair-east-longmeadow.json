@@ -1,188 +1,188 @@
 {
- "id": "solar-maintenance-repair-east-longmeadow",
- "service": "Solar Panel Maintenance & Repair",
- "serviceSlug": "solar-maintenance-repair",
- "location": "East Longmeadow",
- "locationSlug": "east-longmeadow",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Panel Maintenance East Longmeadow MA - Repair Experts",
- "metaDescription": "East Longmeadow's trusted solar maintenance & repair specialists. Expert service, certified techs, fast response. Keep your system at peak efficiency. Call now!",
- "h1": "Expert Solar Panel Maintenance & Repair in East Longmeadow, MA",
- "heroHeadline": "East Longmeadow's Premier Solar System Service Professionals",
- "heroSubheadline": "Certified Expertise Protecting Your Solar Investment & Maximizing Energy Savings",
- "serviceDescription": "East Longmeadow, Massachusetts homeowners have embraced solar energy as a smart path to energy independence and reduced electricity costs. Our professional solar panel maintenance and repair services help East Longmeadow residents maximize their solar investments through expert system care, responsive service, and local expertise.\n\nServing East Longmeadow for over 12 years, our team understands the specific factors affecting solar performance throughout this vibrant community. From established neighborhoods near Center Square to newer developments, we've maintained hundreds of solar installations across East Longmeadow, building expertise in local weather patterns, seasonal challenges, and the unique maintenance needs of area solar systems.\n\nOur comprehensive solar maintenance services include professional panel cleaning using specialized equipment that safely removes efficiency-reducing contaminants, complete electrical system inspections, inverter diagnostics and repairs, mounting hardware verification and reinforcement, thermal imaging inspections to detect problems before they cause failures, and detailed performance analysis comparing your system's output to expected production. Whether you have a residential rooftop system, ground-mounted array, or commercial installation, our NABCEP certified technicians deliver the expert service your East Longmeadow solar system requires.\n\nWe service all major solar equipment brands including SunPower, LG, Canadian Solar, Trina, REC, Hanwha Q CELLS, and others. Our technicians are trained on all inverter types—string inverters, microinverters from Enphase, power optimizers from SolarEdge, and equipment from Fronius, SMA, Schneider Electric, and more. This comprehensive knowledge ensures your East Longmeadow solar system receives manufacturer-compliant service that protects warranties and maintains optimal performance regardless of equipment age or brand.\n\nPreventative maintenance is crucial for East Longmeadow solar systems. Local conditions including seasonal pollen from surrounding forests, summer thunderstorms, fall leaf accumulation, and winter snow and ice create ongoing challenges for solar panel performance. Our proactive maintenance programs address these seasonal factors, ensuring your system operates at peak efficiency throughout the year. Don't wait until problems impact your energy production—contact our East Longmeadow solar maintenance team today for a comprehensive system evaluation.",
- "shortDescription": "Professional solar panel maintenance and repair for East Longmeadow, MA. Our experienced team provides expert cleaning, comprehensive inspections, and reliable repairs keeping your solar system producing maximum clean energy every day.",
- "benefits": [
-  "Over 12 years serving East Longmeadow",
-  "NABCEP certified solar professionals",
-  "Same-day service available",
-  "Comprehensive annual maintenance plans",
-  "24/7 emergency repair services",
-  "All solar equipment brands serviced",
-  "Free diagnostics and performance analysis",
-  "Warranty-compliant service and documentation"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Simple Scheduling",
-   "description": "Contact our East Longmeadow solar service team by phone or online to schedule your maintenance or repair appointment. We offer flexible scheduling including evenings and weekends to accommodate your busy schedule."
-  },
-  {
-   "step": 2,
-   "title": "Thorough System Inspection",
-   "description": "Our certified technicians arrive fully equipped to perform a comprehensive 32-point inspection of your East Longmeadow solar installation, examining panels, inverters, electrical systems, mounting hardware, and overall system health using advanced diagnostic tools."
-  },
-  {
-   "step": 3,
-   "title": "Professional Cleaning Service",
-   "description": "Using eco-friendly cleaning solutions and professional equipment designed specifically for solar panels, we safely and effectively remove dirt, pollen, bird droppings, tree debris, and other contaminants that reduce your system's energy production."
-  },
-  {
-   "step": 4,
-   "title": "Expert Repairs & Optimization",
-   "description": "We perform necessary repairs with quality replacement parts, tighten and secure electrical connections, update inverter firmware to latest versions, optimize system settings, and make adjustments to ensure maximum performance for East Longmeadow conditions."
-  },
-  {
-   "step": 5,
-   "title": "Complete Documentation",
-   "description": "You receive a detailed service report with photographic documentation, system condition assessment, energy production analysis, complete listing of work performed, and personalized recommendations for maintaining optimal solar performance between professional service visits."
-  }
- ],
- "features": [
-  "Thermal imaging inspections for early problem detection",
-  "Complete inverter and microinverter diagnostics",
-  "Electrical safety testing and NEC code compliance",
-  "Mounting system inspection and weather damage assessment",
-  "Production monitoring optimization and calibration",
-  "Seasonal maintenance programs for local climate",
-  "Snow and ice damage prevention services",
-  "Bird and pest deterrent installation"
- ],
- "pricingInfo": "East Longmeadow solar maintenance costs depend on system size and service scope. Standard residential cleaning and inspection typically ranges $200-$425. Annual preventative maintenance plans start at $299 and include two comprehensive service visits, priority scheduling, discounted repairs, and ongoing performance monitoring. Emergency repairs at standard rates with no additional fees. Free diagnostics and estimates with all service consultations.",
- "serviceArea": "East Longmeadow, MA and surrounding areas including Longmeadow, Enfield CT, Somers CT, and Hampden",
- "availability": "Monday-Friday 7:00 AM - 6:00 PM, Saturday 8:00 AM - 5:00 PM, 24/7 emergency service",
- "responseTime": "Same-day service for routine maintenance, 4-hour emergency response",
- "qualifications": [
-  "NABCEP Certified Solar Professionals",
-  "Massachusetts Licensed Electricians",
-  "OSHA Rooftop Safety Certified",
-  "Fully Insured & Bonded",
-  "BBB A+ Accredited"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar installations maintained",
- "guarantees": [
-  "100% satisfaction guarantee on all services",
-  "1-year warranty on repair work and parts",
-  "Performance improvement guarantee",
-  "Transparent pricing with no hidden fees"
- ],
- "emergencyAvailable": true,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Solar technician performing maintenance on rooftop solar panels in East Longmeadow MA",
-   "caption": "Professional Solar Panel Maintenance & Repair in East Longmeadow, Massachusetts",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Close-up solar panel inspection by certified technician",
-    "caption": "Detailed electrical diagnostics and connection testing",
-    "credit": {
-     "photographer": "Los Muertos Crew",
-     "unsplashUrl": "https://unsplash.com/photos/solar-panels"
+  "id": "solar-maintenance-repair-east-longmeadow",
+  "service": "Solar Panel Maintenance & Repair",
+  "serviceSlug": "solar-maintenance-repair",
+  "location": "East Longmeadow",
+  "locationSlug": "east-longmeadow",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Panel Maintenance East Longmeadow MA - Repair Experts",
+  "metaDescription": "East Longmeadow's trusted solar maintenance & repair specialists. Expert service, certified techs, fast response. Keep your system at peak efficiency. Call now!",
+  "h1": "Expert Solar Panel Maintenance & Repair in East Longmeadow, MA",
+  "heroHeadline": "East Longmeadow's Premier Solar System Service Professionals",
+  "heroSubheadline": "Certified Expertise Protecting Your Solar Investment & Maximizing Energy Savings",
+  "serviceDescription": "East Longmeadow, Massachusetts homeowners have embraced solar energy as a smart path to energy independence and reduced electricity costs. Our professional solar panel maintenance and repair services help East Longmeadow residents maximize their solar investments through expert system care, responsive service, and local expertise.\n\nServing East Longmeadow for over 12 years, our team understands the specific factors affecting solar performance throughout this vibrant community. From established neighborhoods near Center Square to newer developments, we've maintained hundreds of solar installations across East Longmeadow, building expertise in local weather patterns, seasonal challenges, and the unique maintenance needs of area solar systems.\n\nOur comprehensive solar maintenance services include professional panel cleaning using specialized equipment that safely removes efficiency-reducing contaminants, complete electrical system inspections, inverter diagnostics and repairs, mounting hardware verification and reinforcement, thermal imaging inspections to detect problems before they cause failures, and detailed performance analysis comparing your system's output to expected production. Whether you have a residential rooftop system, ground-mounted array, or commercial installation, our NABCEP certified technicians deliver the expert service your East Longmeadow solar system requires.\n\nWe service all major solar equipment brands including SunPower, LG, Canadian Solar, Trina, REC, Hanwha Q CELLS, and others. Our technicians are trained on all inverter types—string inverters, microinverters from Enphase, power optimizers from SolarEdge, and equipment from Fronius, SMA, Schneider Electric, and more. This comprehensive knowledge ensures your East Longmeadow solar system receives manufacturer-compliant service that protects warranties and maintains optimal performance regardless of equipment age or brand.\n\nPreventative maintenance is crucial for East Longmeadow solar systems. Local conditions including seasonal pollen from surrounding forests, summer thunderstorms, fall leaf accumulation, and winter snow and ice create ongoing challenges for solar panel performance. Our proactive maintenance programs address these seasonal factors, ensuring your system operates at peak efficiency throughout the year. Don't wait until problems impact your energy production—contact our East Longmeadow solar maintenance team today for a comprehensive system evaluation.",
+  "shortDescription": "Professional solar panel maintenance and repair for East Longmeadow, MA. Our experienced team provides expert cleaning, comprehensive inspections, and reliable repairs keeping your solar system producing maximum clean energy every day.",
+  "benefits": [
+    "Over 12 years serving East Longmeadow",
+    "NABCEP certified solar professionals",
+    "Same-day service available",
+    "Comprehensive annual maintenance plans",
+    "24/7 emergency repair services",
+    "All solar equipment brands serviced",
+    "Free diagnostics and performance analysis",
+    "Warranty-compliant service and documentation"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Simple Scheduling",
+      "description": "Contact our East Longmeadow solar service team by phone or online to schedule your maintenance or repair appointment. We offer flexible scheduling including evenings and weekends to accommodate your busy schedule."
+    },
+    {
+      "step": 2,
+      "title": "Thorough System Inspection",
+      "description": "Our certified technicians arrive fully equipped to perform a comprehensive 32-point inspection of your East Longmeadow solar installation, examining panels, inverters, electrical systems, mounting hardware, and overall system health using advanced diagnostic tools."
+    },
+    {
+      "step": 3,
+      "title": "Professional Cleaning Service",
+      "description": "Using eco-friendly cleaning solutions and professional equipment designed specifically for solar panels, we safely and effectively remove dirt, pollen, bird droppings, tree debris, and other contaminants that reduce your system's energy production."
+    },
+    {
+      "step": 4,
+      "title": "Expert Repairs & Optimization",
+      "description": "We perform necessary repairs with quality replacement parts, tighten and secure electrical connections, update inverter firmware to latest versions, optimize system settings, and make adjustments to ensure maximum performance for East Longmeadow conditions."
+    },
+    {
+      "step": 5,
+      "title": "Complete Documentation",
+      "description": "You receive a detailed service report with photographic documentation, system condition assessment, energy production analysis, complete listing of work performed, and personalized recommendations for maintaining optimal solar performance between professional service visits."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Professional cleaning residential solar panel system",
-    "caption": "Expert panel cleaning restores peak efficiency",
-    "credit": {
-     "photographer": "Gustavo Fring",
-     "unsplashUrl": "https://unsplash.com/photos/solar-cleaning"
+  ],
+  "features": [
+    "Thermal imaging inspections for early problem detection",
+    "Complete inverter and microinverter diagnostics",
+    "Electrical safety testing and NEC code compliance",
+    "Mounting system inspection and weather damage assessment",
+    "Production monitoring optimization and calibration",
+    "Seasonal maintenance programs for local climate",
+    "Snow and ice damage prevention services",
+    "Bird and pest deterrent installation"
+  ],
+  "pricingInfo": "East Longmeadow solar maintenance costs depend on system size and service scope. Standard residential cleaning and inspection typically ranges $200-$425. Annual preventative maintenance plans start at $299 and include two comprehensive service visits, priority scheduling, discounted repairs, and ongoing performance monitoring. Emergency repairs at standard rates with no additional fees. Free diagnostics and estimates with all service consultations.",
+  "serviceArea": "East Longmeadow, MA and surrounding areas including Longmeadow, Enfield CT, Somers CT, and Hampden",
+  "availability": "Monday-Friday 7:00 AM - 6:00 PM, Saturday 8:00 AM - 5:00 PM, 24/7 emergency service",
+  "responseTime": "Same-day service for routine maintenance, 4-hour emergency response",
+  "qualifications": [
+    "NABCEP Certified Solar Professionals",
+    "Massachusetts Licensed Electricians",
+    "OSHA Rooftop Safety Certified",
+    "Fully Insured & Bonded",
+    "BBB A+ Accredited"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar installations maintained",
+  "guarantees": [
+    "100% satisfaction guarantee on all services",
+    "1-year warranty on repair work and parts",
+    "Performance improvement guarantee",
+    "Transparent pricing with no hidden fees"
+  ],
+  "emergencyAvailable": true,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Solar technician performing maintenance on rooftop solar panels in East Longmeadow MA",
+      "caption": "Professional Solar Panel Maintenance & Repair in East Longmeadow, Massachusetts",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Close-up solar panel inspection by certified technician",
+        "caption": "Detailed electrical diagnostics and connection testing",
+        "credit": {
+          "photographer": "Los Muertos Crew",
+          "unsplashUrl": "https://unsplash.com/photos/solar-panels"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional cleaning residential solar panel system",
+        "caption": "Expert panel cleaning restores peak efficiency",
+        "credit": {
+          "photographer": "Gustavo Fring",
+          "unsplashUrl": "https://unsplash.com/photos/solar-cleaning"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar inverter maintenance and repair",
+        "caption": "Complete inverter diagnostics and repair expertise",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/inverter-maintenance"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar panel array on East Longmeadow home",
+        "caption": "Serving East Longmeadow's solar community with expert care",
+        "credit": {
+          "photographer": "Zbynek Burival",
+          "unsplashUrl": "https://unsplash.com/photos/solar-roof"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why East Longmeadow Chooses Our Solar Maintenance Services",
+    "Common Solar Panel Issues We Fix in East Longmeadow",
+    "Our Proven Solar Maintenance Process",
+    "Signs Your East Longmeadow Solar System Needs Service",
+    "East Longmeadow Solar Panel Maintenance FAQs",
+    "Schedule Your East Longmeadow Solar Service"
+  ],
+  "faq": [
+    {
+      "question": "How often do solar panels need maintenance in East Longmeadow?",
+      "answer": "We recommend professional maintenance at least annually for East Longmeadow solar systems. Properties with significant tree coverage or near high pollen areas may benefit from bi-annual service—typically spring cleaning after pollen season and fall service before winter. Commercial installations with higher production requirements often schedule quarterly inspections to ensure consistent optimal performance."
+    },
+    {
+      "question": "What causes solar panel efficiency loss in East Longmeadow?",
+      "answer": "Common causes include dirt and pollen accumulation (reducing efficiency by 15-30%), bird droppings creating hotspots, loose electrical connections from temperature cycling, inverter malfunctions, physical damage from storms or falling branches, and tree growth creating new shading. Regular professional maintenance identifies and addresses these issues before they significantly impact energy production."
+    },
+    {
+      "question": "Can you service solar systems installed by other companies?",
+      "answer": "Absolutely! We maintain and repair all solar installations in East Longmeadow regardless of the original installer. Our NABCEP certified technicians are trained on all major solar panel brands and inverter manufacturers. We'll review your system documentation, maintain warranty compliance, and provide the same expert care we give systems we installed ourselves."
+    },
+    {
+      "question": "Do you offer emergency solar repair in East Longmeadow?",
+      "answer": "Yes, we provide 24/7 emergency repair services throughout East Longmeadow. If your system completely stops producing power, displays critical error messages, suffers storm damage, or presents safety concerns, call our emergency line immediately. We prioritize critical situations and typically respond within 4 hours for East Longmeadow customers."
+    },
+    {
+      "question": "What's included in your East Longmeadow annual maintenance plan?",
+      "answer": "Our annual plan includes: two comprehensive service visits (spring and fall), complete professional panel cleaning, detailed 32-point system inspection, inverter diagnostics and firmware updates, electrical safety testing, mounting hardware verification, production monitoring analysis, priority emergency service, 15% discount on any needed repairs, and detailed service reports documenting system health and performance."
+    },
+    {
+      "question": "How much does professional solar panel cleaning cost in East Longmeadow?",
+      "answer": "Basic residential solar panel cleaning in East Longmeadow typically costs $200-$350 depending on system size and roof accessibility. This includes complete panel cleaning, visual inspection, and basic performance verification. Customers who bundle cleaning with comprehensive maintenance services receive package pricing. Annual maintenance plans provide the best overall value with two cleanings included."
+    },
+    {
+      "question": "How can I tell if my East Longmeadow solar system is underperforming?",
+      "answer": "Compare current energy production to historical data from the same season. Drops of 15% or more often indicate maintenance needs. Also watch for: inverter error messages, monitoring system alerts, higher electric bills, visible panel damage, or complete system shutdown. Our free diagnostic service can definitively determine whether your system is performing as expected and identify the cause of any efficiency losses."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar inverter maintenance and repair",
-    "caption": "Complete inverter diagnostics and repair expertise",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/inverter-maintenance"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar panel array on East Longmeadow home",
-    "caption": "Serving East Longmeadow's solar community with expert care",
-    "credit": {
-     "photographer": "Zbynek Burival",
-     "unsplashUrl": "https://unsplash.com/photos/solar-roof"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why East Longmeadow Chooses Our Solar Maintenance Services",
-  "Common Solar Panel Issues We Fix in East Longmeadow",
-  "Our Proven Solar Maintenance Process",
-  "Signs Your East Longmeadow Solar System Needs Service",
-  "East Longmeadow Solar Panel Maintenance FAQs",
-  "Schedule Your East Longmeadow Solar Service"
- ],
- "faq": [
-  {
-   "question": "How often do solar panels need maintenance in East Longmeadow?",
-   "answer": "We recommend professional maintenance at least annually for East Longmeadow solar systems. Properties with significant tree coverage or near high pollen areas may benefit from bi-annual service—typically spring cleaning after pollen season and fall service before winter. Commercial installations with higher production requirements often schedule quarterly inspections to ensure consistent optimal performance."
-  },
-  {
-   "question": "What causes solar panel efficiency loss in East Longmeadow?",
-   "answer": "Common causes include dirt and pollen accumulation (reducing efficiency by 15-30%), bird droppings creating hotspots, loose electrical connections from temperature cycling, inverter malfunctions, physical damage from storms or falling branches, and tree growth creating new shading. Regular professional maintenance identifies and addresses these issues before they significantly impact energy production."
-  },
-  {
-   "question": "Can you service solar systems installed by other companies?",
-   "answer": "Absolutely! We maintain and repair all solar installations in East Longmeadow regardless of the original installer. Our NABCEP certified technicians are trained on all major solar panel brands and inverter manufacturers. We'll review your system documentation, maintain warranty compliance, and provide the same expert care we give systems we installed ourselves."
-  },
-  {
-   "question": "Do you offer emergency solar repair in East Longmeadow?",
-   "answer": "Yes, we provide 24/7 emergency repair services throughout East Longmeadow. If your system completely stops producing power, displays critical error messages, suffers storm damage, or presents safety concerns, call our emergency line immediately. We prioritize critical situations and typically respond within 4 hours for East Longmeadow customers."
-  },
-  {
-   "question": "What's included in your East Longmeadow annual maintenance plan?",
-   "answer": "Our annual plan includes: two comprehensive service visits (spring and fall), complete professional panel cleaning, detailed 32-point system inspection, inverter diagnostics and firmware updates, electrical safety testing, mounting hardware verification, production monitoring analysis, priority emergency service, 15% discount on any needed repairs, and detailed service reports documenting system health and performance."
-  },
-  {
-   "question": "How much does professional solar panel cleaning cost in East Longmeadow?",
-   "answer": "Basic residential solar panel cleaning in East Longmeadow typically costs $200-$350 depending on system size and roof accessibility. This includes complete panel cleaning, visual inspection, and basic performance verification. Customers who bundle cleaning with comprehensive maintenance services receive package pricing. Annual maintenance plans provide the best overall value with two cleanings included."
-  },
-  {
-   "question": "How can I tell if my East Longmeadow solar system is underperforming?",
-   "answer": "Compare current energy production to historical data from the same season. Drops of 15% or more often indicate maintenance needs. Also watch for: inverter error messages, monitoring system alerts, higher electric bills, visible panel damage, or complete system shutdown. Our free diagnostic service can definitively determine whether your system is performing as expected and identify the cause of any efficiency losses."
-  }
- ],
- "keywords": [
-  "solar panel maintenance",
-  "solar repair",
-  "panel cleaning service",
-  "solar inspection",
-  "inverter maintenance",
-  "solar system service"
- ],
- "localKeywords": [
-  "solar maintenance East Longmeadow MA",
-  "solar repair East Longmeadow",
-  "East Longmeadow solar service",
-  "solar cleaning East Longmeadow Massachusetts",
-  "East Longmeadow solar technician"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Schedule East Longmeadow Solar Service",
- "ctaSecondary": "Get Free System Diagnostics",
- "ctaUrgency": "Protect Your Solar Investment Today"
+  ],
+  "keywords": [
+    "solar panel maintenance",
+    "solar repair",
+    "panel cleaning service",
+    "solar inspection",
+    "inverter maintenance",
+    "solar system service"
+  ],
+  "localKeywords": [
+    "solar maintenance East Longmeadow MA",
+    "solar repair East Longmeadow",
+    "East Longmeadow solar service",
+    "solar cleaning East Longmeadow Massachusetts",
+    "East Longmeadow solar technician"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Schedule East Longmeadow Solar Service",
+  "ctaSecondary": "Get Free System Diagnostics",
+  "ctaUrgency": "Protect Your Solar Investment Today"
 }

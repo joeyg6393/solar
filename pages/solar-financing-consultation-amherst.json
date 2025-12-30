@@ -1,194 +1,194 @@
 {
- "id": "solar-financing-consultation-amherst",
- "service": "Solar Financing & Consultation",
- "serviceSlug": "solar-financing-consultation",
- "location": "Amherst",
- "locationSlug": "amherst",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Financing Amherst MA - financings & Loan Experts",
- "metaDescription": "Expert solar financing consultation in Amherst MA. Navigate flexible financings, MA benefits & solar loans. Free analysis. Discover how to save thousands on clean energy!",
- "h1": "Solar Financing & Consultation in Amherst, Massachusetts",
- "heroHeadline": "Unlock Solar Savings in Amherst with Expert Financial Guidance",
- "heroSubheadline": "Navigate Financing Optionss, SMART Programs & Competitive Loans - Zero Pressure",
- "serviceDescription": "Transitioning to clean solar energy in Amherst, Massachusetts is now more affordable than ever, thanks to robust federal and flexible financing. Our specialized solar financing consultation services empower Amherst homeowners, UMass faculty, and local businesses to make informed decisions about solar investments. With deep expertise in Massachusetts solar programs and over 12 years serving the Pioneer Valley, we've guided hundreds of Amherst residents through the financing process, unlocking substantial long-term savings.\n\nThe solar financing landscape can seem complex, but our Amherst consultation team makes it straightforward. We provide expert guidance on leveraging the federal Investment financing, accessing Massachusetts SMART program benefits, understanding net metering trading opportunities, and exploring diverse financing structures from zero-down loans to innovative power purchase agreements. Our consultants work exclusively in your best interest, never receiving commissions from lenders, ensuring truly unbiased advice for Amherst families and businesses.\n\nAmherst's strong commitment to sustainability aligns perfectly with solar investment, and the financial case has never been stronger. During our comprehensive consultation, we analyze your specific energy consumption patterns, current utility costs with Eversource or National Grid, projected 25-year savings, and all applicable benefits. We examine multiple financing pathways including solar loans with competitive rates, solar leases, PPAs, and outright purchases, presenting clear comparisons so you can choose what fits your financial goals and timeline.\n\nWhat distinguishes our Amherst solar financing service is our educational approach and community focus. We understand that Amherst residents value sustainability and fiscal responsibility equally. Our consultations include detailed projections of monthly payment comparisons, comprehensive ROI analysis, payback period calculations, and environmental impact metrics. We stay current on all local and state programs, including special benefits for Amherst's municipal utility customers. Our goal is simple: help you make the smartest financial decision for your family while advancing clean energy in our community.",
- "shortDescription": "Professional solar financing consultation serving Amherst MA. Get expert guidance on federal financing optionss, Massachusetts SMART benefits, competitive solar loans, and payment options. Unbiased advice to maximize savings and make solar affordable for your home or business.",
- "benefits": [
-  "Expert guidance on federal solar financing options for Amherst residents",
-  "Massachusetts SMART program enrollment and optimization",
-  "Access to competitive solar loan rates with zero-down options",
-  "Unbiased financing advice - we don't work on commission",
-  "Detailed ROI analysis specific to Amherst utility rates",
-  "net metering trading opportunity assessment and registration help",
-  "Special programs for UMass employees and Amherst municipal customers",
-  "Completely free consultation with no sales pressure"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Complimentary Home or Office Consultation",
-   "description": "We begin with a free, no-obligation meeting at your Amherst location or virtually. Bring recent utility bills and we'll discuss your energy goals, property assessment, and solar potential specific to Amherst's climate and regulations."
-  },
-  {
-   "step": 2,
-   "title": "Comprehensive Financial Modeling",
-   "description": "Our team creates detailed financial models showing 25-year cost comparisons, utility savings projections based on Amherst rates, financing calculations, and SMART program benefits. Every projection is customized to your specific situation."
-  },
-  {
-   "step": 3,
-   "title": "Multiple Financing Pathway Presentation",
-   "description": "We present 3-5 financing options including solar loans from multiple lenders, lease agreements, power purchase arrangements, and cash purchase scenarios. Each option includes transparent terms, monthly costs, and total ownership analysis."
-  },
-  {
-   "step": 4,
-   "title": "Incentive Navigation and Application Support",
-   "description": "Our experts provide hands-on assistance applying for flexible financings, enrolling in Massachusetts SMART program, registering for net metering opportunities, and accessing any Amherst-specific utility rebates or municipal programs."
-  },
-  {
-   "step": 5,
-   "title": "Financing Coordination and Installation Planning",
-   "description": "After you select your preferred financing approach, we coordinate approval processes, finalize agreements, and seamlessly transition to our installation team to bring your Amherst solar project to life."
-  }
- ],
- "features": [
-  "Federal Investment financing maximization strategies",
-  "Massachusetts SMART program application and enrollment support",
-  "net metering opportunity analysis and ongoing market guidance",
-  "Relationships with 5+ solar lending partners for best rates",
-  "Zero-down solar loan options with payments under utility bills",
-  "25-year financial projections customized for Amherst",
-  "Lease vs. loan vs. purchase comparison with real numbers",
-  "Net metering benefit analysis for Eversource and National Grid"
- ],
- "pricingInfo": "Our solar financing consultations are 100% FREE with absolutely no obligation. Financing options range from $0 down solar loans (monthly payments often lower than current electric bills) to cash purchases maximizing long-term returns. Typical Amherst solar installations qualify for $7,000-$14,000+ in flexible financings, plus substantial Massachusetts SMART benefits. We'll calculate your exact savings potential.",
- "serviceArea": "Amherst and surrounding Hampshire County communities including Hadley, Northampton, South Hadley, Leverett, and throughout the Five College area",
- "availability": "Monday through Friday, 9:00 AM - 6:00 PM. Weekend and evening consultations available for Amherst residents and UMass community members.",
- "responseTime": "Free consultation scheduled within 24-48 hours. Complete financing analysis delivered within 3-5 business days.",
- "qualifications": [
-  "NABCEP Certified Solar Professionals",
-  "Massachusetts Licensed Solar Contractors",
-  "BBB Accredited with A+ Rating",
-  "Certified SMART Program Installers and Advisors"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar financing consultations completed",
- "guarantees": [
-  "Zero-pressure consultation guarantee",
-  "Complete pricing transparency - no hidden costs",
-  "Best available financing rate guarantee",
-  "Ongoing support through installation and beyond"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Professional solar financing consultation with Amherst homeowner",
-   "caption": "Expert solar financing guidance for the Amherst community",
-   "credit": {
-    "photographer": "Brooke Cagle",
-    "unsplashUrl": "https://unsplash.com/photos/g1Kr4Ozfoac"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1509803874385-db7c23652552?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Financial documents and financing calculations",
-    "caption": "Maximize federal and state solar benefits",
-    "credit": {
-     "photographer": "Scott Graham",
-     "unsplashUrl": "https://unsplash.com/photos/5fNmWej4tAA"
+  "id": "solar-financing-consultation-amherst",
+  "service": "Solar Financing & Consultation",
+  "serviceSlug": "solar-financing-consultation",
+  "location": "Amherst",
+  "locationSlug": "amherst",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Financing Amherst MA - benefits & Loan Experts",
+  "metaDescription": "Expert solar financing consultation in Amherst MA. Navigate flexible benefits, MA benefits & solar loans. Free analysis. Discover how to save thousands on clean energy!",
+  "h1": "Solar Financing & Consultation in Amherst, Massachusetts",
+  "heroHeadline": "Unlock Solar Savings in Amherst with Expert Financial Guidance",
+  "heroSubheadline": "Navigate Financing Options, SMART Programs & Competitive Loans - Zero Pressure",
+  "serviceDescription": "Transitioning to clean solar energy in Amherst, Massachusetts is now more affordable than ever, thanks to robust federal and flexible financing. Our specialized solar financing consultation services empower Amherst homeowners, UMass faculty, and local businesses to make informed decisions about solar investments. With deep expertise in Massachusetts solar programs and over 12 years serving the Pioneer Valley, we've guided hundreds of Amherst residents through the financing process, unlocking substantial long-term savings.\n\nThe solar financing landscape can seem complex, but our Amherst consultation team makes it straightforward. We provide expert guidance on leveraging the federal solar incentive, accessing Massachusetts SMART program benefits, understanding net metering trading opportunities, and exploring diverse financing structures from zero-down loans to innovative power purchase agreements. Our consultants work exclusively in your best interest, never receiving commissions from lenders, ensuring truly unbiased advice for Amherst families and businesses.\n\nAmherst's strong commitment to sustainability aligns perfectly with solar investment, and the financial case has never been stronger. During our comprehensive consultation, we analyze your specific energy consumption patterns, current utility costs with Eversource or National Grid, projected 25-year savings, and all applicable benefits. We examine multiple financing pathways including solar loans with competitive rates, solar leases, PPAs, and outright purchases, presenting clear comparisons so you can choose what fits your financial goals and timeline.\n\nWhat distinguishes our Amherst solar financing service is our educational approach and community focus. We understand that Amherst residents value sustainability and fiscal responsibility equally. Our consultations include detailed projections of monthly payment comparisons, comprehensive ROI analysis, payback period calculations, and environmental impact metrics. We stay current on all local and state programs, including special benefits for Amherst's municipal utility customers. Our goal is simple: help you make the smartest financial decision for your family while advancing clean energy in our community.",
+  "shortDescription": "Professional solar financing consultation serving Amherst MA. Get expert guidance on federal financing options, Massachusetts SMART benefits, competitive solar loans, and payment options. Unbiased advice to maximize savings and make solar affordable for your home or business.",
+  "benefits": [
+    "Expert guidance on competitive pricing options for Amherst residents",
+    "Massachusetts SMART program enrollment and optimization",
+    "Access to competitive solar loan rates with zero-down options",
+    "Unbiased financing advice - we don't work on commission",
+    "Detailed ROI analysis specific to Amherst utility rates",
+    "net metering trading opportunity assessment and registration help",
+    "Special programs for UMass employees and Amherst municipal customers",
+    "Completely free consultation with no sales pressure"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Complimentary Home or Office Consultation",
+      "description": "We begin with a free, no-obligation meeting at your Amherst location or virtually. Bring recent utility bills and we'll discuss your energy goals, property assessment, and solar potential specific to Amherst's climate and regulations."
+    },
+    {
+      "step": 2,
+      "title": "Comprehensive Financial Modeling",
+      "description": "Our team creates detailed financial models showing 25-year cost comparisons, utility savings projections based on Amherst rates, financing calculations, and SMART program benefits. Every projection is customized to your specific situation."
+    },
+    {
+      "step": 3,
+      "title": "Multiple Financing Pathway Presentation",
+      "description": "We present 3-5 financing options including solar loans from multiple lenders, lease agreements, power purchase arrangements, and cash purchase scenarios. Each option includes transparent terms, monthly costs, and total ownership analysis."
+    },
+    {
+      "step": 4,
+      "title": "Incentive Navigation and Application Support",
+      "description": "Our experts provide hands-on assistance applying for flexible benefits, enrolling in Massachusetts SMART program, registering for net metering opportunities, and accessing any Amherst-specific utility rebates or municipal programs."
+    },
+    {
+      "step": 5,
+      "title": "Financing Coordination and Installation Planning",
+      "description": "After you select your preferred financing approach, we coordinate approval processes, finalize agreements, and seamlessly transition to our installation team to bring your Amherst solar project to life."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar panels installed on Amherst residential home",
-    "caption": "Turn your Amherst home into a clean energy producer",
-    "credit": {
-     "photographer": "Vivint Solar",
-     "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+  ],
+  "features": [
+    "federal solar incentive maximization strategies",
+    "Massachusetts SMART program application and enrollment support",
+    "net metering opportunity analysis and ongoing market guidance",
+    "Relationships with 5+ solar lending partners for best rates",
+    "Zero-down solar loan options with payments under utility bills",
+    "25-year financial projections customized for Amherst",
+    "Lease vs. loan vs. purchase comparison with real numbers",
+    "Net metering benefit analysis for Eversource and National Grid"
+  ],
+  "pricingInfo": "Our solar financing consultations are 100% FREE with absolutely no obligation. Financing options range from $0 down solar loans (monthly payments often lower than current electric bills) to cash purchases maximizing long-term returns. Typical Amherst solar installations qualify for $7,000-$14,000+ in flexible benefits, plus substantial Massachusetts SMART benefits. We'll calculate your exact savings potential.",
+  "serviceArea": "Amherst and surrounding Hampshire County communities including Hadley, Northampton, South Hadley, Leverett, and throughout the Five College area",
+  "availability": "Monday through Friday, 9:00 AM - 6:00 PM. Weekend and evening consultations available for Amherst residents and UMass community members.",
+  "responseTime": "Free consultation scheduled within 24-48 hours. Complete financing analysis delivered within 3-5 business days.",
+  "qualifications": [
+    "NABCEP Certified Solar Professionals",
+    "Massachusetts Licensed Solar Contractors",
+    "BBB Accredited with A+ Rating",
+    "Certified SMART Program Installers and Advisors"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar financing consultations completed",
+  "guarantees": [
+    "Zero-pressure consultation guarantee",
+    "Complete pricing transparency - no hidden costs",
+    "Best available financing rate guarantee",
+    "Ongoing support through installation and beyond"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional solar financing consultation with Amherst homeowner",
+      "caption": "Expert solar financing guidance for the Amherst community",
+      "credit": {
+        "photographer": "Brooke Cagle",
+        "unsplashUrl": "https://unsplash.com/photos/g1Kr4Ozfoac"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1509803874385-db7c23652552?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Financial documents and financing calculations",
+        "caption": "Maximize federal and state solar benefits",
+        "credit": {
+          "photographer": "Scott Graham",
+          "unsplashUrl": "https://unsplash.com/photos/5fNmWej4tAA"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar panels installed on Amherst residential home",
+        "caption": "Turn your Amherst home into a clean energy producer",
+        "credit": {
+          "photographer": "Vivint Solar",
+          "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Data analysis showing solar savings projections",
+        "caption": "Clear financial projections and ROI analysis",
+        "credit": {
+          "photographer": "Carlos Muza",
+          "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556155092-490a1ba16284?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Happy homeowner after solar consultation meeting",
+        "caption": "Confident solar decisions with expert guidance",
+        "credit": {
+          "photographer": "Brooke Cagle",
+          "unsplashUrl": "https://unsplash.com/photos/WHWYBmtn3_0"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Amherst Residents Choose Our Solar Financing Consultation",
+    "Solar Savings and Financing Options Explained",
+    "Solar Financing Options for Amherst Homeowners and Businesses",
+    "Calculate Your Solar Savings in Amherst, MA",
+    "Common Solar Financing Questions from Amherst Residents",
+    "Schedule Your Free Solar Financing Consultation"
+  ],
+  "faq": [
+    {
+      "question": "How much is the competitive pricing worth for my Amherst home?",
+      "answer": "The federal solar benefits allows you to deduct of your total solar installation cost through your financing. For a typical Amherst solar system ranging from $20,000-$30,000, this translates to $5,200-$7,800 in financing savings. This applies to owned systems (cash or financed), not leased systems. We'll calculate your exact credit amount during the consultation."
+    },
+    {
+      "question": "What is the Massachusetts SMART program and how does it benefit Amherst solar customers?",
+      "answer": "The SMART (Solar Massachusetts Renewable Target) program provides fixed incentive payments for every kilowatt-hour your system produces over 10-20 years. Amherst residents can earn substantial ongoing income through this program. Payment rates vary based on system size and location, but typical residential systems earn $300-$800 annually. We'll show you exact SMART projections for your property."
+    },
+    {
+      "question": "Can I afford solar with no money down in Amherst?",
+      "answer": "Yes! We work with multiple lenders offering $0-down solar loans specifically designed for Massachusetts homeowners. Many Amherst clients find their monthly loan payment is lower than their previous electric bill, creating immediate positive cash flow. We'll compare multiple zero-down options with different terms and rates during your free consultation."
+    },
+    {
+      "question": "Should I buy, lease, or do a PPA for solar in Amherst?",
+      "answer": "Each option has merits depending on your situation. Buying (cash or loan) gives you full ownership, all benefits, and best long-term value - typically 20-30% more savings over 25 years. Leasing offers predictable monthly costs with no maintenance responsibility. PPAs let you pay only for the electricity produced. For most Amherst homeowners, we find purchasing with a solar loan provides optimal financial returns. We'll model all scenarios for your specific case."
+    },
+    {
+      "question": "How long will it take to break even on solar in Amherst?",
+      "answer": "With current benefits and Amherst's utility rates, most homeowners achieve payback in 7-11 years. After that, you enjoy essentially free electricity for another 15-20+ years. Factors affecting payback include system size, financing method, energy usage, and financing options. Our detailed financial analysis will show your specific payback timeline with conservative projections."
+    },
+    {
+      "question": "Are there special solar programs for UMass employees or Amherst municipal customers?",
+      "answer": "Yes! We're familiar with various programs that may apply to UMass community members and can help you access any available group purchasing programs or special financing arrangements. Additionally, if you're served by certain municipal utilities in the Amherst area, there may be specific net metering benefits or local benefits. We'll identify all applicable programs during your consultation."
+    },
+    {
+      "question": "What happens to solar financing if I move from my Amherst home?",
+      "answer": "If you own your system (cash or loan), it typically increases your home's value - Massachusetts studies show solar homes sell for 4-6% more and sell faster. You can pay off any remaining loan balance from sale proceeds or transfer the loan to the buyer (with lender approval). Leases and PPAs can typically be transferred to new homeowners. We'll explain all scenarios and their implications."
+    },
+    {
+      "question": "How do I start the solar financing consultation process in Amherst?",
+      "answer": "Simply call (413) 555-0100 or submit a consultation request on our website. We'll schedule a convenient time for a free meeting at your Amherst home, our office, or virtually. Bring 12 months of utility bills if possible. Within 3-5 business days, you'll receive a comprehensive analysis showing your solar potential, financing options, and multiple financing options with clear comparisons."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Data analysis showing solar savings projections",
-    "caption": "Clear financial projections and ROI analysis",
-    "credit": {
-     "photographer": "Carlos Muza",
-     "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1556155092-490a1ba16284?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Happy homeowner after solar consultation meeting",
-    "caption": "Confident solar decisions with expert guidance",
-    "credit": {
-     "photographer": "Brooke Cagle",
-     "unsplashUrl": "https://unsplash.com/photos/WHWYBmtn3_0"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Amherst Residents Choose Our Solar Financing Consultation",
-  "Federal and Massachusetts Solar benefits Explained",
-  "Solar Financing Options for Amherst Homeowners and Businesses",
-  "Calculate Your Solar Savings in Amherst, MA",
-  "Common Solar Financing Questions from Amherst Residents",
-  "Schedule Your Free Solar Financing Consultation"
- ],
- "faq": [
-  {
-   "question": "How much is the federal solar financing worth for my Amherst home?",
-   "answer": "The federal Investment financing (financing) allows you to deduct of your total solar installation cost through financing. For a typical Amherst solar system ranging from $20,000-$30,000, this translates to $5,200-$7,800 in financing savings. This applies to owned systems (cash or financed), not leased systems. We'll calculate your exact credit amount during the consultation."
-  },
-  {
-   "question": "What is the Massachusetts SMART program and how does it benefit Amherst solar customers?",
-   "answer": "The SMART (Solar Massachusetts Renewable Target) program provides fixed incentive payments for every kilowatt-hour your system produces over 10-20 years. Amherst residents can earn substantial ongoing income through this program. Payment rates vary based on system size and location, but typical residential systems earn $300-$800 annually. We'll show you exact SMART projections for your property."
-  },
-  {
-   "question": "Can I afford solar with no money down in Amherst?",
-   "answer": "Yes! We work with multiple lenders offering $0-down solar loans specifically designed for Massachusetts homeowners. Many Amherst clients find their monthly loan payment is lower than their previous electric bill, creating immediate positive cash flow. We'll compare multiple zero-down options with different terms and rates during your free consultation."
-  },
-  {
-   "question": "Should I buy, lease, or do a PPA for solar in Amherst?",
-   "answer": "Each option has merits depending on your situation. Buying (cash or loan) gives you full ownership, all financings, and best long-term value - typically 20-30% more savings over 25 years. Leasing offers predictable monthly costs with no maintenance responsibility. PPAs let you pay only for the electricity produced. For most Amherst homeowners, we find purchasing with a solar loan provides optimal financial returns. We'll model all scenarios for your specific case."
-  },
-  {
-   "question": "How long will it take to break even on solar in Amherst?",
-   "answer": "With current benefits and Amherst's utility rates, most homeowners achieve payback in 7-11 years. After that, you enjoy essentially free electricity for another 15-20+ years. Factors affecting payback include system size, financing method, energy usage, and financing options. Our detailed financial analysis will show your specific payback timeline with conservative projections."
-  },
-  {
-   "question": "Are there special solar programs for UMass employees or Amherst municipal customers?",
-   "answer": "Yes! We're familiar with various programs that may apply to UMass community members and can help you access any available group purchasing programs or special financing arrangements. Additionally, if you're served by certain municipal utilities in the Amherst area, there may be specific net metering benefits or local benefits. We'll identify all applicable programs during your consultation."
-  },
-  {
-   "question": "What happens to solar financing if I move from my Amherst home?",
-   "answer": "If you own your system (cash or loan), it typically increases your home's value - Massachusetts studies show solar homes sell for 4-6% more and sell faster. You can pay off any remaining loan balance from sale proceeds or transfer the loan to the buyer (with lender approval). Leases and PPAs can typically be transferred to new homeowners. We'll explain all scenarios and their implications."
-  },
-  {
-   "question": "How do I start the solar financing consultation process in Amherst?",
-   "answer": "Simply call (413) 555-0100 or submit a consultation request on our website. We'll schedule a convenient time for a free meeting at your Amherst home, our office, or virtually. Bring 12 months of utility bills if possible. Within 3-5 business days, you'll receive a comprehensive analysis showing your solar potential, financing options, and multiple financing options with clear comparisons."
-  }
- ],
- "keywords": [
-  "solar financing",
-  "solar loans",
-  "solar financings",
-  "solar consultation",
-  "SMART program",
-  "solar benefits",
-  "renewable energy financing"
- ],
- "localKeywords": [
-  "solar financing Amherst MA",
-  "solar consultation Amherst",
-  "solar financings Massachusetts",
-  "solar loans Amherst",
-  "SMART program Hampshire County",
-  "solar benefits Pioneer Valley",
-  "UMass solar financing"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Solar Financing Consultation Today",
- "ctaSecondary": "Schedule Free Consultation",
- "ctaUrgency": "Special Offer Available - Limited Time"
+  ],
+  "keywords": [
+    "solar financing",
+    "solar loans",
+    "solar benefits",
+    "solar consultation",
+    "SMART program",
+    "solar benefits",
+    "renewable energy financing"
+  ],
+  "localKeywords": [
+    "solar financing Amherst MA",
+    "solar consultation Amherst",
+    "solar benefits Massachusetts",
+    "solar loans Amherst",
+    "SMART program Hampshire County",
+    "solar benefits Pioneer Valley",
+    "UMass solar financing"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Solar Financing Consultation Today",
+  "ctaSecondary": "Schedule Free Consultation",
+  "ctaUrgency": "Special Offer Available - Limited Time"
 }

@@ -1,190 +1,190 @@
 {
- "id": "solar-maintenance-repair-tolland",
- "service": "Solar Panel Maintenance & Repair",
- "serviceSlug": "solar-maintenance-repair",
- "location": "Tolland",
- "locationSlug": "tolland",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Maintenance Tolland CT - Expert Panel Repair & Cleaning",
- "metaDescription": "Top-rated solar panel maintenance & repair in Tolland, CT. Certified experts, thorough service, transparent pricing. Boost efficiency & extend system life. Call now!",
- "h1": "Solar Panel Maintenance & Repair Services in Tolland, CT",
- "heroHeadline": "Tolland's Premier Solar Maintenance Company",
- "heroSubheadline": "Expert Care • Peak Efficiency • Long-Term Protection",
- "serviceDescription": "Maintaining optimal solar panel performance in Tolland, Connecticut demands specialized knowledge and professional care from certified experts who understand both photovoltaic technology and local environmental factors. Our comprehensive solar panel maintenance and repair services protect your renewable energy investment while ensuring maximum efficiency and longevity. Serving Tolland and the broader Tolland County region for over 15 years, we've earned recognition as the area's most reliable solar service provider through consistent technical excellence and unwavering dedication to customer satisfaction.\n\nTolland's location in northeastern Connecticut presents unique environmental challenges for solar systems, from seasonal weather patterns to local vegetation impacts. Our maintenance services directly address these challenges with professional panel cleaning using purified water systems that safely remove efficiency-reducing contamination including spring pollen, summer dust, fall debris, and winter residue. We conduct meticulous electrical inspections, testing every system component from solar panels to inverters to safety disconnects. Our certified technicians use advanced diagnostic equipment to measure real-world performance against expected output, identifying efficiency losses and potential problems before they impact your energy production or require expensive repairs.\n\nWhen your Tolland solar system requires repairs, our experienced team responds promptly with the expertise and resources needed for quick resolution. We handle comprehensive repair services including inverter diagnostics and replacement, solar panel repair or replacement, electrical connection troubleshooting and repair, mounting system structural repairs and adjustments, and monitoring system restoration. Our service vehicles carry extensive parts inventory for all major brands, enabling same-day repair completion for most common issues. Whether you're dealing with storm damage, equipment failures, or gradual performance decline, our Tolland solar repair specialists deliver reliable, lasting solutions.\n\nWe proudly service all types of solar installations throughout Tolland, from residential rooftop systems to commercial ground-mount arrays. Our maintenance programs are customized to each installation's specific requirements, considering factors such as system age, equipment brands, installation type, and site-specific environmental conditions. Regular professional maintenance is proven to extend solar system life while maintaining peak energy production. Trust Tolland's solar service experts to protect and optimize your clean energy investment for maximum long-term value.",
- "shortDescription": "Professional solar panel maintenance and repair in Tolland, CT. Our NABCEP-certified technicians provide comprehensive inspections, expert cleaning, and reliable repairs for all solar system brands. Serving Tolland and Tolland County with excellence.",
- "benefits": [
-  "Maximize energy production with professional cleaning - gains up to 25%",
-  "Prevent costly system failures through regular preventive inspections",
-  "Fast response times for Tolland area maintenance and repair needs",
-  "NABCEP-certified solar professionals with extensive experience",
-  "Complete service for all major solar panel and inverter brands",
-  "Transparent, upfront pricing with detailed service estimates",
-  "Thorough documentation for warranty validation and compliance",
-  "Maintenance programs tailored to Tolland's climate and conditions"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Convenient Scheduling Process",
-   "description": "Contact us to schedule maintenance or discuss repair needs for your Tolland solar system. We'll gather information about your installation and arrange a service time that fits your schedule."
-  },
-  {
-   "step": 2,
-   "title": "Complete System Evaluation",
-   "description": "Our certified technicians conduct a comprehensive inspection of your entire solar installation including panels, mounting structures, inverters, wiring, safety systems, and monitoring equipment. We use professional diagnostic tools to assess performance and condition."
-  },
-  {
-   "step": 3,
-   "title": "Professional Cleaning & Inspection",
-   "description": "We clean your solar panels using specialized equipment and purified water designed specifically for photovoltaic systems. All electrical connections undergo testing and tightening, and we examine components for signs of wear or deterioration."
-  },
-  {
-   "step": 4,
-   "title": "Repair Services When Needed",
-   "description": "If repairs are required, we explain issues clearly and provide transparent pricing before proceeding. Our well-equipped service vehicles enable immediate repair for most common problems. More complex repairs are scheduled promptly with clear timelines."
-  },
-  {
-   "step": 5,
-   "title": "Performance Testing & Reporting",
-   "description": "After service, we verify your system operates at optimal levels. You receive a detailed service report including performance measurements, photographic documentation, and expert recommendations for ongoing maintenance and care."
-  }
- ],
- "features": [
-  "Professional solar panel cleaning with eco-friendly methods",
-  "Comprehensive inverter diagnostics and servicing",
-  "Electrical system testing including thermal imaging",
-  "Mounting and racking structural assessments",
-  "Production monitoring system troubleshooting",
-  "Emergency storm damage response and repairs",
-  "Flexible annual maintenance programs",
-  "Performance analysis and optimization services"
- ],
- "pricingInfo": "Solar panel maintenance in Tolland starts at $175 for residential systems. Annual maintenance contracts range from $299-$649 based on system size and service level. Repair costs vary: inverter service $500-$2,000, panel replacement $350-$900 each, electrical repairs $150-$650. Free diagnostic assessments provided. All pricing transparent with no hidden fees.",
- "serviceArea": "Tolland, CT and surrounding communities including Ellington, Vernon, Willington, Coventry, and all of Tolland County",
- "availability": "Monday - Friday: 7:00 AM - 6:00 PM, Saturday: 8:00 AM - 4:00 PM, Emergency service available",
- "responseTime": "Same-day emergency response available, routine maintenance within 1 week",
- "qualifications": [
-  "NABCEP Certified Solar Installation Professionals",
-  "Connecticut Licensed Electrical Contractors (E-1)",
-  "Factory-Certified Service Technicians",
-  "Comprehensive Insurance and Bonding"
- ],
- "yearsExperience": "15+ years",
- "projectsCompleted": "2,000+ solar systems maintained",
- "guarantees": [
-  "12-month warranty on all repair work",
-  "100% satisfaction guarantee",
-  "Performance improvement guarantee on cleaning"
- ],
- "emergencyAvailable": true,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Expert solar panel maintenance technician servicing residential solar array in Tolland Connecticut",
-   "caption": "Professional Solar Panel Maintenance & Repair in Tolland, CT",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Professional solar panel cleaning in progress",
-    "caption": "Expert Solar Panel Cleaning Services",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+  "id": "solar-maintenance-repair-tolland",
+  "service": "Solar Panel Maintenance & Repair",
+  "serviceSlug": "solar-maintenance-repair",
+  "location": "Tolland",
+  "locationSlug": "tolland",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Maintenance Tolland CT - Expert Panel Repair & Cleaning",
+  "metaDescription": "Top-rated solar panel maintenance & repair in Tolland, CT. Certified experts, thorough service, transparent pricing. Boost efficiency & extend system life. Call now!",
+  "h1": "Solar Panel Maintenance & Repair Services in Tolland, CT",
+  "heroHeadline": "Tolland's Premier Solar Maintenance Company",
+  "heroSubheadline": "Expert Care • Peak Efficiency • Long-Term Protection",
+  "serviceDescription": "Maintaining optimal solar panel performance in Tolland, Connecticut demands specialized knowledge and professional care from certified experts who understand both photovoltaic technology and local environmental factors. Our comprehensive solar panel maintenance and repair services protect your renewable energy investment while ensuring maximum efficiency and longevity. Serving Tolland and the broader Tolland County region for over 15 years, we've earned recognition as the area's most reliable solar service provider through consistent technical excellence and unwavering dedication to customer satisfaction.\n\nTolland's location in northeastern Connecticut presents unique environmental challenges for solar systems, from seasonal weather patterns to local vegetation impacts. Our maintenance services directly address these challenges with professional panel cleaning using purified water systems that safely remove efficiency-reducing contamination including spring pollen, summer dust, fall debris, and winter residue. We conduct meticulous electrical inspections, testing every system component from solar panels to inverters to safety disconnects. Our certified technicians use advanced diagnostic equipment to measure real-world performance against expected output, identifying efficiency losses and potential problems before they impact your energy production or require expensive repairs.\n\nWhen your Tolland solar system requires repairs, our experienced team responds promptly with the expertise and resources needed for quick resolution. We handle comprehensive repair services including inverter diagnostics and replacement, solar panel repair or replacement, electrical connection troubleshooting and repair, mounting system structural repairs and adjustments, and monitoring system restoration. Our service vehicles carry extensive parts inventory for all major brands, enabling same-day repair completion for most common issues. Whether you're dealing with storm damage, equipment failures, or gradual performance decline, our Tolland solar repair specialists deliver reliable, lasting solutions.\n\nWe proudly service all types of solar installations throughout Tolland, from residential rooftop systems to commercial ground-mount arrays. Our maintenance programs are customized to each installation's specific requirements, considering factors such as system age, equipment brands, installation type, and site-specific environmental conditions. Regular professional maintenance is proven to extend solar system life while maintaining peak energy production. Trust Tolland's solar service experts to protect and optimize your clean energy investment for maximum long-term value.",
+  "shortDescription": "Professional solar panel maintenance and repair in Tolland, CT. Our NABCEP-certified technicians provide comprehensive inspections, expert cleaning, and reliable repairs for all solar system brands. Serving Tolland and Tolland County with excellence.",
+  "benefits": [
+    "Maximize energy production with professional cleaning - gains up to 25%",
+    "Prevent costly system failures through regular preventive inspections",
+    "Fast response times for Tolland area maintenance and repair needs",
+    "NABCEP-certified solar professionals with extensive experience",
+    "Complete service for all major solar panel and inverter brands",
+    "Transparent, upfront pricing with detailed service estimates",
+    "Thorough documentation for warranty validation and compliance",
+    "Maintenance programs tailored to Tolland's climate and conditions"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Convenient Scheduling Process",
+      "description": "Contact us to schedule maintenance or discuss repair needs for your Tolland solar system. We'll gather information about your installation and arrange a service time that fits your schedule."
+    },
+    {
+      "step": 2,
+      "title": "Complete System Evaluation",
+      "description": "Our certified technicians conduct a comprehensive inspection of your entire solar installation including panels, mounting structures, inverters, wiring, safety systems, and monitoring equipment. We use professional diagnostic tools to assess performance and condition."
+    },
+    {
+      "step": 3,
+      "title": "Professional Cleaning & Inspection",
+      "description": "We clean your solar panels using specialized equipment and purified water designed specifically for photovoltaic systems. All electrical connections undergo testing and tightening, and we examine components for signs of wear or deterioration."
+    },
+    {
+      "step": 4,
+      "title": "Repair Services When Needed",
+      "description": "If repairs are required, we explain issues clearly and provide transparent pricing before proceeding. Our well-equipped service vehicles enable immediate repair for most common problems. More complex repairs are scheduled promptly with clear timelines."
+    },
+    {
+      "step": 5,
+      "title": "Performance Testing & Reporting",
+      "description": "After service, we verify your system operates at optimal levels. You receive a detailed service report including performance measurements, photographic documentation, and expert recommendations for ongoing maintenance and care."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1597933534696-84c573a803f3?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar inverter diagnostic testing",
-    "caption": "Advanced Solar System Diagnostics",
-    "credit": {
-     "photographer": "Frédéric Paulussen",
-     "unsplashUrl": "https://unsplash.com/photos/LWnD8U2OReU"
+  ],
+  "features": [
+    "Professional solar panel cleaning with eco-friendly methods",
+    "Comprehensive inverter diagnostics and servicing",
+    "Electrical system testing including thermal imaging",
+    "Mounting and racking structural assessments",
+    "Production monitoring system troubleshooting",
+    "Emergency storm damage response and repairs",
+    "Flexible annual maintenance programs",
+    "Performance analysis and optimization services"
+  ],
+  "pricingInfo": "Solar panel maintenance in Tolland starts at $175 for residential systems. Annual maintenance contracts range from $299-$649 based on system size and service level. Repair costs vary: inverter service $500-$2,000, panel replacement $350-$900 each, electrical repairs $150-$650. Free diagnostic assessments provided. All pricing transparent with no hidden fees.",
+  "serviceArea": "Tolland, CT and surrounding communities including Ellington, Vernon, Willington, Coventry, and all of Tolland County",
+  "availability": "Monday - Friday: 7:00 AM - 6:00 PM, Saturday: 8:00 AM - 4:00 PM, Emergency service available",
+  "responseTime": "Same-day emergency response available, routine maintenance within 1 week",
+  "qualifications": [
+    "NABCEP Certified Solar Installation Professionals",
+    "Connecticut Licensed Electrical Contractors (E-1)",
+    "Factory-Certified Service Technicians",
+    "Comprehensive Insurance and Bonding"
+  ],
+  "yearsExperience": "15+ years",
+  "projectsCompleted": "2,000+ solar systems maintained",
+  "guarantees": [
+    "12-month warranty on all repair work",
+    "100% satisfaction guarantee",
+    "Performance improvement guarantee on cleaning"
+  ],
+  "emergencyAvailable": true,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Expert solar panel maintenance technician servicing residential solar array in Tolland Connecticut",
+      "caption": "Professional Solar Panel Maintenance & Repair in Tolland, CT",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional solar panel cleaning in progress",
+        "caption": "Expert Solar Panel Cleaning Services",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1597933534696-84c573a803f3?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar inverter diagnostic testing",
+        "caption": "Advanced Solar System Diagnostics",
+        "credit": {
+          "photographer": "Frédéric Paulussen",
+          "unsplashUrl": "https://unsplash.com/photos/LWnD8U2OReU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Technician repairing solar panel components",
+        "caption": "Reliable Solar Panel Repair Services",
+        "credit": {
+          "photographer": "Los Muertos Crew",
+          "unsplashUrl": "https://unsplash.com/photos/Uf3N0g8LqXo"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Well-maintained solar panel system at peak performance",
+        "caption": "Optimize Your Tolland Solar Investment",
+        "credit": {
+          "photographer": "Zbynek Burival",
+          "unsplashUrl": "https://unsplash.com/photos/8iZG31eXkks"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Choose Our Solar Maintenance Services in Tolland?",
+    "Comprehensive Solar Panel Maintenance Solutions",
+    "Expert Solar Repair Services for Tolland Residents",
+    "The Importance of Regular Solar System Maintenance",
+    "Tolland Solar Maintenance FAQs",
+    "Schedule Your Tolland Solar Service Today"
+  ],
+  "faq": [
+    {
+      "question": "What does solar panel maintenance include in Tolland?",
+      "answer": "Our comprehensive Tolland maintenance service includes professional panel cleaning with purified water, complete electrical system inspection, inverter performance testing and diagnostics, all connection testing and tightening, mounting hardware structural checks, monitoring system verification, performance measurement against expected output, thermal imaging when appropriate, and a detailed service report with photos and expert recommendations."
+    },
+    {
+      "question": "How can I tell if my Tolland solar system needs maintenance?",
+      "answer": "Signs include visibly dirty panels, declining energy production compared to previous months, lower output than expected for current weather, monitoring system alerts or errors, and decreased savings on your electric bill. Even if everything seems fine, annual professional maintenance is recommended to prevent problems and maintain peak efficiency throughout Tolland's varied seasonal conditions."
+    },
+    {
+      "question": "Are annual maintenance contracts worth the investment?",
+      "answer": "Yes, for most Tolland solar owners. Annual contracts ($299-$649) typically pay for themselves through increased energy production from professional cleaning alone. Add in the value of early problem detection, warranty protection, and extended system life, and the return on investment is substantial. Many customers save hundreds annually while protecting a $15,000-$30,000 solar investment."
+    },
+    {
+      "question": "What types of solar repairs do you handle?",
+      "answer": "We handle all solar system repairs including inverter failures and replacement, damaged or underperforming panels, electrical connection issues, mounting system damage or deterioration, monitoring system malfunctions, wiring problems, safety disconnect issues, and storm damage. Our Tolland technicians are equipped to diagnose and repair any solar system problem efficiently."
+    },
+    {
+      "question": "Do you service both residential and commercial solar systems?",
+      "answer": "Yes, we service solar installations of all sizes throughout Tolland. Our technicians have experience with small residential rooftop systems, large residential ground-mount arrays, and commercial installations. We offer customized maintenance programs for commercial clients with flexible scheduling to minimize business disruption while maximizing system uptime and performance."
+    },
+    {
+      "question": "How quickly can you respond to solar emergencies in Tolland?",
+      "answer": "We offer same-day or next-day emergency service for urgent situations including complete system failures, storm damage, electrical hazards, and inverter failures. We understand that every day your Tolland solar system is down means lost energy production and higher utility costs. Our emergency team prioritizes rapid response to diagnose issues and begin repairs as quickly as possible."
+    },
+    {
+      "question": "Will you work with my solar panel warranty if needed?",
+      "answer": "Absolutely. We provide detailed service documentation that satisfies warranty requirements for all major manufacturers. If warranty-covered issues are discovered during maintenance or repairs, we can help you navigate the claims process. Most manufacturers require proof of regular professional maintenance to honor warranties, making our documentation essential for protecting your Tolland investment."
+    },
+    {
+      "question": "Can maintenance really extend my solar system's life?",
+      "answer": "Yes, significantly. Proper maintenance can extend your solar system's productive life by 5-10 years beyond the typical 25-30 year lifespan. Regular cleaning prevents efficiency losses, inspections catch problems early, proper electrical maintenance prevents cascading failures, and monitoring ensures optimal operation. Neglected systems often experience premature failures that reduce both lifespan and lifetime value. Maintenance is essential for maximizing your Tolland solar investment."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Technician repairing solar panel components",
-    "caption": "Reliable Solar Panel Repair Services",
-    "credit": {
-     "photographer": "Los Muertos Crew",
-     "unsplashUrl": "https://unsplash.com/photos/Uf3N0g8LqXo"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Well-maintained solar panel system at peak performance",
-    "caption": "Optimize Your Tolland Solar Investment",
-    "credit": {
-     "photographer": "Zbynek Burival",
-     "unsplashUrl": "https://unsplash.com/photos/8iZG31eXkks"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Choose Our Solar Maintenance Services in Tolland?",
-  "Comprehensive Solar Panel Maintenance Solutions",
-  "Expert Solar Repair Services for Tolland Residents",
-  "The Importance of Regular Solar System Maintenance",
-  "Tolland Solar Maintenance FAQs",
-  "Schedule Your Tolland Solar Service Today"
- ],
- "faq": [
-  {
-   "question": "What does solar panel maintenance include in Tolland?",
-   "answer": "Our comprehensive Tolland maintenance service includes professional panel cleaning with purified water, complete electrical system inspection, inverter performance testing and diagnostics, all connection testing and tightening, mounting hardware structural checks, monitoring system verification, performance measurement against expected output, thermal imaging when appropriate, and a detailed service report with photos and expert recommendations."
-  },
-  {
-   "question": "How can I tell if my Tolland solar system needs maintenance?",
-   "answer": "Signs include visibly dirty panels, declining energy production compared to previous months, lower output than expected for current weather, monitoring system alerts or errors, and decreased savings on your electric bill. Even if everything seems fine, annual professional maintenance is recommended to prevent problems and maintain peak efficiency throughout Tolland's varied seasonal conditions."
-  },
-  {
-   "question": "Are annual maintenance contracts worth the investment?",
-   "answer": "Yes, for most Tolland solar owners. Annual contracts ($299-$649) typically pay for themselves through increased energy production from professional cleaning alone. Add in the value of early problem detection, warranty protection, and extended system life, and the return on investment is substantial. Many customers save hundreds annually while protecting a $15,000-$30,000 solar investment."
-  },
-  {
-   "question": "What types of solar repairs do you handle?",
-   "answer": "We handle all solar system repairs including inverter failures and replacement, damaged or underperforming panels, electrical connection issues, mounting system damage or deterioration, monitoring system malfunctions, wiring problems, safety disconnect issues, and storm damage. Our Tolland technicians are equipped to diagnose and repair any solar system problem efficiently."
-  },
-  {
-   "question": "Do you service both residential and commercial solar systems?",
-   "answer": "Yes, we service solar installations of all sizes throughout Tolland. Our technicians have experience with small residential rooftop systems, large residential ground-mount arrays, and commercial installations. We offer customized maintenance programs for commercial clients with flexible scheduling to minimize business disruption while maximizing system uptime and performance."
-  },
-  {
-   "question": "How quickly can you respond to solar emergencies in Tolland?",
-   "answer": "We offer same-day or next-day emergency service for urgent situations including complete system failures, storm damage, electrical hazards, and inverter failures. We understand that every day your Tolland solar system is down means lost energy production and higher utility costs. Our emergency team prioritizes rapid response to diagnose issues and begin repairs as quickly as possible."
-  },
-  {
-   "question": "Will you work with my solar panel warranty if needed?",
-   "answer": "Absolutely. We provide detailed service documentation that satisfies warranty requirements for all major manufacturers. If warranty-covered issues are discovered during maintenance or repairs, we can help you navigate the claims process. Most manufacturers require proof of regular professional maintenance to honor warranties, making our documentation essential for protecting your Tolland investment."
-  },
-  {
-   "question": "Can maintenance really extend my solar system's life?",
-   "answer": "Yes, significantly. Proper maintenance can extend your solar system's productive life by 5-10 years beyond the typical 25-30 year lifespan. Regular cleaning prevents efficiency losses, inspections catch problems early, proper electrical maintenance prevents cascading failures, and monitoring ensures optimal operation. Neglected systems often experience premature failures that reduce both lifespan and lifetime value. Maintenance is essential for maximizing your Tolland solar investment."
-  }
- ],
- "keywords": [
-  "solar panel maintenance",
-  "solar panel repair",
-  "solar cleaning",
-  "solar inspection",
-  "inverter repair",
-  "solar optimization"
- ],
- "localKeywords": [
-  "solar maintenance Tolland CT",
-  "solar repair Tolland Connecticut",
-  "solar panel cleaning Tolland",
-  "Tolland County solar service",
-  "Tolland solar technician"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Schedule Your Tolland Solar Maintenance",
- "ctaSecondary": "Request Free System Assessment",
- "ctaUrgency": "Protect Your Investment - Book Service Now"
+  ],
+  "keywords": [
+    "solar panel maintenance",
+    "solar panel repair",
+    "solar cleaning",
+    "solar inspection",
+    "inverter repair",
+    "solar optimization"
+  ],
+  "localKeywords": [
+    "solar maintenance Tolland CT",
+    "solar repair Tolland Connecticut",
+    "solar panel cleaning Tolland",
+    "Tolland County solar service",
+    "Tolland solar technician"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Schedule Your Tolland Solar Maintenance",
+  "ctaSecondary": "Request Free System Assessment",
+  "ctaUrgency": "Protect Your Investment - Book Service Now"
 }

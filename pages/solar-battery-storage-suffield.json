@@ -1,190 +1,190 @@
 {
- "id": "solar-battery-storage-suffield",
- "service": "Solar Battery Storage Installation",
- "serviceSlug": "solar-battery-storage",
- "location": "Suffield",
- "locationSlug": "suffield",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Battery Storage Suffield CT - Tesla Powerwall Installers",
- "metaDescription": "Professional solar battery storage Suffield, CT. Tesla Powerwall certified. Energy independence + reliable backup + savings. Free quote + financing!",
- "h1": "Expert Solar Battery Storage Installation in Suffield, Connecticut",
- "heroHeadline": "Achieve Energy Independence in Suffield with Advanced Battery Storage",
- "heroSubheadline": "Tesla Powerwall Certified • Complete Backup Power • Smart Monitoring",
- "serviceDescription": "Suffield homeowners are embracing the future of residential energy with state-of-the-art solar battery storage systems that deliver independence, security, and substantial cost savings. Our certified installation team has been serving Hartford County and the Connecticut River Valley for over 12 years, bringing premium battery storage technology including Tesla Powerwall to residential properties throughout Suffield, from the historic town center to neighborhoods along Mountain Road and West Suffield. Known for its colonial charm, excellent schools, and strong community values, Suffield represents an ideal Connecticut community where modern energy solutions align perfectly with residents' appreciation for quality, efficiency, and self-sufficiency. Our systems intelligently capture excess solar energy generated during sunny days and store it for use whenever you need it, powering your home through the night, during cloudy periods, or when the utility grid experiences outages. Suffield residents occasionally face weather-related power interruptions, from summer thunderstorms to winter ice storms and nor'easters, making reliable backup power essential for protecting your family's comfort and maintaining critical home systems. Whether you own a historic home in Suffield's beautiful town center, a property near the Suffield Mountain ridgeline, or anywhere in this picturesque community, our battery installations are completely customized to your specific energy needs and home characteristics. We begin every project with a comprehensive energy assessment, analyzing your electricity consumption patterns, solar production potential if you have existing panels, electrical infrastructure, and backup power priorities to design the optimal system. Our battery storage systems include sophisticated monitoring technology accessible from any smartphone, tablet, or computer, providing real-time visibility and control over energy production, storage levels, and consumption patterns. The installation process is professionally managed from beginning to end - we handle all Town of Suffield permitting requirements, coordinate Connecticut electrical inspections, manage utility interconnection paperwork, and ensure full compliance with all local and state regulations. Financial benefits have never been more attractive for Suffield residents, with the federal solar financing, Connecticut Green Bank programs, and potential utility company rebates substantially reducing your upfront investment. We provide completely transparent pricing with detailed financial projections showing your return on investment over the 25-year lifespan of your battery system. Join your Suffield neighbors in achieving true energy independence while contributing to a more sustainable and resilient Connecticut community.",
- "shortDescription": "Top-rated solar battery storage installation in Suffield, CT. Tesla Powerwall certified experts providing energy independence, automatic backup power, and smart monitoring for Hartford County homes. Federal benefits available.",
- "benefits": [
-  "True energy independence for Suffield homes",
-  "Automatic backup during Hartford County power outages",
-  "Store solar energy for use anytime, day or night",
-  "Eliminate or drastically reduce electric bills in Suffield",
-  "Tesla Powerwall certified installation professionals",
-  "Remote monitoring and control from anywhere",
-  "Competitive pricing plus Connecticut benefits",
-  "Increase home value in Suffield's competitive market"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free Home Energy Assessment",
-   "description": "We visit your Suffield property to evaluate current energy usage, solar production capacity, electrical systems, and backup power requirements to design the perfect solution."
-  },
-  {
-   "step": 2,
-   "title": "Custom System Engineering",
-   "description": "Our technical team creates a battery storage system precisely engineered for your Suffield home's energy profile, architectural features, and future expansion needs."
-  },
-  {
-   "step": 3,
-   "title": "Permitting & Approvals",
-   "description": "We manage all Town of Suffield permits, Connecticut electrical inspections, utility interconnection agreements, and incentive program applications on your behalf."
-  },
-  {
-   "step": 4,
-   "title": "Professional Installation Day",
-   "description": "Our licensed, bonded electricians install your battery storage system with craftsmanship and attention to detail, typically completing Suffield installations in 1-2 days."
-  },
-  {
-   "step": 5,
-   "title": "System Activation & Owner Training",
-   "description": "We commission your system, configure monitoring platforms, and provide comprehensive training on managing your energy storage for maximum performance and savings."
-  }
- ],
- "features": [
-  "Tesla Powerwall 2 & Powerwall 3 installation",
-  "Integration with all major solar panel brands",
-  "Configurable whole-home or essential circuit backup",
-  "Intelligent Storm Watch predictive charging",
-  "Time-of-use rate optimization for Eversource customers",
-  "Expandable capacity with multiple units",
-  "Flexible indoor or outdoor mounting options",
-  "Comprehensive 25-year warranty protection"
- ],
- "pricingInfo": "Solar battery storage installations for Suffield homes typically range from $12,500 to $24,000 depending on system capacity, electrical upgrades required, and installation complexity. Tesla Powerwall systems start at approximately $14,500 fully installed with all equipment, labor, and permitting included. After applying the federal solar investment financing and Connecticut Green Bank benefits, net costs are reduced by 30-40%. We offer flexible financing options including $0 down solar loans with competitive interest rates, Connecticut Green Bank financing programs, and cash purchase discounts. Each Suffield consultation includes a comprehensive proposal with itemized pricing, detailed incentive calculations, and projected 25-year energy savings based on your actual utility bills and Eversource rate structure.",
- "serviceArea": "Suffield and all surrounding Hartford County communities including Windsor Locks, Enfield, East Granby, and areas within 30 miles of Hartford, CT",
- "availability": "Monday - Friday: 8:00 AM - 6:00 PM, Saturday: 9:00 AM - 4:00 PM. Evening appointments available.",
- "responseTime": "Free consultations scheduled within 48 hours. Installation typically completed 4-6 weeks from signed agreement.",
- "qualifications": [
-  "NABCEP Certified Solar Professionals",
-  "Tesla Powerwall Certified Installers",
-  "Connecticut Licensed Electricians",
-  "BBB A+ Accredited Business",
-  "Fully Insured & Bonded"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar and storage installations in Connecticut and Western Massachusetts",
- "guarantees": [
-  "25-year battery manufacturer warranty",
-  "10-year installation workmanship guarantee",
-  "System performance guarantee",
-  "100% customer satisfaction pledge"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Tesla Powerwall solar battery storage installed in Suffield Connecticut home",
-   "caption": "Energy Independence for Suffield Homeowners",
-   "credit": {
-    "photographer": "Science in HD",
-    "unsplashUrl": "https://unsplash.com/photos/zns6rizp9ru"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1594818379496-da1e345b0ded?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Tesla Powerwall battery storage unit in residential installation",
-    "caption": "Reliable Battery Backup for Hartford County",
-    "credit": {
-     "photographer": "Waldemar",
-     "unsplashUrl": "https://unsplash.com/photos/3VxzOb2xmtc"
+  "id": "solar-battery-storage-suffield",
+  "service": "Solar Battery Storage Installation",
+  "serviceSlug": "solar-battery-storage",
+  "location": "Suffield",
+  "locationSlug": "suffield",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Battery Storage Suffield CT - Tesla Powerwall Installers",
+  "metaDescription": "Professional solar battery storage Suffield, CT. Tesla Powerwall certified. Energy independence + reliable backup + savings. Free quote + financing!",
+  "h1": "Expert Solar Battery Storage Installation in Suffield, Connecticut",
+  "heroHeadline": "Achieve Energy Independence in Suffield with Advanced Battery Storage",
+  "heroSubheadline": "Tesla Powerwall Certified • Complete Backup Power • Smart Monitoring",
+  "serviceDescription": "Suffield homeowners are embracing the future of residential energy with state-of-the-art solar battery storage systems that deliver independence, security, and substantial cost savings. Our certified installation team has been serving Hartford County and the Connecticut River Valley for over 12 years, bringing premium battery storage technology including Tesla Powerwall to residential properties throughout Suffield, from the historic town center to neighborhoods along Mountain Road and West Suffield. Known for its colonial charm, excellent schools, and strong community values, Suffield represents an ideal Connecticut community where modern energy solutions align perfectly with residents' appreciation for quality, efficiency, and self-sufficiency. Our systems intelligently capture excess solar energy generated during sunny days and store it for use whenever you need it, powering your home through the night, during cloudy periods, or when the utility grid experiences outages. Suffield residents occasionally face weather-related power interruptions, from summer thunderstorms to winter ice storms and nor'easters, making reliable backup power essential for protecting your family's comfort and maintaining critical home systems. Whether you own a historic home in Suffield's beautiful town center, a property near the Suffield Mountain ridgeline, or anywhere in this picturesque community, our battery installations are completely customized to your specific energy needs and home characteristics. We begin every project with a comprehensive energy assessment, analyzing your electricity consumption patterns, solar production potential if you have existing panels, electrical infrastructure, and backup power priorities to design the optimal system. Our battery storage systems include sophisticated monitoring technology accessible from any smartphone, tablet, or computer, providing real-time visibility and control over energy production, storage levels, and consumption patterns. The installation process is professionally managed from beginning to end - we handle all Town of Suffield permitting requirements, coordinate Connecticut electrical inspections, manage utility interconnection paperwork, and ensure full compliance with all local and state regulations. Financial benefits have never been more attractive for Suffield residents, with the competitive pricing, Connecticut Green Bank programs, and potential utility company rebates substantially reducing your upfront investment. We provide completely transparent pricing with detailed financial projections showing your return on investment over the 25-year lifespan of your battery system. Join your Suffield neighbors in achieving true energy independence while contributing to a more sustainable and resilient Connecticut community.",
+  "shortDescription": "Top-rated solar battery storage installation in Suffield, CT. Tesla Powerwall certified experts providing energy independence, automatic backup power, and smart monitoring for Hartford County homes. Federal benefits available.",
+  "benefits": [
+    "True energy independence for Suffield homes",
+    "Automatic backup during Hartford County power outages",
+    "Store solar energy for use anytime, day or night",
+    "Eliminate or drastically reduce electric bills in Suffield",
+    "Tesla Powerwall certified installation professionals",
+    "Remote monitoring and control from anywhere",
+    "Competitive pricing plus Connecticut benefits",
+    "Increase home value in Suffield's competitive market"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free Home Energy Assessment",
+      "description": "We visit your Suffield property to evaluate current energy usage, solar production capacity, electrical systems, and backup power requirements to design the perfect solution."
+    },
+    {
+      "step": 2,
+      "title": "Custom System Engineering",
+      "description": "Our technical team creates a battery storage system precisely engineered for your Suffield home's energy profile, architectural features, and future expansion needs."
+    },
+    {
+      "step": 3,
+      "title": "Permitting & Approvals",
+      "description": "We manage all Town of Suffield permits, Connecticut electrical inspections, utility interconnection agreements, and incentive program applications on your behalf."
+    },
+    {
+      "step": 4,
+      "title": "Professional Installation Day",
+      "description": "Our licensed, bonded electricians install your battery storage system with craftsmanship and attention to detail, typically completing Suffield installations in 1-2 days."
+    },
+    {
+      "step": 5,
+      "title": "System Activation & Owner Training",
+      "description": "We commission your system, configure monitoring platforms, and provide comprehensive training on managing your energy storage for maximum performance and savings."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Residential solar panel array with battery storage system",
-    "caption": "Complete Solar-Plus-Storage Solutions",
-    "credit": {
-     "photographer": "Vivint Solar",
-     "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+  ],
+  "features": [
+    "Tesla Powerwall 2 & Powerwall 3 installation",
+    "Integration with all major solar panel brands",
+    "Configurable whole-home or essential circuit backup",
+    "Intelligent Storm Watch predictive charging",
+    "Time-of-use rate optimization for Eversource customers",
+    "Expandable capacity with multiple units",
+    "Flexible indoor or outdoor mounting options",
+    "Comprehensive 25-year warranty protection"
+  ],
+  "pricingInfo": "Solar battery storage installations for Suffield homes typically range from $12,500 to $24,000 depending on system capacity, electrical upgrades required, and installation complexity. Tesla Powerwall systems start at approximately $14,500 fully installed with all equipment, labor, and permitting included. After applying the federal solar investment financing and Connecticut Green Bank benefits, net costs are reduced by 30-40%. We offer flexible financing options including $0 down solar loans with competitive interest rates, Connecticut Green Bank financing programs, and cash purchase discounts. Each Suffield consultation includes a comprehensive proposal with itemized pricing, detailed incentive calculations, and projected 25-year energy savings based on your actual utility bills and Eversource rate structure.",
+  "serviceArea": "Suffield and all surrounding Hartford County communities including Windsor Locks, Enfield, East Granby, and areas within 30 miles of Hartford, CT",
+  "availability": "Monday - Friday: 8:00 AM - 6:00 PM, Saturday: 9:00 AM - 4:00 PM. Evening appointments available.",
+  "responseTime": "Free consultations scheduled within 48 hours. Installation typically completed 4-6 weeks from signed agreement.",
+  "qualifications": [
+    "NABCEP Certified Solar Professionals",
+    "Tesla Powerwall Certified Installers",
+    "Connecticut Licensed Electricians",
+    "BBB A+ Accredited Business",
+    "Fully Insured & Bonded"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar and storage installations in Connecticut and Western Massachusetts",
+  "guarantees": [
+    "25-year battery manufacturer warranty",
+    "10-year installation workmanship guarantee",
+    "System performance guarantee",
+    "100% customer satisfaction pledge"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Tesla Powerwall solar battery storage installed in Suffield Connecticut home",
+      "caption": "Energy Independence for Suffield Homeowners",
+      "credit": {
+        "photographer": "Science in HD",
+        "unsplashUrl": "https://unsplash.com/photos/zns6rizp9ru"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1594818379496-da1e345b0ded?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Tesla Powerwall battery storage unit in residential installation",
+        "caption": "Reliable Battery Backup for Hartford County",
+        "credit": {
+          "photographer": "Waldemar",
+          "unsplashUrl": "https://unsplash.com/photos/3VxzOb2xmtc"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Residential solar panel array with battery storage system",
+        "caption": "Complete Solar-Plus-Storage Solutions",
+        "credit": {
+          "photographer": "Vivint Solar",
+          "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Smartphone showing solar battery monitoring app",
+        "caption": "Monitor Your Energy from Anywhere",
+        "credit": {
+          "photographer": "Dan LeFebvre",
+          "unsplashUrl": "https://unsplash.com/photos/P4ep2IWLw84"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560800452-f2d475982b96?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Certified electrician installing battery storage equipment",
+        "caption": "Expert Installation by Licensed Professionals",
+        "credit": {
+          "photographer": "Kenny Eliason",
+          "unsplashUrl": "https://unsplash.com/photos/zFSo6bnZJTw"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Suffield Homeowners Choose Solar Battery Storage",
+    "How Battery Storage Works for Connecticut Homes",
+    "The Complete Installation Process in Suffield",
+    "Maximize Your Investment with Federal and Connecticut benefits",
+    "Suffield Solar Battery Storage FAQs"
+  ],
+  "faq": [
+    {
+      "question": "How much does solar battery storage cost in Suffield, CT?",
+      "answer": "Solar battery storage systems in Suffield typically range from $12,500 to $24,000 depending on capacity and your home's specific requirements. Tesla Powerwall installations start around $14,500 fully installed. With the competitive pricing and Connecticut Green Bank benefits, your net investment is significantly reduced. We provide transparent pricing and detailed ROI analysis during your free Suffield consultation."
+    },
+    {
+      "question": "Can I add battery storage to my existing solar panels in Suffield?",
+      "answer": "Absolutely! We regularly retrofit battery storage to existing solar installations throughout Suffield, regardless of when your panels were installed or who performed the original installation. Our team will evaluate your current system and design a battery solution that integrates seamlessly with your existing equipment."
+    },
+    {
+      "question": "How long will a battery power my Suffield home during an outage?",
+      "answer": "A Tesla Powerwall stores 13.5 kWh of energy, typically sufficient to power essential circuits in most Suffield homes for 8-12 hours. For whole-home backup or extended outage coverage, we can install multiple Powerwall units. During our assessment, we calculate exact backup duration based on your household's specific consumption patterns."
+    },
+    {
+      "question": "What financing options are available for Suffield residents?",
+      "answer": "Suffield homeowners qualify for the federal solar investment financing, Connecticut Green Bank financing programs, and potential Eversource rebates. Combined, these benefits typically reduce total system costs by 30-40%. Our team helps you navigate every available program to maximize savings."
+    },
+    {
+      "question": "How long does installation take in Suffield?",
+      "answer": "Physical installation of battery storage systems typically takes 1-2 days for Suffield properties. The complete process from initial consultation to system activation averages 4-6 weeks, accounting for custom design, Town of Suffield permitting, equipment procurement, and professional installation."
+    },
+    {
+      "question": "Will battery storage increase my Suffield home's value?",
+      "answer": "Yes! Studies consistently show that homes with solar-plus-storage systems command 3-4% price premiums. In Suffield's competitive market with its excellent schools and historic charm, battery storage is a premium feature that attracts serious buyers and can accelerate sales."
+    },
+    {
+      "question": "Can I monitor my battery system remotely?",
+      "answer": "Yes! All installations include comprehensive cloud-based monitoring accessible from any smartphone, tablet, or computer. You'll see real-time solar production, battery charge levels, home consumption, and grid status. The system sends alerts and allows remote configuration for optimal performance."
+    },
+    {
+      "question": "What happens during a power outage in Suffield?",
+      "answer": "When the grid fails in Suffield, your battery system instantly detects the outage and seamlessly switches to backup power within milliseconds - maintaining continuous power to your home. You'll continue running on stored solar energy, and during daylight hours, your panels keep charging the batteries. The system automatically reconnects when Eversource power returns."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Smartphone showing solar battery monitoring app",
-    "caption": "Monitor Your Energy from Anywhere",
-    "credit": {
-     "photographer": "Dan LeFebvre",
-     "unsplashUrl": "https://unsplash.com/photos/P4ep2IWLw84"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1560800452-f2d475982b96?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Certified electrician installing battery storage equipment",
-    "caption": "Expert Installation by Licensed Professionals",
-    "credit": {
-     "photographer": "Kenny Eliason",
-     "unsplashUrl": "https://unsplash.com/photos/zFSo6bnZJTw"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Suffield Homeowners Choose Solar Battery Storage",
-  "How Battery Storage Works for Connecticut Homes",
-  "The Complete Installation Process in Suffield",
-  "Maximize Your Investment with Federal and Connecticut benefits",
-  "Suffield Solar Battery Storage FAQs"
- ],
- "faq": [
-  {
-   "question": "How much does solar battery storage cost in Suffield, CT?",
-   "answer": "Solar battery storage systems in Suffield typically range from $12,500 to $24,000 depending on capacity and your home's specific requirements. Tesla Powerwall installations start around $14,500 fully installed. With the competitive pricing and Connecticut Green Bank benefits, your net investment is significantly reduced. We provide transparent pricing and detailed ROI analysis during your free Suffield consultation."
-  },
-  {
-   "question": "Can I add battery storage to my existing solar panels in Suffield?",
-   "answer": "Absolutely! We regularly retrofit battery storage to existing solar installations throughout Suffield, regardless of when your panels were installed or who performed the original installation. Our team will evaluate your current system and design a battery solution that integrates seamlessly with your existing equipment."
-  },
-  {
-   "question": "How long will a battery power my Suffield home during an outage?",
-   "answer": "A Tesla Powerwall stores 13.5 kWh of energy, typically sufficient to power essential circuits in most Suffield homes for 8-12 hours. For whole-home backup or extended outage coverage, we can install multiple Powerwall units. During our assessment, we calculate exact backup duration based on your household's specific consumption patterns."
-  },
-  {
-   "question": "What financing options are available for Suffield residents?",
-   "answer": "Suffield homeowners qualify for the federal solar investment financing, Connecticut Green Bank financing programs, and potential Eversource rebates. Combined, these benefits typically reduce total system costs by 30-40%. Our team helps you navigate every available program to maximize savings."
-  },
-  {
-   "question": "How long does installation take in Suffield?",
-   "answer": "Physical installation of battery storage systems typically takes 1-2 days for Suffield properties. The complete process from initial consultation to system activation averages 4-6 weeks, accounting for custom design, Town of Suffield permitting, equipment procurement, and professional installation."
-  },
-  {
-   "question": "Will battery storage increase my Suffield home's value?",
-   "answer": "Yes! Studies consistently show that homes with solar-plus-storage systems command 3-4% price premiums. In Suffield's competitive market with its excellent schools and historic charm, battery storage is a premium feature that attracts serious buyers and can accelerate sales."
-  },
-  {
-   "question": "Can I monitor my battery system remotely?",
-   "answer": "Yes! All installations include comprehensive cloud-based monitoring accessible from any smartphone, tablet, or computer. You'll see real-time solar production, battery charge levels, home consumption, and grid status. The system sends alerts and allows remote configuration for optimal performance."
-  },
-  {
-   "question": "What happens during a power outage in Suffield?",
-   "answer": "When the grid fails in Suffield, your battery system instantly detects the outage and seamlessly switches to backup power within milliseconds - maintaining continuous power to your home. You'll continue running on stored solar energy, and during daylight hours, your panels keep charging the batteries. The system automatically reconnects when Eversource power returns."
-  }
- ],
- "keywords": [
-  "solar battery storage",
-  "Tesla Powerwall",
-  "home battery backup",
-  "energy storage system",
-  "solar battery"
- ],
- "localKeywords": [
-  "solar battery storage Suffield CT",
-  "Tesla Powerwall Suffield",
-  "battery backup Suffield Connecticut",
-  "solar storage Hartford County",
-  "energy storage Suffield"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Solar Battery Storage Quote Today",
- "ctaSecondary": "Schedule Free Energy Assessment",
- "ctaUrgency": "Special Offer + CT benefits Available!"
+  ],
+  "keywords": [
+    "solar battery storage",
+    "Tesla Powerwall",
+    "home battery backup",
+    "energy storage system",
+    "solar battery"
+  ],
+  "localKeywords": [
+    "solar battery storage Suffield CT",
+    "Tesla Powerwall Suffield",
+    "battery backup Suffield Connecticut",
+    "solar storage Hartford County",
+    "energy storage Suffield"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Solar Battery Storage Quote Today",
+  "ctaSecondary": "Schedule Free Energy Assessment",
+  "ctaUrgency": "Special Offer + CT benefits Available!"
 }

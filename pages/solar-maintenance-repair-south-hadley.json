@@ -1,189 +1,189 @@
 {
- "id": "solar-maintenance-repair-south-hadley",
- "service": "Solar Panel Maintenance & Repair",
- "serviceSlug": "solar-maintenance-repair",
- "location": "South Hadley",
- "locationSlug": "south-hadley",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Panel Repair South Hadley MA - Maintenance Experts",
- "metaDescription": "South Hadley's #1 solar panel maintenance & repair service. Expert techs, fast response, maximize efficiency. Free diagnostics. 12+ years experience. Call now!",
- "h1": "Professional Solar Panel Maintenance & Repair in South Hadley, MA",
- "heroHeadline": "South Hadley's Trusted Solar System Maintenance Specialists",
- "heroSubheadline": "Expert Care Maximizing Your Solar Investment & Energy Production",
- "serviceDescription": "South Hadley, Massachusetts, home to Mount Holyoke College and a vibrant community committed to sustainability, has seen significant growth in residential and institutional solar installations. Our professional solar panel maintenance and repair services help South Hadley homeowners, businesses, and institutions protect their solar investments and ensure optimal long-term performance.\n\nServing South Hadley for over 12 years, our team understands the unique factors affecting solar performance throughout this Hampshire County town. From properties near the Connecticut River to homes in the Village Commons area and installations across Mount Holyoke College campus, we've maintained hundreds of solar systems throughout South Hadley's diverse settings. Our certified technicians recognize how the town's varied topography, proximity to the river, and seasonal weather patterns create specific maintenance requirements for local solar installations.\n\nOur comprehensive solar maintenance programs include professional panel cleaning using advanced equipment and techniques, complete electrical system inspections, inverter diagnostics and repairs, mounting hardware verification and reinforcement, thermal imaging inspections to detect efficiency-robbing defects before they cause system failures, and detailed performance analysis comparing actual production to expected output based on South Hadley's solar conditions. Whether you operate a residential system, commercial installation, or institutional solar array, our NABCEP certified team delivers expert service tailored to your specific needs.\n\nWe service all major solar equipment manufacturers including SunPower, LG, Canadian Solar, Trina, REC, Hanwha Q CELLS, and others. Our technicians are trained on all inverter configurations—traditional string inverters, Enphase microinverters, SolarEdge power optimizers, and equipment from Fronius, SMA, Schneider Electric, and additional manufacturers. This comprehensive expertise ensures your South Hadley solar system receives manufacturer-compliant service that protects warranties while maintaining peak performance regardless of equipment type or age.\n\nPreventative maintenance is essential for South Hadley solar systems. Local conditions including seasonal pollen from the surrounding Pioneer Valley forests, summer humidity and thunderstorms, fall leaf accumulation, and winter snow and ice create ongoing challenges for solar panel performance. Our proactive maintenance programs systematically address these seasonal factors, ensuring your system operates at peak efficiency year-round. Contact our South Hadley solar service team today to schedule your comprehensive system evaluation and protect your renewable energy investment.",
- "shortDescription": "Expert solar panel maintenance and repair services for South Hadley, MA. Our certified professionals provide thorough cleaning, comprehensive inspections, and reliable repairs ensuring your solar system delivers maximum energy production throughout every season.",
- "benefits": [
-  "12+ years serving South Hadley's solar community",
-  "NABCEP certified solar professionals",
-  "Experience with residential and institutional systems",
-  "Flexible maintenance plans for all property types",
-  "24/7 emergency repair services",
-  "All solar equipment brands serviced",
-  "Complimentary diagnostics and performance analysis",
-  "Warranty-preserving service and documentation"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Schedule Your Service",
-   "description": "Contact our South Hadley solar service team to arrange your maintenance or repair appointment. We offer flexible scheduling including weekends and can accommodate the unique requirements of residential, commercial, and institutional properties."
-  },
-  {
-   "step": 2,
-   "title": "Comprehensive System Evaluation",
-   "description": "Our certified technicians perform a thorough 32-point inspection of your South Hadley solar installation, examining all panels, inverter systems, electrical connections, mounting hardware, and wiring using advanced diagnostic equipment including thermal imaging cameras."
-  },
-  {
-   "step": 3,
-   "title": "Professional Panel Cleaning",
-   "description": "Using eco-friendly cleaning solutions and professional-grade equipment designed specifically for solar panels, we safely and effectively remove dirt, pollen, bird droppings, tree debris, and other contaminants that reduce energy production on South Hadley systems."
-  },
-  {
-   "step": 4,
-   "title": "Expert Repairs & System Optimization",
-   "description": "We perform necessary repairs using quality replacement parts, tighten and secure electrical connections, update inverter firmware to latest versions, optimize system settings, and make adjustments to ensure maximum performance for South Hadley's specific climate conditions."
-  },
-  {
-   "step": 5,
-   "title": "Detailed Documentation & Recommendations",
-   "description": "You receive a comprehensive service report with photographic documentation, system condition assessment, energy production analysis, complete work documentation, and personalized recommendations for maintaining optimal solar performance between professional maintenance visits."
-  }
- ],
- "features": [
-  "Advanced thermal imaging diagnostics",
-  "Complete inverter and microinverter service",
-  "Electrical safety testing and code compliance verification",
-  "Mounting system integrity assessment",
-  "Institutional and commercial installation expertise",
-  "Production monitoring system optimization",
-  "Seasonal maintenance programs for Pioneer Valley climate",
-  "Bird and wildlife deterrent installation"
- ],
- "pricingInfo": "South Hadley solar maintenance pricing depends on system size, type, and service requirements. Standard residential cleaning and inspection ranges $200-$425. Commercial and institutional systems priced based on size and complexity. Annual preventative maintenance plans start at $299 and include bi-annual service visits, priority scheduling, repair discounts, and continuous performance monitoring. Emergency repairs at standard rates with no additional fees. Free diagnostics provided with all service consultations.",
- "serviceArea": "South Hadley, MA and surrounding areas including Holyoke, Granby, Hadley, Amherst, and Belchertown",
- "availability": "Monday-Friday 7:00 AM - 6:00 PM, Saturday 8:00 AM - 5:00 PM, 24/7 emergency service",
- "responseTime": "Same-day service available for South Hadley, 4-hour emergency response",
- "qualifications": [
-  "NABCEP Certified Solar Professionals",
-  "Massachusetts Licensed Electricians",
-  "OSHA Rooftop Safety Certified",
-  "Institutional Solar System Experience",
-  "Fully Insured & Bonded",
-  "BBB A+ Accredited"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar systems maintained",
- "guarantees": [
-  "100% satisfaction guarantee on all services",
-  "1-year warranty on repair work and parts",
-  "Performance improvement guarantee",
-  "No hidden fees or surprise charges"
- ],
- "emergencyAvailable": true,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Professional solar technician performing maintenance on South Hadley MA solar panel system",
-   "caption": "Expert Solar Panel Maintenance & Repair in South Hadley, Massachusetts",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar technician inspecting electrical connections in South Hadley",
-    "caption": "Detailed electrical diagnostics and connection testing",
-    "credit": {
-     "photographer": "Los Muertos Crew",
-     "unsplashUrl": "https://unsplash.com/photos/solar-panels"
+  "id": "solar-maintenance-repair-south-hadley",
+  "service": "Solar Panel Maintenance & Repair",
+  "serviceSlug": "solar-maintenance-repair",
+  "location": "South Hadley",
+  "locationSlug": "south-hadley",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Panel Repair South Hadley MA - Maintenance Experts",
+  "metaDescription": "South Hadley's #1 solar panel maintenance & repair service. Expert techs, fast response, maximize efficiency. Free diagnostics. 12+ years experience. Call now!",
+  "h1": "Professional Solar Panel Maintenance & Repair in South Hadley, MA",
+  "heroHeadline": "South Hadley's Trusted Solar System Maintenance Specialists",
+  "heroSubheadline": "Expert Care Maximizing Your Solar Investment & Energy Production",
+  "serviceDescription": "South Hadley, Massachusetts, home to Mount Holyoke College and a vibrant community committed to sustainability, has seen significant growth in residential and institutional solar installations. Our professional solar panel maintenance and repair services help South Hadley homeowners, businesses, and institutions protect their solar investments and ensure optimal long-term performance.\n\nServing South Hadley for over 12 years, our team understands the unique factors affecting solar performance throughout this Hampshire County town. From properties near the Connecticut River to homes in the Village Commons area and installations across Mount Holyoke College campus, we've maintained hundreds of solar systems throughout South Hadley's diverse settings. Our certified technicians recognize how the town's varied topography, proximity to the river, and seasonal weather patterns create specific maintenance requirements for local solar installations.\n\nOur comprehensive solar maintenance programs include professional panel cleaning using advanced equipment and techniques, complete electrical system inspections, inverter diagnostics and repairs, mounting hardware verification and reinforcement, thermal imaging inspections to detect efficiency-robbing defects before they cause system failures, and detailed performance analysis comparing actual production to expected output based on South Hadley's solar conditions. Whether you operate a residential system, commercial installation, or institutional solar array, our NABCEP certified team delivers expert service tailored to your specific needs.\n\nWe service all major solar equipment manufacturers including SunPower, LG, Canadian Solar, Trina, REC, Hanwha Q CELLS, and others. Our technicians are trained on all inverter configurations—traditional string inverters, Enphase microinverters, SolarEdge power optimizers, and equipment from Fronius, SMA, Schneider Electric, and additional manufacturers. This comprehensive expertise ensures your South Hadley solar system receives manufacturer-compliant service that protects warranties while maintaining peak performance regardless of equipment type or age.\n\nPreventative maintenance is essential for South Hadley solar systems. Local conditions including seasonal pollen from the surrounding Pioneer Valley forests, summer humidity and thunderstorms, fall leaf accumulation, and winter snow and ice create ongoing challenges for solar panel performance. Our proactive maintenance programs systematically address these seasonal factors, ensuring your system operates at peak efficiency year-round. Contact our South Hadley solar service team today to schedule your comprehensive system evaluation and protect your renewable energy investment.",
+  "shortDescription": "Expert solar panel maintenance and repair services for South Hadley, MA. Our certified professionals provide thorough cleaning, comprehensive inspections, and reliable repairs ensuring your solar system delivers maximum energy production throughout every season.",
+  "benefits": [
+    "12+ years serving South Hadley's solar community",
+    "NABCEP certified solar professionals",
+    "Experience with residential and institutional systems",
+    "Flexible maintenance plans for all property types",
+    "24/7 emergency repair services",
+    "All solar equipment brands serviced",
+    "Complimentary diagnostics and performance analysis",
+    "Warranty-preserving service and documentation"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Schedule Your Service",
+      "description": "Contact our South Hadley solar service team to arrange your maintenance or repair appointment. We offer flexible scheduling including weekends and can accommodate the unique requirements of residential, commercial, and institutional properties."
+    },
+    {
+      "step": 2,
+      "title": "Comprehensive System Evaluation",
+      "description": "Our certified technicians perform a thorough 32-point inspection of your South Hadley solar installation, examining all panels, inverter systems, electrical connections, mounting hardware, and wiring using advanced diagnostic equipment including thermal imaging cameras."
+    },
+    {
+      "step": 3,
+      "title": "Professional Panel Cleaning",
+      "description": "Using eco-friendly cleaning solutions and professional-grade equipment designed specifically for solar panels, we safely and effectively remove dirt, pollen, bird droppings, tree debris, and other contaminants that reduce energy production on South Hadley systems."
+    },
+    {
+      "step": 4,
+      "title": "Expert Repairs & System Optimization",
+      "description": "We perform necessary repairs using quality replacement parts, tighten and secure electrical connections, update inverter firmware to latest versions, optimize system settings, and make adjustments to ensure maximum performance for South Hadley's specific climate conditions."
+    },
+    {
+      "step": 5,
+      "title": "Detailed Documentation & Recommendations",
+      "description": "You receive a comprehensive service report with photographic documentation, system condition assessment, energy production analysis, complete work documentation, and personalized recommendations for maintaining optimal solar performance between professional maintenance visits."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Professional cleaning solar panel array in South Hadley",
-    "caption": "Expert solar panel cleaning services",
-    "credit": {
-     "photographer": "Gustavo Fring",
-     "unsplashUrl": "https://unsplash.com/photos/solar-cleaning"
+  ],
+  "features": [
+    "Advanced thermal imaging diagnostics",
+    "Complete inverter and microinverter service",
+    "Electrical safety testing and code compliance verification",
+    "Mounting system integrity assessment",
+    "Institutional and commercial installation expertise",
+    "Production monitoring system optimization",
+    "Seasonal maintenance programs for Pioneer Valley climate",
+    "Bird and wildlife deterrent installation"
+  ],
+  "pricingInfo": "South Hadley solar maintenance pricing depends on system size, type, and service requirements. Standard residential cleaning and inspection ranges $200-$425. Commercial and institutional systems priced based on size and complexity. Annual preventative maintenance plans start at $299 and include bi-annual service visits, priority scheduling, repair discounts, and continuous performance monitoring. Emergency repairs at standard rates with no additional fees. Free diagnostics provided with all service consultations.",
+  "serviceArea": "South Hadley, MA and surrounding areas including Holyoke, Granby, Hadley, Amherst, and Belchertown",
+  "availability": "Monday-Friday 7:00 AM - 6:00 PM, Saturday 8:00 AM - 5:00 PM, 24/7 emergency service",
+  "responseTime": "Same-day service available for South Hadley, 4-hour emergency response",
+  "qualifications": [
+    "NABCEP Certified Solar Professionals",
+    "Massachusetts Licensed Electricians",
+    "OSHA Rooftop Safety Certified",
+    "Institutional Solar System Experience",
+    "Fully Insured & Bonded",
+    "BBB A+ Accredited"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar systems maintained",
+  "guarantees": [
+    "100% satisfaction guarantee on all services",
+    "1-year warranty on repair work and parts",
+    "Performance improvement guarantee",
+    "No hidden fees or surprise charges"
+  ],
+  "emergencyAvailable": true,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional solar technician performing maintenance on South Hadley MA solar panel system",
+      "caption": "Expert Solar Panel Maintenance & Repair in South Hadley, Massachusetts",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar technician inspecting electrical connections in South Hadley",
+        "caption": "Detailed electrical diagnostics and connection testing",
+        "credit": {
+          "photographer": "Los Muertos Crew",
+          "unsplashUrl": "https://unsplash.com/photos/solar-panels"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional cleaning solar panel array in South Hadley",
+        "caption": "Expert solar panel cleaning services",
+        "credit": {
+          "photographer": "Gustavo Fring",
+          "unsplashUrl": "https://unsplash.com/photos/solar-cleaning"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Inverter diagnostics and maintenance work",
+        "caption": "Complete inverter service and repair expertise",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/inverter-maintenance"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar panel system on South Hadley property",
+        "caption": "Protecting South Hadley solar investments with expert care",
+        "credit": {
+          "photographer": "Zbynek Burival",
+          "unsplashUrl": "https://unsplash.com/photos/solar-roof"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why South Hadley Chooses Our Solar Maintenance Services",
+    "Common Solar Panel Issues We Fix in South Hadley",
+    "Our Complete Solar Maintenance Process",
+    "Signs Your South Hadley Solar System Needs Service",
+    "South Hadley Solar Panel Maintenance FAQs",
+    "Contact South Hadley's Solar Maintenance Experts"
+  ],
+  "faq": [
+    {
+      "question": "How often should South Hadley solar panels be professionally maintained?",
+      "answer": "We recommend professional maintenance at least annually for South Hadley solar systems. Properties near the Connecticut River or areas with heavy tree coverage may benefit from bi-annual service due to increased debris and moisture accumulation. Institutional and commercial installations with higher production demands typically benefit from quarterly inspections to ensure consistent optimal performance."
+    },
+    {
+      "question": "What causes solar panel efficiency loss in South Hadley?",
+      "answer": "Common causes include accumulated dirt and pollen (reducing efficiency by 15-30%), bird droppings creating hotspots, loose electrical connections from temperature cycling, inverter malfunctions, physical damage from severe weather or falling branches, and tree growth creating new shading. South Hadley's proximity to forested areas means higher pollen levels that particularly impact solar performance in spring."
+    },
+    {
+      "question": "Do you service institutional solar installations like those at Mount Holyoke College?",
+      "answer": "Yes, we have extensive experience maintaining institutional and commercial solar installations throughout South Hadley. These larger systems require specialized expertise for complex inverter configurations, extensive monitoring systems, and higher performance standards. Our team is equipped to handle systems of all sizes with the professional service institutional installations demand."
+    },
+    {
+      "question": "Can you maintain solar systems installed by other companies?",
+      "answer": "Absolutely! We service all solar installations in South Hadley regardless of the original installer. Our NABCEP certified technicians are trained on all major solar panel brands and inverter manufacturers. We'll review your system documentation, maintain warranty compliance, and provide the same expert care we give systems we installed ourselves."
+    },
+    {
+      "question": "Do you provide emergency solar repair in South Hadley?",
+      "answer": "Yes, we offer 24/7 emergency repair services throughout South Hadley. If your system completely stops producing power, displays critical error messages, suffers storm damage, or presents safety concerns, call our emergency line immediately. We prioritize critical situations and typically respond within 4 hours for South Hadley customers, including rapid response for institutional installations."
+    },
+    {
+      "question": "What's included in your annual maintenance plan for South Hadley?",
+      "answer": "Our South Hadley annual plan includes: two comprehensive service visits (spring and fall), complete professional panel cleaning, detailed 32-point system inspection, inverter diagnostics and firmware updates, electrical safety testing, mounting hardware verification, production monitoring analysis and optimization, priority emergency service, 15% discount on any needed repairs, and detailed service reports after each visit documenting system health and performance trends."
+    },
+    {
+      "question": "How can I tell if my South Hadley solar system is underperforming?",
+      "answer": "Compare current energy production to historical data from the same season. Drops of 15% or more often indicate maintenance needs—commonly from dirty panels, equipment issues, or increased shading. Other warning signs include inverter error messages, monitoring system alerts, higher electric bills, visible damage, or complete system shutdown. Contact us for free diagnostics to definitively assess your system's performance and identify any issues."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Inverter diagnostics and maintenance work",
-    "caption": "Complete inverter service and repair expertise",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/inverter-maintenance"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar panel system on South Hadley property",
-    "caption": "Protecting South Hadley solar investments with expert care",
-    "credit": {
-     "photographer": "Zbynek Burival",
-     "unsplashUrl": "https://unsplash.com/photos/solar-roof"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why South Hadley Chooses Our Solar Maintenance Services",
-  "Common Solar Panel Issues We Fix in South Hadley",
-  "Our Complete Solar Maintenance Process",
-  "Signs Your South Hadley Solar System Needs Service",
-  "South Hadley Solar Panel Maintenance FAQs",
-  "Contact South Hadley's Solar Maintenance Experts"
- ],
- "faq": [
-  {
-   "question": "How often should South Hadley solar panels be professionally maintained?",
-   "answer": "We recommend professional maintenance at least annually for South Hadley solar systems. Properties near the Connecticut River or areas with heavy tree coverage may benefit from bi-annual service due to increased debris and moisture accumulation. Institutional and commercial installations with higher production demands typically benefit from quarterly inspections to ensure consistent optimal performance."
-  },
-  {
-   "question": "What causes solar panel efficiency loss in South Hadley?",
-   "answer": "Common causes include accumulated dirt and pollen (reducing efficiency by 15-30%), bird droppings creating hotspots, loose electrical connections from temperature cycling, inverter malfunctions, physical damage from severe weather or falling branches, and tree growth creating new shading. South Hadley's proximity to forested areas means higher pollen levels that particularly impact solar performance in spring."
-  },
-  {
-   "question": "Do you service institutional solar installations like those at Mount Holyoke College?",
-   "answer": "Yes, we have extensive experience maintaining institutional and commercial solar installations throughout South Hadley. These larger systems require specialized expertise for complex inverter configurations, extensive monitoring systems, and higher performance standards. Our team is equipped to handle systems of all sizes with the professional service institutional installations demand."
-  },
-  {
-   "question": "Can you maintain solar systems installed by other companies?",
-   "answer": "Absolutely! We service all solar installations in South Hadley regardless of the original installer. Our NABCEP certified technicians are trained on all major solar panel brands and inverter manufacturers. We'll review your system documentation, maintain warranty compliance, and provide the same expert care we give systems we installed ourselves."
-  },
-  {
-   "question": "Do you provide emergency solar repair in South Hadley?",
-   "answer": "Yes, we offer 24/7 emergency repair services throughout South Hadley. If your system completely stops producing power, displays critical error messages, suffers storm damage, or presents safety concerns, call our emergency line immediately. We prioritize critical situations and typically respond within 4 hours for South Hadley customers, including rapid response for institutional installations."
-  },
-  {
-   "question": "What's included in your annual maintenance plan for South Hadley?",
-   "answer": "Our South Hadley annual plan includes: two comprehensive service visits (spring and fall), complete professional panel cleaning, detailed 32-point system inspection, inverter diagnostics and firmware updates, electrical safety testing, mounting hardware verification, production monitoring analysis and optimization, priority emergency service, 15% discount on any needed repairs, and detailed service reports after each visit documenting system health and performance trends."
-  },
-  {
-   "question": "How can I tell if my South Hadley solar system is underperforming?",
-   "answer": "Compare current energy production to historical data from the same season. Drops of 15% or more often indicate maintenance needs—commonly from dirty panels, equipment issues, or increased shading. Other warning signs include inverter error messages, monitoring system alerts, higher electric bills, visible damage, or complete system shutdown. Contact us for free diagnostics to definitively assess your system's performance and identify any issues."
-  }
- ],
- "keywords": [
-  "solar panel maintenance",
-  "solar repair service",
-  "panel cleaning",
-  "solar inspection",
-  "inverter maintenance",
-  "institutional solar service"
- ],
- "localKeywords": [
-  "solar maintenance South Hadley MA",
-  "solar panel repair South Hadley",
-  "South Hadley solar service",
-  "solar cleaning South Hadley Massachusetts",
-  "South Hadley solar technician"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Schedule South Hadley Solar Maintenance",
- "ctaSecondary": "Request Free Performance Analysis",
- "ctaUrgency": "Keep Your System Running at Peak Efficiency"
+  ],
+  "keywords": [
+    "solar panel maintenance",
+    "solar repair service",
+    "panel cleaning",
+    "solar inspection",
+    "inverter maintenance",
+    "institutional solar service"
+  ],
+  "localKeywords": [
+    "solar maintenance South Hadley MA",
+    "solar panel repair South Hadley",
+    "South Hadley solar service",
+    "solar cleaning South Hadley Massachusetts",
+    "South Hadley solar technician"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Schedule South Hadley Solar Maintenance",
+  "ctaSecondary": "Request Free Performance Analysis",
+  "ctaUrgency": "Keep Your System Running at Peak Efficiency"
 }

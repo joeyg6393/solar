@@ -1,190 +1,190 @@
 {
- "id": "solar-battery-storage-palmer",
- "service": "Solar Battery Storage Installation",
- "serviceSlug": "solar-battery-storage",
- "location": "Palmer",
- "locationSlug": "palmer",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Battery Storage Palmer MA - Reliable Backup Power Solutions",
- "metaDescription": "Professional solar battery storage Palmer, MA. Tesla Powerwall certified team. Energy independence + backup power + savings. Free consultation + financing!",
- "h1": "Professional Solar Battery Storage Installation in Palmer, Massachusetts",
- "heroHeadline": "Secure Your Palmer Home's Energy Independence with Battery Storage",
- "heroSubheadline": "Tesla Powerwall Experts • Seamless Backup Power • Smart Energy Management",
- "serviceDescription": "Palmer homeowners are discovering the transformative benefits of advanced solar battery storage systems that deliver energy independence, cost savings, and reliable backup power. Our certified installation team has been serving Hampden County and the Pioneer Valley for over 12 years, bringing premium battery storage technology including Tesla Powerwall to homes throughout Palmer, Three Rivers, and surrounding communities. Palmer's unique position at the confluence of multiple rivers and its mix of residential neighborhoods makes it an ideal location for solar energy solutions, and battery storage is the perfect complement to maximize your solar investment. Our systems capture and store excess solar energy generated during sunny days, allowing you to use that clean power whenever you need it - at night, during cloudy weather, or when the utility grid experiences outages. Palmer residents are familiar with occasional power interruptions, whether from summer thunderstorms rolling through the Quabbin region or winter ice storms, making backup power not just a convenience but an essential safeguard for your family's comfort and security. Whether you live in a historic Three Rivers home, a property in Bondsville, or anywhere in Palmer, our battery installations are completely customized to your specific energy needs and home characteristics. We begin every project with a comprehensive energy assessment, analyzing your current electricity usage, solar production if you have existing panels, electrical infrastructure, and backup power priorities. Our battery storage systems include sophisticated monitoring technology accessible from any smartphone, giving you complete visibility and control over energy production, storage levels, and consumption patterns in real-time. The installation process is professionally managed from start to finish - we handle all Town of Palmer permitting requirements, coordinate Massachusetts electrical inspections, manage utility interconnection paperwork, and ensure compliance with all local codes. Financial benefits have never been more attractive for Palmer residents, with the federal solar financing, Massachusetts SMART program benefits, and potential utility company rebates substantially reducing upfront investment. We provide completely transparent pricing with detailed financial projections showing your return on investment over the 25-year lifespan of your battery system. Join the growing community of Palmer homeowners who have achieved true energy independence while contributing to a more sustainable and resilient future.",
- "shortDescription": "Trusted solar battery storage installation serving Palmer, MA. Tesla Powerwall certified installers providing energy independence, automatic backup power, and smart monitoring for Hampden County homes. Federal benefits available.",
- "benefits": [
-  "Complete energy independence for Palmer homes",
-  "Automatic backup during Hampden County power outages",
-  "Store solar energy for nighttime and cloudy day use",
-  "Reduce or eliminate monthly electric bills in Palmer",
-  "Tesla Powerwall certified installation specialists",
-  "Real-time monitoring via intuitive mobile app",
-  "Competitive pricing plus Massachusetts benefits",
-  "Increase Palmer home value and marketability"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Comprehensive Home Assessment",
-   "description": "We visit your Palmer property to evaluate energy consumption, solar production capacity, electrical systems, and backup power needs to design the optimal battery solution."
-  },
-  {
-   "step": 2,
-   "title": "Custom Engineering Design",
-   "description": "Our technical team creates a tailored battery storage system precisely engineered for your Palmer home's energy profile, roof characteristics, and future expansion needs."
-  },
-  {
-   "step": 3,
-   "title": "Permitting & Regulatory Coordination",
-   "description": "We manage all Town of Palmer permits, Massachusetts electrical inspections, utility interconnection agreements, and incentive program applications on your behalf."
-  },
-  {
-   "step": 4,
-   "title": "Professional Installation Day",
-   "description": "Our licensed, bonded electricians install your battery storage system with precision and care, typically completing Palmer installations within 1-2 days with minimal disruption."
-  },
-  {
-   "step": 5,
-   "title": "System Commissioning & Training",
-   "description": "We activate your complete system, configure monitoring software, and provide thorough training on operating and optimizing your energy storage for maximum savings."
-  }
- ],
- "features": [
-  "Tesla Powerwall 2 & Powerwall 3 installation",
-  "Seamless integration with existing solar panels",
-  "Whole-home or essential circuit backup",
-  "Weather-responsive Storm Watch charging",
-  "Peak demand and time-of-use optimization",
-  "Scalable capacity with multiple units",
-  "Flexible indoor or outdoor installation",
-  "Comprehensive 25-year warranty coverage"
- ],
- "pricingInfo": "Solar battery storage installations for Palmer homes typically range from $11,500 to $22,500 depending on system capacity, electrical work required, and installation complexity. Tesla Powerwall systems start at approximately $14,500 fully installed with all equipment, labor, and permitting. After applying the federal solar investment financing and Massachusetts SMART program benefits, net costs are reduced by 30-40% or more. We offer flexible financing options including $0 down solar loans with competitive interest rates, lease programs with no upfront cost, and cash purchase discounts. Each Palmer consultation includes a detailed proposal with itemized pricing, comprehensive incentive calculations, and projected 25-year energy savings based on your actual utility bills and consumption patterns.",
- "serviceArea": "Palmer and all surrounding Hampden County communities including Three Rivers, Bondsville, Thorndike, and areas within 30 miles of Springfield",
- "availability": "Monday - Friday: 8:00 AM - 6:00 PM, Saturday: 9:00 AM - 4:00 PM. Evening appointments available.",
- "responseTime": "Free consultations scheduled within 48 hours. Typical installation completed 4-6 weeks from signed contract.",
- "qualifications": [
-  "NABCEP Certified Solar Professionals",
-  "Tesla Powerwall Certified Installers",
-  "Massachusetts Licensed Master Electricians",
-  "BBB A+ Accredited Business",
-  "Fully Insured & Bonded"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar and storage installations across Pioneer Valley",
- "guarantees": [
-  "25-year battery manufacturer warranty",
-  "10-year installation workmanship guarantee",
-  "System performance guarantee",
-  "100% customer satisfaction pledge"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Tesla Powerwall solar battery storage installed in Palmer Massachusetts home",
-   "caption": "Advanced Energy Storage for Palmer Homeowners",
-   "credit": {
-    "photographer": "Science in HD",
-    "unsplashUrl": "https://unsplash.com/photos/zns6rizp9ru"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1594818379496-da1e345b0ded?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Tesla Powerwall battery storage unit in home installation",
-    "caption": "Reliable Battery Storage for Hampden County",
-    "credit": {
-     "photographer": "Waldemar",
-     "unsplashUrl": "https://unsplash.com/photos/3VxzOb2xmtc"
+  "id": "solar-battery-storage-palmer",
+  "service": "Solar Battery Storage Installation",
+  "serviceSlug": "solar-battery-storage",
+  "location": "Palmer",
+  "locationSlug": "palmer",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Battery Storage Palmer MA - Reliable Backup Power Solutions",
+  "metaDescription": "Professional solar battery storage Palmer, MA. Tesla Powerwall certified team. Energy independence + backup power + savings. Free consultation + financing!",
+  "h1": "Professional Solar Battery Storage Installation in Palmer, Massachusetts",
+  "heroHeadline": "Secure Your Palmer Home's Energy Independence with Battery Storage",
+  "heroSubheadline": "Tesla Powerwall Experts • Seamless Backup Power • Smart Energy Management",
+  "serviceDescription": "Palmer homeowners are discovering the transformative benefits of advanced solar battery storage systems that deliver energy independence, cost savings, and reliable backup power. Our certified installation team has been serving Hampden County and the Pioneer Valley for over 12 years, bringing premium battery storage technology including Tesla Powerwall to homes throughout Palmer, Three Rivers, and surrounding communities. Palmer's unique position at the confluence of multiple rivers and its mix of residential neighborhoods makes it an ideal location for solar energy solutions, and battery storage is the perfect complement to maximize your solar investment. Our systems capture and store excess solar energy generated during sunny days, allowing you to use that clean power whenever you need it - at night, during cloudy weather, or when the utility grid experiences outages. Palmer residents are familiar with occasional power interruptions, whether from summer thunderstorms rolling through the Quabbin region or winter ice storms, making backup power not just a convenience but an essential safeguard for your family's comfort and security. Whether you live in a historic Three Rivers home, a property in Bondsville, or anywhere in Palmer, our battery installations are completely customized to your specific energy needs and home characteristics. We begin every project with a comprehensive energy assessment, analyzing your current electricity usage, solar production if you have existing panels, electrical infrastructure, and backup power priorities. Our battery storage systems include sophisticated monitoring technology accessible from any smartphone, giving you complete visibility and control over energy production, storage levels, and consumption patterns in real-time. The installation process is professionally managed from start to finish - we handle all Town of Palmer permitting requirements, coordinate Massachusetts electrical inspections, manage utility interconnection paperwork, and ensure compliance with all local codes. Financial benefits have never been more attractive for Palmer residents, with the competitive pricing, Massachusetts SMART program benefits, and potential utility company rebates substantially reducing upfront investment. We provide completely transparent pricing with detailed financial projections showing your return on investment over the 25-year lifespan of your battery system. Join the growing community of Palmer homeowners who have achieved true energy independence while contributing to a more sustainable and resilient future.",
+  "shortDescription": "Trusted solar battery storage installation serving Palmer, MA. Tesla Powerwall certified installers providing energy independence, automatic backup power, and smart monitoring for Hampden County homes. Federal benefits available.",
+  "benefits": [
+    "Complete energy independence for Palmer homes",
+    "Automatic backup during Hampden County power outages",
+    "Store solar energy for nighttime and cloudy day use",
+    "Reduce or eliminate monthly electric bills in Palmer",
+    "Tesla Powerwall certified installation specialists",
+    "Real-time monitoring via intuitive mobile app",
+    "Competitive pricing plus Massachusetts benefits",
+    "Increase Palmer home value and marketability"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Comprehensive Home Assessment",
+      "description": "We visit your Palmer property to evaluate energy consumption, solar production capacity, electrical systems, and backup power needs to design the optimal battery solution."
+    },
+    {
+      "step": 2,
+      "title": "Custom Engineering Design",
+      "description": "Our technical team creates a tailored battery storage system precisely engineered for your Palmer home's energy profile, roof characteristics, and future expansion needs."
+    },
+    {
+      "step": 3,
+      "title": "Permitting & Regulatory Coordination",
+      "description": "We manage all Town of Palmer permits, Massachusetts electrical inspections, utility interconnection agreements, and incentive program applications on your behalf."
+    },
+    {
+      "step": 4,
+      "title": "Professional Installation Day",
+      "description": "Our licensed, bonded electricians install your battery storage system with precision and care, typically completing Palmer installations within 1-2 days with minimal disruption."
+    },
+    {
+      "step": 5,
+      "title": "System Commissioning & Training",
+      "description": "We activate your complete system, configure monitoring software, and provide thorough training on operating and optimizing your energy storage for maximum savings."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Residential solar panels with battery storage system",
-    "caption": "Integrated Solar and Storage Solutions",
-    "credit": {
-     "photographer": "Vivint Solar",
-     "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+  ],
+  "features": [
+    "Tesla Powerwall 2 & Powerwall 3 installation",
+    "Seamless integration with existing solar panels",
+    "Whole-home or essential circuit backup",
+    "Weather-responsive Storm Watch charging",
+    "Peak demand and time-of-use optimization",
+    "Scalable capacity with multiple units",
+    "Flexible indoor or outdoor installation",
+    "Comprehensive 25-year warranty coverage"
+  ],
+  "pricingInfo": "Solar battery storage installations for Palmer homes typically range from $11,500 to $22,500 depending on system capacity, electrical work required, and installation complexity. Tesla Powerwall systems start at approximately $14,500 fully installed with all equipment, labor, and permitting. After applying the federal solar investment financing and Massachusetts SMART program benefits, net costs are reduced by 30-40% or more. We offer flexible financing options including $0 down solar loans with competitive interest rates, lease programs with no upfront cost, and cash purchase discounts. Each Palmer consultation includes a detailed proposal with itemized pricing, comprehensive incentive calculations, and projected 25-year energy savings based on your actual utility bills and consumption patterns.",
+  "serviceArea": "Palmer and all surrounding Hampden County communities including Three Rivers, Bondsville, Thorndike, and areas within 30 miles of Springfield",
+  "availability": "Monday - Friday: 8:00 AM - 6:00 PM, Saturday: 9:00 AM - 4:00 PM. Evening appointments available.",
+  "responseTime": "Free consultations scheduled within 48 hours. Typical installation completed 4-6 weeks from signed contract.",
+  "qualifications": [
+    "NABCEP Certified Solar Professionals",
+    "Tesla Powerwall Certified Installers",
+    "Massachusetts Licensed Master Electricians",
+    "BBB A+ Accredited Business",
+    "Fully Insured & Bonded"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar and storage installations across Pioneer Valley",
+  "guarantees": [
+    "25-year battery manufacturer warranty",
+    "10-year installation workmanship guarantee",
+    "System performance guarantee",
+    "100% customer satisfaction pledge"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Tesla Powerwall solar battery storage installed in Palmer Massachusetts home",
+      "caption": "Advanced Energy Storage for Palmer Homeowners",
+      "credit": {
+        "photographer": "Science in HD",
+        "unsplashUrl": "https://unsplash.com/photos/zns6rizp9ru"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1594818379496-da1e345b0ded?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Tesla Powerwall battery storage unit in home installation",
+        "caption": "Reliable Battery Storage for Hampden County",
+        "credit": {
+          "photographer": "Waldemar",
+          "unsplashUrl": "https://unsplash.com/photos/3VxzOb2xmtc"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Residential solar panels with battery storage system",
+        "caption": "Integrated Solar and Storage Solutions",
+        "credit": {
+          "photographer": "Vivint Solar",
+          "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Smart energy monitoring dashboard on mobile device",
+        "caption": "Complete Energy Control at Your Fingertips",
+        "credit": {
+          "photographer": "Dan LeFebvre",
+          "unsplashUrl": "https://unsplash.com/photos/P4ep2IWLw84"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1497435334941-8c899ee8e8e9?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Certified electrician working on battery installation",
+        "caption": "Expert Installation by Licensed Professionals",
+        "credit": {
+          "photographer": "Gustavo Fring",
+          "unsplashUrl": "https://unsplash.com/photos/4x-FIOepPfI"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Palmer Homeowners Are Investing in Battery Storage",
+    "How Solar Battery Storage Protects Your Palmer Home",
+    "Our Complete Installation Process in Palmer",
+    "Financial benefits That Make Battery Storage Affordable",
+    "Palmer Solar Battery Storage FAQs"
+  ],
+  "faq": [
+    {
+      "question": "How much does solar battery storage cost in Palmer, MA?",
+      "answer": "Solar battery storage systems in Palmer typically range from $11,500 to $22,500 depending on capacity and your home's specific requirements. Tesla Powerwall installations start around $14,500 fully installed. With the competitive pricing and Massachusetts SMART program benefits, your net investment is significantly reduced. We provide transparent pricing and detailed ROI analysis during your free Palmer consultation."
+    },
+    {
+      "question": "Can I add battery storage to my current solar system in Palmer?",
+      "answer": "Absolutely! We regularly retrofit battery storage to existing solar installations throughout Palmer and Three Rivers, regardless of when your panels were installed or who installed them. Our team will evaluate your current system and design a battery solution that integrates seamlessly with your existing equipment."
+    },
+    {
+      "question": "How long will a battery power my Palmer home during an outage?",
+      "answer": "A Tesla Powerwall stores 13.5 kWh of energy, typically sufficient to power essential circuits in most Palmer homes for 8-12 hours. For whole-home backup or extended outage coverage, we can install multiple Powerwall units. During our assessment, we calculate exact backup duration based on your household's specific consumption patterns."
+    },
+    {
+      "question": "What financial financing options are available in Palmer?",
+      "answer": "Palmer residents qualify for the federal solar investment financing, Massachusetts SMART program storage adders, and potential utility company rebates. Combined, these benefits typically reduce total system costs by 30-45%. Our team helps you identify and maximize every available incentive."
+    },
+    {
+      "question": "How long does installation take in Palmer?",
+      "answer": "Physical installation of battery storage systems typically takes 1-2 days for Palmer properties. The complete process from initial consultation to system activation averages 4-6 weeks, accounting for custom design, Town of Palmer permitting, equipment procurement, and professional installation."
+    },
+    {
+      "question": "Will battery storage increase my Palmer home's value?",
+      "answer": "Yes! Studies show that homes with solar-plus-storage systems command 3-4% price premiums. In Palmer's market, where energy independence and modern amenities are valued, battery storage is a premium feature that attracts serious buyers and can accelerate home sales."
+    },
+    {
+      "question": "Can I monitor my battery system remotely?",
+      "answer": "Yes! All installations include comprehensive monitoring accessible from any smartphone, tablet, or computer. You'll see real-time solar production, battery charge levels, home consumption, and grid status. The system sends alerts and allows you to adjust settings remotely for optimal performance."
+    },
+    {
+      "question": "What happens during a power outage in Palmer?",
+      "answer": "When the grid fails in Palmer, your battery system instantly detects the outage and seamlessly switches to backup power within milliseconds - maintaining continuous power to your home. You'll continue running on stored solar energy, and during daylight hours, your panels keep charging the batteries. The system automatically reconnects when utility power is restored."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Smart energy monitoring dashboard on mobile device",
-    "caption": "Complete Energy Control at Your Fingertips",
-    "credit": {
-     "photographer": "Dan LeFebvre",
-     "unsplashUrl": "https://unsplash.com/photos/P4ep2IWLw84"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1497435334941-8c899ee8e8e9?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Certified electrician working on battery installation",
-    "caption": "Expert Installation by Licensed Professionals",
-    "credit": {
-     "photographer": "Gustavo Fring",
-     "unsplashUrl": "https://unsplash.com/photos/4x-FIOepPfI"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Palmer Homeowners Are Investing in Battery Storage",
-  "How Solar Battery Storage Protects Your Palmer Home",
-  "Our Complete Installation Process in Palmer",
-  "Financial benefits That Make Battery Storage Affordable",
-  "Palmer Solar Battery Storage FAQs"
- ],
- "faq": [
-  {
-   "question": "How much does solar battery storage cost in Palmer, MA?",
-   "answer": "Solar battery storage systems in Palmer typically range from $11,500 to $22,500 depending on capacity and your home's specific requirements. Tesla Powerwall installations start around $14,500 fully installed. With the competitive pricing and Massachusetts SMART program benefits, your net investment is significantly reduced. We provide transparent pricing and detailed ROI analysis during your free Palmer consultation."
-  },
-  {
-   "question": "Can I add battery storage to my current solar system in Palmer?",
-   "answer": "Absolutely! We regularly retrofit battery storage to existing solar installations throughout Palmer and Three Rivers, regardless of when your panels were installed or who installed them. Our team will evaluate your current system and design a battery solution that integrates seamlessly with your existing equipment."
-  },
-  {
-   "question": "How long will a battery power my Palmer home during an outage?",
-   "answer": "A Tesla Powerwall stores 13.5 kWh of energy, typically sufficient to power essential circuits in most Palmer homes for 8-12 hours. For whole-home backup or extended outage coverage, we can install multiple Powerwall units. During our assessment, we calculate exact backup duration based on your household's specific consumption patterns."
-  },
-  {
-   "question": "What financial financing options are available in Palmer?",
-   "answer": "Palmer residents qualify for the federal solar investment financing, Massachusetts SMART program storage adders, and potential utility company rebates. Combined, these benefits typically reduce total system costs by 30-45%. Our team helps you identify and maximize every available incentive."
-  },
-  {
-   "question": "How long does installation take in Palmer?",
-   "answer": "Physical installation of battery storage systems typically takes 1-2 days for Palmer properties. The complete process from initial consultation to system activation averages 4-6 weeks, accounting for custom design, Town of Palmer permitting, equipment procurement, and professional installation."
-  },
-  {
-   "question": "Will battery storage increase my Palmer home's value?",
-   "answer": "Yes! Studies show that homes with solar-plus-storage systems command 3-4% price premiums. In Palmer's market, where energy independence and modern amenities are valued, battery storage is a premium feature that attracts serious buyers and can accelerate home sales."
-  },
-  {
-   "question": "Can I monitor my battery system remotely?",
-   "answer": "Yes! All installations include comprehensive monitoring accessible from any smartphone, tablet, or computer. You'll see real-time solar production, battery charge levels, home consumption, and grid status. The system sends alerts and allows you to adjust settings remotely for optimal performance."
-  },
-  {
-   "question": "What happens during a power outage in Palmer?",
-   "answer": "When the grid fails in Palmer, your battery system instantly detects the outage and seamlessly switches to backup power within milliseconds - maintaining continuous power to your home. You'll continue running on stored solar energy, and during daylight hours, your panels keep charging the batteries. The system automatically reconnects when utility power is restored."
-  }
- ],
- "keywords": [
-  "solar battery storage",
-  "Tesla Powerwall",
-  "home battery backup",
-  "energy storage system",
-  "solar battery"
- ],
- "localKeywords": [
-  "solar battery storage Palmer MA",
-  "Tesla Powerwall Palmer",
-  "battery backup Palmer Massachusetts",
-  "solar storage Hampden County",
-  "energy storage Three Rivers"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Solar Battery Storage Quote Today",
- "ctaSecondary": "Schedule Free Energy Assessment",
- "ctaUrgency": "Special Offer Available - Limited Time!"
+  ],
+  "keywords": [
+    "solar battery storage",
+    "Tesla Powerwall",
+    "home battery backup",
+    "energy storage system",
+    "solar battery"
+  ],
+  "localKeywords": [
+    "solar battery storage Palmer MA",
+    "Tesla Powerwall Palmer",
+    "battery backup Palmer Massachusetts",
+    "solar storage Hampden County",
+    "energy storage Three Rivers"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Solar Battery Storage Quote Today",
+  "ctaSecondary": "Schedule Free Energy Assessment",
+  "ctaUrgency": "Special Offer Available - Limited Time!"
 }

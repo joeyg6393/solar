@@ -1,193 +1,193 @@
 {
- "id": "solar-maintenance-repair-feeding-hills",
- "service": "Solar Panel Maintenance & Repair",
- "serviceSlug": "solar-maintenance-repair",
- "location": "Feeding Hills",
- "locationSlug": "feeding-hills",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Maintenance Feeding Hills MA - Fast Professional Service",
- "metaDescription": "Expert solar panel maintenance & repair in Feeding Hills, MA. Professional cleaning, diagnostics, emergency repairs. Agawam area solar specialists. Call today!",
- "h1": "Professional Solar Panel Maintenance & Repair in Feeding Hills, MA",
- "heroHeadline": "Feeding Hills' Trusted Solar Maintenance & Repair Experts",
- "heroSubheadline": "Agawam Area Solar Specialists - Keep Your System Running at Peak Performance",
- "serviceDescription": "Feeding Hills, a thriving neighborhood in Agawam, Massachusetts, has embraced solar energy as homeowners seek to reduce energy costs and embrace sustainable living. Our specialized solar panel maintenance and repair services help Feeding Hills residents protect their solar investments and ensure maximum system performance throughout the year. As local solar professionals serving the greater Agawam and Springfield areas, we understand the specific maintenance needs of solar installations in suburban Western Massachusetts and provide expert care tailored to our region's unique climate conditions.\n\nThe residential character of Feeding Hills, with its mix of newer developments and established neighborhoods, means solar installations range from modern high-efficiency systems to older arrays that benefit from regular professional maintenance. Our experienced technicians are equipped to service all solar system types and ages, providing comprehensive care that includes thorough cleaning, detailed inspections, preventative repairs, and performance optimization designed to maximize your energy production and return on investment.\n\nOur full-service maintenance program includes professional solar panel cleaning using eco-friendly solutions, complete electrical and mechanical system diagnostics, advanced inverter testing and repair, mounting hardware inspection, electrical connection verification, and detailed performance analysis with reporting. We recognize that Feeding Hills homeowners chose solar for financial savings and environmental responsibility, and our preventative maintenance approach ensures you achieve both goals while avoiding costly emergency repairs and system downtime.\n\nWith NABCEP certified solar professionals, state-of-the-art diagnostic equipment, over 12 years of industry experience, and a commitment to customer satisfaction, we deliver reliable maintenance and repair services backed by comprehensive warranties. Serving Feeding Hills, Agawam, and the surrounding Pioneer Valley communities, our team provides responsive service, transparent pricing, and the expertise needed to keep your solar system operating efficiently for decades to come.",
- "shortDescription": "Professional solar panel maintenance and repair in Feeding Hills, MA. Serving Agawam area with expert cleaning, comprehensive diagnostics, and fast repairs. Certified technicians maximize your solar system's efficiency and longevity.",
- "benefits": [
-  "Local Feeding Hills experts serving Agawam community",
-  "Restore peak efficiency with professional panel cleaning",
-  "Comprehensive inspections prevent expensive repairs",
-  "Fast emergency response for critical system failures",
-  "All major solar panel brands and systems serviced",
-  "Preventative maintenance extends system lifespan",
-  "Detailed performance tracking and optimization",
-  "Competitive pricing with no hidden fees"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Easy Scheduling",
-   "description": "Contact our Feeding Hills team to schedule solar maintenance or emergency repair. We offer flexible appointment times including same-day service for urgent issues affecting your solar energy production."
-  },
-  {
-   "step": 2,
-   "title": "Comprehensive Assessment",
-   "description": "Our certified solar technicians perform thorough inspections of your entire system - panels, mounting structures, inverters, wiring, and electrical components - identifying any issues impacting performance or safety."
-  },
-  {
-   "step": 3,
-   "title": "Professional Cleaning",
-   "description": "Using specialized solar panel cleaning equipment and environmentally responsible solutions, we safely and thoroughly clean your panels to remove dirt, pollen, bird droppings, and debris that reduce energy output."
-  },
-  {
-   "step": 4,
-   "title": "Repair & System Tuning",
-   "description": "Complete all necessary repairs with quality replacement parts, update inverter firmware, optimize system configuration for Feeding Hills' location and climate, and verify all electrical connections are secure."
-  },
-  {
-   "step": 5,
-   "title": "Detailed Documentation",
-   "description": "Receive a comprehensive service report including before/after performance comparisons, photographs documenting system condition, completed repairs, warranty information, and personalized recommendations for your solar system."
-  }
- ],
- "features": [
-  "Complete solar panel cleaning and maintenance",
-  "Advanced inverter diagnostics and repair",
-  "Electrical system safety inspections",
-  "Storm damage assessment and repair",
-  "Performance monitoring and analysis",
-  "Mounting system inspection and reinforcement",
-  "Shading analysis and tree trimming recommendations",
-  "Annual maintenance contracts with priority service"
- ],
- "pricingInfo": "Professional solar maintenance in Feeding Hills starts at $299 for residential systems. We offer cost-effective annual maintenance contracts that include multiple service visits, priority emergency response, and discounted repair rates - the best value for protecting your solar investment. All repair work includes transparent upfront estimates with no hidden fees. Emergency service available with clear pricing provided before work begins. We'll help you navigate manufacturer warranty claims for eligible repairs. Contact us for a free assessment of your Feeding Hills solar system.",
- "serviceArea": "Feeding Hills, Agawam, and surrounding Hampden County areas within 20 miles including West Springfield and Westfield",
- "availability": "Monday - Friday: 7:30 AM - 6:00 PM, Saturday: 8:00 AM - 4:00 PM, Emergency service available 24/7",
- "responseTime": "Same-day emergency service typically within 3-4 hours, routine maintenance scheduled within 3-5 business days",
- "qualifications": [
-  "NABCEP Certified Solar Installation Professional",
-  "Massachusetts Licensed Electricians",
-  "OSHA 30-Hour Safety Certification",
-  "Certified by Major Solar Panel Manufacturers",
-  "Fully Insured - $2M General Liability Coverage",
-  "Better Business Bureau A+ Rating"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar installations serviced",
- "guarantees": [
-  "100% satisfaction guarantee on all services",
-  "1-year warranty on repair workmanship",
-  "Performance improvement guarantee",
-  "Same-day emergency response commitment"
- ],
- "emergencyAvailable": true,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Professional solar panel maintenance service in Feeding Hills Massachusetts",
-   "caption": "Expert Solar Panel Maintenance in Feeding Hills, MA",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Technician cleaning residential solar panels",
-    "caption": "Professional cleaning restores maximum efficiency",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+  "id": "solar-maintenance-repair-feeding-hills",
+  "service": "Solar Panel Maintenance & Repair",
+  "serviceSlug": "solar-maintenance-repair",
+  "location": "Feeding Hills",
+  "locationSlug": "feeding-hills",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Maintenance Feeding Hills MA - Fast Professional Service",
+  "metaDescription": "Expert solar panel maintenance & repair in Feeding Hills, MA. Professional cleaning, diagnostics, emergency repairs. Agawam area solar specialists. Call today!",
+  "h1": "Professional Solar Panel Maintenance & Repair in Feeding Hills, MA",
+  "heroHeadline": "Feeding Hills' Trusted Solar Maintenance & Repair Experts",
+  "heroSubheadline": "Agawam Area Solar Specialists - Keep Your System Running at Peak Performance",
+  "serviceDescription": "Feeding Hills, a thriving neighborhood in Agawam, Massachusetts, has embraced solar energy as homeowners seek to reduce energy costs and embrace sustainable living. Our specialized solar panel maintenance and repair services help Feeding Hills residents protect their solar investments and ensure maximum system performance throughout the year. As local solar professionals serving the greater Agawam and Springfield areas, we understand the specific maintenance needs of solar installations in suburban Western Massachusetts and provide expert care tailored to our region's unique climate conditions.\n\nThe residential character of Feeding Hills, with its mix of newer developments and established neighborhoods, means solar installations range from modern high-efficiency systems to older arrays that benefit from regular professional maintenance. Our experienced technicians are equipped to service all solar system types and ages, providing comprehensive care that includes thorough cleaning, detailed inspections, preventative repairs, and performance optimization designed to maximize your energy production and return on investment.\n\nOur full-service maintenance program includes professional solar panel cleaning using eco-friendly solutions, complete electrical and mechanical system diagnostics, advanced inverter testing and repair, mounting hardware inspection, electrical connection verification, and detailed performance analysis with reporting. We recognize that Feeding Hills homeowners chose solar for financial savings and environmental responsibility, and our preventative maintenance approach ensures you achieve both goals while avoiding costly emergency repairs and system downtime.\n\nWith NABCEP certified solar professionals, state-of-the-art diagnostic equipment, over 12 years of industry experience, and a commitment to customer satisfaction, we deliver reliable maintenance and repair services backed by comprehensive warranties. Serving Feeding Hills, Agawam, and the surrounding Pioneer Valley communities, our team provides responsive service, transparent pricing, and the expertise needed to keep your solar system operating efficiently for decades to come.",
+  "shortDescription": "Professional solar panel maintenance and repair in Feeding Hills, MA. Serving Agawam area with expert cleaning, comprehensive diagnostics, and fast repairs. Certified technicians maximize your solar system's efficiency and longevity.",
+  "benefits": [
+    "Local Feeding Hills experts serving Agawam community",
+    "Restore peak efficiency with professional panel cleaning",
+    "Comprehensive inspections prevent expensive repairs",
+    "Fast emergency response for critical system failures",
+    "All major solar panel brands and systems serviced",
+    "Preventative maintenance extends system lifespan",
+    "Detailed performance tracking and optimization",
+    "Competitive pricing with no hidden fees"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Easy Scheduling",
+      "description": "Contact our Feeding Hills team to schedule solar maintenance or emergency repair. We offer flexible appointment times including same-day service for urgent issues affecting your solar energy production."
+    },
+    {
+      "step": 2,
+      "title": "Comprehensive Assessment",
+      "description": "Our certified solar technicians perform thorough inspections of your entire system - panels, mounting structures, inverters, wiring, and electrical components - identifying any issues impacting performance or safety."
+    },
+    {
+      "step": 3,
+      "title": "Professional Cleaning",
+      "description": "Using specialized solar panel cleaning equipment and environmentally responsible solutions, we safely and thoroughly clean your panels to remove dirt, pollen, bird droppings, and debris that reduce energy output."
+    },
+    {
+      "step": 4,
+      "title": "Repair & System Tuning",
+      "description": "Complete all necessary repairs with quality replacement parts, update inverter firmware, optimize system configuration for Feeding Hills' location and climate, and verify all electrical connections are secure."
+    },
+    {
+      "step": 5,
+      "title": "Detailed Documentation",
+      "description": "Receive a comprehensive service report including before/after performance comparisons, photographs documenting system condition, completed repairs, warranty information, and personalized recommendations for your solar system."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar system diagnostic testing equipment",
-    "caption": "State-of-the-art diagnostics for accurate troubleshooting",
-    "credit": {
-     "photographer": "Los Muertos Crew",
-     "unsplashUrl": "https://unsplash.com/photos/xxNRxx343nM"
+  ],
+  "features": [
+    "Complete solar panel cleaning and maintenance",
+    "Advanced inverter diagnostics and repair",
+    "Electrical system safety inspections",
+    "Storm damage assessment and repair",
+    "Performance monitoring and analysis",
+    "Mounting system inspection and reinforcement",
+    "Shading analysis and tree trimming recommendations",
+    "Annual maintenance contracts with priority service"
+  ],
+  "pricingInfo": "Professional solar maintenance in Feeding Hills starts at $299 for residential systems. We offer cost-effective annual maintenance contracts that include multiple service visits, priority emergency response, and discounted repair rates - the best value for protecting your solar investment. All repair work includes transparent upfront estimates with no hidden fees. Emergency service available with clear pricing provided before work begins. We'll help you navigate manufacturer warranty claims for eligible repairs. Contact us for a free assessment of your Feeding Hills solar system.",
+  "serviceArea": "Feeding Hills, Agawam, and surrounding Hampden County areas within 20 miles including West Springfield and Westfield",
+  "availability": "Monday - Friday: 7:30 AM - 6:00 PM, Saturday: 8:00 AM - 4:00 PM, Emergency service available 24/7",
+  "responseTime": "Same-day emergency service typically within 3-4 hours, routine maintenance scheduled within 3-5 business days",
+  "qualifications": [
+    "NABCEP Certified Solar Installation Professional",
+    "Massachusetts Licensed Electricians",
+    "OSHA 30-Hour Safety Certification",
+    "Certified by Major Solar Panel Manufacturers",
+    "Fully Insured - $2M General Liability Coverage",
+    "Better Business Bureau A+ Rating"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar installations serviced",
+  "guarantees": [
+    "100% satisfaction guarantee on all services",
+    "1-year warranty on repair workmanship",
+    "Performance improvement guarantee",
+    "Same-day emergency response commitment"
+  ],
+  "emergencyAvailable": true,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional solar panel maintenance service in Feeding Hills Massachusetts",
+      "caption": "Expert Solar Panel Maintenance in Feeding Hills, MA",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Technician cleaning residential solar panels",
+        "caption": "Professional cleaning restores maximum efficiency",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar system diagnostic testing equipment",
+        "caption": "State-of-the-art diagnostics for accurate troubleshooting",
+        "credit": {
+          "photographer": "Los Muertos Crew",
+          "unsplashUrl": "https://unsplash.com/photos/xxNRxx343nM"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar inverter inspection and maintenance",
+        "caption": "Expert inverter service and electrical testing",
+        "credit": {
+          "photographer": "Anders J",
+          "unsplashUrl": "https://unsplash.com/photos/ckYMu0C1LZ4"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1595437193398-f24279553f4f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Well-maintained residential solar installation in Feeding Hills",
+        "caption": "Keeping Feeding Hills solar systems running efficiently",
+        "credit": {
+          "photographer": "Chelsea",
+          "unsplashUrl": "https://unsplash.com/photos/fwAI30jRKj4"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Solar Panel Maintenance Services for Feeding Hills Homeowners",
+    "Why Regular Solar Maintenance is Essential",
+    "Professional Solar Panel Cleaning in Agawam Area",
+    "Common Solar System Issues We Repair",
+    "24/7 Emergency Solar Repair Services",
+    "Feeding Hills Solar Maintenance FAQs"
+  ],
+  "faq": [
+    {
+      "question": "How often should Feeding Hills homeowners schedule solar maintenance?",
+      "answer": "We recommend professional solar maintenance at least annually for Feeding Hills residential systems. However, properties with heavy tree coverage or near roadways may benefit from biannual service to address increased pollen and dust accumulation. Spring cleaning (April-May) and fall maintenance (September-October) provide optimal year-round performance. Regular professional maintenance can improve energy production by 20-30% compared to neglected systems."
+    },
+    {
+      "question": "What are warning signs my solar panels need repair?",
+      "answer": "Watch for these indicators: significant drop in energy production compared to previous months, error codes or warning lights on your inverter display, visible damage to panels (cracks, discoloration), loose or corroded connections, moisture in junction boxes, or complete system shutdown. If you notice any of these issues with your Feeding Hills solar installation, contact us immediately for professional inspection."
+    },
+    {
+      "question": "Is professional solar panel cleaning worth the investment?",
+      "answer": "Absolutely! In Feeding Hills, environmental factors like pollen, dust, and bird droppings can reduce solar panel efficiency by 20-30%. Professional cleaning safely removes these contaminants and can restore near-original performance levels. For a typical Feeding Hills solar system, the improved energy production quickly offsets the cleaning cost, making it a smart investment that pays for itself."
+    },
+    {
+      "question": "Do you provide emergency solar repair in Feeding Hills?",
+      "answer": "Yes! We offer 24/7 emergency solar repair service for critical issues including complete system failure, electrical hazards, inverter problems, and storm damage. Our Feeding Hills-area emergency team typically responds within 3-4 hours during business hours and 6-8 hours for after-hours emergencies. We arrive equipped with common parts to resolve most issues on the first visit."
+    },
+    {
+      "question": "Can you service solar systems installed by other companies?",
+      "answer": "Definitely! We maintain and repair all brands and types of solar installations throughout Feeding Hills and Agawam, regardless of the original installer. Our NABCEP certified technicians are trained on all major solar equipment manufacturers and provide warranty-compliant service. Every solar system receives the same professional care and expertise."
+    },
+    {
+      "question": "What does your annual maintenance contract include?",
+      "answer": "Our Feeding Hills annual maintenance contracts include: two comprehensive service visits (spring and fall), thorough professional panel cleaning, complete system inspection, inverter diagnostics and firmware updates, electrical testing, detailed performance reports, priority scheduling for emergency repairs, and 15% discount on any repair parts or labor needed throughout the year."
+    },
+    {
+      "question": "How much do solar panel repairs cost in Feeding Hills?",
+      "answer": "Repair costs depend on the specific issue. Minor repairs like cleaning connections or resetting systems may be $150-300. Inverter component repairs range from $500-1,500. Full inverter replacement typically costs $1,500-3,500 depending on system size. Individual panel replacement is $300-600 per panel. We provide detailed estimates before starting work, and many repairs are covered under manufacturer warranties."
+    },
+    {
+      "question": "Will maintenance void my solar panel warranty?",
+      "answer": "No - professional maintenance actually protects your warranty. Many solar panel manufacturers require proof of regular professional maintenance to honor warranty claims. We provide detailed service documentation that meets all manufacturer requirements. Our maintenance procedures comply with warranty terms and industry best practices, ensuring your coverage remains valid throughout the warranty period."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar inverter inspection and maintenance",
-    "caption": "Expert inverter service and electrical testing",
-    "credit": {
-     "photographer": "Anders J",
-     "unsplashUrl": "https://unsplash.com/photos/ckYMu0C1LZ4"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1595437193398-f24279553f4f?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Well-maintained residential solar installation in Feeding Hills",
-    "caption": "Keeping Feeding Hills solar systems running efficiently",
-    "credit": {
-     "photographer": "Chelsea",
-     "unsplashUrl": "https://unsplash.com/photos/fwAI30jRKj4"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Solar Panel Maintenance Services for Feeding Hills Homeowners",
-  "Why Regular Solar Maintenance is Essential",
-  "Professional Solar Panel Cleaning in Agawam Area",
-  "Common Solar System Issues We Repair",
-  "24/7 Emergency Solar Repair Services",
-  "Feeding Hills Solar Maintenance FAQs"
- ],
- "faq": [
-  {
-   "question": "How often should Feeding Hills homeowners schedule solar maintenance?",
-   "answer": "We recommend professional solar maintenance at least annually for Feeding Hills residential systems. However, properties with heavy tree coverage or near roadways may benefit from biannual service to address increased pollen and dust accumulation. Spring cleaning (April-May) and fall maintenance (September-October) provide optimal year-round performance. Regular professional maintenance can improve energy production by 20-30% compared to neglected systems."
-  },
-  {
-   "question": "What are warning signs my solar panels need repair?",
-   "answer": "Watch for these indicators: significant drop in energy production compared to previous months, error codes or warning lights on your inverter display, visible damage to panels (cracks, discoloration), loose or corroded connections, moisture in junction boxes, or complete system shutdown. If you notice any of these issues with your Feeding Hills solar installation, contact us immediately for professional inspection."
-  },
-  {
-   "question": "Is professional solar panel cleaning worth the investment?",
-   "answer": "Absolutely! In Feeding Hills, environmental factors like pollen, dust, and bird droppings can reduce solar panel efficiency by 20-30%. Professional cleaning safely removes these contaminants and can restore near-original performance levels. For a typical Feeding Hills solar system, the improved energy production quickly offsets the cleaning cost, making it a smart investment that pays for itself."
-  },
-  {
-   "question": "Do you provide emergency solar repair in Feeding Hills?",
-   "answer": "Yes! We offer 24/7 emergency solar repair service for critical issues including complete system failure, electrical hazards, inverter problems, and storm damage. Our Feeding Hills-area emergency team typically responds within 3-4 hours during business hours and 6-8 hours for after-hours emergencies. We arrive equipped with common parts to resolve most issues on the first visit."
-  },
-  {
-   "question": "Can you service solar systems installed by other companies?",
-   "answer": "Definitely! We maintain and repair all brands and types of solar installations throughout Feeding Hills and Agawam, regardless of the original installer. Our NABCEP certified technicians are trained on all major solar equipment manufacturers and provide warranty-compliant service. Every solar system receives the same professional care and expertise."
-  },
-  {
-   "question": "What does your annual maintenance contract include?",
-   "answer": "Our Feeding Hills annual maintenance contracts include: two comprehensive service visits (spring and fall), thorough professional panel cleaning, complete system inspection, inverter diagnostics and firmware updates, electrical testing, detailed performance reports, priority scheduling for emergency repairs, and 15% discount on any repair parts or labor needed throughout the year."
-  },
-  {
-   "question": "How much do solar panel repairs cost in Feeding Hills?",
-   "answer": "Repair costs depend on the specific issue. Minor repairs like cleaning connections or resetting systems may be $150-300. Inverter component repairs range from $500-1,500. Full inverter replacement typically costs $1,500-3,500 depending on system size. Individual panel replacement is $300-600 per panel. We provide detailed estimates before starting work, and many repairs are covered under manufacturer warranties."
-  },
-  {
-   "question": "Will maintenance void my solar panel warranty?",
-   "answer": "No - professional maintenance actually protects your warranty. Many solar panel manufacturers require proof of regular professional maintenance to honor warranty claims. We provide detailed service documentation that meets all manufacturer requirements. Our maintenance procedures comply with warranty terms and industry best practices, ensuring your coverage remains valid throughout the warranty period."
-  }
- ],
- "keywords": [
-  "solar panel maintenance",
-  "solar panel repair",
-  "solar cleaning service",
-  "inverter repair",
-  "solar system diagnostics",
-  "solar performance optimization"
- ],
- "localKeywords": [
-  "solar maintenance Feeding Hills MA",
-  "Feeding Hills solar panel repair",
-  "Agawam solar service",
-  "Hampden County solar maintenance",
-  "solar cleaning Agawam area"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Schedule Feeding Hills Solar Service",
- "ctaSecondary": "Get Free Performance Assessment",
- "ctaUrgency": "Maximize Your Solar ROI - Call Today"
+  ],
+  "keywords": [
+    "solar panel maintenance",
+    "solar panel repair",
+    "solar cleaning service",
+    "inverter repair",
+    "solar system diagnostics",
+    "solar performance optimization"
+  ],
+  "localKeywords": [
+    "solar maintenance Feeding Hills MA",
+    "Feeding Hills solar panel repair",
+    "Agawam solar service",
+    "Hampden County solar maintenance",
+    "solar cleaning Agawam area"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Schedule Feeding Hills Solar Service",
+  "ctaSecondary": "Get Free Performance Assessment",
+  "ctaUrgency": "Maximize Your Solar ROI - Call Today"
 }

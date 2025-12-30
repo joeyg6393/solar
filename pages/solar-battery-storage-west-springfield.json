@@ -1,196 +1,196 @@
 {
- "id": "solar-battery-storage-west-springfield",
- "service": "Solar Battery Storage Installation",
- "serviceSlug": "solar-battery-storage",
- "location": "West Springfield",
- "locationSlug": "west-springfield",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Battery Storage West Springfield MA - Powerwall Experts",
- "metaDescription": "West Springfield's #1 solar battery installer. Tesla Powerwall certified, backup power, energy savings. financing available. Get free quote!",
- "h1": "Solar Battery Storage Installation in West Springfield, Massachusetts",
- "heroHeadline": "West Springfield's Most Trusted Battery Storage Installer",
- "heroSubheadline": "Tesla Powerwall Certified - Complete Energy Independence - Protect Your Home Today",
- "serviceDescription": "West Springfield homeowners are discovering the power of energy independence with professional solar battery storage installation. Just across the Connecticut River from Springfield, West Springfield residents face the same weather challenges and power grid vulnerabilities that make battery storage an essential investment. Our certified Tesla Powerwall installers bring over 12 years of experience to every West Springfield project, delivering reliable backup power and substantial energy savings.\n\nWest Springfield's location along the river and proximity to the Berkshire foothills creates weather patterns that can stress the electrical infrastructure. From ice storms that down power lines to summer storms that cause widespread outages, West Springfield residents understand the value of backup power. Solar battery storage provides seamless protection, automatically switching to battery power during outages while you continue your daily activities uninterrupted.\n\nWe serve all West Springfield neighborhoods including Memorial Avenue, Merrick, Bear Hole, Mittineague, and Tatham. Our team has completed hundreds of battery storage installations throughout Hampden County, with many satisfied customers in West Springfield. Whether you're adding battery capacity to existing solar panels or installing a complete solar + storage system, we design customized solutions that meet your specific energy needs and budget.\n\nAs NABCEP certified solar professionals with Tesla Powerwall factory certification, we understand Massachusetts building codes, West Springfield permitting requirements, and Eversource interconnection procedures. We manage every detail from initial energy audit and system engineering to permitting, professional installation, utility approval, and ongoing performance monitoring. Take control of your energy future in West Springfield with battery storage that delivers independence, reliability, and significant cost savings.",
- "shortDescription": "West Springfield's premier solar battery storage installer. Tesla Powerwall certified with expert installation, backup power protection, and maximum energy savings. Proudly serving all West Springfield neighborhoods.",
- "benefits": [
-  "Complete Power Security - Never lose power during West Springfield outages",
-  "Dramatic Bill Reduction - Cut electricity costs up to 90%",
-  "River Valley Weather Protection - Storm-proof your home year-round",
-  "Tesla Powerwall Certified - Factory-trained installation experts",
-  "Maximum Tax Benefits - federal credit plus financing options",
-  "Solar Integration Expert - New or existing solar panel systems",
-  "Local West Springfield Team - Fast, personalized service",
-  "Property Value Boost - Add 4-6% to your home's value"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "West Springfield Energy Assessment",
-   "description": "We conduct a thorough analysis of your West Springfield home's energy consumption, electrical system, and backup power requirements to design the perfect battery solution."
-  },
-  {
-   "step": 2,
-   "title": "Custom System Engineering",
-   "description": "Our engineers create a detailed battery storage design tailored to your West Springfield property, optimizing battery size, installation location, and backup circuits."
-  },
-  {
-   "step": 3,
-   "title": "Permitting & Eversource Coordination",
-   "description": "We handle all permits with the Town of West Springfield and manage interconnection agreements with Eversource Energy for seamless utility approval."
-  },
-  {
-   "step": 4,
-   "title": "Professional Installation",
-   "description": "Our Massachusetts licensed electricians install your battery storage system with precision, typically completing West Springfield installations in 1-2 days."
-  },
-  {
-   "step": 5,
-   "title": "System Commissioning & Training",
-   "description": "We activate your system, configure monitoring software, and provide comprehensive training so you can track performance from your smartphone."
-  }
- ],
- "features": [
-  "Tesla Powerwall 2 & Powerwall+ Installation",
-  "Enphase IQ Battery Systems Available",
-  "LG Chem RESU & Alternative Brands",
-  "AC-Coupled & DC-Coupled Options",
-  "Whole-Home or Selective Backup",
-  "Intelligent Load Management",
-  "Mobile App Monitoring & Control",
-  "10-Year Installation Warranty"
- ],
- "pricingInfo": "Solar battery storage systems in West Springfield range from $12,200-$16,800 for Tesla Powerwall installations before benefits. After the federal solar financing and Massachusetts state rebates, most West Springfield homeowners invest $9,000-$12,400 net. With typical monthly energy savings of $115-$205 through smart time-of-use optimization, payback periods are 8-11 years. We offer flexible financing with $0 down and payments often lower than your monthly electricity savings. Request your free West Springfield quote today.",
- "serviceArea": "West Springfield and surrounding communities including Memorial Avenue, Merrick, Bear Hole, Mittineague, Tatham, and all of Hampden County",
- "availability": "Monday-Friday 7:00 AM - 6:00 PM, Saturday 8:00 AM - 4:00 PM, Sunday by appointment",
- "responseTime": "24-hour consultation response, installation scheduling within 2-4 weeks",
- "qualifications": [
-  "NABCEP Certified Solar Installers",
-  "Tesla Powerwall Certified Installers",
-  "Massachusetts Master Electrician License",
-  "Enphase Certified Installer",
-  "BBB A+ Accredited Business",
-  "MA Construction Supervisor License #123456"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ solar installations, 200+ battery storage systems in Pioneer Valley",
- "guarantees": [
-  "10-year workmanship warranty",
-  "Tesla Powerwall 10-year manufacturer warranty",
-  "Free lifetime system monitoring",
-  "70% capacity retention guarantee",
-  "100% customer satisfaction guarantee"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Tesla Powerwall solar battery on West Springfield home",
-   "caption": "Expert Battery Storage Installation in West Springfield, MA",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1595421877555-06a8f9a4d4e1?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Battery backup system during power outage",
-    "caption": "Reliable Backup Power for West Springfield Homes",
-    "credit": {
-     "photographer": "Science in HD",
-     "unsplashUrl": "https://unsplash.com/photos/battery-storage"
+  "id": "solar-battery-storage-west-springfield",
+  "service": "Solar Battery Storage Installation",
+  "serviceSlug": "solar-battery-storage",
+  "location": "West Springfield",
+  "locationSlug": "west-springfield",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Battery Storage West Springfield MA - Powerwall Experts",
+  "metaDescription": "West Springfield's #1 solar battery installer. Tesla Powerwall certified, backup power, energy savings. financing available. Get free quote!",
+  "h1": "Solar Battery Storage Installation in West Springfield, Massachusetts",
+  "heroHeadline": "West Springfield's Most Trusted Battery Storage Installer",
+  "heroSubheadline": "Tesla Powerwall Certified - Complete Energy Independence - Protect Your Home Today",
+  "serviceDescription": "West Springfield homeowners are discovering the power of energy independence with professional solar battery storage installation. Just across the Connecticut River from Springfield, West Springfield residents face the same weather challenges and power grid vulnerabilities that make battery storage an essential investment. Our certified Tesla Powerwall installers bring over 12 years of experience to every West Springfield project, delivering reliable backup power and substantial energy savings.\n\nWest Springfield's location along the river and proximity to the Berkshire foothills creates weather patterns that can stress the electrical infrastructure. From ice storms that down power lines to summer storms that cause widespread outages, West Springfield residents understand the value of backup power. Solar battery storage provides seamless protection, automatically switching to battery power during outages while you continue your daily activities uninterrupted.\n\nWe serve all West Springfield neighborhoods including Memorial Avenue, Merrick, Bear Hole, Mittineague, and Tatham. Our team has completed hundreds of battery storage installations throughout Hampden County, with many satisfied customers in West Springfield. Whether you're adding battery capacity to existing solar panels or installing a complete solar + storage system, we design customized solutions that meet your specific energy needs and budget.\n\nAs NABCEP certified solar professionals with Tesla Powerwall factory certification, we understand Massachusetts building codes, West Springfield permitting requirements, and Eversource interconnection procedures. We manage every detail from initial energy audit and system engineering to permitting, professional installation, utility approval, and ongoing performance monitoring. Take control of your energy future in West Springfield with battery storage that delivers independence, reliability, and significant cost savings.",
+  "shortDescription": "West Springfield's premier solar battery storage installer. Tesla Powerwall certified with expert installation, backup power protection, and maximum energy savings. Proudly serving all West Springfield neighborhoods.",
+  "benefits": [
+    "Complete Power Security - Never lose power during West Springfield outages",
+    "Dramatic Bill Reduction - Cut electricity costs up to 90%",
+    "River Valley Weather Protection - Storm-proof your home year-round",
+    "Tesla Powerwall Certified - Factory-trained installation experts",
+    "Maximum Savings - federal credit plus financing options",
+    "Solar Integration Expert - New or existing solar panel systems",
+    "Local West Springfield Team - Fast, personalized service",
+    "Property Value Boost - Add 4-6% to your home's value"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "West Springfield Energy Assessment",
+      "description": "We conduct a thorough analysis of your West Springfield home's energy consumption, electrical system, and backup power requirements to design the perfect battery solution."
+    },
+    {
+      "step": 2,
+      "title": "Custom System Engineering",
+      "description": "Our engineers create a detailed battery storage design tailored to your West Springfield property, optimizing battery size, installation location, and backup circuits."
+    },
+    {
+      "step": 3,
+      "title": "Permitting & Eversource Coordination",
+      "description": "We handle all permits with the Town of West Springfield and manage interconnection agreements with Eversource Energy for seamless utility approval."
+    },
+    {
+      "step": 4,
+      "title": "Professional Installation",
+      "description": "Our Massachusetts licensed electricians install your battery storage system with precision, typically completing West Springfield installations in 1-2 days."
+    },
+    {
+      "step": 5,
+      "title": "System Commissioning & Training",
+      "description": "We activate your system, configure monitoring software, and provide comprehensive training so you can track performance from your smartphone."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Smart battery monitoring app dashboard",
-    "caption": "Monitor Your Energy Storage in Real-Time",
-    "credit": {
-     "photographer": "Tyler Casey",
-     "unsplashUrl": "https://unsplash.com/photos/solar-monitoring"
+  ],
+  "features": [
+    "Tesla Powerwall 2 & Powerwall+ Installation",
+    "Enphase IQ Battery Systems Available",
+    "LG Chem RESU & Alternative Brands",
+    "AC-Coupled & DC-Coupled Options",
+    "Whole-Home or Selective Backup",
+    "Intelligent Load Management",
+    "Mobile App Monitoring & Control",
+    "10-Year Installation Warranty"
+  ],
+  "pricingInfo": "Solar battery storage systems in West Springfield range from $12,200-$16,800 for Tesla Powerwall installations before benefits. After the competitive pricing and Massachusetts state rebates, most West Springfield homeowners invest $9,000-$12,400 net. With typical monthly energy savings of $115-$205 through smart time-of-use optimization, payback periods are 8-11 years. We offer flexible financing with $0 down and payments often lower than your monthly electricity savings. Request your free West Springfield quote today.",
+  "serviceArea": "West Springfield and surrounding communities including Memorial Avenue, Merrick, Bear Hole, Mittineague, Tatham, and all of Hampden County",
+  "availability": "Monday-Friday 7:00 AM - 6:00 PM, Saturday 8:00 AM - 4:00 PM, Sunday by appointment",
+  "responseTime": "24-hour consultation response, installation scheduling within 2-4 weeks",
+  "qualifications": [
+    "NABCEP Certified Solar Installers",
+    "Tesla Powerwall Certified Installers",
+    "Massachusetts Master Electrician License",
+    "Enphase Certified Installer",
+    "BBB A+ Accredited Business",
+    "MA Construction Supervisor License #123456"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ solar installations, 200+ battery storage systems in Pioneer Valley",
+  "guarantees": [
+    "10-year workmanship warranty",
+    "Tesla Powerwall 10-year manufacturer warranty",
+    "Free lifetime system monitoring",
+    "70% capacity retention guarantee",
+    "100% customer satisfaction guarantee"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Tesla Powerwall solar battery on West Springfield home",
+      "caption": "Expert Battery Storage Installation in West Springfield, MA",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1595421877555-06a8f9a4d4e1?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Battery backup system during power outage",
+        "caption": "Reliable Backup Power for West Springfield Homes",
+        "credit": {
+          "photographer": "Science in HD",
+          "unsplashUrl": "https://unsplash.com/photos/battery-storage"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Smart battery monitoring app dashboard",
+        "caption": "Monitor Your Energy Storage in Real-Time",
+        "credit": {
+          "photographer": "Tyler Casey",
+          "unsplashUrl": "https://unsplash.com/photos/solar-monitoring"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar panels with battery storage system",
+        "caption": "Complete Solar + Storage Solutions",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/solar-panels"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional battery installation electrician",
+        "caption": "Licensed Installation by West Springfield Experts",
+        "credit": {
+          "photographer": "Umberto",
+          "unsplashUrl": "https://unsplash.com/photos/electrical-work"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why West Springfield Homeowners Choose Battery Storage",
+    "Tesla Powerwall Installation in West Springfield",
+    "Understanding Solar Battery Storage Costs",
+    "How Battery Storage Works During Outages",
+    "West Springfield Installation Process & Timeline",
+    "West Springfield Solar Battery Storage FAQs"
+  ],
+  "faq": [
+    {
+      "question": "How much does solar battery storage cost in West Springfield?",
+      "answer": "Tesla Powerwall installation in West Springfield typically costs $12,200-$16,800 before benefits. After applying the competitive pricing and Massachusetts state programs, your net cost is approximately $9,000-$12,400. Most West Springfield homeowners install 1-2 Powerwalls depending on backup needs and home size. We provide free detailed quotes and financing options with $0 down."
+    },
+    {
+      "question": "Will battery storage work during West Springfield's winter storms?",
+      "answer": "Absolutely! Solar battery storage is specifically designed to provide backup power during outages caused by West Springfield's winter storms. When the grid goes down, your battery automatically powers your home's critical circuits. With proper sizing, a Tesla Powerwall can keep essential systems running for 24+ hours, and it recharges when your solar panels produce energy or when grid power returns."
+    },
+    {
+      "question": "Can I add battery storage to my existing West Springfield solar system?",
+      "answer": "Yes! Battery storage can be retrofitted to virtually any existing solar panel system in West Springfield. Whether your solar installation is 1 year old or 15 years old, we can integrate battery storage seamlessly. The retrofit involves installing the battery unit, potentially upgrading your inverter, and updating electrical connections. Most West Springfield retrofit installations take just 1-2 days."
+    },
+    {
+      "question": "How long will a battery power my West Springfield home?",
+      "answer": "One Tesla Powerwall (13.5 kWh) can power essential circuits in a typical West Springfield home for 24-36 hours during an outage, including lights, refrigerator, internet, and select outlets. For whole-home backup including HVAC and major appliances, most homes need 2-3 Powerwalls. During your free consultation, we'll calculate your specific backup duration based on your energy usage patterns."
+    },
+    {
+      "question": "What financing options are available for battery storage in West Springfield?",
+      "answer": "West Springfield residents qualify for the flexible financing options on battery storage when installed with solar panels. You can also participate in Massachusetts' ConnectedSolutions program, earning $225-$375 annually per Powerwall. Combined with energy bill savings through time-of-use optimization, battery storage delivers excellent financial returns."
+    },
+    {
+      "question": "How long does installation take in West Springfield?",
+      "answer": "Physical installation of solar battery storage in West Springfield takes 1-2 days for most residential projects. The complete timeline from consultation to activation is typically 3-4 weeks, including system design, permitting with West Springfield, Eversource interconnection approval, installation, and final inspection."
+    },
+    {
+      "question": "Which battery is better: Tesla Powerwall or Enphase IQ Battery?",
+      "answer": "Both are excellent choices for West Springfield homes! Tesla Powerwall offers 13.5 kWh per unit in a proven all-in-one design - ideal for most applications. Enphase IQ Battery provides modular scalability (start with 3.3 kWh, expand as needed) and integrates perfectly with Enphase microinverters. We'll recommend the best option based on your existing solar setup, backup requirements, and budget during your free consultation."
+    },
+    {
+      "question": "Will battery storage increase my West Springfield home's value?",
+      "answer": "Yes! Studies consistently show that solar + battery storage systems increase home values by 4-6% in Massachusetts. West Springfield homebuyers increasingly seek energy-independent homes with backup power, especially after experiencing storm-related outages. Your battery system transfers to future owners with remaining warranty coverage, making it a valuable selling feature."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar panels with battery storage system",
-    "caption": "Complete Solar + Storage Solutions",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/solar-panels"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Professional battery installation electrician",
-    "caption": "Licensed Installation by West Springfield Experts",
-    "credit": {
-     "photographer": "Umberto",
-     "unsplashUrl": "https://unsplash.com/photos/electrical-work"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why West Springfield Homeowners Choose Battery Storage",
-  "Tesla Powerwall Installation in West Springfield",
-  "Understanding Solar Battery Storage Costs",
-  "How Battery Storage Works During Outages",
-  "West Springfield Installation Process & Timeline",
-  "West Springfield Solar Battery Storage FAQs"
- ],
- "faq": [
-  {
-   "question": "How much does solar battery storage cost in West Springfield?",
-   "answer": "Tesla Powerwall installation in West Springfield typically costs $12,200-$16,800 before benefits. After applying the federal solar financing and Massachusetts state programs, your net cost is approximately $9,000-$12,400. Most West Springfield homeowners install 1-2 Powerwalls depending on backup needs and home size. We provide free detailed quotes and financing options with $0 down."
-  },
-  {
-   "question": "Will battery storage work during West Springfield's winter storms?",
-   "answer": "Absolutely! Solar battery storage is specifically designed to provide backup power during outages caused by West Springfield's winter storms. When the grid goes down, your battery automatically powers your home's critical circuits. With proper sizing, a Tesla Powerwall can keep essential systems running for 24+ hours, and it recharges when your solar panels produce energy or when grid power returns."
-  },
-  {
-   "question": "Can I add battery storage to my existing West Springfield solar system?",
-   "answer": "Yes! Battery storage can be retrofitted to virtually any existing solar panel system in West Springfield. Whether your solar installation is 1 year old or 15 years old, we can integrate battery storage seamlessly. The retrofit involves installing the battery unit, potentially upgrading your inverter, and updating electrical connections. Most West Springfield retrofit installations take just 1-2 days."
-  },
-  {
-   "question": "How long will a battery power my West Springfield home?",
-   "answer": "One Tesla Powerwall (13.5 kWh) can power essential circuits in a typical West Springfield home for 24-36 hours during an outage, including lights, refrigerator, internet, and select outlets. For whole-home backup including HVAC and major appliances, most homes need 2-3 Powerwalls. During your free consultation, we'll calculate your specific backup duration based on your energy usage patterns."
-  },
-  {
-   "question": "What financing options are available for battery storage in West Springfield?",
-   "answer": "West Springfield residents qualify for the flexible financing options on battery storage when installed with solar panels. You can also participate in Massachusetts' ConnectedSolutions program, earning $225-$375 annually per Powerwall. Combined with energy bill savings through time-of-use optimization, battery storage delivers excellent financial returns."
-  },
-  {
-   "question": "How long does installation take in West Springfield?",
-   "answer": "Physical installation of solar battery storage in West Springfield takes 1-2 days for most residential projects. The complete timeline from consultation to activation is typically 3-4 weeks, including system design, permitting with West Springfield, Eversource interconnection approval, installation, and final inspection."
-  },
-  {
-   "question": "Which battery is better: Tesla Powerwall or Enphase IQ Battery?",
-   "answer": "Both are excellent choices for West Springfield homes! Tesla Powerwall offers 13.5 kWh per unit in a proven all-in-one design - ideal for most applications. Enphase IQ Battery provides modular scalability (start with 3.3 kWh, expand as needed) and integrates perfectly with Enphase microinverters. We'll recommend the best option based on your existing solar setup, backup requirements, and budget during your free consultation."
-  },
-  {
-   "question": "Will battery storage increase my West Springfield home's value?",
-   "answer": "Yes! Studies consistently show that solar + battery storage systems increase home values by 4-6% in Massachusetts. West Springfield homebuyers increasingly seek energy-independent homes with backup power, especially after experiencing storm-related outages. Your battery system transfers to future owners with remaining warranty coverage, making it a valuable selling feature."
-  }
- ],
- "keywords": [
-  "solar battery storage",
-  "Tesla Powerwall",
-  "home battery backup",
-  "energy storage system",
-  "solar batteries",
-  "backup power"
- ],
- "localKeywords": [
-  "solar battery storage West Springfield MA",
-  "Tesla Powerwall West Springfield",
-  "battery storage West Springfield Massachusetts",
-  "Powerwall installation West Springfield",
-  "solar battery Hampden County",
-  "backup power West Springfield",
-  "West Springfield energy storage"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Battery Storage Quote",
- "ctaSecondary": "Schedule Free West Springfield Consultation",
- "ctaUrgency": "Special Offer - Act Now!"
+  ],
+  "keywords": [
+    "solar battery storage",
+    "Tesla Powerwall",
+    "home battery backup",
+    "energy storage system",
+    "solar batteries",
+    "backup power"
+  ],
+  "localKeywords": [
+    "solar battery storage West Springfield MA",
+    "Tesla Powerwall West Springfield",
+    "battery storage West Springfield Massachusetts",
+    "Powerwall installation West Springfield",
+    "solar battery Hampden County",
+    "backup power West Springfield",
+    "West Springfield energy storage"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Battery Storage Quote",
+  "ctaSecondary": "Schedule Free West Springfield Consultation",
+  "ctaUrgency": "Special Offer - Act Now!"
 }

@@ -1,190 +1,190 @@
 {
- "id": "solar-maintenance-repair-brimfield",
- "service": "Solar Panel Maintenance & Repair",
- "serviceSlug": "solar-maintenance-repair",
- "location": "Brimfield",
- "locationSlug": "brimfield",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Panel Maintenance Brimfield MA - Professional Repair Service",
- "metaDescription": "Expert solar panel maintenance & repair in Brimfield, MA. Maximize efficiency, prevent failures, extend system life. 15+ years experience. Free inspection. Call today!",
- "h1": "Solar Panel Maintenance & Repair Services in Brimfield, MA",
- "heroHeadline": "Brimfield's Solar Maintenance Experts Since 2008",
- "heroSubheadline": "Proven Results • Reliable Service • Maximum Performance",
- "serviceDescription": "Protecting your solar energy investment in Brimfield, Massachusetts requires specialized maintenance and expert repairs from professionals who understand both solar technology and local environmental challenges. Our comprehensive solar panel maintenance and repair services ensure your Brimfield system continues delivering optimal energy production and financial savings year after year. With over 15 years serving Brimfield and the Pioneer Valley region, we've built an exceptional reputation for technical expertise, honest service, and customer-focused solutions that maximize the value of your renewable energy investment.\n\nBrimfield's rural character and Massachusetts climate create specific challenges for solar system performance and longevity. Our maintenance services address these factors with professional panel cleaning that removes efficiency-reducing contaminants including seasonal pollen, tree debris, agricultural dust, and environmental buildup that can decrease output by up to 25%. We perform comprehensive electrical inspections covering all system components from panels to inverters, testing connections, measuring performance, and identifying potential issues before they cause downtime or expensive failures. Our NABCEP-certified technicians use advanced diagnostic equipment to ensure your Brimfield solar system operates at peak capacity.\n\nWhen repairs are needed, quick professional service minimizes energy production losses and prevents further damage. We handle all types of solar system repairs including inverter diagnostics and replacement, damaged or underperforming panel repair/replacement, electrical wiring and connection repairs, mounting system structural repairs and adjustments, and monitoring system troubleshooting and restoration. Our service vehicles carry comprehensive parts inventory for major brands, allowing immediate repair completion whenever possible. Whether addressing storm damage, equipment degradation, or sudden failures, our Brimfield solar repair specialists provide efficient, lasting solutions.\n\nWe service residential and commercial solar installations throughout Brimfield and surrounding Hampden County communities. Our maintenance programs are customized based on each system's age, size, equipment type, and site-specific conditions. Regular professional maintenance extends system life, maintains warranty coverage, and ensures maximum energy production. Trust Brimfield's solar service experts to protect and optimize your clean energy investment for decades of peak performance.",
- "shortDescription": "Professional solar panel maintenance and repair in Brimfield, MA. Our certified technicians provide thorough inspections, expert cleaning, and fast repairs for all solar brands. Serving Brimfield and the Pioneer Valley with excellence and reliability.",
- "benefits": [
-  "Increase energy output up to 25% through professional cleaning and optimization",
-  "Prevent expensive repairs with proactive maintenance and inspections",
-  "Local Brimfield service with fast response times when you need us",
-  "NABCEP-certified technicians with extensive solar expertise",
-  "Service all major solar panel brands and inverter systems",
-  "Detailed service reports for warranty compliance and documentation",
-  "Advanced diagnostic equipment including thermal imaging",
-  "Maintenance plans designed for Brimfield's rural environment"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free Consultation & Scheduling",
-   "description": "Contact us to discuss your Brimfield solar system's maintenance needs or repair concerns. We'll answer questions, provide guidance, and schedule a convenient service appointment."
-  },
-  {
-   "step": 2,
-   "title": "Comprehensive System Inspection",
-   "description": "Our certified technicians perform a detailed evaluation of your entire solar installation including panels, mounting hardware, inverters, wiring, safety equipment, and monitoring systems using professional diagnostic tools."
-  },
-  {
-   "step": 3,
-   "title": "Professional Cleaning & Maintenance",
-   "description": "We clean your solar panels using specialized equipment and purified water that safely removes contaminants without damaging protective coatings. All electrical connections are tested, tightened, and checked for deterioration."
-  },
-  {
-   "step": 4,
-   "title": "Expert Repair Services",
-   "description": "If repairs are needed, we provide clear explanations and transparent pricing before proceeding. Most repairs are completed immediately using our extensive parts inventory. Complex repairs are scheduled with realistic timelines."
-  },
-  {
-   "step": 5,
-   "title": "Performance Verification & Documentation",
-   "description": "After service, we test your system to verify optimal operation. You receive a comprehensive report with performance data, photos, and recommendations for maintaining peak efficiency in Brimfield's climate."
-  }
- ],
- "features": [
-  "Safe, professional solar panel cleaning services",
-  "Complete inverter diagnostics and repair/replacement",
-  "Electrical testing with advanced thermal imaging",
-  "Mounting system structural integrity assessments",
-  "Production monitoring diagnostics and optimization",
-  "Storm damage assessment and emergency repairs",
-  "Annual maintenance contracts with priority service",
-  "Energy production analysis and consultation"
- ],
- "pricingInfo": "Solar panel maintenance in Brimfield starts at $175 for residential systems. Annual maintenance programs range from $299-$599 based on system size. Repair pricing varies: inverter repairs $500-$2,000, panel replacement $350-$900 per panel, electrical repairs $150-$600. Free diagnostic evaluations provided with transparent, upfront pricing.",
- "serviceArea": "Brimfield, MA and surrounding communities including Wales, Palmer, Warren, Sturbridge, and all of Hampden County",
- "availability": "Monday - Friday: 7:00 AM - 6:00 PM, Saturday: 8:00 AM - 4:00 PM, Emergency service available",
- "responseTime": "Emergency repairs within 24 hours, routine maintenance within 1 week",
- "qualifications": [
-  "NABCEP Certified PV Installation Professionals",
-  "Massachusetts Licensed Electricians",
-  "Manufacturer-Certified Service Technicians",
-  "Fully Insured and Bonded"
- ],
- "yearsExperience": "15+ years",
- "projectsCompleted": "2,000+ solar systems serviced",
- "guarantees": [
-  "12-month warranty on all repair work",
-  "100% satisfaction guarantee on maintenance",
-  "Performance improvement guarantee"
- ],
- "emergencyAvailable": true,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Professional solar technician performing maintenance on residential solar panels in Brimfield Massachusetts",
-   "caption": "Expert Solar Panel Maintenance & Repair in Brimfield, MA",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar panel professional cleaning service",
-    "caption": "Professional Solar Panel Cleaning in Brimfield",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+  "id": "solar-maintenance-repair-brimfield",
+  "service": "Solar Panel Maintenance & Repair",
+  "serviceSlug": "solar-maintenance-repair",
+  "location": "Brimfield",
+  "locationSlug": "brimfield",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Panel Maintenance Brimfield MA - Professional Repair Service",
+  "metaDescription": "Expert solar panel maintenance & repair in Brimfield, MA. Maximize efficiency, prevent failures, extend system life. 15+ years experience. Free inspection. Call today!",
+  "h1": "Solar Panel Maintenance & Repair Services in Brimfield, MA",
+  "heroHeadline": "Brimfield's Solar Maintenance Experts Since 2008",
+  "heroSubheadline": "Proven Results • Reliable Service • Maximum Performance",
+  "serviceDescription": "Protecting your solar energy investment in Brimfield, Massachusetts requires specialized maintenance and expert repairs from professionals who understand both solar technology and local environmental challenges. Our comprehensive solar panel maintenance and repair services ensure your Brimfield system continues delivering optimal energy production and financial savings year after year. With over 15 years serving Brimfield and the Pioneer Valley region, we've built an exceptional reputation for technical expertise, honest service, and customer-focused solutions that maximize the value of your renewable energy investment.\n\nBrimfield's rural character and Massachusetts climate create specific challenges for solar system performance and longevity. Our maintenance services address these factors with professional panel cleaning that removes efficiency-reducing contaminants including seasonal pollen, tree debris, agricultural dust, and environmental buildup that can decrease output by up to 25%. We perform comprehensive electrical inspections covering all system components from panels to inverters, testing connections, measuring performance, and identifying potential issues before they cause downtime or expensive failures. Our NABCEP-certified technicians use advanced diagnostic equipment to ensure your Brimfield solar system operates at peak capacity.\n\nWhen repairs are needed, quick professional service minimizes energy production losses and prevents further damage. We handle all types of solar system repairs including inverter diagnostics and replacement, damaged or underperforming panel repair/replacement, electrical wiring and connection repairs, mounting system structural repairs and adjustments, and monitoring system troubleshooting and restoration. Our service vehicles carry comprehensive parts inventory for major brands, allowing immediate repair completion whenever possible. Whether addressing storm damage, equipment degradation, or sudden failures, our Brimfield solar repair specialists provide efficient, lasting solutions.\n\nWe service residential and commercial solar installations throughout Brimfield and surrounding Hampden County communities. Our maintenance programs are customized based on each system's age, size, equipment type, and site-specific conditions. Regular professional maintenance extends system life, maintains warranty coverage, and ensures maximum energy production. Trust Brimfield's solar service experts to protect and optimize your clean energy investment for decades of peak performance.",
+  "shortDescription": "Professional solar panel maintenance and repair in Brimfield, MA. Our certified technicians provide thorough inspections, expert cleaning, and fast repairs for all solar brands. Serving Brimfield and the Pioneer Valley with excellence and reliability.",
+  "benefits": [
+    "Increase energy output up to 25% through professional cleaning and optimization",
+    "Prevent expensive repairs with proactive maintenance and inspections",
+    "Local Brimfield service with fast response times when you need us",
+    "NABCEP-certified technicians with extensive solar expertise",
+    "Service all major solar panel brands and inverter systems",
+    "Detailed service reports for warranty compliance and documentation",
+    "Advanced diagnostic equipment including thermal imaging",
+    "Maintenance plans designed for Brimfield's rural environment"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free Consultation & Scheduling",
+      "description": "Contact us to discuss your Brimfield solar system's maintenance needs or repair concerns. We'll answer questions, provide guidance, and schedule a convenient service appointment."
+    },
+    {
+      "step": 2,
+      "title": "Comprehensive System Inspection",
+      "description": "Our certified technicians perform a detailed evaluation of your entire solar installation including panels, mounting hardware, inverters, wiring, safety equipment, and monitoring systems using professional diagnostic tools."
+    },
+    {
+      "step": 3,
+      "title": "Professional Cleaning & Maintenance",
+      "description": "We clean your solar panels using specialized equipment and purified water that safely removes contaminants without damaging protective coatings. All electrical connections are tested, tightened, and checked for deterioration."
+    },
+    {
+      "step": 4,
+      "title": "Expert Repair Services",
+      "description": "If repairs are needed, we provide clear explanations and transparent pricing before proceeding. Most repairs are completed immediately using our extensive parts inventory. Complex repairs are scheduled with realistic timelines."
+    },
+    {
+      "step": 5,
+      "title": "Performance Verification & Documentation",
+      "description": "After service, we test your system to verify optimal operation. You receive a comprehensive report with performance data, photos, and recommendations for maintaining peak efficiency in Brimfield's climate."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1597933534696-84c573a803f3?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar inverter diagnostic and repair service",
-    "caption": "Advanced Solar System Diagnostics",
-    "credit": {
-     "photographer": "Frédéric Paulussen",
-     "unsplashUrl": "https://unsplash.com/photos/LWnD8U2OReU"
+  ],
+  "features": [
+    "Safe, professional solar panel cleaning services",
+    "Complete inverter diagnostics and repair/replacement",
+    "Electrical testing with advanced thermal imaging",
+    "Mounting system structural integrity assessments",
+    "Production monitoring diagnostics and optimization",
+    "Storm damage assessment and emergency repairs",
+    "Annual maintenance contracts with priority service",
+    "Energy production analysis and consultation"
+  ],
+  "pricingInfo": "Solar panel maintenance in Brimfield starts at $175 for residential systems. Annual maintenance programs range from $299-$599 based on system size. Repair pricing varies: inverter repairs $500-$2,000, panel replacement $350-$900 per panel, electrical repairs $150-$600. Free diagnostic evaluations provided with transparent, upfront pricing.",
+  "serviceArea": "Brimfield, MA and surrounding communities including Wales, Palmer, Warren, Sturbridge, and all of Hampden County",
+  "availability": "Monday - Friday: 7:00 AM - 6:00 PM, Saturday: 8:00 AM - 4:00 PM, Emergency service available",
+  "responseTime": "Emergency repairs within 24 hours, routine maintenance within 1 week",
+  "qualifications": [
+    "NABCEP Certified PV Installation Professionals",
+    "Massachusetts Licensed Electricians",
+    "Manufacturer-Certified Service Technicians",
+    "Fully Insured and Bonded"
+  ],
+  "yearsExperience": "15+ years",
+  "projectsCompleted": "2,000+ solar systems serviced",
+  "guarantees": [
+    "12-month warranty on all repair work",
+    "100% satisfaction guarantee on maintenance",
+    "Performance improvement guarantee"
+  ],
+  "emergencyAvailable": true,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional solar technician performing maintenance on residential solar panels in Brimfield Massachusetts",
+      "caption": "Expert Solar Panel Maintenance & Repair in Brimfield, MA",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar panel professional cleaning service",
+        "caption": "Professional Solar Panel Cleaning in Brimfield",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1597933534696-84c573a803f3?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar inverter diagnostic and repair service",
+        "caption": "Advanced Solar System Diagnostics",
+        "credit": {
+          "photographer": "Frédéric Paulussen",
+          "unsplashUrl": "https://unsplash.com/photos/LWnD8U2OReU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Technician repairing solar panel system",
+        "caption": "Expert Solar Panel Repair Services",
+        "credit": {
+          "photographer": "Los Muertos Crew",
+          "unsplashUrl": "https://unsplash.com/photos/Uf3N0g8LqXo"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Clean solar panels producing maximum energy in Brimfield",
+        "caption": "Maximize Your Brimfield Solar Investment",
+        "credit": {
+          "photographer": "Zbynek Burival",
+          "unsplashUrl": "https://unsplash.com/photos/8iZG31eXkks"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Brimfield Homeowners Choose Our Solar Services",
+    "Complete Solar Panel Maintenance Programs",
+    "Professional Solar Repair Services in Brimfield",
+    "Benefits of Regular Solar System Maintenance",
+    "Brimfield Solar Maintenance FAQs",
+    "Contact Brimfield's Premier Solar Service Company"
+  ],
+  "faq": [
+    {
+      "question": "How often should solar panels be maintained in Brimfield, MA?",
+      "answer": "We recommend annual professional maintenance for most Brimfield solar systems. Properties with heavy tree coverage, near agricultural areas, or experiencing significant bird activity may benefit from semi-annual service. Brimfield's rural setting and Massachusetts climate - with spring pollen, summer storms, fall foliage, and winter conditions - make regular professional maintenance essential for sustained peak performance."
+    },
+    {
+      "question": "What are common solar panel problems in Brimfield?",
+      "answer": "Common issues include efficiency loss from accumulated dirt and debris, inverter failures or malfunctions, loose or corroded electrical connections, mounting system deterioration, panel damage from fallen branches or severe weather, and monitoring system errors. Regular maintenance identifies most of these issues early when they're simple and inexpensive to address, preventing costly repairs and production losses."
+    },
+    {
+      "question": "Can dirty panels really impact my energy production?",
+      "answer": "Absolutely. Studies show that dirt, pollen, bird droppings, and environmental debris can reduce solar panel efficiency by 15-25% or even more. In Brimfield's rural environment with abundant trees and seasonal pollen, this buildup occurs faster than in urban areas. Professional cleaning typically restores full efficiency and often pays for itself within months through increased energy production."
+    },
+    {
+      "question": "Do you service all brands of solar equipment?",
+      "answer": "Yes, our Brimfield technicians are trained to service all major solar panel brands (SunPower, LG, Canadian Solar, Trina, REC, Panasonic, etc.) and all inverter types including string inverters (SMA, Fronius, SolarEdge), microinverters (Enphase, APsystems), and hybrid systems. We maintain manufacturer relationships for technical support and genuine replacement parts."
+    },
+    {
+      "question": "What's included in your solar maintenance service?",
+      "answer": "Our comprehensive Brimfield maintenance includes professional panel cleaning with purified water, complete electrical system inspection, inverter testing and diagnostics, connection testing and tightening, mounting hardware structural checks, monitoring system verification, performance measurement, thermal imaging when needed, and a detailed service report with photos and recommendations for optimal system care."
+    },
+    {
+      "question": "How much does solar panel maintenance cost?",
+      "answer": "Basic residential maintenance in Brimfield starts at $175. Annual maintenance contracts providing the best value range from $299-$599 based on system size and service frequency. Most Brimfield homeowners find annual plans cost-effective since professional cleaning alone often increases production enough to offset the service cost, while also preventing expensive repairs."
+    },
+    {
+      "question": "Do you offer emergency repair services in Brimfield?",
+      "answer": "Yes, we provide emergency repair services for urgent situations including storm damage, complete system failures, electrical hazards, and major inverter malfunctions. We understand that every day your Brimfield solar system is down means lost energy production and higher utility bills. Our emergency team typically responds within 24 hours to diagnose problems and begin repairs."
+    },
+    {
+      "question": "Will maintenance help my solar warranty stay valid?",
+      "answer": "Yes, most solar panel and inverter manufacturers require proof of regular professional maintenance to honor warranty claims. We provide detailed documentation for every service visit that satisfies these requirements. Proper maintenance also prevents many issues that would otherwise require warranty service or expensive out-of-pocket repairs, making it essential for protecting your Brimfield solar investment."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Technician repairing solar panel system",
-    "caption": "Expert Solar Panel Repair Services",
-    "credit": {
-     "photographer": "Los Muertos Crew",
-     "unsplashUrl": "https://unsplash.com/photos/Uf3N0g8LqXo"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Clean solar panels producing maximum energy in Brimfield",
-    "caption": "Maximize Your Brimfield Solar Investment",
-    "credit": {
-     "photographer": "Zbynek Burival",
-     "unsplashUrl": "https://unsplash.com/photos/8iZG31eXkks"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Brimfield Homeowners Choose Our Solar Services",
-  "Complete Solar Panel Maintenance Programs",
-  "Professional Solar Repair Services in Brimfield",
-  "Benefits of Regular Solar System Maintenance",
-  "Brimfield Solar Maintenance FAQs",
-  "Contact Brimfield's Premier Solar Service Company"
- ],
- "faq": [
-  {
-   "question": "How often should solar panels be maintained in Brimfield, MA?",
-   "answer": "We recommend annual professional maintenance for most Brimfield solar systems. Properties with heavy tree coverage, near agricultural areas, or experiencing significant bird activity may benefit from semi-annual service. Brimfield's rural setting and Massachusetts climate - with spring pollen, summer storms, fall foliage, and winter conditions - make regular professional maintenance essential for sustained peak performance."
-  },
-  {
-   "question": "What are common solar panel problems in Brimfield?",
-   "answer": "Common issues include efficiency loss from accumulated dirt and debris, inverter failures or malfunctions, loose or corroded electrical connections, mounting system deterioration, panel damage from fallen branches or severe weather, and monitoring system errors. Regular maintenance identifies most of these issues early when they're simple and inexpensive to address, preventing costly repairs and production losses."
-  },
-  {
-   "question": "Can dirty panels really impact my energy production?",
-   "answer": "Absolutely. Studies show that dirt, pollen, bird droppings, and environmental debris can reduce solar panel efficiency by 15-25% or even more. In Brimfield's rural environment with abundant trees and seasonal pollen, this buildup occurs faster than in urban areas. Professional cleaning typically restores full efficiency and often pays for itself within months through increased energy production."
-  },
-  {
-   "question": "Do you service all brands of solar equipment?",
-   "answer": "Yes, our Brimfield technicians are trained to service all major solar panel brands (SunPower, LG, Canadian Solar, Trina, REC, Panasonic, etc.) and all inverter types including string inverters (SMA, Fronius, SolarEdge), microinverters (Enphase, APsystems), and hybrid systems. We maintain manufacturer relationships for technical support and genuine replacement parts."
-  },
-  {
-   "question": "What's included in your solar maintenance service?",
-   "answer": "Our comprehensive Brimfield maintenance includes professional panel cleaning with purified water, complete electrical system inspection, inverter testing and diagnostics, connection testing and tightening, mounting hardware structural checks, monitoring system verification, performance measurement, thermal imaging when needed, and a detailed service report with photos and recommendations for optimal system care."
-  },
-  {
-   "question": "How much does solar panel maintenance cost?",
-   "answer": "Basic residential maintenance in Brimfield starts at $175. Annual maintenance contracts providing the best value range from $299-$599 based on system size and service frequency. Most Brimfield homeowners find annual plans cost-effective since professional cleaning alone often increases production enough to offset the service cost, while also preventing expensive repairs."
-  },
-  {
-   "question": "Do you offer emergency repair services in Brimfield?",
-   "answer": "Yes, we provide emergency repair services for urgent situations including storm damage, complete system failures, electrical hazards, and major inverter malfunctions. We understand that every day your Brimfield solar system is down means lost energy production and higher utility bills. Our emergency team typically responds within 24 hours to diagnose problems and begin repairs."
-  },
-  {
-   "question": "Will maintenance help my solar warranty stay valid?",
-   "answer": "Yes, most solar panel and inverter manufacturers require proof of regular professional maintenance to honor warranty claims. We provide detailed documentation for every service visit that satisfies these requirements. Proper maintenance also prevents many issues that would otherwise require warranty service or expensive out-of-pocket repairs, making it essential for protecting your Brimfield solar investment."
-  }
- ],
- "keywords": [
-  "solar panel maintenance",
-  "solar panel repair",
-  "solar cleaning services",
-  "solar inspection",
-  "inverter repair",
-  "solar optimization"
- ],
- "localKeywords": [
-  "solar maintenance Brimfield MA",
-  "solar repair Brimfield Massachusetts",
-  "solar panel cleaning Brimfield",
-  "Hampden County solar service",
-  "Brimfield solar technician"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Schedule Brimfield Solar Maintenance Today",
- "ctaSecondary": "Get Free System Inspection",
- "ctaUrgency": "Protect Your Solar Investment - Book Now"
+  ],
+  "keywords": [
+    "solar panel maintenance",
+    "solar panel repair",
+    "solar cleaning services",
+    "solar inspection",
+    "inverter repair",
+    "solar optimization"
+  ],
+  "localKeywords": [
+    "solar maintenance Brimfield MA",
+    "solar repair Brimfield Massachusetts",
+    "solar panel cleaning Brimfield",
+    "Hampden County solar service",
+    "Brimfield solar technician"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Schedule Brimfield Solar Maintenance Today",
+  "ctaSecondary": "Get Free System Inspection",
+  "ctaUrgency": "Protect Your Solar Investment - Book Now"
 }

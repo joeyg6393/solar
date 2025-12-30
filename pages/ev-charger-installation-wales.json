@@ -1,195 +1,195 @@
 {
- "id": "ev-charger-installation-wales",
- "service": "EV Charger Installation",
- "serviceSlug": "ev-charger-installation",
- "location": "Wales",
- "locationSlug": "wales",
- "serviceNiche": "Solar Installers",
- "pageTitle": "EV Charger Installation Wales MA - Fast Home Charging Setup",
- "metaDescription": "Professional EV charger installation in Wales, MA. Tesla, ChargePoint & JuiceBox certified installers. Level 2 home charging. financings available. Call now!",
- "h1": "EV Charger Installation in Wales, Massachusetts",
- "heroHeadline": "Expert EV Charger Installation for Wales Homes",
- "heroSubheadline": "Level 2 Fast Charging • All Major Brands • Licensed MA Electricians • Financing Optionss Up to $1,000",
- "serviceDescription": "Welcome to Wales' premier EV charger installation service, where we help environmentally-conscious homeowners embrace the convenience and savings of home electric vehicle charging. This small, scenic Hampden County town is home to a growing community of forward-thinking EV owners who appreciate the practicality and cost-effectiveness of charging at home rather than relying on public charging infrastructure. Our team of Massachusetts-licensed electricians specializes in professional EV charger installation for all major brands, ensuring your home charging station is installed safely, efficiently, and optimized for years of reliable performance.\n\nWales homeowners face unique considerations when installing EV chargers, from the town's rural character and rolling hills to diverse property types ranging from historic homes to modern builds. Our experienced team understands these challenges and has successfully installed EV chargers throughout Wales' different neighborhoods and property configurations. We install Tesla Wall Connectors, ChargePoint Home Flex, JuiceBox, Grizzl-E, Emporia, and all other popular EV charging brands, customizing each installation to your home's specific electrical infrastructure and your vehicle's charging requirements.\n\nOur comprehensive installation service handles every aspect of your EV charging project from consultation through final activation and owner training. We begin with a detailed assessment of your Wales home's electrical system, evaluating current panel capacity, identifying the optimal charger location for maximum convenience and efficiency, and determining if any electrical upgrades would improve performance or safety. Many homes in Wales, particularly older or more rural properties, benefit from electrical panel upgrades to fully support the faster charging speeds of Level 2 chargers—we seamlessly incorporate these upgrades into our installation service. We also manage all permit applications with the Town of Wales and coordinate required electrical inspections, ensuring a smooth, hassle-free experience.\n\nInvesting in home EV charging in Wales makes excellent financial sense. flexible financings cover up to 30% of installation costs (maximum $1,000), and Massachusetts periodically offers additional flexible financing through programs like MassCEC and MassSave. When you add the ongoing savings from charging at home versus using expensive public charging stations—not to mention the convenience of never needing to stop at a gas station—the investment pays for itself remarkably quickly. For maximum environmental benefit and energy independence, consider pairing your EV charger with a home solar panel system. We specialize in integrated solar and EV charging solutions that allow you to power your vehicle with clean, renewable energy generated right on your Wales property.",
- "shortDescription": "Expert EV charger installation for Wales, MA homes. We install all major brands: Tesla, ChargePoint, JuiceBox, Grizzl-E. Licensed MA electricians, panel upgrades available, smart charging features. Federal financing options up to $1,000. Free consultation.",
- "benefits": [
-  "Certified installation for Tesla, ChargePoint, JuiceBox, Grizzl-E & all major brands",
-  "Experienced with Wales and Hampden County electrical requirements",
-  "Complete electrical system assessments and panel upgrades when needed",
-  "Smart charger setup with Wi-Fi connectivity and mobile app integration",
-  "Same-week installation available for Wales residents",
-  "Charge your EV 7-10x faster than standard 120V outlets",
-  "flexible financing up to $1,000 plus Massachusetts financing options",
-  "Solar panel integration for renewable, cost-free EV charging"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free In-Home Consultation",
-   "description": "We visit your Wales property to assess your electrical infrastructure, understand your EV charging needs and driving patterns, review your vehicle specifications, and recommend the ideal charger model and installation location for optimal convenience."
-  },
-  {
-   "step": 2,
-   "title": "Complete Electrical Assessment",
-   "description": "Our licensed electricians thoroughly inspect your electrical panel, measure available capacity, determine if upgrades would be beneficial, and plan the most efficient and safe wiring route from panel to your chosen charger location."
-  },
-  {
-   "step": 3,
-   "title": "Permits & Installation Planning",
-   "description": "We handle all permit applications with the Town of Wales Building Department, coordinate any required inspections, and schedule your installation at a time that works best for your schedule."
-  },
-  {
-   "step": 4,
-   "title": "Professional Installation Day",
-   "description": "Our certified installation team arrives on time to professionally mount your EV charger, run code-compliant electrical wiring, perform any necessary panel upgrades, and ensure everything meets Massachusetts electrical code standards."
-  },
-  {
-   "step": 5,
-   "title": "Testing, Activation & Owner Training",
-   "description": "We comprehensively test your new charging station, configure all smart features and Wi-Fi connectivity, demonstrate proper operation, and provide complete training so you're fully confident using your home charger."
-  }
- ],
- "features": [
-  "All major brands: Tesla Wall Connector, ChargePoint, JuiceBox, Grizzl-E, Emporia, Wallbox",
-  "Electrical panel service upgrades from 100-amp to 200-amp or higher capacity",
-  "Hardwired installations and NEMA 14-50 plug-in options available",
-  "Indoor garage and outdoor driveway mounting solutions",
-  "Wi-Fi enabled smart chargers with scheduling and energy monitoring",
-  "Professional cable management and cord organization systems",
-  "Weather-resistant outdoor installations designed for Massachusetts winters",
-  "Seamless integration with existing or planned solar panel systems"
- ],
- "pricingInfo": "EV charger installation in Wales typically ranges from $800-$2,500 depending on the charger model selected, distance from your electrical panel, and whether panel upgrades are required. Many installations qualify for the federal Alternative Fuel Infrastructure financing (30% of costs up to $1,000) plus Massachusetts financing options through MassCEC programs. We provide complimentary in-home consultations with detailed, transparent pricing—no hidden fees or surprises. Financing options available for qualified homeowners.",
- "serviceArea": "Wales and surrounding communities including Brimfield, Holland, Monson, Palmer, Stafford Springs CT, and areas throughout the Pioneer Valley within 30 miles",
- "availability": "Monday-Saturday 7:00 AM - 6:00 PM. Sunday appointments by request. 24/7 emergency electrical service available",
- "responseTime": "Free consultations within 24-48 hours. Most installations completed within 3-7 business days from consultation",
- "qualifications": [
-  "Massachusetts Licensed Master Electricians",
-  "Connecticut Licensed Electricians (E-1)",
-  "Tesla Certified Wall Connector Installer",
-  "ChargePoint Authorized Installation Professional",
-  "NABCEP Certified Solar Installation Professional",
-  "BBB Accredited Business with A+ Rating",
-  "Fully Insured (General Liability & Workers Comp)"
- ],
- "yearsExperience": "12+ years in electrical and renewable energy installation",
- "projectsCompleted": "500+ solar installations, 200+ EV charger installations across MA & CT",
- "guarantees": [
-  "Lifetime workmanship warranty on all electrical installations",
-  "Full manufacturer warranties on all chargers (typically 3-5 years)",
-  "Code-compliant installation guaranteed to pass inspection",
-  "100% customer satisfaction guarantee"
- ],
- "emergencyAvailable": true,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Modern EV charger installation at Wales MA residence",
-   "caption": "Professional Level 2 EV Charger Installation in Wales",
-   "credit": {
-    "photographer": "Ernest Ojeh",
-    "unsplashUrl": "https://unsplash.com/photos/3j_UGLPknAg"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1617788138017-271673fe7e12?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Electric vehicle charging at residential charging station",
-    "caption": "Convenient Home Charging for All Electric Vehicles",
-    "credit": {
-     "photographer": "Bram Van Oost",
-     "unsplashUrl": "https://unsplash.com/photos/bPBxqBChGlU"
+  "id": "ev-charger-installation-wales",
+  "service": "EV Charger Installation",
+  "serviceSlug": "ev-charger-installation",
+  "location": "Wales",
+  "locationSlug": "wales",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "EV Charger Installation Wales MA - Fast Home Charging Setup",
+  "metaDescription": "Professional EV charger installation in Wales, MA. Tesla, ChargePoint & JuiceBox certified installers. Level 2 home charging. benefits available. Call now!",
+  "h1": "EV Charger Installation in Wales, Massachusetts",
+  "heroHeadline": "Expert EV Charger Installation for Wales Homes",
+  "heroSubheadline": "Level 2 Fast Charging • All Major Brands • Licensed MA Electricians • Financing Options Up to $1,000",
+  "serviceDescription": "Welcome to Wales' premier EV charger installation service, where we help environmentally-conscious homeowners embrace the convenience and savings of home electric vehicle charging. This small, scenic Hampden County town is home to a growing community of forward-thinking EV owners who appreciate the practicality and cost-effectiveness of charging at home rather than relying on public charging infrastructure. Our team of Massachusetts-licensed electricians specializes in professional EV charger installation for all major brands, ensuring your home charging station is installed safely, efficiently, and optimized for years of reliable performance.\n\nWales homeowners face unique considerations when installing EV chargers, from the town's rural character and rolling hills to diverse property types ranging from historic homes to modern builds. Our experienced team understands these challenges and has successfully installed EV chargers throughout Wales' different neighborhoods and property configurations. We install Tesla Wall Connectors, ChargePoint Home Flex, JuiceBox, Grizzl-E, Emporia, and all other popular EV charging brands, customizing each installation to your home's specific electrical infrastructure and your vehicle's charging requirements.\n\nOur comprehensive installation service handles every aspect of your EV charging project from consultation through final activation and owner training. We begin with a detailed assessment of your Wales home's electrical system, evaluating current panel capacity, identifying the optimal charger location for maximum convenience and efficiency, and determining if any electrical upgrades would improve performance or safety. Many homes in Wales, particularly older or more rural properties, benefit from electrical panel upgrades to fully support the faster charging speeds of Level 2 chargers—we seamlessly incorporate these upgrades into our installation service. We also manage all permit applications with the Town of Wales and coordinate required electrical inspections, ensuring a smooth, hassle-free experience.\n\nInvesting in home EV charging in Wales makes excellent financial sense. flexible benefits cover up to 30% of installation costs (maximum $1,000), and Massachusetts periodically offers additional flexible financing through programs like MassCEC and MassSave. When you add the ongoing savings from charging at home versus using expensive public charging stations—not to mention the convenience of never needing to stop at a gas station—the investment pays for itself remarkably quickly. For maximum environmental benefit and energy independence, consider pairing your EV charger with a home solar panel system. We specialize in integrated solar and EV charging solutions that allow you to power your vehicle with clean, renewable energy generated right on your Wales property.",
+  "shortDescription": "Expert EV charger installation for Wales, MA homes. We install all major brands: Tesla, ChargePoint, JuiceBox, Grizzl-E. Licensed MA electricians, panel upgrades available, smart charging features. Federal financing options up to $1,000. Free consultation.",
+  "benefits": [
+    "Certified installation for Tesla, ChargePoint, JuiceBox, Grizzl-E & all major brands",
+    "Experienced with Wales and Hampden County electrical requirements",
+    "Complete electrical system assessments and panel upgrades when needed",
+    "Smart charger setup with Wi-Fi connectivity and mobile app integration",
+    "Same-week installation available for Wales residents",
+    "Charge your EV 7-10x faster than standard 120V outlets",
+    "flexible financing up to $1,000 plus Massachusetts financing options",
+    "Solar panel integration for renewable, cost-free EV charging"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free In-Home Consultation",
+      "description": "We visit your Wales property to assess your electrical infrastructure, understand your EV charging needs and driving patterns, review your vehicle specifications, and recommend the ideal charger model and installation location for optimal convenience."
+    },
+    {
+      "step": 2,
+      "title": "Complete Electrical Assessment",
+      "description": "Our licensed electricians thoroughly inspect your electrical panel, measure available capacity, determine if upgrades would be beneficial, and plan the most efficient and safe wiring route from panel to your chosen charger location."
+    },
+    {
+      "step": 3,
+      "title": "Permits & Installation Planning",
+      "description": "We handle all permit applications with the Town of Wales Building Department, coordinate any required inspections, and schedule your installation at a time that works best for your schedule."
+    },
+    {
+      "step": 4,
+      "title": "Professional Installation Day",
+      "description": "Our certified installation team arrives on time to professionally mount your EV charger, run code-compliant electrical wiring, perform any necessary panel upgrades, and ensure everything meets Massachusetts electrical code standards."
+    },
+    {
+      "step": 5,
+      "title": "Testing, Activation & Owner Training",
+      "description": "We comprehensively test your new charging station, configure all smart features and Wi-Fi connectivity, demonstrate proper operation, and provide complete training so you're fully confident using your home charger."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1609877431748-f0c155e9f42c?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Professional electrician installing home EV charger equipment",
-    "caption": "Licensed Massachusetts Electricians Serving Wales",
-    "credit": {
-     "photographer": "Precious Plastic Melbourne",
-     "unsplashUrl": "https://unsplash.com/photos/AWr0YHdD8Aw"
+  ],
+  "features": [
+    "All major brands: Tesla Wall Connector, ChargePoint, JuiceBox, Grizzl-E, Emporia, Wallbox",
+    "Electrical panel service upgrades from 100-amp to 200-amp or higher capacity",
+    "Hardwired installations and NEMA 14-50 plug-in options available",
+    "Indoor garage and outdoor driveway mounting solutions",
+    "Wi-Fi enabled smart chargers with scheduling and energy monitoring",
+    "Professional cable management and cord organization systems",
+    "Weather-resistant outdoor installations designed for Massachusetts winters",
+    "Seamless integration with existing or planned solar panel systems"
+  ],
+  "pricingInfo": "EV charger installation in Wales typically ranges from $800-$2,500 depending on the charger model selected, distance from your electrical panel, and whether panel upgrades are required. Many installations qualify for the federal Alternative Fuel Infrastructure financing (30% of costs up to $1,000) plus Massachusetts financing options through MassCEC programs. We provide complimentary in-home consultations with detailed, transparent pricing—no hidden fees or surprises. Financing options available for qualified homeowners.",
+  "serviceArea": "Wales and surrounding communities including Brimfield, Holland, Monson, Palmer, Stafford Springs CT, and areas throughout the Pioneer Valley within 30 miles",
+  "availability": "Monday-Saturday 7:00 AM - 6:00 PM. Sunday appointments by request. 24/7 emergency electrical service available",
+  "responseTime": "Free consultations within 24-48 hours. Most installations completed within 3-7 business days from consultation",
+  "qualifications": [
+    "Massachusetts Licensed Master Electricians",
+    "Connecticut Licensed Electricians (E-1)",
+    "Tesla Certified Wall Connector Installer",
+    "ChargePoint Authorized Installation Professional",
+    "NABCEP Certified Solar Installation Professional",
+    "BBB Accredited Business with A+ Rating",
+    "Fully Insured (General Liability & Workers Comp)"
+  ],
+  "yearsExperience": "12+ years in electrical and renewable energy installation",
+  "projectsCompleted": "500+ solar installations, 200+ EV charger installations across MA & CT",
+  "guarantees": [
+    "Lifetime workmanship warranty on all electrical installations",
+    "Full manufacturer warranties on all chargers (typically 3-5 years)",
+    "Code-compliant installation guaranteed to pass inspection",
+    "100% customer satisfaction guarantee"
+  ],
+  "emergencyAvailable": true,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Modern EV charger installation at Wales MA residence",
+      "caption": "Professional Level 2 EV Charger Installation in Wales",
+      "credit": {
+        "photographer": "Ernest Ojeh",
+        "unsplashUrl": "https://unsplash.com/photos/3j_UGLPknAg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1617788138017-271673fe7e12?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Electric vehicle charging at residential charging station",
+        "caption": "Convenient Home Charging for All Electric Vehicles",
+        "credit": {
+          "photographer": "Bram Van Oost",
+          "unsplashUrl": "https://unsplash.com/photos/bPBxqBChGlU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1609877431748-f0c155e9f42c?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional electrician installing home EV charger equipment",
+        "caption": "Licensed Massachusetts Electricians Serving Wales",
+        "credit": {
+          "photographer": "Precious Plastic Melbourne",
+          "unsplashUrl": "https://unsplash.com/photos/AWr0YHdD8Aw"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571845459725-56c6c0dc7b46?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Home with solar panels and EV charger integration",
+        "caption": "Combine Solar Power with EV Charging",
+        "credit": {
+          "photographer": "Vivint Solar",
+          "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1633886235149-a476fb15ff85?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "EV charging cable connected to home wall charger",
+        "caption": "Wake Up to a Fully Charged Vehicle Every Morning",
+        "credit": {
+          "photographer": "Zaptec",
+          "unsplashUrl": "https://unsplash.com/photos/FV1BDPEnCPA"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Choose Our EV Charger Installation Service in Wales?",
+    "Complete Home EV Charging Solutions for Wales Homeowners",
+    "Our Professional EV Charger Installation Process",
+    "EV Charger Installation FAQs for Wales MA Residents",
+    "Schedule Your Free Wales EV Charging Consultation"
+  ],
+  "faq": [
+    {
+      "question": "How much does EV charger installation cost in Wales, MA?",
+      "answer": "EV charger installation in Wales typically costs between $800-$2,500, which includes the charger unit, professional installation, electrical work, permit fees, and comprehensive testing. The final cost depends on factors like distance from your electrical panel, whether panel upgrades are needed, and which charger model you select. Most Wales homeowners qualify for the flexible financing of 30% of costs up to $1,000, plus Massachusetts financing options through MassCEC, significantly reducing the net investment. We provide free in-home consultations with detailed, transparent pricing."
+    },
+    {
+      "question": "How long does installation take in Wales?",
+      "answer": "Standard EV charger installations in Wales take 3-5 hours to complete. If your electrical panel requires upgrading to support Level 2 charging, the project may take 6-8 hours or be scheduled across two visits. From initial consultation to driving away with a fully functional home charger, most Wales customers are charging within 3-7 business days. We'll provide an accurate timeline after assessing your specific situation during the free consultation and work around your schedule."
+    },
+    {
+      "question": "Will I need to upgrade my electrical panel for an EV charger?",
+      "answer": "It depends on your home's current electrical capacity. Many homes in Wales have 100-amp or 150-amp electrical panels. Level 2 EV chargers typically require a dedicated 40-60 amp circuit. If your panel is near capacity or you have an older system, we may recommend upgrading to a 200-amp panel. This upgrade not only supports your EV charger but also future-proofs your home for other electrical needs like solar panels, heat pumps, or home additions. Our electricians will assess this during your free consultation."
+    },
+    {
+      "question": "What's the best EV charger brand for Wales' climate?",
+      "answer": "All the major chargers we install—Tesla Wall Connector, ChargePoint Home Flex, JuiceBox, and Grizzl-E—are designed to handle Massachusetts' climate extremes. For outdoor installations in Wales, we particularly recommend the Grizzl-E for its exceptional cold-weather performance and durability in harsh New England winters, or the ChargePoint Home Flex which is NEMA 4 rated for outdoor conditions. We'll recommend the best option based on your installation location, budget, and desired smart features."
+    },
+    {
+      "question": "Can I charge any electric vehicle with a Level 2 home charger?",
+      "answer": "Yes! All electric vehicles sold in North America use the standard J1772 charging connector for Level 2 charging, making them universally compatible with home EV chargers. Tesla vehicles include a J1772 adapter, and Tesla Wall Connectors can charge non-Tesla vehicles with an adapter. Whether you drive a Tesla Model Y, Ford F-150 Lightning, Chevrolet Bolt, Nissan Leaf, Rivian R1S, or any other EV, your home charger will work perfectly."
+    },
+    {
+      "question": "Do you install outdoor EV chargers in Wales?",
+      "answer": "Absolutely! We install both indoor garage chargers and outdoor driveway/carport chargers throughout Wales. Outdoor installations use weather-resistant chargers specifically designed to withstand Massachusetts' climate, including heavy snow, ice, rain, and temperature swings from below zero to over 90 degrees. We'll help determine the ideal location based on where you park, electrical panel location, and property-specific convenience factors."
+    },
+    {
+      "question": "What permits are needed for EV charger installation in Wales?",
+      "answer": "EV charger installations in Wales require an electrical permit from the Town of Wales Building Department to ensure all work meets Massachusetts electrical code and safety standards. We handle all permit applications, submit necessary documentation, and coordinate required inspections on your behalf—you don't need to worry about the paperwork. Our installations always meet or exceed code requirements and pass inspection on the first visit. Permit fees are included in our installation quotes."
+    },
+    {
+      "question": "Can I power my EV with solar panels in Wales?",
+      "answer": "Yes, and it's an excellent investment! By installing solar panels on your Wales home, you can charge your electric vehicle with clean, renewable energy at virtually no cost. We specialize in integrated solar and EV charging installations, designing complete systems that power both your home and vehicle efficiently. This combination maximizes flexible benefits (30% for solar with no cap, plus up to $1,000 for EV charger), dramatically reduces your carbon footprint, and provides maximum long-term energy savings."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1571845459725-56c6c0dc7b46?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Home with solar panels and EV charger integration",
-    "caption": "Combine Solar Power with EV Charging",
-    "credit": {
-     "photographer": "Vivint Solar",
-     "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1633886235149-a476fb15ff85?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "EV charging cable connected to home wall charger",
-    "caption": "Wake Up to a Fully Charged Vehicle Every Morning",
-    "credit": {
-     "photographer": "Zaptec",
-     "unsplashUrl": "https://unsplash.com/photos/FV1BDPEnCPA"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Choose Our EV Charger Installation Service in Wales?",
-  "Complete Home EV Charging Solutions for Wales Homeowners",
-  "Our Professional EV Charger Installation Process",
-  "EV Charger Installation FAQs for Wales MA Residents",
-  "Schedule Your Free Wales EV Charging Consultation"
- ],
- "faq": [
-  {
-   "question": "How much does EV charger installation cost in Wales, MA?",
-   "answer": "EV charger installation in Wales typically costs between $800-$2,500, which includes the charger unit, professional installation, electrical work, permit fees, and comprehensive testing. The final cost depends on factors like distance from your electrical panel, whether panel upgrades are needed, and which charger model you select. Most Wales homeowners qualify for the flexible financing of 30% of costs up to $1,000, plus Massachusetts financing options through MassCEC, significantly reducing the net investment. We provide free in-home consultations with detailed, transparent pricing."
-  },
-  {
-   "question": "How long does installation take in Wales?",
-   "answer": "Standard EV charger installations in Wales take 3-5 hours to complete. If your electrical panel requires upgrading to support Level 2 charging, the project may take 6-8 hours or be scheduled across two visits. From initial consultation to driving away with a fully functional home charger, most Wales customers are charging within 3-7 business days. We'll provide an accurate timeline after assessing your specific situation during the free consultation and work around your schedule."
-  },
-  {
-   "question": "Will I need to upgrade my electrical panel for an EV charger?",
-   "answer": "It depends on your home's current electrical capacity. Many homes in Wales have 100-amp or 150-amp electrical panels. Level 2 EV chargers typically require a dedicated 40-60 amp circuit. If your panel is near capacity or you have an older system, we may recommend upgrading to a 200-amp panel. This upgrade not only supports your EV charger but also future-proofs your home for other electrical needs like solar panels, heat pumps, or home additions. Our electricians will assess this during your free consultation."
-  },
-  {
-   "question": "What's the best EV charger brand for Wales' climate?",
-   "answer": "All the major chargers we install—Tesla Wall Connector, ChargePoint Home Flex, JuiceBox, and Grizzl-E—are designed to handle Massachusetts' climate extremes. For outdoor installations in Wales, we particularly recommend the Grizzl-E for its exceptional cold-weather performance and durability in harsh New England winters, or the ChargePoint Home Flex which is NEMA 4 rated for outdoor conditions. We'll recommend the best option based on your installation location, budget, and desired smart features."
-  },
-  {
-   "question": "Can I charge any electric vehicle with a Level 2 home charger?",
-   "answer": "Yes! All electric vehicles sold in North America use the standard J1772 charging connector for Level 2 charging, making them universally compatible with home EV chargers. Tesla vehicles include a J1772 adapter, and Tesla Wall Connectors can charge non-Tesla vehicles with an adapter. Whether you drive a Tesla Model Y, Ford F-150 Lightning, Chevrolet Bolt, Nissan Leaf, Rivian R1S, or any other EV, your home charger will work perfectly."
-  },
-  {
-   "question": "Do you install outdoor EV chargers in Wales?",
-   "answer": "Absolutely! We install both indoor garage chargers and outdoor driveway/carport chargers throughout Wales. Outdoor installations use weather-resistant chargers specifically designed to withstand Massachusetts' climate, including heavy snow, ice, rain, and temperature swings from below zero to over 90 degrees. We'll help determine the ideal location based on where you park, electrical panel location, and property-specific convenience factors."
-  },
-  {
-   "question": "What permits are needed for EV charger installation in Wales?",
-   "answer": "EV charger installations in Wales require an electrical permit from the Town of Wales Building Department to ensure all work meets Massachusetts electrical code and safety standards. We handle all permit applications, submit necessary documentation, and coordinate required inspections on your behalf—you don't need to worry about the paperwork. Our installations always meet or exceed code requirements and pass inspection on the first visit. Permit fees are included in our installation quotes."
-  },
-  {
-   "question": "Can I power my EV with solar panels in Wales?",
-   "answer": "Yes, and it's an excellent investment! By installing solar panels on your Wales home, you can charge your electric vehicle with clean, renewable energy at virtually no cost. We specialize in integrated solar and EV charging installations, designing complete systems that power both your home and vehicle efficiently. This combination maximizes flexible financings (30% for solar with no cap, plus up to $1,000 for EV charger), dramatically reduces your carbon footprint, and provides maximum long-term energy savings."
-  }
- ],
- "keywords": [
-  "EV charger installation",
-  "home EV charging station",
-  "Level 2 charger",
-  "electric vehicle charger",
-  "Tesla Wall Connector",
-  "ChargePoint installation",
-  "home electric car charger"
- ],
- "localKeywords": [
-  "EV charger installation Wales MA",
-  "electric car charger Wales Massachusetts",
-  "Tesla charger Wales",
-  "home EV charging Hampden County",
-  "Level 2 charger Wales",
-  "EV charging station Wales"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Schedule Your Free EV Charging Consultation",
- "ctaSecondary": "Get Your Custom Installation Quote",
- "ctaUrgency": "special offer Up to $1,000 Available Now"
+  ],
+  "keywords": [
+    "EV charger installation",
+    "home EV charging station",
+    "Level 2 charger",
+    "electric vehicle charger",
+    "Tesla Wall Connector",
+    "ChargePoint installation",
+    "home electric car charger"
+  ],
+  "localKeywords": [
+    "EV charger installation Wales MA",
+    "electric car charger Wales Massachusetts",
+    "Tesla charger Wales",
+    "home EV charging Hampden County",
+    "Level 2 charger Wales",
+    "EV charging station Wales"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Schedule Your Free EV Charging Consultation",
+  "ctaSecondary": "Get Your Custom Installation Quote",
+  "ctaUrgency": "special offer Up to $1,000 Available Now"
 }

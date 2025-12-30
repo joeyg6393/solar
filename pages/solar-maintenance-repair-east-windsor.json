@@ -1,190 +1,190 @@
 {
- "id": "solar-maintenance-repair-east-windsor",
- "service": "Solar Panel Maintenance & Repair",
- "serviceSlug": "solar-maintenance-repair",
- "location": "East Windsor",
- "locationSlug": "east-windsor",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Panel Maintenance East Windsor CT - Professional Repair Services",
- "metaDescription": "Trusted solar panel maintenance & repair in East Windsor, CT. Expert technicians, same-day service, all brands. Maximize efficiency & prevent failures. Free quote!",
- "h1": "Solar Panel Maintenance & Repair in East Windsor, CT",
- "heroHeadline": "East Windsor's Solar Maintenance Experts Since 2008",
- "heroSubheadline": "Reliable Service • Superior Results • Customer Satisfaction Guaranteed",
- "serviceDescription": "Maintaining peak solar performance in East Windsor, Connecticut requires professional expertise and consistent care from specialists who understand both solar technology and local environmental conditions. Our comprehensive solar panel maintenance and repair services ensure your renewable energy investment continues delivering maximum savings and performance for decades to come. Serving East Windsor and the Hartford County region for over 15 years, we've earned our reputation as the area's most trusted solar service provider through technical excellence and unwavering commitment to customer satisfaction.\n\nEast Windsor's location presents unique challenges for solar systems, from seasonal weather patterns to environmental factors that can impact panel efficiency. Our maintenance services address these challenges head-on with professional panel cleaning that removes efficiency-robbing contamination including pollen, road dust, tree debris, and bird droppings. We perform meticulous electrical inspections, testing all system components from panels to inverters to ensure safe, optimal operation. Our state-of-the-art diagnostic equipment measures real-world performance against manufacturer specifications, identifying even subtle issues before they reduce your energy production or cause component failures.\n\nWhen your East Windsor solar system requires repairs, our certified technicians bring the knowledge and resources to diagnose and resolve issues quickly. We handle all repair types including inverter troubleshooting and replacement, panel repairs or replacement, electrical connection repairs, mounting system adjustments and reinforcement, and monitoring system restoration. Our service vehicles carry extensive parts inventory for all major brands, allowing us to complete most repairs in a single visit. Whether dealing with gradual performance decline, sudden system failures, or storm damage, you can count on our East Windsor solar repair specialists for fast, effective solutions.\n\nWe pride ourselves on serving all types of solar installations throughout East Windsor, from residential rooftop systems to larger commercial arrays. Our maintenance programs are tailored to each system's unique requirements, considering factors like installation age, equipment type, and site-specific conditions. Investing in regular professional maintenance is the smartest way to protect your solar investment and ensure it delivers maximum value throughout its 25-30 year lifespan and beyond.",
- "shortDescription": "Expert solar panel maintenance and repair in East Windsor, CT. Our NABCEP-certified team provides comprehensive cleaning, inspections, and fast repairs for all solar brands. Keep your system running at peak efficiency with East Windsor's trusted solar service professionals.",
- "benefits": [
-  "Restore peak efficiency with professional cleaning - up to 25% production increase",
-  "Catch problems early with thorough inspections and prevent costly breakdowns",
-  "Fast emergency repair response for East Windsor area residents",
-  "Highly trained, NABCEP-certified solar service technicians",
-  "Complete service capability for all major solar equipment brands",
-  "Transparent pricing with detailed quotes before work begins",
-  "Comprehensive service documentation for warranty validation",
-  "Customized maintenance schedules optimized for East Windsor conditions"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Easy Scheduling & Consultation",
-   "description": "Contact us to schedule your maintenance or discuss repair needs. We'll gather details about your East Windsor solar system and arrange a convenient service time that works with your schedule."
-  },
-  {
-   "step": 2,
-   "title": "Thorough System Inspection",
-   "description": "Our certified technicians perform a comprehensive evaluation of your complete solar installation. We inspect panels, mounting structures, inverters, wiring, safety equipment, and monitoring systems using professional diagnostic tools."
-  },
-  {
-   "step": 3,
-   "title": "Expert Cleaning & Maintenance",
-   "description": "We clean your panels using specialized techniques and equipment designed specifically for photovoltaic systems. All electrical connections undergo testing and tightening, and we check for any signs of deterioration or emerging issues."
-  },
-  {
-   "step": 4,
-   "title": "Repair Services & Solutions",
-   "description": "If repairs are required, we explain the issues clearly and provide transparent pricing. Our well-equipped service vehicles enable immediate repair completion for most common issues. Complex repairs are scheduled promptly with clear timelines."
-  },
-  {
-   "step": 5,
-   "title": "Performance Verification & Documentation",
-   "description": "After service completion, we test your system to confirm optimal performance. You receive a detailed service report including performance metrics, photographic documentation, and expert recommendations for ongoing maintenance."
-  }
- ],
- "features": [
-  "Professional-grade panel cleaning with purified water systems",
-  "Complete inverter diagnostics and firmware management",
-  "Electrical testing with thermal imaging capabilities",
-  "Structural assessment of mounting and racking systems",
-  "Monitoring system calibration and troubleshooting",
-  "Storm damage evaluation and emergency repairs",
-  "Flexible maintenance contracts with priority service",
-  "Performance optimization and energy production analysis"
- ],
- "pricingInfo": "Solar maintenance in East Windsor starts at $175 for standard residential service. Annual maintenance programs range from $299-$599 depending on system size and service level. Repair costs vary by issue: inverter service/replacement $500-$2,000, individual panel replacement $350-$850, electrical repairs $150-$600. Free diagnostic assessment included. We provide clear, upfront pricing with no surprises.",
- "serviceArea": "East Windsor, CT and surrounding Hartford County areas including Windsor Locks, Enfield, South Windsor, and communities within 30 miles",
- "availability": "Monday - Friday: 7:00 AM - 6:00 PM, Saturday: 8:00 AM - 4:00 PM, Emergency repairs available 7 days",
- "responseTime": "Emergency service within 24 hours, standard maintenance scheduled within 5-7 days",
- "qualifications": [
-  "NABCEP PV Installation Professional Certification",
-  "Connecticut Licensed Electrical Contractors",
-  "Factory Trained on All Major Solar Brands",
-  "Fully Insured and Bonded Service Company"
- ],
- "yearsExperience": "15+ years",
- "projectsCompleted": "2,000+ solar systems serviced",
- "guarantees": [
-  "12-month warranty on all repair work",
-  "100% satisfaction guarantee on maintenance",
-  "Performance improvement guarantee on cleaning services"
- ],
- "emergencyAvailable": true,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Professional solar panel maintenance technician working on residential system in East Windsor Connecticut",
-   "caption": "Professional Solar Maintenance & Repair in East Windsor, CT",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Expert solar panel cleaning service in progress",
-    "caption": "Specialized Solar Panel Cleaning Services",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+  "id": "solar-maintenance-repair-east-windsor",
+  "service": "Solar Panel Maintenance & Repair",
+  "serviceSlug": "solar-maintenance-repair",
+  "location": "East Windsor",
+  "locationSlug": "east-windsor",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Panel Maintenance East Windsor CT - Professional Repair Services",
+  "metaDescription": "Trusted solar panel maintenance & repair in East Windsor, CT. Expert technicians, same-day service, all brands. Maximize efficiency & prevent failures. Free quote!",
+  "h1": "Solar Panel Maintenance & Repair in East Windsor, CT",
+  "heroHeadline": "East Windsor's Solar Maintenance Experts Since 2008",
+  "heroSubheadline": "Reliable Service • Superior Results • Customer Satisfaction Guaranteed",
+  "serviceDescription": "Maintaining peak solar performance in East Windsor, Connecticut requires professional expertise and consistent care from specialists who understand both solar technology and local environmental conditions. Our comprehensive solar panel maintenance and repair services ensure your renewable energy investment continues delivering maximum savings and performance for decades to come. Serving East Windsor and the Hartford County region for over 15 years, we've earned our reputation as the area's most trusted solar service provider through technical excellence and unwavering commitment to customer satisfaction.\n\nEast Windsor's location presents unique challenges for solar systems, from seasonal weather patterns to environmental factors that can impact panel efficiency. Our maintenance services address these challenges head-on with professional panel cleaning that removes efficiency-robbing contamination including pollen, road dust, tree debris, and bird droppings. We perform meticulous electrical inspections, testing all system components from panels to inverters to ensure safe, optimal operation. Our state-of-the-art diagnostic equipment measures real-world performance against manufacturer specifications, identifying even subtle issues before they reduce your energy production or cause component failures.\n\nWhen your East Windsor solar system requires repairs, our certified technicians bring the knowledge and resources to diagnose and resolve issues quickly. We handle all repair types including inverter troubleshooting and replacement, panel repairs or replacement, electrical connection repairs, mounting system adjustments and reinforcement, and monitoring system restoration. Our service vehicles carry extensive parts inventory for all major brands, allowing us to complete most repairs in a single visit. Whether dealing with gradual performance decline, sudden system failures, or storm damage, you can count on our East Windsor solar repair specialists for fast, effective solutions.\n\nWe pride ourselves on serving all types of solar installations throughout East Windsor, from residential rooftop systems to larger commercial arrays. Our maintenance programs are tailored to each system's unique requirements, considering factors like installation age, equipment type, and site-specific conditions. Investing in regular professional maintenance is the smartest way to protect your solar investment and ensure it delivers maximum value throughout its 25-30 year lifespan and beyond.",
+  "shortDescription": "Expert solar panel maintenance and repair in East Windsor, CT. Our NABCEP-certified team provides comprehensive cleaning, inspections, and fast repairs for all solar brands. Keep your system running at peak efficiency with East Windsor's trusted solar service professionals.",
+  "benefits": [
+    "Restore peak efficiency with professional cleaning - up to 25% production increase",
+    "Catch problems early with thorough inspections and prevent costly breakdowns",
+    "Fast emergency repair response for East Windsor area residents",
+    "Highly trained, NABCEP-certified solar service technicians",
+    "Complete service capability for all major solar equipment brands",
+    "Transparent pricing with detailed quotes before work begins",
+    "Comprehensive service documentation for warranty validation",
+    "Customized maintenance schedules optimized for East Windsor conditions"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Easy Scheduling & Consultation",
+      "description": "Contact us to schedule your maintenance or discuss repair needs. We'll gather details about your East Windsor solar system and arrange a convenient service time that works with your schedule."
+    },
+    {
+      "step": 2,
+      "title": "Thorough System Inspection",
+      "description": "Our certified technicians perform a comprehensive evaluation of your complete solar installation. We inspect panels, mounting structures, inverters, wiring, safety equipment, and monitoring systems using professional diagnostic tools."
+    },
+    {
+      "step": 3,
+      "title": "Expert Cleaning & Maintenance",
+      "description": "We clean your panels using specialized techniques and equipment designed specifically for photovoltaic systems. All electrical connections undergo testing and tightening, and we check for any signs of deterioration or emerging issues."
+    },
+    {
+      "step": 4,
+      "title": "Repair Services & Solutions",
+      "description": "If repairs are required, we explain the issues clearly and provide transparent pricing. Our well-equipped service vehicles enable immediate repair completion for most common issues. Complex repairs are scheduled promptly with clear timelines."
+    },
+    {
+      "step": 5,
+      "title": "Performance Verification & Documentation",
+      "description": "After service completion, we test your system to confirm optimal performance. You receive a detailed service report including performance metrics, photographic documentation, and expert recommendations for ongoing maintenance."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1597933534696-84c573a803f3?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar inverter diagnostic and repair service",
-    "caption": "Complete Solar System Diagnostics",
-    "credit": {
-     "photographer": "Frédéric Paulussen",
-     "unsplashUrl": "https://unsplash.com/photos/LWnD8U2OReU"
+  ],
+  "features": [
+    "Professional-grade panel cleaning with purified water systems",
+    "Complete inverter diagnostics and firmware management",
+    "Electrical testing with thermal imaging capabilities",
+    "Structural assessment of mounting and racking systems",
+    "Monitoring system calibration and troubleshooting",
+    "Storm damage evaluation and emergency repairs",
+    "Flexible maintenance contracts with priority service",
+    "Performance optimization and energy production analysis"
+  ],
+  "pricingInfo": "Solar maintenance in East Windsor starts at $175 for standard residential service. Annual maintenance programs range from $299-$599 depending on system size and service level. Repair costs vary by issue: inverter service/replacement $500-$2,000, individual panel replacement $350-$850, electrical repairs $150-$600. Free diagnostic assessment included. We provide clear, upfront pricing with no surprises.",
+  "serviceArea": "East Windsor, CT and surrounding Hartford County areas including Windsor Locks, Enfield, South Windsor, and communities within 30 miles",
+  "availability": "Monday - Friday: 7:00 AM - 6:00 PM, Saturday: 8:00 AM - 4:00 PM, Emergency repairs available 7 days",
+  "responseTime": "Emergency service within 24 hours, standard maintenance scheduled within 5-7 days",
+  "qualifications": [
+    "NABCEP PV Installation Professional Certification",
+    "Connecticut Licensed Electrical Contractors",
+    "Factory Trained on All Major Solar Brands",
+    "Fully Insured and Bonded Service Company"
+  ],
+  "yearsExperience": "15+ years",
+  "projectsCompleted": "2,000+ solar systems serviced",
+  "guarantees": [
+    "12-month warranty on all repair work",
+    "100% satisfaction guarantee on maintenance",
+    "Performance improvement guarantee on cleaning services"
+  ],
+  "emergencyAvailable": true,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional solar panel maintenance technician working on residential system in East Windsor Connecticut",
+      "caption": "Professional Solar Maintenance & Repair in East Windsor, CT",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Expert solar panel cleaning service in progress",
+        "caption": "Specialized Solar Panel Cleaning Services",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1597933534696-84c573a803f3?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar inverter diagnostic and repair service",
+        "caption": "Complete Solar System Diagnostics",
+        "credit": {
+          "photographer": "Frédéric Paulussen",
+          "unsplashUrl": "https://unsplash.com/photos/LWnD8U2OReU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Technician repairing solar panel system components",
+        "caption": "Fast, Expert Solar Panel Repairs",
+        "credit": {
+          "photographer": "Los Muertos Crew",
+          "unsplashUrl": "https://unsplash.com/photos/Uf3N0g8LqXo"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Well-maintained solar array producing optimal power",
+        "caption": "Keep Your East Windsor Solar System at Peak Performance",
+        "credit": {
+          "photographer": "Zbynek Burival",
+          "unsplashUrl": "https://unsplash.com/photos/8iZG31eXkks"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why East Windsor Homeowners Choose Our Solar Services",
+    "Complete Solar Panel Maintenance Solutions",
+    "Expert Solar Repair Services in East Windsor",
+    "Protect Your Solar Investment with Regular Maintenance",
+    "East Windsor Solar Maintenance FAQs",
+    "Contact East Windsor's Leading Solar Service Provider"
+  ],
+  "faq": [
+    {
+      "question": "How often do solar panels need maintenance in East Windsor?",
+      "answer": "We recommend annual professional maintenance for most East Windsor solar systems. Systems near agricultural areas, under heavy tree coverage, or experiencing significant bird activity may benefit from semi-annual service. Connecticut's climate - with spring pollen, summer storms, and winter weather - makes regular maintenance especially important for sustained peak performance and system longevity."
+    },
+    {
+      "question": "What are signs my East Windsor solar system needs repair?",
+      "answer": "Common warning signs include decreased energy production, monitoring system error messages, inverter warning lights or unusual sounds, visible panel damage or discoloration, loose mounting hardware, and unexpectedly high electric bills despite having solar. If you notice any of these issues with your East Windsor system, contact us for a free diagnostic evaluation."
+    },
+    {
+      "question": "Can dirty solar panels really reduce my energy production?",
+      "answer": "Yes, significantly. Research shows that accumulated dirt, pollen, bird droppings, and environmental debris can reduce solar panel efficiency by 15-25% or more. In East Windsor, seasonal pollen from spring through summer and road dust are particularly problematic. Professional cleaning often pays for itself within months through increased energy production."
+    },
+    {
+      "question": "Do you service all types of solar equipment?",
+      "answer": "Yes, our East Windsor technicians are trained and certified to service all major solar panel brands (SunPower, LG, Canadian Solar, Trina, REC, Panasonic, etc.) and all inverter types including string inverters (SMA, Fronius, SolarEdge), microinverters (Enphase, APsystems), and hybrid inverters. We maintain manufacturer relationships for technical support and genuine parts."
+    },
+    {
+      "question": "What's included in your maintenance service?",
+      "answer": "Our comprehensive East Windsor maintenance includes: professional panel cleaning with purified water, complete visual and electrical inspection, inverter performance testing and diagnostics, connection testing and tightening, mounting system structural check, monitoring system verification, performance measurement and comparison, thermal imaging (when needed), and a detailed service report with photos and recommendations."
+    },
+    {
+      "question": "How much does solar panel maintenance cost?",
+      "answer": "Basic residential maintenance in East Windsor starts at $175. Annual maintenance contracts offering the best value range from $299-$599 based on system size and service frequency. Many homeowners find annual plans cost-effective since the increased energy production often exceeds the service cost. We provide free assessments and transparent pricing."
+    },
+    {
+      "question": "Do you offer emergency repair services?",
+      "answer": "Yes, we provide emergency repair services for urgent situations including storm damage, complete system failures, electrical hazards, and inverter malfunctions. We understand every day your East Windsor solar system is down means lost energy and higher costs. Our emergency team typically responds within 24 hours to diagnose issues and begin repairs."
+    },
+    {
+      "question": "Will maintenance help validate my solar panel warranty?",
+      "answer": "Yes, most solar panel and inverter warranties require proof of regular professional maintenance to remain valid. We provide detailed service documentation for every maintenance visit, which you can submit to manufacturers if warranty claims become necessary. Proper maintenance also prevents many issues that would otherwise require warranty service or expensive out-of-pocket repairs."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Technician repairing solar panel system components",
-    "caption": "Fast, Expert Solar Panel Repairs",
-    "credit": {
-     "photographer": "Los Muertos Crew",
-     "unsplashUrl": "https://unsplash.com/photos/Uf3N0g8LqXo"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Well-maintained solar array producing optimal power",
-    "caption": "Keep Your East Windsor Solar System at Peak Performance",
-    "credit": {
-     "photographer": "Zbynek Burival",
-     "unsplashUrl": "https://unsplash.com/photos/8iZG31eXkks"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why East Windsor Homeowners Choose Our Solar Services",
-  "Complete Solar Panel Maintenance Solutions",
-  "Expert Solar Repair Services in East Windsor",
-  "Protect Your Solar Investment with Regular Maintenance",
-  "East Windsor Solar Maintenance FAQs",
-  "Contact East Windsor's Leading Solar Service Provider"
- ],
- "faq": [
-  {
-   "question": "How often do solar panels need maintenance in East Windsor?",
-   "answer": "We recommend annual professional maintenance for most East Windsor solar systems. Systems near agricultural areas, under heavy tree coverage, or experiencing significant bird activity may benefit from semi-annual service. Connecticut's climate - with spring pollen, summer storms, and winter weather - makes regular maintenance especially important for sustained peak performance and system longevity."
-  },
-  {
-   "question": "What are signs my East Windsor solar system needs repair?",
-   "answer": "Common warning signs include decreased energy production, monitoring system error messages, inverter warning lights or unusual sounds, visible panel damage or discoloration, loose mounting hardware, and unexpectedly high electric bills despite having solar. If you notice any of these issues with your East Windsor system, contact us for a free diagnostic evaluation."
-  },
-  {
-   "question": "Can dirty solar panels really reduce my energy production?",
-   "answer": "Yes, significantly. Research shows that accumulated dirt, pollen, bird droppings, and environmental debris can reduce solar panel efficiency by 15-25% or more. In East Windsor, seasonal pollen from spring through summer and road dust are particularly problematic. Professional cleaning often pays for itself within months through increased energy production."
-  },
-  {
-   "question": "Do you service all types of solar equipment?",
-   "answer": "Yes, our East Windsor technicians are trained and certified to service all major solar panel brands (SunPower, LG, Canadian Solar, Trina, REC, Panasonic, etc.) and all inverter types including string inverters (SMA, Fronius, SolarEdge), microinverters (Enphase, APsystems), and hybrid inverters. We maintain manufacturer relationships for technical support and genuine parts."
-  },
-  {
-   "question": "What's included in your maintenance service?",
-   "answer": "Our comprehensive East Windsor maintenance includes: professional panel cleaning with purified water, complete visual and electrical inspection, inverter performance testing and diagnostics, connection testing and tightening, mounting system structural check, monitoring system verification, performance measurement and comparison, thermal imaging (when needed), and a detailed service report with photos and recommendations."
-  },
-  {
-   "question": "How much does solar panel maintenance cost?",
-   "answer": "Basic residential maintenance in East Windsor starts at $175. Annual maintenance contracts offering the best value range from $299-$599 based on system size and service frequency. Many homeowners find annual plans cost-effective since the increased energy production often exceeds the service cost. We provide free assessments and transparent pricing."
-  },
-  {
-   "question": "Do you offer emergency repair services?",
-   "answer": "Yes, we provide emergency repair services for urgent situations including storm damage, complete system failures, electrical hazards, and inverter malfunctions. We understand every day your East Windsor solar system is down means lost energy and higher costs. Our emergency team typically responds within 24 hours to diagnose issues and begin repairs."
-  },
-  {
-   "question": "Will maintenance help validate my solar panel warranty?",
-   "answer": "Yes, most solar panel and inverter warranties require proof of regular professional maintenance to remain valid. We provide detailed service documentation for every maintenance visit, which you can submit to manufacturers if warranty claims become necessary. Proper maintenance also prevents many issues that would otherwise require warranty service or expensive out-of-pocket repairs."
-  }
- ],
- "keywords": [
-  "solar panel maintenance",
-  "solar panel repair",
-  "solar system service",
-  "solar cleaning",
-  "inverter repair",
-  "solar inspection"
- ],
- "localKeywords": [
-  "solar maintenance East Windsor CT",
-  "solar repair East Windsor Connecticut",
-  "solar panel cleaning East Windsor",
-  "Hartford County solar service",
-  "East Windsor solar technician"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Book Your East Windsor Solar Maintenance",
- "ctaSecondary": "Request Free System Inspection",
- "ctaUrgency": "Maximize Your Solar ROI - Schedule Service Today"
+  ],
+  "keywords": [
+    "solar panel maintenance",
+    "solar panel repair",
+    "solar system service",
+    "solar cleaning",
+    "inverter repair",
+    "solar inspection"
+  ],
+  "localKeywords": [
+    "solar maintenance East Windsor CT",
+    "solar repair East Windsor Connecticut",
+    "solar panel cleaning East Windsor",
+    "Hartford County solar service",
+    "East Windsor solar technician"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Book Your East Windsor Solar Maintenance",
+  "ctaSecondary": "Request Free System Inspection",
+  "ctaUrgency": "Maximize Your Solar ROI - Schedule Service Today"
 }

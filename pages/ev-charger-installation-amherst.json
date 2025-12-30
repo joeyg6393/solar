@@ -1,197 +1,197 @@
 {
- "id": "ev-charger-installation-amherst",
- "service": "EV Charger Installation",
- "serviceSlug": "ev-charger-installation",
- "location": "Amherst",
- "locationSlug": "amherst",
- "serviceNiche": "Solar Installers",
- "pageTitle": "EV Charger Installation Amherst MA - Tesla & All EVs | Free Quote",
- "metaDescription": "Expert EV charger installation in Amherst, MA. Level 2 charging stations for all electric vehicles. Licensed electricians, solar integration. Get your free consultation today!",
- "h1": "Professional EV Charger Installation in Amherst, Massachusetts",
- "heroHeadline": "Power Your Electric Vehicle at Home in Amherst",
- "heroSubheadline": "Expert Level 2 EV Charging Installation • All Major Brands • Solar Integration • Licensed & Insured",
- "serviceDescription": "Welcome to Amherst's premier electric vehicle charging installation service. As the college town of Amherst continues to lead in environmental consciousness and sustainable living, more residents are making the switch to electric vehicles. Our team of licensed electricians specializes in professional EV charger installation for homes throughout Amherst, helping you enjoy the convenience and cost savings of charging your electric vehicle at home. Whether you're a UMass faculty member, local business owner, or long-time Amherst resident, we provide expert installation services tailored to your specific needs.\n\nOur comprehensive EV charger installation service in Amherst includes everything from initial consultation and electrical system evaluation to final testing and demonstration. We work with all major EV charger brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox, Wallbox Pulsar Plus, and Grizzl-E. Our installations are compatible with every electric vehicle on the market, from Tesla Model Y to Ford Mustang Mach-E, Chevy Bolt to Rivian R1T. We understand that Amherst homes vary widely in age and electrical infrastructure, so we customize each installation to work perfectly with your existing electrical system.\n\nAmherst residents choose home EV charging for the ultimate convenience and significant cost savings. With a Level 2 charging station installed in your garage or carport, you can charge your vehicle while you sleep, attend classes, or enjoy Amherst's vibrant downtown. No more waiting at public charging stations or planning your route around charging locations. Simply plug in when you arrive home, and wake up to a fully charged vehicle ready for your commute to work, campus, or adventures throughout the Pioneer Valley and beyond. Our Level 2 chargers provide 20-35 miles of range per hour of charging, compared to just 3-5 miles per hour with a standard outlet.\n\nAs Amherst's solar and electrical experts, we're uniquely positioned to integrate your EV charger with existing or planned solar panel systems. Many environmentally-conscious Amherst homeowners are pairing solar panels with EV chargers to create a completely sustainable transportation solution. We handle all permitting with the Town of Amherst, ensure code compliance, and provide ongoing support. Our team has served the Amherst community for over a decade, completing hundreds of successful installations with exceptional customer satisfaction.",
- "shortDescription": "Professional EV charger installation in Amherst, MA. Licensed electricians install Level 2 charging stations for Tesla and all electric vehicles. Solar integration specialists. Serving Amherst homeowners and UMass community with expert, reliable service.",
- "benefits": [
-  "Massachusetts licensed electricians with extensive EV charger expertise",
-  "Level 2 fast charging - add 20-35 miles of range per hour",
-  "Tesla Wall Connector certified installation and service",
-  "Universal compatibility - works with all EV brands and models",
-  "Electrical panel evaluation and upgrade services available",
-  "Expert solar panel integration for sustainable EV charging",
-  "Complete permit handling for Town of Amherst requirements",
-  "Smart charger installation with WiFi and app connectivity",
-  "Indoor and outdoor mounting options for any property layout",
-  "Fast scheduling with most installations within 1 week",
-  "Comprehensive 5-year installation warranty included",
-  "Free in-home consultation and transparent pricing"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Complimentary Home Consultation",
-   "description": "We visit your Amherst home to assess your electrical system, identify the optimal charger location, understand your EV charging requirements, and provide a comprehensive quote. We evaluate whether your electrical panel has adequate capacity or if upgrades are recommended."
-  },
-  {
-   "step": 2,
-   "title": "Charger Recommendation & Permitting",
-   "description": "Based on your vehicle type, daily driving patterns, and budget, we recommend the ideal EV charger for your needs. We submit all required permit applications to the Town of Amherst Building Department and ensure compliance with Massachusetts electrical codes."
-  },
-  {
-   "step": 3,
-   "title": "Expert Installation Day",
-   "description": "Our certified electricians arrive at your scheduled time to perform the complete installation. This includes running dedicated electrical circuits, securely mounting your charging station, making all electrical connections to code standards, and implementing proper safety measures and grounding."
-  },
-  {
-   "step": 4,
-   "title": "System Testing & Training",
-   "description": "Once installed, we conduct comprehensive testing of your new EV charger to verify proper operation. We provide hands-on training showing you how to use all features, connect to smartphone apps for smart chargers, and optimize your home charging experience."
-  },
-  {
-   "step": 5,
-   "title": "Inspection & Ongoing Support",
-   "description": "We coordinate the final electrical inspection with Amherst building officials, provide all warranty documentation and installation records, and remain available for any questions or technical support as you begin your home EV charging journey."
-  }
- ],
- "features": [
-  "Level 2 charging stations (240V) for optimal performance",
-  "Smart WiFi-enabled chargers with mobile app control",
-  "Hardwired or NEMA 14-50 plug-in configurations",
-  "All-weather outdoor chargers for harsh New England climate",
-  "Solar integration with load balancing capabilities",
-  "Customizable charging speeds based on electrical capacity",
-  "Professional cable management for clean appearance",
-  "Real-time energy monitoring and usage tracking"
- ],
- "pricingInfo": "EV charger installation costs in Amherst typically range from $900 to $2,800 depending on several factors: charger model selection, distance from electrical panel to installation location, existing electrical capacity, and any necessary panel upgrades. Most standard installations with adequate electrical infrastructure cost between $1,300-$1,900, including the charger unit, all materials, professional labor, and Town of Amherst permits. We provide itemized quotes with complete transparency and no surprise fees. Many Amherst residents qualify for flexible financings up to 30% of installation costs, and Massachusetts offers additional EV incentive programs. We'll help you navigate all available rebates and benefits.",
- "serviceArea": "Amherst, MA and surrounding communities including North Amherst, South Amherst, Cushman, and all of Hampshire County",
- "availability": "Monday-Saturday, 7:00 AM - 6:00 PM. Flexible scheduling for UMass faculty and staff.",
- "responseTime": "Same-day consultation scheduling available, installations typically completed within 5-10 days",
- "qualifications": [
-  "Massachusetts Licensed Electricians (License #E12345)",
-  "NABCEP Certified Solar Installation Professionals",
-  "Tesla Wall Connector Certified Installation Specialists",
-  "ChargePoint Authorized Installation Network Partner",
-  "Comprehensive Insurance - Liability & Workers Comp",
-  "Better Business Bureau A+ Accreditation",
-  "250+ EV Charger Installations in Pioneer Valley"
- ],
- "yearsExperience": "12+ years in electrical and renewable energy installation",
- "projectsCompleted": "500+ solar, electrical, and EV charging projects across Western MA",
- "guarantees": [
-  "5-year comprehensive workmanship warranty",
-  "Full manufacturer warranties on all equipment",
-  "Licensed, bonded, and insured protection",
-  "100% code-compliant installations guaranteed"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Professional EV charging station installation at Amherst MA home",
-   "caption": "Expert EV Charger Installation for Amherst Homeowners",
-   "credit": {
-    "photographer": "Bram Van Oost",
-    "unsplashUrl": "https://unsplash.com/photos/bOH-LPgkRZY"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1617788138017-80ad40651399?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Tesla Model 3 charging at home with Level 2 EV charger",
-    "caption": "Convenient Home Charging for All Electric Vehicles",
-    "credit": {
-     "photographer": "Precious Plastic Melbourne",
-     "unsplashUrl": "https://unsplash.com/photos/lQ6rcifQM7s"
+  "id": "ev-charger-installation-amherst",
+  "service": "EV Charger Installation",
+  "serviceSlug": "ev-charger-installation",
+  "location": "Amherst",
+  "locationSlug": "amherst",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "EV Charger Installation Amherst MA - Tesla & All EVs | Free Quote",
+  "metaDescription": "Expert EV charger installation in Amherst, MA. Level 2 charging stations for all electric vehicles. Licensed electricians, solar integration. Get your free consultation today!",
+  "h1": "Professional EV Charger Installation in Amherst, Massachusetts",
+  "heroHeadline": "Power Your Electric Vehicle at Home in Amherst",
+  "heroSubheadline": "Expert Level 2 EV Charging Installation • All Major Brands • Solar Integration • Licensed & Insured",
+  "serviceDescription": "Welcome to Amherst's premier electric vehicle charging installation service. As the college town of Amherst continues to lead in environmental consciousness and sustainable living, more residents are making the switch to electric vehicles. Our team of licensed electricians specializes in professional EV charger installation for homes throughout Amherst, helping you enjoy the convenience and cost savings of charging your electric vehicle at home. Whether you're a UMass faculty member, local business owner, or long-time Amherst resident, we provide expert installation services tailored to your specific needs.\n\nOur comprehensive EV charger installation service in Amherst includes everything from initial consultation and electrical system evaluation to final testing and demonstration. We work with all major EV charger brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox, Wallbox Pulsar Plus, and Grizzl-E. Our installations are compatible with every electric vehicle on the market, from Tesla Model Y to Ford Mustang Mach-E, Chevy Bolt to Rivian R1T. We understand that Amherst homes vary widely in age and electrical infrastructure, so we customize each installation to work perfectly with your existing electrical system.\n\nAmherst residents choose home EV charging for the ultimate convenience and significant cost savings. With a Level 2 charging station installed in your garage or carport, you can charge your vehicle while you sleep, attend classes, or enjoy Amherst's vibrant downtown. No more waiting at public charging stations or planning your route around charging locations. Simply plug in when you arrive home, and wake up to a fully charged vehicle ready for your commute to work, campus, or adventures throughout the Pioneer Valley and beyond. Our Level 2 chargers provide 20-35 miles of range per hour of charging, compared to just 3-5 miles per hour with a standard outlet.\n\nAs Amherst's solar and electrical experts, we're uniquely positioned to integrate your EV charger with existing or planned solar panel systems. Many environmentally-conscious Amherst homeowners are pairing solar panels with EV chargers to create a completely sustainable transportation solution. We handle all permitting with the Town of Amherst, ensure code compliance, and provide ongoing support. Our team has served the Amherst community for over a decade, completing hundreds of successful installations with exceptional customer satisfaction.",
+  "shortDescription": "Professional EV charger installation in Amherst, MA. Licensed electricians install Level 2 charging stations for Tesla and all electric vehicles. Solar integration specialists. Serving Amherst homeowners and UMass community with expert, reliable service.",
+  "benefits": [
+    "Massachusetts licensed electricians with extensive EV charger expertise",
+    "Level 2 fast charging - add 20-35 miles of range per hour",
+    "Tesla Wall Connector certified installation and service",
+    "Universal compatibility - works with all EV brands and models",
+    "Electrical panel evaluation and upgrade services available",
+    "Expert solar panel integration for sustainable EV charging",
+    "Complete permit handling for Town of Amherst requirements",
+    "Smart charger installation with WiFi and app connectivity",
+    "Indoor and outdoor mounting options for any property layout",
+    "Fast scheduling with most installations within 1 week",
+    "Comprehensive 5-year installation warranty included",
+    "Free in-home consultation and transparent pricing"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Complimentary Home Consultation",
+      "description": "We visit your Amherst home to assess your electrical system, identify the optimal charger location, understand your EV charging requirements, and provide a comprehensive quote. We evaluate whether your electrical panel has adequate capacity or if upgrades are recommended."
+    },
+    {
+      "step": 2,
+      "title": "Charger Recommendation & Permitting",
+      "description": "Based on your vehicle type, daily driving patterns, and budget, we recommend the ideal EV charger for your needs. We submit all required permit applications to the Town of Amherst Building Department and ensure compliance with Massachusetts electrical codes."
+    },
+    {
+      "step": 3,
+      "title": "Expert Installation Day",
+      "description": "Our certified electricians arrive at your scheduled time to perform the complete installation. This includes running dedicated electrical circuits, securely mounting your charging station, making all electrical connections to code standards, and implementing proper safety measures and grounding."
+    },
+    {
+      "step": 4,
+      "title": "System Testing & Training",
+      "description": "Once installed, we conduct comprehensive testing of your new EV charger to verify proper operation. We provide hands-on training showing you how to use all features, connect to smartphone apps for smart chargers, and optimize your home charging experience."
+    },
+    {
+      "step": 5,
+      "title": "Inspection & Ongoing Support",
+      "description": "We coordinate the final electrical inspection with Amherst building officials, provide all warranty documentation and installation records, and remain available for any questions or technical support as you begin your home EV charging journey."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1612548925124-0b9f47c72e29?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Tesla Wall Connector installed in modern garage",
-    "caption": "Tesla Wall Connector Installation by Certified Experts",
-    "credit": {
-     "photographer": "Jp Valery",
-     "unsplashUrl": "https://unsplash.com/photos/mQTTDA_kY_8"
+  ],
+  "features": [
+    "Level 2 charging stations (240V) for optimal performance",
+    "Smart WiFi-enabled chargers with mobile app control",
+    "Hardwired or NEMA 14-50 plug-in configurations",
+    "All-weather outdoor chargers for harsh New England climate",
+    "Solar integration with load balancing capabilities",
+    "Customizable charging speeds based on electrical capacity",
+    "Professional cable management for clean appearance",
+    "Real-time energy monitoring and usage tracking"
+  ],
+  "pricingInfo": "EV charger installation costs in Amherst typically range from $900 to $2,800 depending on several factors: charger model selection, distance from electrical panel to installation location, existing electrical capacity, and any necessary panel upgrades. Most standard installations with adequate electrical infrastructure cost between $1,300-$1,900, including the charger unit, all materials, professional labor, and Town of Amherst permits. We provide itemized quotes with complete transparency and no surprise fees. Many Amherst residents qualify for flexible benefits up to 30% of installation costs, and Massachusetts offers additional EV incentive programs. We'll help you navigate all available rebates and benefits.",
+  "serviceArea": "Amherst, MA and surrounding communities including North Amherst, South Amherst, Cushman, and all of Hampshire County",
+  "availability": "Monday-Saturday, 7:00 AM - 6:00 PM. Flexible scheduling for UMass faculty and staff.",
+  "responseTime": "Same-day consultation scheduling available, installations typically completed within 5-10 days",
+  "qualifications": [
+    "Massachusetts Licensed Electricians (License #E12345)",
+    "NABCEP Certified Solar Installation Professionals",
+    "Tesla Wall Connector Certified Installation Specialists",
+    "ChargePoint Authorized Installation Network Partner",
+    "Comprehensive Insurance - Liability & Workers Comp",
+    "Better Business Bureau A+ Accreditation",
+    "250+ EV Charger Installations in Pioneer Valley"
+  ],
+  "yearsExperience": "12+ years in electrical and renewable energy installation",
+  "projectsCompleted": "500+ solar, electrical, and EV charging projects across Western MA",
+  "guarantees": [
+    "5-year comprehensive workmanship warranty",
+    "Full manufacturer warranties on all equipment",
+    "Licensed, bonded, and insured protection",
+    "100% code-compliant installations guaranteed"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional EV charging station installation at Amherst MA home",
+      "caption": "Expert EV Charger Installation for Amherst Homeowners",
+      "credit": {
+        "photographer": "Bram Van Oost",
+        "unsplashUrl": "https://unsplash.com/photos/bOH-LPgkRZY"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1617788138017-80ad40651399?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Tesla Model 3 charging at home with Level 2 EV charger",
+        "caption": "Convenient Home Charging for All Electric Vehicles",
+        "credit": {
+          "photographer": "Precious Plastic Melbourne",
+          "unsplashUrl": "https://unsplash.com/photos/lQ6rcifQM7s"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1612548925124-0b9f47c72e29?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Tesla Wall Connector installed in modern garage",
+        "caption": "Tesla Wall Connector Installation by Certified Experts",
+        "credit": {
+          "photographer": "Jp Valery",
+          "unsplashUrl": "https://unsplash.com/photos/mQTTDA_kY_8"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1609429019995-8c40f49535a5?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "EV charging cable connected to electric vehicle",
+        "caption": "Compatible with Tesla, Ford, Chevy, Rivian & All EVs",
+        "credit": {
+          "photographer": "Ernest Ojeh",
+          "unsplashUrl": "https://unsplash.com/photos/3v7OvBIw6yU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Modern electric vehicle charging at residential charging station",
+        "caption": "Solar-Powered EV Charging for Sustainable Living",
+        "credit": {
+          "photographer": "Dcbel",
+          "unsplashUrl": "https://unsplash.com/photos/wpUXEHqr4bI"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Amherst Residents Choose Our EV Charger Installation Service",
+    "The Benefits of Level 2 Home EV Charging in Amherst",
+    "Our Proven EV Charger Installation Process",
+    "Top EV Charger Brands We Install for Amherst Homes",
+    "Frequently Asked Questions About EV Charger Installation",
+    "Get Your Free EV Charger Consultation in Amherst Today"
+  ],
+  "faq": [
+    {
+      "question": "How much does EV charger installation cost in Amherst?",
+      "answer": "EV charger installation in Amherst typically costs between $1,300-$1,900 for most standard installations. This includes the Level 2 charger unit, all necessary materials, professional installation labor, and permits. Costs can vary based on the charger model you select, the distance from your electrical panel to the installation location, and whether any electrical upgrades are needed. We provide detailed, transparent quotes during your free consultation."
+    },
+    {
+      "question": "What's the difference between Level 1 and Level 2 EV charging?",
+      "answer": "Level 1 charging uses a standard 120V household outlet and adds about 3-5 miles of range per hour - sufficient for plug-in hybrids but slow for full EVs. Level 2 charging uses 240V (like your dryer) and adds 20-35 miles of range per hour, allowing you to fully charge overnight. For Amherst residents with electric vehicles, Level 2 is the recommended solution for convenient, practical home charging."
+    },
+    {
+      "question": "Can I install an EV charger if I have an older Amherst home?",
+      "answer": "Yes! While older Amherst homes may have 100-amp electrical panels that require upgrading to accommodate an EV charger, we regularly perform these upgrades. During our free consultation, we'll assess your current electrical system and provide recommendations. Many older homes in Amherst's historic neighborhoods have been successfully upgraded to support modern EV charging."
+    },
+    {
+      "question": "How long does the installation take?",
+      "answer": "Most EV charger installations in Amherst are completed in 4-6 hours for homes with adequate electrical capacity and straightforward installation locations. If electrical panel upgrades are required, the complete project typically takes 1-2 days. We work efficiently to minimize disruption while ensuring the highest quality installation."
+    },
+    {
+      "question": "Will an EV charger work with my solar panels?",
+      "answer": "Absolutely! We specialize in integrating EV chargers with solar panel systems, allowing you to charge your vehicle with clean, renewable energy. Many environmentally-conscious Amherst residents pair solar panels with EV chargers for a completely sustainable transportation solution. Smart chargers can be programmed to charge during peak solar production, maximizing your use of self-generated solar energy."
+    },
+    {
+      "question": "What permits are needed for EV charger installation in Amherst?",
+      "answer": "EV charger installations in Amherst require an electrical permit from the Town of Amherst Building Department. We handle all permit applications and submissions on your behalf, schedule required inspections, and ensure your installation meets all local codes and Massachusetts state electrical requirements. Permit fees are typically included in our installation quotes."
+    },
+    {
+      "question": "Can I get financing options or rebates for installing an EV charger?",
+      "answer": "Yes! The federal government offers benefits covering up to 30% of EV charger installation costs (up to $1,000 for residential installations). Massachusetts also periodically offers state rebates through programs like MOR-EV. Some utility companies provide additional benefits. We stay updated on all available programs and help you access every rebate and credit you qualify for."
+    },
+    {
+      "question": "Which EV charger brand do you recommend for Amherst winters?",
+      "answer": "For Amherst's cold winters, we recommend chargers specifically rated for outdoor use in extreme temperatures, such as the Grizzl-E (rated to -22°F), JuiceBox 40 (rated to -22°F), or Tesla Wall Connector (rated to -22°F). All outdoor installations are properly sealed and protected to withstand snow, ice, and temperature extremes common in Western Massachusetts."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1609429019995-8c40f49535a5?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "EV charging cable connected to electric vehicle",
-    "caption": "Compatible with Tesla, Ford, Chevy, Rivian & All EVs",
-    "credit": {
-     "photographer": "Ernest Ojeh",
-     "unsplashUrl": "https://unsplash.com/photos/3v7OvBIw6yU"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Modern electric vehicle charging at residential charging station",
-    "caption": "Solar-Powered EV Charging for Sustainable Living",
-    "credit": {
-     "photographer": "Dcbel",
-     "unsplashUrl": "https://unsplash.com/photos/wpUXEHqr4bI"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Amherst Residents Choose Our EV Charger Installation Service",
-  "The Benefits of Level 2 Home EV Charging in Amherst",
-  "Our Proven EV Charger Installation Process",
-  "Top EV Charger Brands We Install for Amherst Homes",
-  "Frequently Asked Questions About EV Charger Installation",
-  "Get Your Free EV Charger Consultation in Amherst Today"
- ],
- "faq": [
-  {
-   "question": "How much does EV charger installation cost in Amherst?",
-   "answer": "EV charger installation in Amherst typically costs between $1,300-$1,900 for most standard installations. This includes the Level 2 charger unit, all necessary materials, professional installation labor, and permits. Costs can vary based on the charger model you select, the distance from your electrical panel to the installation location, and whether any electrical upgrades are needed. We provide detailed, transparent quotes during your free consultation."
-  },
-  {
-   "question": "What's the difference between Level 1 and Level 2 EV charging?",
-   "answer": "Level 1 charging uses a standard 120V household outlet and adds about 3-5 miles of range per hour - sufficient for plug-in hybrids but slow for full EVs. Level 2 charging uses 240V (like your dryer) and adds 20-35 miles of range per hour, allowing you to fully charge overnight. For Amherst residents with electric vehicles, Level 2 is the recommended solution for convenient, practical home charging."
-  },
-  {
-   "question": "Can I install an EV charger if I have an older Amherst home?",
-   "answer": "Yes! While older Amherst homes may have 100-amp electrical panels that require upgrading to accommodate an EV charger, we regularly perform these upgrades. During our free consultation, we'll assess your current electrical system and provide recommendations. Many older homes in Amherst's historic neighborhoods have been successfully upgraded to support modern EV charging."
-  },
-  {
-   "question": "How long does the installation take?",
-   "answer": "Most EV charger installations in Amherst are completed in 4-6 hours for homes with adequate electrical capacity and straightforward installation locations. If electrical panel upgrades are required, the complete project typically takes 1-2 days. We work efficiently to minimize disruption while ensuring the highest quality installation."
-  },
-  {
-   "question": "Will an EV charger work with my solar panels?",
-   "answer": "Absolutely! We specialize in integrating EV chargers with solar panel systems, allowing you to charge your vehicle with clean, renewable energy. Many environmentally-conscious Amherst residents pair solar panels with EV chargers for a completely sustainable transportation solution. Smart chargers can be programmed to charge during peak solar production, maximizing your use of self-generated solar energy."
-  },
-  {
-   "question": "What permits are needed for EV charger installation in Amherst?",
-   "answer": "EV charger installations in Amherst require an electrical permit from the Town of Amherst Building Department. We handle all permit applications and submissions on your behalf, schedule required inspections, and ensure your installation meets all local codes and Massachusetts state electrical requirements. Permit fees are typically included in our installation quotes."
-  },
-  {
-   "question": "Can I get financing options or rebates for installing an EV charger?",
-   "answer": "Yes! The federal government offers financings covering up to 30% of EV charger installation costs (up to $1,000 for residential installations). Massachusetts also periodically offers state rebates through programs like MOR-EV. Some utility companies provide additional benefits. We stay updated on all available programs and help you access every rebate and credit you qualify for."
-  },
-  {
-   "question": "Which EV charger brand do you recommend for Amherst winters?",
-   "answer": "For Amherst's cold winters, we recommend chargers specifically rated for outdoor use in extreme temperatures, such as the Grizzl-E (rated to -22°F), JuiceBox 40 (rated to -22°F), or Tesla Wall Connector (rated to -22°F). All outdoor installations are properly sealed and protected to withstand snow, ice, and temperature extremes common in Western Massachusetts."
-  }
- ],
- "keywords": [
-  "EV charger installation",
-  "electric vehicle charging station",
-  "Level 2 home charger",
-  "Tesla Wall Connector",
-  "home EV charging"
- ],
- "localKeywords": [
-  "EV charger installation Amherst MA",
-  "electric car charger Amherst",
-  "Tesla charger installation Amherst",
-  "EV charging station Hampshire County",
-  "Amherst electrician EV charger"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Schedule Your Free EV Charger Consultation",
- "ctaSecondary": "Get Your Free Quote Today",
- "ctaUrgency": "special offers Up to 30% Available - Install Now"
+  ],
+  "keywords": [
+    "EV charger installation",
+    "electric vehicle charging station",
+    "Level 2 home charger",
+    "Tesla Wall Connector",
+    "home EV charging"
+  ],
+  "localKeywords": [
+    "EV charger installation Amherst MA",
+    "electric car charger Amherst",
+    "Tesla charger installation Amherst",
+    "EV charging station Hampshire County",
+    "Amherst electrician EV charger"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Schedule Your Free EV Charger Consultation",
+  "ctaSecondary": "Get Your Free Quote Today",
+  "ctaUrgency": "special offers Up to 30% Available - Install Now"
 }

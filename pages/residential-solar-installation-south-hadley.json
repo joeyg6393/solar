@@ -1,206 +1,206 @@
 {
- "id": "residential-solar-installation-south-hadley",
- "service": "Residential Solar Panel Installation",
- "serviceSlug": "residential-solar-installation",
- "location": "South Hadley",
- "locationSlug": "south-hadley",
- "serviceNiche": "Solar Installers",
- "pageTitle": "South Hadley Solar Panels - Save Up to 70% | Free Quote",
- "metaDescription": "Top residential solar installation in South Hadley, MA. Save up to 70% on electric bills. 12+ years experience, 500+ installs. professional service. Call today!",
- "h1": "Residential Solar Panel Installation in South Hadley, Massachusetts",
- "heroHeadline": "South Hadley's Trusted Solar Installation Experts",
- "heroSubheadline": "Eliminate High Energy Bills - Financing Options - Local Professional Team",
- "serviceDescription": "South Hadley homeowners are embracing the solar energy revolution, and our team has been their preferred installation partner for over 12 years. Located just 10 miles from Springfield in beautiful Hampshire County, South Hadley offers exceptional solar potential with residents typically achieving 50-70% reductions in their electricity costs. From South Hadley Falls to the Village Commons, from College Street to Granby Road, solar panels are transforming how South Hadley families power their homes.\n\nOur NABCEP-certified solar installers have extensive experience working with South Hadley's diverse housing landscape, from historic homes near Mount Holyoke College to modern developments and waterfront properties near the Connecticut River. We're experts in navigating South Hadley's building codes and zoning requirements, working closely with the Town of South Hadley Building Department to ensure compliant, efficient installations. Our comprehensive service includes thorough roof structural assessments, custom solar system design optimized for your property, complete permitting and approvals, professional installation, and utility interconnection with Eversource.\n\nSouth Hadley's favorable location in the Connecticut River Valley provides outstanding sun exposure year-round. We utilize sophisticated solar modeling software to design each system for maximum energy production based on your roof's orientation, pitch, shading from trees or nearby structures, and your household's unique energy consumption patterns. We install exclusively premium tier-1 solar panels from industry-leading manufacturers, all backed by comprehensive 25-year warranties, ensuring your investment delivers reliable, clean energy for decades.\n\nMaking solar affordable and accessible for South Hadley families is our priority. With the federal solar financing, net metering benefits, and our flexible financing options including $0 down solar loans, many South Hadley homeowners discover their monthly solar payment is lower than their current Eversource electric bill. Our knowledgeable team guides you through all available financing options to maximize your return on investment. Join your South Hadley neighbors in making the intelligent switch to clean, renewable solar energy.",
- "shortDescription": "Professional residential solar panel installation in South Hadley, MA. 12+ years serving South Hadley homeowners. Save up to 70% on electric bills with flexible financing. Free consultation available.",
- "benefits": [
-  "Reduce electricity costs by 50-70% in South Hadley",
-  "Competitive pricing plus Massachusetts net metering program",
-  "Increase home value by $15,000-$25,000 on average",
-  "12+ years serving South Hadley and Pioneer Valley",
-  "NABCEP-certified installers with local South Hadley expertise",
-  "Custom designs for South Hadley's diverse properties",
-  "Premium tier-1 solar panels with 25-year warranties",
-  "Complete permitting and Eversource coordination",
-  "$0 down financing with low monthly payments",
-  "10-year installation workmanship guarantee",
-  "South Hadley-area company - your local solar experts",
-  "Free comprehensive home energy assessment"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free South Hadley Solar Consultation",
-   "description": "We visit your South Hadley property to evaluate your roof, review your utility bills, and discuss your energy goals. Our solar experts assess sun exposure, identify any shading issues, and evaluate structural integrity to design the perfect solar solution for your home."
-  },
-  {
-   "step": 2,
-   "title": "Custom Solar System Design",
-   "description": "Using advanced solar design software, we create a customized panel layout optimized for your South Hadley property. You receive a detailed proposal showing projected energy production, financial savings, available benefits, and personalized financing options tailored to your needs."
-  },
-  {
-   "step": 3,
-   "title": "Permitting & Town of South Hadley Approvals",
-   "description": "We manage all administrative requirements including South Hadley building permits, utility applications, and interconnection agreements. Our experienced team works directly with Town of South Hadley officials and Eversource to expedite approvals and ensure compliance."
-  },
-  {
-   "step": 4,
-   "title": "Professional Solar Installation",
-   "description": "Our certified solar installers complete your South Hadley installation in 1-3 days on average. We expertly mount premium panels, install inverter systems and monitoring equipment, and complete all electrical work to Massachusetts code with minimal disruption to your daily life."
-  },
-  {
-   "step": 5,
-   "title": "Inspection & System Activation",
-   "description": "Following South Hadley building inspection and utility permission to operate, we activate your solar system and provide comprehensive training on monitoring energy production and understanding savings. Begin generating clean power immediately!"
-  },
-  {
-   "step": 6,
-   "title": "Ongoing Monitoring & Support",
-   "description": "We provide continuous remote monitoring of system performance and remain available for questions or maintenance needs. Your panels come with 25-year warranties supported by our 10-year workmanship guarantee for long-term peace of mind."
-  }
- ],
- "features": [
-  "Premium solar panels (LG, REC, Panasonic, Q-Cells)",
-  "High-efficiency inverters (Enphase, SolarEdge, Tesla)",
-  "Real-time monitoring via mobile applications",
-  "Complete roof inspection and repairs if needed",
-  "Critter guards and pest prevention systems",
-  "Smart home integration capabilities",
-  "Battery storage ready (Tesla Powerwall, LG Chem)",
-  "Optional maintenance and cleaning programs"
- ],
- "pricingInfo": "Residential solar installation in South Hadley typically ranges from $15,000 to $35,000 before benefits, depending on system size and energy needs. With our competitive pricing, most South Hadley homeowners pay $10,000-$25,000. With our $0 down financing, monthly solar payments are frequently lower than your current Eversource bill, creating immediate positive cash flow. All estimates are transparent with no hidden costs. Schedule your free consultation today.",
- "serviceArea": "South Hadley, MA and surrounding communities including Holyoke, Granby, Amherst, Hadley, Chicopee, Easthampton, and all Pioneer Valley within 30 miles",
- "availability": "Monday - Friday: 8:00 AM - 6:00 PM, Saturday: 9:00 AM - 4:00 PM, Sunday: Consultation appointments available",
- "responseTime": "Free consultation scheduled within 48 hours, typical installation completed 6-10 weeks from contract",
- "qualifications": [
-  "NABCEP Certified Solar Professionals",
-  "Massachusetts Licensed Master Electricians",
-  "$2M General Liability Insurance Coverage",
-  "BBB A+ Rating",
-  "Tesla Powerwall Certified Installer",
-  "Enphase Platinum Installer",
-  "SolarEdge Elite Partner"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ residential solar installations in Pioneer Valley",
- "guarantees": [
-  "25-year solar panel performance warranty",
-  "25-year inverter manufacturer warranty",
-  "10-year installation workmanship guarantee",
-  "Lifetime roof waterproofing guarantee",
-  "100% satisfaction guarantee"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1617719446430-13c8b6c31adc?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "South Hadley Massachusetts home with professional solar panel installation",
-   "caption": "Expert Solar Panel Installation in South Hadley, MA",
-   "credit": {
-    "photographer": "American Public Power Association",
-    "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar technician installing panels on South Hadley residence",
-    "caption": "Certified Professional Solar Installation",
-    "credit": {
-     "photographer": "Bill Mead",
-     "unsplashUrl": "https://unsplash.com/photos/wmaP3Tl80ww"
+  "id": "residential-solar-installation-south-hadley",
+  "service": "Residential Solar Panel Installation",
+  "serviceSlug": "residential-solar-installation",
+  "location": "South Hadley",
+  "locationSlug": "south-hadley",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "South Hadley Solar Panels - Save Up to 70% | Free Quote",
+  "metaDescription": "Top residential solar installation in South Hadley, MA. Save up to 70% on electric bills. 12+ years experience, 500+ installs. professional service. Call today!",
+  "h1": "Residential Solar Panel Installation in South Hadley, Massachusetts",
+  "heroHeadline": "South Hadley's Trusted Solar Installation Experts",
+  "heroSubheadline": "Eliminate High Energy Bills - Financing Options - Local Professional Team",
+  "serviceDescription": "South Hadley homeowners are embracing the solar energy revolution, and our team has been their preferred installation partner for over 12 years. Located just 10 miles from Springfield in beautiful Hampshire County, South Hadley offers exceptional solar potential with residents typically achieving 50-70% reductions in their electricity costs. From South Hadley Falls to the Village Commons, from College Street to Granby Road, solar panels are transforming how South Hadley families power their homes.\n\nOur NABCEP-certified solar installers have extensive experience working with South Hadley's diverse housing landscape, from historic homes near Mount Holyoke College to modern developments and waterfront properties near the Connecticut River. We're experts in navigating South Hadley's building codes and zoning requirements, working closely with the Town of South Hadley Building Department to ensure compliant, efficient installations. Our comprehensive service includes thorough roof structural assessments, custom solar system design optimized for your property, complete permitting and approvals, professional installation, and utility interconnection with Eversource.\n\nSouth Hadley's favorable location in the Connecticut River Valley provides outstanding sun exposure year-round. We utilize sophisticated solar modeling software to design each system for maximum energy production based on your roof's orientation, pitch, shading from trees or nearby structures, and your household's unique energy consumption patterns. We install exclusively premium tier-1 solar panels from industry-leading manufacturers, all backed by comprehensive 25-year warranties, ensuring your investment delivers reliable, clean energy for decades.\n\nMaking solar affordable and accessible for South Hadley families is our priority. With the competitive pricing, net metering benefits, and our flexible financing options including $0 down solar loans, many South Hadley homeowners discover their monthly solar payment is lower than their current Eversource electric bill. Our knowledgeable team guides you through all available financing options to maximize your return on investment. Join your South Hadley neighbors in making the intelligent switch to clean, renewable solar energy.",
+  "shortDescription": "Professional residential solar panel installation in South Hadley, MA. 12+ years serving South Hadley homeowners. Save up to 70% on electric bills with flexible financing. Free consultation available.",
+  "benefits": [
+    "Reduce electricity costs by 50-70% in South Hadley",
+    "Competitive pricing plus Massachusetts net metering program",
+    "Increase home value by $15,000-$25,000 on average",
+    "12+ years serving South Hadley and Pioneer Valley",
+    "NABCEP-certified installers with local South Hadley expertise",
+    "Custom designs for South Hadley's diverse properties",
+    "Premium tier-1 solar panels with 25-year warranties",
+    "Complete permitting and Eversource coordination",
+    "$0 down financing with low monthly payments",
+    "10-year installation workmanship guarantee",
+    "South Hadley-area company - your local solar experts",
+    "Free comprehensive home energy assessment"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free South Hadley Solar Consultation",
+      "description": "We visit your South Hadley property to evaluate your roof, review your utility bills, and discuss your energy goals. Our solar experts assess sun exposure, identify any shading issues, and evaluate structural integrity to design the perfect solar solution for your home."
+    },
+    {
+      "step": 2,
+      "title": "Custom Solar System Design",
+      "description": "Using advanced solar design software, we create a customized panel layout optimized for your South Hadley property. You receive a detailed proposal showing projected energy production, financial savings, available benefits, and personalized financing options tailored to your needs."
+    },
+    {
+      "step": 3,
+      "title": "Permitting & Town of South Hadley Approvals",
+      "description": "We manage all administrative requirements including South Hadley building permits, utility applications, and interconnection agreements. Our experienced team works directly with Town of South Hadley officials and Eversource to expedite approvals and ensure compliance."
+    },
+    {
+      "step": 4,
+      "title": "Professional Solar Installation",
+      "description": "Our certified solar installers complete your South Hadley installation in 1-3 days on average. We expertly mount premium panels, install inverter systems and monitoring equipment, and complete all electrical work to Massachusetts code with minimal disruption to your daily life."
+    },
+    {
+      "step": 5,
+      "title": "Inspection & System Activation",
+      "description": "Following South Hadley building inspection and utility permission to operate, we activate your solar system and provide comprehensive training on monitoring energy production and understanding savings. Begin generating clean power immediately!"
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Monitoring & Support",
+      "description": "We provide continuous remote monitoring of system performance and remain available for questions or maintenance needs. Your panels come with 25-year warranties supported by our 10-year workmanship guarantee for long-term peace of mind."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Premium solar panels on South Hadley residential roof",
-    "caption": "Tier-1 Solar Panels - Maximum Efficiency",
-    "credit": {
-     "photographer": "Vivint Solar",
-     "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+  ],
+  "features": [
+    "Premium solar panels (LG, REC, Panasonic, Q-Cells)",
+    "High-efficiency inverters (Enphase, SolarEdge, Tesla)",
+    "Real-time monitoring via mobile applications",
+    "Complete roof inspection and repairs if needed",
+    "Critter guards and pest prevention systems",
+    "Smart home integration capabilities",
+    "Battery storage ready (Tesla Powerwall, LG Chem)",
+    "Optional maintenance and cleaning programs"
+  ],
+  "pricingInfo": "Residential solar installation in South Hadley typically ranges from $15,000 to $35,000 before benefits, depending on system size and energy needs. With our competitive pricing, most South Hadley homeowners pay $10,000-$25,000. With our $0 down financing, monthly solar payments are frequently lower than your current Eversource bill, creating immediate positive cash flow. All estimates are transparent with no hidden costs. Schedule your free consultation today.",
+  "serviceArea": "South Hadley, MA and surrounding communities including Holyoke, Granby, Amherst, Hadley, Chicopee, Easthampton, and all Pioneer Valley within 30 miles",
+  "availability": "Monday - Friday: 8:00 AM - 6:00 PM, Saturday: 9:00 AM - 4:00 PM, Sunday: Consultation appointments available",
+  "responseTime": "Free consultation scheduled within 48 hours, typical installation completed 6-10 weeks from contract",
+  "qualifications": [
+    "NABCEP Certified Solar Professionals",
+    "Massachusetts Licensed Master Electricians",
+    "$2M General Liability Insurance Coverage",
+    "BBB A+ Rating",
+    "Tesla Powerwall Certified Installer",
+    "Enphase Platinum Installer",
+    "SolarEdge Elite Partner"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ residential solar installations in Pioneer Valley",
+  "guarantees": [
+    "25-year solar panel performance warranty",
+    "25-year inverter manufacturer warranty",
+    "10-year installation workmanship guarantee",
+    "Lifetime roof waterproofing guarantee",
+    "100% satisfaction guarantee"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1617719446430-13c8b6c31adc?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "South Hadley Massachusetts home with professional solar panel installation",
+      "caption": "Expert Solar Panel Installation in South Hadley, MA",
+      "credit": {
+        "photographer": "American Public Power Association",
+        "unsplashUrl": "https://unsplash.com/photos/513dBrMJ_5w"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar technician installing panels on South Hadley residence",
+        "caption": "Certified Professional Solar Installation",
+        "credit": {
+          "photographer": "Bill Mead",
+          "unsplashUrl": "https://unsplash.com/photos/wmaP3Tl80ww"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Premium solar panels on South Hadley residential roof",
+        "caption": "Tier-1 Solar Panels - Maximum Efficiency",
+        "credit": {
+          "photographer": "Vivint Solar",
+          "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Beautiful South Hadley home with solar energy system",
+        "caption": "Transform Your South Hadley Home with Solar",
+        "credit": {
+          "photographer": "Darmau Lee",
+          "unsplashUrl": "https://unsplash.com/photos/fsWY6kJdPus"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560855280-c5bc10d3d8bd?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar monitoring dashboard showing energy production",
+        "caption": "Track Your Solar Energy Production in Real-Time",
+        "credit": {
+          "photographer": "Precondo CA",
+          "unsplashUrl": "https://unsplash.com/photos/0sPFjdcRhko"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why South Hadley Homeowners Choose Solar Energy",
+    "South Hadley's Most Trusted Solar Installation Company",
+    "Our Proven Solar Panel Installation Process",
+    "Massachusetts Solar benefits and financial benefits",
+    "Common Solar Questions from South Hadley Residents",
+    "Ready to Go Solar? Get Your Free South Hadley Quote"
+  ],
+  "faq": [
+    {
+      "question": "How much can I save with solar panels in South Hadley?",
+      "answer": "South Hadley homeowners typically save 50-70% on electricity bills with solar panels. The average South Hadley household saves $1,200-$2,000 annually on electricity costs. Over 25+ years, that's $30,000-$50,000 in total savings. With Massachusetts' net metering and net metering programs, your South Hadley savings can be even higher."
+    },
+    {
+      "question": "What solar financing options are available in South Hadley, MA?",
+      "answer": "South Hadley residents benefit from excellent solar benefits: available savings, Massachusetts Solar Renewable Energy Credits (net metering) worth $1,000-$3,000 per year, increased home value, professional service on equipment, and net metering credits at full retail rates. We help maximize your savings."
+    },
+    {
+      "question": "How long does solar installation take in South Hadley?",
+      "answer": "The physical installation on your South Hadley home typically takes 1-3 days. The complete process from contract to activation averages 6-10 weeks, including custom design, Town of South Hadley permitting, equipment procurement, and Eversource interconnection approval. We manage every step efficiently."
+    },
+    {
+      "question": "Do solar panels work during South Hadley winters?",
+      "answer": "Absolutely! Solar panels operate more efficiently in cooler temperatures. While winter days are shorter in South Hadley, modern solar technology still produces significant energy even on cloudy days. Snow melts quickly on tilted panels. The Pioneer Valley's excellent solar irradiance makes South Hadley ideal for year-round production."
+    },
+    {
+      "question": "Will solar panels increase my South Hadley home's value?",
+      "answer": "Yes! Studies show solar panels increase home values by $15,000-$25,000 on average in Massachusetts. South Hadley homes with solar installations sell faster and at premium prices compared to similar non-solar homes. Solar is a major value-add that attracts environmentally conscious buyers."
+    },
+    {
+      "question": "What if my South Hadley roof needs replacement?",
+      "answer": "We conduct a thorough roof assessment during your free consultation. If your South Hadley home's roof is nearing end-of-life, we recommend replacement before solar installation. We can coordinate with trusted local roofers or handle roofing ourselves. Solar panels actually protect and extend roof lifespan."
+    },
+    {
+      "question": "How do I monitor my solar system's performance?",
+      "answer": "Every installation includes real-time monitoring through intuitive smartphone apps. You can track energy production, consumption, and savings from anywhere. The system alerts you to any issues, and we remotely monitor all South Hadley installations to ensure peak performance. Most homeowners check production daily!"
+    },
+    {
+      "question": "What happens when I produce more energy than I use in South Hadley?",
+      "answer": "Massachusetts has excellent net metering policies. When your South Hadley solar system generates more electricity than you consume, the surplus is fed to the grid and you receive full retail rate credits on your Eversource bill. Credits roll over month-to-month, so summer overproduction offsets winter usage."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Beautiful South Hadley home with solar energy system",
-    "caption": "Transform Your South Hadley Home with Solar",
-    "credit": {
-     "photographer": "Darmau Lee",
-     "unsplashUrl": "https://unsplash.com/photos/fsWY6kJdPus"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1560855280-c5bc10d3d8bd?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar monitoring dashboard showing energy production",
-    "caption": "Track Your Solar Energy Production in Real-Time",
-    "credit": {
-     "photographer": "Precondo CA",
-     "unsplashUrl": "https://unsplash.com/photos/0sPFjdcRhko"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why South Hadley Homeowners Choose Solar Energy",
-  "South Hadley's Most Trusted Solar Installation Company",
-  "Our Proven Solar Panel Installation Process",
-  "Massachusetts Solar benefits and Tax Benefits",
-  "Common Solar Questions from South Hadley Residents",
-  "Ready to Go Solar? Get Your Free South Hadley Quote"
- ],
- "faq": [
-  {
-   "question": "How much can I save with solar panels in South Hadley?",
-   "answer": "South Hadley homeowners typically save 50-70% on electricity bills with solar panels. The average South Hadley household saves $1,200-$2,000 annually on electricity costs. Over 25+ years, that's $30,000-$50,000 in total savings. With Massachusetts' net metering and net metering programs, your South Hadley savings can be even higher."
-  },
-  {
-   "question": "What solar financing options are available in South Hadley, MA?",
-   "answer": "South Hadley residents benefit from excellent solar benefits: flexible financing options, Massachusetts Solar Renewable Energy Credits (net metering) worth $1,000-$3,000 per year, increased home value, professional service on equipment, and net metering credits at full retail rates. We help maximize your savings."
-  },
-  {
-   "question": "How long does solar installation take in South Hadley?",
-   "answer": "The physical installation on your South Hadley home typically takes 1-3 days. The complete process from contract to activation averages 6-10 weeks, including custom design, Town of South Hadley permitting, equipment procurement, and Eversource interconnection approval. We manage every step efficiently."
-  },
-  {
-   "question": "Do solar panels work during South Hadley winters?",
-   "answer": "Absolutely! Solar panels operate more efficiently in cooler temperatures. While winter days are shorter in South Hadley, modern solar technology still produces significant energy even on cloudy days. Snow melts quickly on tilted panels. The Pioneer Valley's excellent solar irradiance makes South Hadley ideal for year-round production."
-  },
-  {
-   "question": "Will solar panels increase my South Hadley home's value?",
-   "answer": "Yes! Studies show solar panels increase home values by $15,000-$25,000 on average in Massachusetts. South Hadley homes with solar installations sell faster and at premium prices compared to similar non-solar homes. Solar is a major value-add that attracts environmentally conscious buyers."
-  },
-  {
-   "question": "What if my South Hadley roof needs replacement?",
-   "answer": "We conduct a thorough roof assessment during your free consultation. If your South Hadley home's roof is nearing end-of-life, we recommend replacement before solar installation. We can coordinate with trusted local roofers or handle roofing ourselves. Solar panels actually protect and extend roof lifespan."
-  },
-  {
-   "question": "How do I monitor my solar system's performance?",
-   "answer": "Every installation includes real-time monitoring through intuitive smartphone apps. You can track energy production, consumption, and savings from anywhere. The system alerts you to any issues, and we remotely monitor all South Hadley installations to ensure peak performance. Most homeowners check production daily!"
-  },
-  {
-   "question": "What happens when I produce more energy than I use in South Hadley?",
-   "answer": "Massachusetts has excellent net metering policies. When your South Hadley solar system generates more electricity than you consume, the surplus is fed to the grid and you receive full retail rate credits on your Eversource bill. Credits roll over month-to-month, so summer overproduction offsets winter usage."
-  }
- ],
- "keywords": [
-  "residential solar panels",
-  "home solar installation",
-  "rooftop solar systems",
-  "solar energy",
-  "photovoltaic panels",
-  "solar power"
- ],
- "localKeywords": [
-  "solar panels South Hadley MA",
-  "South Hadley solar installation",
-  "solar panels Massachusetts",
-  "South Hadley residential solar",
-  "solar installers South Hadley",
-  "South Hadley MA solar company",
-  "College Street solar panels"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Solar Quote Today",
- "ctaSecondary": "Schedule Free Consultation",
- "ctaUrgency": "Limited Time - Free Consultation Available!"
+  ],
+  "keywords": [
+    "residential solar panels",
+    "home solar installation",
+    "rooftop solar systems",
+    "solar energy",
+    "photovoltaic panels",
+    "solar power"
+  ],
+  "localKeywords": [
+    "solar panels South Hadley MA",
+    "South Hadley solar installation",
+    "solar panels Massachusetts",
+    "South Hadley residential solar",
+    "solar installers South Hadley",
+    "South Hadley MA solar company",
+    "College Street solar panels"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Solar Quote Today",
+  "ctaSecondary": "Schedule Free Consultation",
+  "ctaUrgency": "Limited Time - Free Consultation Available!"
 }

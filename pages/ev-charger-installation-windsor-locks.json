@@ -1,194 +1,194 @@
 {
- "id": "ev-charger-installation-windsor-locks",
- "service": "EV Charger Installation",
- "serviceSlug": "ev-charger-installation",
- "location": "Windsor Locks",
- "locationSlug": "windsor-locks",
- "serviceNiche": "Solar Installers",
- "pageTitle": "EV Charger Installation Windsor Locks CT - Fast Home Setup",
- "metaDescription": "Professional EV charger installation in Windsor Locks, CT. Level 2 home charging stations installed by certified electricians. Tesla, ChargePoint & more. Call today!",
- "h1": "EV Charger Installation in Windsor Locks, Connecticut",
- "heroHeadline": "Power Your Electric Vehicle at Home in Windsor Locks",
- "heroSubheadline": "Professional Level 2 EV Charger Installation • Tesla Certified • Same-Week Service",
- "serviceDescription": "Make the switch to convenient home charging with professional EV charger installation services in Windsor Locks, Connecticut. As electric vehicle ownership continues to grow throughout Hartford County and the Pioneer Valley region, having a dedicated home charging station is no longer a luxury—it's a necessity. Our certified electricians specialize in installing all major EV charging brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox, Grizzl-E, and Emporia, ensuring your electric vehicle is always ready to go.\n\nWindsor Locks residents trust our team for reliable, code-compliant EV charger installations that integrate seamlessly with your home's electrical system. We handle everything from initial electrical assessment and panel upgrades to final charger installation and smart home integration. Whether you drive a Tesla Model 3, Ford Mustang Mach-E, Chevrolet Bolt, Nissan Leaf, or any other electric vehicle, we'll recommend and install the perfect charging solution for your specific needs.\n\nOur Windsor Locks EV charger installation service includes complete electrical system evaluation, permit acquisition, professional installation by licensed electricians, and thorough testing to ensure optimal charging performance. We understand the unique electrical infrastructure of homes in Windsor Locks and can expertly navigate any challenges from older electrical panels to optimal charger placement for garage or driveway installations.\n\nInvesting in a home EV charger not only adds convenience but also increases your property value while supporting a cleaner, more sustainable future for Windsor Locks and the entire Connecticut region. With our professional installation, you'll enjoy faster charging speeds (up to 7-10 times faster than standard outlets), smart charging features, and the peace of mind that comes with certified, warrantied workmanship. Join hundreds of satisfied Windsor Locks homeowners who have made the smart choice to install a home EV charging station.",
- "shortDescription": "Expert EV charger installation in Windsor Locks, CT. We install Tesla, ChargePoint, JuiceBox & all major brands. Licensed electricians, same-week service, code-compliant installations. Power your electric vehicle at home with professional Level 2 charging.",
- "benefits": [
-  "Certified installation for all major EV charger brands (Tesla, ChargePoint, JuiceBox, Grizzl-E)",
-  "Licensed electricians experienced with Windsor Locks electrical codes and permits",
-  "Complete electrical panel assessment and upgrades included if needed",
-  "Same-week installation available for Windsor Locks residents",
-  "Smart charger integration with home automation systems",
-  "Up to 7-10x faster charging than standard 120V outlets",
-  "Eligible for federal and Connecticut state financing optionss and rebates",
-  "Lifetime workmanship warranty on all installations"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free Home Charging Consultation",
-   "description": "We assess your Windsor Locks home's electrical capacity, discuss your EV charging needs, review vehicle compatibility, and recommend the ideal charger model and installation location."
-  },
-  {
-   "step": 2,
-   "title": "Electrical System Evaluation",
-   "description": "Our licensed electricians inspect your electrical panel, calculate available capacity, determine if upgrades are needed, and plan the optimal wiring route from panel to charger location."
-  },
-  {
-   "step": 3,
-   "title": "Permit Acquisition & Scheduling",
-   "description": "We handle all Windsor Locks permit applications and coordinate with local inspectors, then schedule your installation at a time convenient for you."
-  },
-  {
-   "step": 4,
-   "title": "Professional Installation",
-   "description": "Our certified team installs your EV charger to code, performs all necessary electrical work including panel upgrades if needed, mounts the charger securely, and runs protected wiring."
-  },
-  {
-   "step": 5,
-   "title": "Testing, Activation & Training",
-   "description": "We thoroughly test your new charger, connect it to your Wi-Fi network for smart features, demonstrate proper operation, and provide complete user training so you're confident using your new home charging station."
-  }
- ],
- "features": [
-  "Installation of Tesla Wall Connector, ChargePoint, JuiceBox, Grizzl-E, Emporia and all major brands",
-  "Complete electrical panel upgrades and service increases when needed",
-  "Hardwired and plug-in (NEMA 14-50) installation options",
-  "Indoor garage and outdoor driveway mounting solutions",
-  "Smart charger setup with Wi-Fi connectivity and mobile app integration",
-  "Cable management systems for clean, organized installation",
-  "Weather-resistant outdoor installations rated for Connecticut climate",
-  "Integration with solar panel systems for maximum energy savings"
- ],
- "pricingInfo": "EV charger installation costs in Windsor Locks typically range from $800-$2,500 depending on distance from electrical panel, whether panel upgrades are needed, and charger model selected. Many installations qualify for flexible financings up to 30% of installation costs (up to $1,000) plus Connecticut financing options. We provide free in-home estimates with transparent, upfront pricing—no hidden fees. Financing options available.",
- "serviceArea": "Windsor Locks and surrounding Hartford County communities including Suffield, East Windsor, Enfield, Windsor, and the greater Springfield MA metro area within 30 miles",
- "availability": "Monday-Saturday 7:00 AM - 6:00 PM. Emergency electrical service available 24/7",
- "responseTime": "Free consultation within 24-48 hours. Most installations completed within 3-7 days of approval",
- "qualifications": [
-  "Licensed Master Electricians (CT & MA)",
-  "Tesla Certified Installer",
-  "ChargePoint Certified Installer",
-  "NABCEP Solar Installation Certified",
-  "BBB A+ Rating",
-  "Fully Insured (General Liability & Workers Comp)"
- ],
- "yearsExperience": "12+ years in electrical and solar installation",
- "projectsCompleted": "500+ solar installations, 200+ EV charger installations",
- "guarantees": [
-  "Lifetime workmanship warranty on all electrical work",
-  "Manufacturer warranty on all EV chargers (typically 3-5 years)",
-  "Code-compliant installation guaranteed to pass inspection",
-  "100% satisfaction guarantee"
- ],
- "emergencyAvailable": true,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Modern EV charger installation on home garage wall in Windsor Locks CT",
-   "caption": "Professional Level 2 EV Charger Installation for Windsor Locks Homes",
-   "credit": {
-    "photographer": "Ernest Ojeh",
-    "unsplashUrl": "https://unsplash.com/photos/3j_UGLPknAg"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1617788138017-271673fe7e12?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Tesla electric vehicle charging at home with wall connector",
-    "caption": "Fast Home Charging for All Electric Vehicles",
-    "credit": {
-     "photographer": "Bram Van Oost",
-     "unsplashUrl": "https://unsplash.com/photos/bPBxqBChGlU"
+  "id": "ev-charger-installation-windsor-locks",
+  "service": "EV Charger Installation",
+  "serviceSlug": "ev-charger-installation",
+  "location": "Windsor Locks",
+  "locationSlug": "windsor-locks",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "EV Charger Installation Windsor Locks CT - Fast Home Setup",
+  "metaDescription": "Professional EV charger installation in Windsor Locks, CT. Level 2 home charging stations installed by certified electricians. Tesla, ChargePoint & more. Call today!",
+  "h1": "EV Charger Installation in Windsor Locks, Connecticut",
+  "heroHeadline": "Power Your Electric Vehicle at Home in Windsor Locks",
+  "heroSubheadline": "Professional Level 2 EV Charger Installation • Tesla Certified • Same-Week Service",
+  "serviceDescription": "Make the switch to convenient home charging with professional EV charger installation services in Windsor Locks, Connecticut. As electric vehicle ownership continues to grow throughout Hartford County and the Pioneer Valley region, having a dedicated home charging station is no longer a luxury—it's a necessity. Our certified electricians specialize in installing all major EV charging brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox, Grizzl-E, and Emporia, ensuring your electric vehicle is always ready to go.\n\nWindsor Locks residents trust our team for reliable, code-compliant EV charger installations that integrate seamlessly with your home's electrical system. We handle everything from initial electrical assessment and panel upgrades to final charger installation and smart home integration. Whether you drive a Tesla Model 3, Ford Mustang Mach-E, Chevrolet Bolt, Nissan Leaf, or any other electric vehicle, we'll recommend and install the perfect charging solution for your specific needs.\n\nOur Windsor Locks EV charger installation service includes complete electrical system evaluation, permit acquisition, professional installation by licensed electricians, and thorough testing to ensure optimal charging performance. We understand the unique electrical infrastructure of homes in Windsor Locks and can expertly navigate any challenges from older electrical panels to optimal charger placement for garage or driveway installations.\n\nInvesting in a home EV charger not only adds convenience but also increases your property value while supporting a cleaner, more sustainable future for Windsor Locks and the entire Connecticut region. With our professional installation, you'll enjoy faster charging speeds (up to 7-10 times faster than standard outlets), smart charging features, and the peace of mind that comes with certified, warrantied workmanship. Join hundreds of satisfied Windsor Locks homeowners who have made the smart choice to install a home EV charging station.",
+  "shortDescription": "Expert EV charger installation in Windsor Locks, CT. We install Tesla, ChargePoint, JuiceBox & all major brands. Licensed electricians, same-week service, code-compliant installations. Power your electric vehicle at home with professional Level 2 charging.",
+  "benefits": [
+    "Certified installation for all major EV charger brands (Tesla, ChargePoint, JuiceBox, Grizzl-E)",
+    "Licensed electricians experienced with Windsor Locks electrical codes and permits",
+    "Complete electrical panel assessment and upgrades included if needed",
+    "Same-week installation available for Windsor Locks residents",
+    "Smart charger integration with home automation systems",
+    "Up to 7-10x faster charging than standard 120V outlets",
+    "Eligible for federal and Connecticut state financing options and rebates",
+    "Lifetime workmanship warranty on all installations"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free Home Charging Consultation",
+      "description": "We assess your Windsor Locks home's electrical capacity, discuss your EV charging needs, review vehicle compatibility, and recommend the ideal charger model and installation location."
+    },
+    {
+      "step": 2,
+      "title": "Electrical System Evaluation",
+      "description": "Our licensed electricians inspect your electrical panel, calculate available capacity, determine if upgrades are needed, and plan the optimal wiring route from panel to charger location."
+    },
+    {
+      "step": 3,
+      "title": "Permit Acquisition & Scheduling",
+      "description": "We handle all Windsor Locks permit applications and coordinate with local inspectors, then schedule your installation at a time convenient for you."
+    },
+    {
+      "step": 4,
+      "title": "Professional Installation",
+      "description": "Our certified team installs your EV charger to code, performs all necessary electrical work including panel upgrades if needed, mounts the charger securely, and runs protected wiring."
+    },
+    {
+      "step": 5,
+      "title": "Testing, Activation & Training",
+      "description": "We thoroughly test your new charger, connect it to your Wi-Fi network for smart features, demonstrate proper operation, and provide complete user training so you're confident using your new home charging station."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1609877431748-f0c155e9f42c?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Professional electrician installing EV charging station",
-    "caption": "Certified Electricians Serving Windsor Locks CT",
-    "credit": {
-     "photographer": "Precious Plastic Melbourne",
-     "unsplashUrl": "https://unsplash.com/photos/AWr0YHdD8Aw"
+  ],
+  "features": [
+    "Installation of Tesla Wall Connector, ChargePoint, JuiceBox, Grizzl-E, Emporia and all major brands",
+    "Complete electrical panel upgrades and service increases when needed",
+    "Hardwired and plug-in (NEMA 14-50) installation options",
+    "Indoor garage and outdoor driveway mounting solutions",
+    "Smart charger setup with Wi-Fi connectivity and mobile app integration",
+    "Cable management systems for clean, organized installation",
+    "Weather-resistant outdoor installations rated for Connecticut climate",
+    "Integration with solar panel systems for maximum energy savings"
+  ],
+  "pricingInfo": "EV charger installation costs in Windsor Locks typically range from $800-$2,500 depending on distance from electrical panel, whether panel upgrades are needed, and charger model selected. Many installations qualify for flexible benefits up to 30% of installation costs (up to $1,000) plus Connecticut financing options. We provide free in-home estimates with transparent, upfront pricing—no hidden fees. Financing options available.",
+  "serviceArea": "Windsor Locks and surrounding Hartford County communities including Suffield, East Windsor, Enfield, Windsor, and the greater Springfield MA metro area within 30 miles",
+  "availability": "Monday-Saturday 7:00 AM - 6:00 PM. Emergency electrical service available 24/7",
+  "responseTime": "Free consultation within 24-48 hours. Most installations completed within 3-7 days of approval",
+  "qualifications": [
+    "Licensed Master Electricians (CT & MA)",
+    "Tesla Certified Installer",
+    "ChargePoint Certified Installer",
+    "NABCEP Solar Installation Certified",
+    "BBB A+ Rating",
+    "Fully Insured (General Liability & Workers Comp)"
+  ],
+  "yearsExperience": "12+ years in electrical and solar installation",
+  "projectsCompleted": "500+ solar installations, 200+ EV charger installations",
+  "guarantees": [
+    "Lifetime workmanship warranty on all electrical work",
+    "Manufacturer warranty on all EV chargers (typically 3-5 years)",
+    "Code-compliant installation guaranteed to pass inspection",
+    "100% satisfaction guarantee"
+  ],
+  "emergencyAvailable": true,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Modern EV charger installation on home garage wall in Windsor Locks CT",
+      "caption": "Professional Level 2 EV Charger Installation for Windsor Locks Homes",
+      "credit": {
+        "photographer": "Ernest Ojeh",
+        "unsplashUrl": "https://unsplash.com/photos/3j_UGLPknAg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1617788138017-271673fe7e12?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Tesla electric vehicle charging at home with wall connector",
+        "caption": "Fast Home Charging for All Electric Vehicles",
+        "credit": {
+          "photographer": "Bram Van Oost",
+          "unsplashUrl": "https://unsplash.com/photos/bPBxqBChGlU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1609877431748-f0c155e9f42c?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional electrician installing EV charging station",
+        "caption": "Certified Electricians Serving Windsor Locks CT",
+        "credit": {
+          "photographer": "Precious Plastic Melbourne",
+          "unsplashUrl": "https://unsplash.com/photos/AWr0YHdD8Aw"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571845459725-56c6c0dc7b46?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Modern home with electric vehicle charger and solar panels",
+        "caption": "Integrate EV Charging with Your Solar System",
+        "credit": {
+          "photographer": "Vivint Solar",
+          "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1633886235149-a476fb15ff85?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Electric vehicle charging cable plugged into home charger",
+        "caption": "Convenient Home Charging Every Night",
+        "credit": {
+          "photographer": "Zaptec",
+          "unsplashUrl": "https://unsplash.com/photos/FV1BDPEnCPA"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Choose Our EV Charger Installation Service in Windsor Locks?",
+    "Complete EV Charging Solutions for Windsor Locks Homeowners",
+    "Our Professional EV Charger Installation Process",
+    "EV Charger Installation FAQs for Windsor Locks CT",
+    "Schedule Your Free EV Charging Consultation Today"
+  ],
+  "faq": [
+    {
+      "question": "How long does EV charger installation take in Windsor Locks?",
+      "answer": "Most EV charger installations in Windsor Locks are completed in 3-5 hours for straightforward installations. If electrical panel upgrades are needed, the process may take 6-8 hours or be split across two visits. We'll provide an accurate timeline during your free consultation after assessing your home's electrical system."
+    },
+    {
+      "question": "Do I need to upgrade my electrical panel for an EV charger?",
+      "answer": "It depends on your current panel capacity and available circuits. Most Level 2 EV chargers require a dedicated 40-60 amp circuit. If your Windsor Locks home has an older 100-amp panel or limited available capacity, an upgrade to 200-amp service may be recommended. Our electricians will assess this during the free consultation."
+    },
+    {
+      "question": "What EV charger brands do you install in Windsor Locks?",
+      "answer": "We install all major EV charger brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox, Grizzl-E, Emporia, Wallbox Pulsar Plus, and more. We'll recommend the best charger based on your vehicle, budget, and desired features like Wi-Fi connectivity and smart charging capabilities."
+    },
+    {
+      "question": "Can I get financing options or rebates for EV charger installation in Connecticut?",
+      "answer": "Yes! The federal government offers a financing of 30% of installation costs up to $1,000 for EV charger installations. Connecticut also periodically offers financing options through Energize CT. Additionally, if you pair your EV charger with a solar panel system, you may qualify for the competitive pricing of 30% with no cap. We'll help you navigate all financing options."
+    },
+    {
+      "question": "Will my EV charger work with any electric vehicle?",
+      "answer": "Yes! All modern electric vehicles sold in North America use the standard J1772 charging connector, which is compatible with all Level 2 home chargers. Tesla vehicles come with an adapter, and Tesla Wall Connectors can charge any EV with the appropriate adapter. We'll ensure your charger is compatible with your specific vehicle."
+    },
+    {
+      "question": "Can you install an outdoor EV charger in Windsor Locks?",
+      "answer": "Absolutely! We install both indoor (garage) and outdoor (driveway) EV chargers. Outdoor installations use weather-resistant, NEMA 3R or 4 rated chargers designed to withstand Connecticut's climate including snow, rain, and temperature extremes. We'll recommend the best location based on your parking situation and electrical panel location."
+    },
+    {
+      "question": "How much faster is a Level 2 charger compared to a regular outlet?",
+      "answer": "A Level 2 home charger is 7-10 times faster than a standard 120V outlet. While a regular outlet provides about 3-5 miles of range per hour of charging, a Level 2 charger delivers 25-50 miles of range per hour depending on your vehicle and charger output. This means you can fully charge most EVs overnight in 4-8 hours instead of 24+ hours."
+    },
+    {
+      "question": "Do you handle permits and inspections for Windsor Locks installations?",
+      "answer": "Yes! We handle all permit applications with the Windsor Locks Building Department and coordinate required electrical inspections. The permit cost is typically included in our installation quote. Our installations are always code-compliant and designed to pass inspection on the first visit."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1571845459725-56c6c0dc7b46?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Modern home with electric vehicle charger and solar panels",
-    "caption": "Integrate EV Charging with Your Solar System",
-    "credit": {
-     "photographer": "Vivint Solar",
-     "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1633886235149-a476fb15ff85?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Electric vehicle charging cable plugged into home charger",
-    "caption": "Convenient Home Charging Every Night",
-    "credit": {
-     "photographer": "Zaptec",
-     "unsplashUrl": "https://unsplash.com/photos/FV1BDPEnCPA"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Choose Our EV Charger Installation Service in Windsor Locks?",
-  "Complete EV Charging Solutions for Windsor Locks Homeowners",
-  "Our Professional EV Charger Installation Process",
-  "EV Charger Installation FAQs for Windsor Locks CT",
-  "Schedule Your Free EV Charging Consultation Today"
- ],
- "faq": [
-  {
-   "question": "How long does EV charger installation take in Windsor Locks?",
-   "answer": "Most EV charger installations in Windsor Locks are completed in 3-5 hours for straightforward installations. If electrical panel upgrades are needed, the process may take 6-8 hours or be split across two visits. We'll provide an accurate timeline during your free consultation after assessing your home's electrical system."
-  },
-  {
-   "question": "Do I need to upgrade my electrical panel for an EV charger?",
-   "answer": "It depends on your current panel capacity and available circuits. Most Level 2 EV chargers require a dedicated 40-60 amp circuit. If your Windsor Locks home has an older 100-amp panel or limited available capacity, an upgrade to 200-amp service may be recommended. Our electricians will assess this during the free consultation."
-  },
-  {
-   "question": "What EV charger brands do you install in Windsor Locks?",
-   "answer": "We install all major EV charger brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox, Grizzl-E, Emporia, Wallbox Pulsar Plus, and more. We'll recommend the best charger based on your vehicle, budget, and desired features like Wi-Fi connectivity and smart charging capabilities."
-  },
-  {
-   "question": "Can I get financing options or rebates for EV charger installation in Connecticut?",
-   "answer": "Yes! The federal government offers a financing of 30% of installation costs up to $1,000 for EV charger installations. Connecticut also periodically offers financing options through Energize CT. Additionally, if you pair your EV charger with a solar panel system, you may qualify for the federal solar financing of 30% with no cap. We'll help you navigate all financing options."
-  },
-  {
-   "question": "Will my EV charger work with any electric vehicle?",
-   "answer": "Yes! All modern electric vehicles sold in North America use the standard J1772 charging connector, which is compatible with all Level 2 home chargers. Tesla vehicles come with an adapter, and Tesla Wall Connectors can charge any EV with the appropriate adapter. We'll ensure your charger is compatible with your specific vehicle."
-  },
-  {
-   "question": "Can you install an outdoor EV charger in Windsor Locks?",
-   "answer": "Absolutely! We install both indoor (garage) and outdoor (driveway) EV chargers. Outdoor installations use weather-resistant, NEMA 3R or 4 rated chargers designed to withstand Connecticut's climate including snow, rain, and temperature extremes. We'll recommend the best location based on your parking situation and electrical panel location."
-  },
-  {
-   "question": "How much faster is a Level 2 charger compared to a regular outlet?",
-   "answer": "A Level 2 home charger is 7-10 times faster than a standard 120V outlet. While a regular outlet provides about 3-5 miles of range per hour of charging, a Level 2 charger delivers 25-50 miles of range per hour depending on your vehicle and charger output. This means you can fully charge most EVs overnight in 4-8 hours instead of 24+ hours."
-  },
-  {
-   "question": "Do you handle permits and inspections for Windsor Locks installations?",
-   "answer": "Yes! We handle all permit applications with the Windsor Locks Building Department and coordinate required electrical inspections. The permit cost is typically included in our installation quote. Our installations are always code-compliant and designed to pass inspection on the first visit."
-  }
- ],
- "keywords": [
-  "EV charger installation",
-  "electric vehicle charger",
-  "home EV charging station",
-  "Level 2 charger",
-  "Tesla Wall Connector",
-  "ChargePoint installation",
-  "electric car charger"
- ],
- "localKeywords": [
-  "EV charger installation Windsor Locks",
-  "electric car charger Windsor Locks CT",
-  "Tesla charger installation Windsor Locks",
-  "Level 2 charger Hartford County",
-  "EV charging station Windsor Locks Connecticut",
-  "home EV charger Windsor Locks"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Schedule Your Free EV Charging Consultation",
- "ctaSecondary": "Get Your Custom Installation Quote",
- "ctaUrgency": "special offer Up to $1,000 Available Now"
+  ],
+  "keywords": [
+    "EV charger installation",
+    "electric vehicle charger",
+    "home EV charging station",
+    "Level 2 charger",
+    "Tesla Wall Connector",
+    "ChargePoint installation",
+    "electric car charger"
+  ],
+  "localKeywords": [
+    "EV charger installation Windsor Locks",
+    "electric car charger Windsor Locks CT",
+    "Tesla charger installation Windsor Locks",
+    "Level 2 charger Hartford County",
+    "EV charging station Windsor Locks Connecticut",
+    "home EV charger Windsor Locks"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Schedule Your Free EV Charging Consultation",
+  "ctaSecondary": "Get Your Custom Installation Quote",
+  "ctaUrgency": "special offer Up to $1,000 Available Now"
 }

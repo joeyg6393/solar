@@ -1,190 +1,190 @@
 {
- "id": "ev-charger-installation-east-longmeadow",
- "service": "EV Charger Installation",
- "serviceSlug": "ev-charger-installation",
- "location": "East Longmeadow",
- "locationSlug": "east-longmeadow",
- "serviceNiche": "Solar Installers",
- "pageTitle": "EV Charger Installation East Longmeadow MA - Home Charging",
- "metaDescription": "Professional EV charger installation in East Longmeadow MA. Expert electricians install Tesla, ChargePoint & all Level 2 chargers. flexible financings available!",
- "h1": "EV Charger Installation in East Longmeadow, Massachusetts",
- "heroHeadline": "East Longmeadow's Trusted EV Charging Specialists",
- "heroSubheadline": "Professional Home Charging Solutions for Your Electric Vehicle",
- "serviceDescription": "Welcome to East Longmeadow's premier EV charger installation service, where we're helping local families make the transition to clean electric transportation with convenient, affordable home charging. As electric vehicles become increasingly popular throughout Western Massachusetts, East Longmeadow residents are discovering the tremendous benefits of charging at home - convenience, cost savings, and the satisfaction of reducing their carbon footprint. Our certified electricians bring over 12 years of experience installing Level 2 charging stations throughout the Pioneer Valley.\n\nLocated just 5 miles east of Springfield, East Longmeadow offers a wonderful blend of suburban tranquility and proximity to urban amenities. We proudly serve homeowners throughout East Longmeadow from Somers Road to Maple Street, providing customized charging solutions that work perfectly with your home's electrical infrastructure. Whether you drive a Tesla Model Y, Volkswagen ID.4, Hyundai Kona Electric, or any electric vehicle, we'll design and install the ideal charging solution for your specific needs and budget.\n\nWe install all leading EV charger brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox, Grizzl-E, and Wallbox Pulsar Plus. Our smart charger installations feature WiFi connectivity and intuitive mobile app control, allowing you to monitor energy consumption, schedule charging during off-peak hours to reduce electricity costs, and track your environmental impact. Many East Longmeadow homeowners pair EV chargers with our solar panel installations, creating integrated clean energy systems that power both home and vehicle with renewable energy.\n\nOur comprehensive service includes thorough electrical panel assessments, capacity upgrades when needed, all permit coordination with the Town of East Longmeadow, and final inspections ensuring complete code compliance. We help you navigate flexible financings offering up to $1,000 back on installation costs, Massachusetts flexible financing, and utility company rebates. With most installations completing in just 3-5 hours, we make the switch to home EV charging simple and stress-free for East Longmeadow families.",
- "shortDescription": "Expert EV charger installation in East Longmeadow, MA. Licensed electricians install all major Level 2 charging stations. Professional service with transparent pricing and help with benefits.",
- "benefits": [
-  "Serving all East Longmeadow neighborhoods 5 miles from Springfield",
-  "Fast Level 2 charging - fully charge overnight at home",
-  "Massachusetts licensed & EVITP certified electricians",
-  "All major brands: Tesla, ChargePoint, JuiceBox, Grizzl-E",
-  "Help maximizing flexible financings up to $1,000",
-  "Smart chargers with WiFi and energy monitoring",
-  "Complete electrical assessments and panel upgrades",
-  "Solar panel integration for renewable EV charging"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free East Longmeadow Home Assessment",
-   "description": "We visit your East Longmeadow property to evaluate your electrical system, garage or parking area, and discuss your EV charging needs. We'll recommend the perfect charger and installation approach."
-  },
-  {
-   "step": 2,
-   "title": "Electrical Panel Evaluation",
-   "description": "Our licensed electricians inspect your electrical panel to ensure it can safely support Level 2 charging. We provide transparent recommendations for any upgrades needed for optimal performance."
-  },
-  {
-   "step": 3,
-   "title": "Permitting and Incentive Navigation",
-   "description": "We handle all Town of East Longmeadow permits and coordinate electrical inspections. Our team helps you apply for federal Alternative Fuel financings and Massachusetts EV infrastructure benefits."
-  },
-  {
-   "step": 4,
-   "title": "Professional Installation Service",
-   "description": "Certified electricians install your Level 2 charger with a dedicated 240V circuit, professional mounting, and clean cable management. Most East Longmeadow installations complete in 3-5 hours."
-  },
-  {
-   "step": 5,
-   "title": "Complete Testing and Owner Training",
-   "description": "We thoroughly test your charging station and provide comprehensive training on all smart features including app controls, scheduling, and energy monitoring for maximum savings."
-  }
- ],
- "features": [
-  "Level 2 (240V) charging - adds 25-50 miles range per hour",
-  "Indoor garage and outdoor weatherproof installations",
-  "Smart WiFi chargers with mobile app integration",
-  "Scheduled charging during off-peak electricity rates",
-  "Real-time energy consumption monitoring",
-  "Integration with solar panels and battery systems",
-  "Electrical panel upgrades and circuit installations",
-  "Professional mounting and cable management"
- ],
- "pricingInfo": "EV charger installation in East Longmeadow typically ranges from $900-$2,500 including equipment, professional installation, and electrical work. Cost varies based on charger brand, distance from electrical panel, and any necessary upgrades. flexible financings provide up to $1,000 back. We offer transparent quotes with all costs clearly detailed.",
- "serviceArea": "East Longmeadow MA and surrounding Western Massachusetts communities within 30 miles",
- "availability": "Monday-Saturday, 7:00 AM - 6:00 PM. Sunday consultations by appointment.",
- "responseTime": "Free quotes within 24 hours. Installation scheduling within 7-14 days.",
- "qualifications": [
-  "Massachusetts Licensed Master Electricians",
-  "NABCEP Certified Solar & Storage Professionals",
-  "EVITP Certified EV Infrastructure Training",
-  "Fully Insured & Bonded ($2M liability coverage)"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "500+ installations",
- "guarantees": [
-  "Lifetime installation workmanship warranty",
-  "5-year manufacturer warranty on all chargers",
-  "100% code-compliant installations guaranteed",
-  "30-day satisfaction guarantee"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1617788138017-80ad40651399?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Tesla charging at home garage in East Longmeadow MA",
-   "caption": "Professional EV Charger Installation in East Longmeadow",
-   "credit": {
-    "photographer": "Brecht Denil",
-    "unsplashUrl": "https://unsplash.com/photos/iRqHRj6kRjU"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Modern wall-mounted Level 2 EV charger",
-    "caption": "Clean professional installations throughout East Longmeadow",
-    "credit": {
-     "photographer": "Waldemar",
-     "unsplashUrl": "https://unsplash.com/photos/1bNQVGzuy0U"
+  "id": "ev-charger-installation-east-longmeadow",
+  "service": "EV Charger Installation",
+  "serviceSlug": "ev-charger-installation",
+  "location": "East Longmeadow",
+  "locationSlug": "east-longmeadow",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "EV Charger Installation East Longmeadow MA - Home Charging",
+  "metaDescription": "Professional EV charger installation in East Longmeadow MA. Expert electricians install Tesla, ChargePoint & all Level 2 chargers. flexible benefits available!",
+  "h1": "EV Charger Installation in East Longmeadow, Massachusetts",
+  "heroHeadline": "East Longmeadow's Trusted EV Charging Specialists",
+  "heroSubheadline": "Professional Home Charging Solutions for Your Electric Vehicle",
+  "serviceDescription": "Welcome to East Longmeadow's premier EV charger installation service, where we're helping local families make the transition to clean electric transportation with convenient, affordable home charging. As electric vehicles become increasingly popular throughout Western Massachusetts, East Longmeadow residents are discovering the tremendous benefits of charging at home - convenience, cost savings, and the satisfaction of reducing their carbon footprint. Our certified electricians bring over 12 years of experience installing Level 2 charging stations throughout the Pioneer Valley.\n\nLocated just 5 miles east of Springfield, East Longmeadow offers a wonderful blend of suburban tranquility and proximity to urban amenities. We proudly serve homeowners throughout East Longmeadow from Somers Road to Maple Street, providing customized charging solutions that work perfectly with your home's electrical infrastructure. Whether you drive a Tesla Model Y, Volkswagen ID.4, Hyundai Kona Electric, or any electric vehicle, we'll design and install the ideal charging solution for your specific needs and budget.\n\nWe install all leading EV charger brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox, Grizzl-E, and Wallbox Pulsar Plus. Our smart charger installations feature WiFi connectivity and intuitive mobile app control, allowing you to monitor energy consumption, schedule charging during off-peak hours to reduce electricity costs, and track your environmental impact. Many East Longmeadow homeowners pair EV chargers with our solar panel installations, creating integrated clean energy systems that power both home and vehicle with renewable energy.\n\nOur comprehensive service includes thorough electrical panel assessments, capacity upgrades when needed, all permit coordination with the Town of East Longmeadow, and final inspections ensuring complete code compliance. We help you navigate flexible benefits offering up to $1,000 back on installation costs, Massachusetts flexible financing, and utility company rebates. With most installations completing in just 3-5 hours, we make the switch to home EV charging simple and stress-free for East Longmeadow families.",
+  "shortDescription": "Expert EV charger installation in East Longmeadow, MA. Licensed electricians install all major Level 2 charging stations. Professional service with transparent pricing and help with benefits.",
+  "benefits": [
+    "Serving all East Longmeadow neighborhoods 5 miles from Springfield",
+    "Fast Level 2 charging - fully charge overnight at home",
+    "Massachusetts licensed & EVITP certified electricians",
+    "All major brands: Tesla, ChargePoint, JuiceBox, Grizzl-E",
+    "Help maximizing flexible benefits up to $1,000",
+    "Smart chargers with WiFi and energy monitoring",
+    "Complete electrical assessments and panel upgrades",
+    "Solar panel integration for renewable EV charging"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free East Longmeadow Home Assessment",
+      "description": "We visit your East Longmeadow property to evaluate your electrical system, garage or parking area, and discuss your EV charging needs. We'll recommend the perfect charger and installation approach."
+    },
+    {
+      "step": 2,
+      "title": "Electrical Panel Evaluation",
+      "description": "Our licensed electricians inspect your electrical panel to ensure it can safely support Level 2 charging. We provide transparent recommendations for any upgrades needed for optimal performance."
+    },
+    {
+      "step": 3,
+      "title": "Permitting and Incentive Navigation",
+      "description": "We handle all Town of East Longmeadow permits and coordinate electrical inspections. Our team helps you apply for federal Alternative Fuel benefits and Massachusetts EV infrastructure benefits."
+    },
+    {
+      "step": 4,
+      "title": "Professional Installation Service",
+      "description": "Certified electricians install your Level 2 charger with a dedicated 240V circuit, professional mounting, and clean cable management. Most East Longmeadow installations complete in 3-5 hours."
+    },
+    {
+      "step": 5,
+      "title": "Complete Testing and Owner Training",
+      "description": "We thoroughly test your charging station and provide comprehensive training on all smart features including app controls, scheduling, and energy monitoring for maximum savings."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1609221975938-e1bb0e1e93d6?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Electric vehicle plugged into home charger",
-    "caption": "Convenient overnight charging for East Longmeadow EV owners",
-    "credit": {
-     "photographer": "Rathaphon Nanthapreecha",
-     "unsplashUrl": "https://unsplash.com/photos/dFDVIClR7hk"
+  ],
+  "features": [
+    "Level 2 (240V) charging - adds 25-50 miles range per hour",
+    "Indoor garage and outdoor weatherproof installations",
+    "Smart WiFi chargers with mobile app integration",
+    "Scheduled charging during off-peak electricity rates",
+    "Real-time energy consumption monitoring",
+    "Integration with solar panels and battery systems",
+    "Electrical panel upgrades and circuit installations",
+    "Professional mounting and cable management"
+  ],
+  "pricingInfo": "EV charger installation in East Longmeadow typically ranges from $900-$2,500 including equipment, professional installation, and electrical work. Cost varies based on charger brand, distance from electrical panel, and any necessary upgrades. flexible benefits provide up to $1,000 back. We offer transparent quotes with all costs clearly detailed.",
+  "serviceArea": "East Longmeadow MA and surrounding Western Massachusetts communities within 30 miles",
+  "availability": "Monday-Saturday, 7:00 AM - 6:00 PM. Sunday consultations by appointment.",
+  "responseTime": "Free quotes within 24 hours. Installation scheduling within 7-14 days.",
+  "qualifications": [
+    "Massachusetts Licensed Master Electricians",
+    "NABCEP Certified Solar & Storage Professionals",
+    "EVITP Certified EV Infrastructure Training",
+    "Fully Insured & Bonded ($2M liability coverage)"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "500+ installations",
+  "guarantees": [
+    "Lifetime installation workmanship warranty",
+    "5-year manufacturer warranty on all chargers",
+    "100% code-compliant installations guaranteed",
+    "30-day satisfaction guarantee"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1617788138017-80ad40651399?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Tesla charging at home garage in East Longmeadow MA",
+      "caption": "Professional EV Charger Installation in East Longmeadow",
+      "credit": {
+        "photographer": "Brecht Denil",
+        "unsplashUrl": "https://unsplash.com/photos/iRqHRj6kRjU"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Modern wall-mounted Level 2 EV charger",
+        "caption": "Clean professional installations throughout East Longmeadow",
+        "credit": {
+          "photographer": "Waldemar",
+          "unsplashUrl": "https://unsplash.com/photos/1bNQVGzuy0U"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1609221975938-e1bb0e1e93d6?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Electric vehicle plugged into home charger",
+        "caption": "Convenient overnight charging for East Longmeadow EV owners",
+        "credit": {
+          "photographer": "Rathaphon Nanthapreecha",
+          "unsplashUrl": "https://unsplash.com/photos/dFDVIClR7hk"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "EV charging cable and connector detail",
+        "caption": "Smart charging technology for East Longmeadow homes",
+        "credit": {
+          "photographer": "CHUTTERSNAP",
+          "unsplashUrl": "https://unsplash.com/photos/xJLsHl0hIik"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Certified electrician performing installation",
+        "caption": "Licensed electricians ensuring safe installations",
+        "credit": {
+          "photographer": "Scott Graham",
+          "unsplashUrl": "https://unsplash.com/photos/5fNmWej4tAA"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why East Longmeadow Residents Choose Professional EV Charger Installation",
+    "Our Proven Installation Process in East Longmeadow",
+    "Best EV Chargers for East Longmeadow Massachusetts Homes",
+    "flexible benefits and Massachusetts EV benefits",
+    "East Longmeadow EV Charger Installation FAQs"
+  ],
+  "faq": [
+    {
+      "question": "How much does EV charger installation cost in East Longmeadow?",
+      "answer": "EV charger installation in East Longmeadow typically costs $900-$2,500 total. This includes the Level 2 charger unit ($400-$900), professional installation labor ($400-$800), and electrical work ($200-$800). The federal Alternative Fuel financing covers up to $1,000 of installation costs. We provide detailed free quotes specific to your East Longmeadow home."
+    },
+    {
+      "question": "Which EV charger brands do you install in East Longmeadow?",
+      "answer": "We install all major Level 2 EV charger brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox 40/48, Grizzl-E, Wallbox Pulsar Plus, Emporia, and ClipperCreek. Each brand offers different features and price points. We'll help you choose the perfect charger for your EV model and needs during your free consultation."
+    },
+    {
+      "question": "Does my East Longmeadow home need electrical upgrades?",
+      "answer": "It depends on your home's electrical panel capacity. Level 2 EV chargers require a dedicated 40-50 amp, 240V circuit. Most East Longmeadow homes built after 1990 have sufficient capacity. Older homes may need panel upgrades, which we handle completely including permits and town inspections. We provide free electrical assessments."
+    },
+    {
+      "question": "Can I install an EV charger outdoors in East Longmeadow?",
+      "answer": "Yes! We install weatherproof EV chargers designed for Massachusetts weather. Chargers like Grizzl-E, JuiceBox, and ChargePoint are rated for -40°F to 122°F operation. Outdoor installations work perfectly in East Longmeadow year-round. We ensure proper mounting, weatherproofing, and cable management for New England climate."
+    },
+    {
+      "question": "What financing options are available for East Longmeadow residents?",
+      "answer": "East Longmeadow residents qualify for the federal Alternative Fuel Vehicle Refueling Property Credit (30% of costs up to $1,000). Massachusetts offers MOR-EV rebates for EV purchases, and some utility companies provide additional charger rebates. We help you navigate all financing options to maximize your installation savings."
+    },
+    {
+      "question": "How fast will my EV charge at home in East Longmeadow?",
+      "answer": "With a Level 2 charger in your East Longmeadow home, you'll add 25-50 miles of range per hour - about 3-7x faster than a standard outlet. Most EVs fully charge overnight in 4-8 hours. A Tesla Model 3 charges in about 8 hours, a Chevy Bolt in 7 hours, and a Nissan Leaf in 5-6 hours with Level 2 charging."
+    },
+    {
+      "question": "Should I pair my EV charger with solar panels?",
+      "answer": "Absolutely! Pairing solar panels with EV charging is one of the smartest investments for East Longmeadow homeowners. We design integrated solar and EV charging systems that power your vehicle with clean, renewable energy from your roof, eliminating both gasoline and grid electricity costs for maximum savings and energy independence."
+    },
+    {
+      "question": "Do I need a permit for EV charger installation in East Longmeadow?",
+      "answer": "Yes, the Town of East Longmeadow requires electrical permits for Level 2 EV charger installations to ensure safety and code compliance. We handle all permitting, inspections, and paperwork with the East Longmeadow Building Department as part of our comprehensive installation service."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "EV charging cable and connector detail",
-    "caption": "Smart charging technology for East Longmeadow homes",
-    "credit": {
-     "photographer": "CHUTTERSNAP",
-     "unsplashUrl": "https://unsplash.com/photos/xJLsHl0hIik"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Certified electrician performing installation",
-    "caption": "Licensed electricians ensuring safe installations",
-    "credit": {
-     "photographer": "Scott Graham",
-     "unsplashUrl": "https://unsplash.com/photos/5fNmWej4tAA"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why East Longmeadow Residents Choose Professional EV Charger Installation",
-  "Our Proven Installation Process in East Longmeadow",
-  "Best EV Chargers for East Longmeadow Massachusetts Homes",
-  "flexible financings and Massachusetts EV benefits",
-  "East Longmeadow EV Charger Installation FAQs"
- ],
- "faq": [
-  {
-   "question": "How much does EV charger installation cost in East Longmeadow?",
-   "answer": "EV charger installation in East Longmeadow typically costs $900-$2,500 total. This includes the Level 2 charger unit ($400-$900), professional installation labor ($400-$800), and electrical work ($200-$800). The federal Alternative Fuel financing covers up to $1,000 of installation costs. We provide detailed free quotes specific to your East Longmeadow home."
-  },
-  {
-   "question": "Which EV charger brands do you install in East Longmeadow?",
-   "answer": "We install all major Level 2 EV charger brands including Tesla Wall Connector, ChargePoint Home Flex, JuiceBox 40/48, Grizzl-E, Wallbox Pulsar Plus, Emporia, and ClipperCreek. Each brand offers different features and price points. We'll help you choose the perfect charger for your EV model and needs during your free consultation."
-  },
-  {
-   "question": "Does my East Longmeadow home need electrical upgrades?",
-   "answer": "It depends on your home's electrical panel capacity. Level 2 EV chargers require a dedicated 40-50 amp, 240V circuit. Most East Longmeadow homes built after 1990 have sufficient capacity. Older homes may need panel upgrades, which we handle completely including permits and town inspections. We provide free electrical assessments."
-  },
-  {
-   "question": "Can I install an EV charger outdoors in East Longmeadow?",
-   "answer": "Yes! We install weatherproof EV chargers designed for Massachusetts weather. Chargers like Grizzl-E, JuiceBox, and ChargePoint are rated for -40°F to 122°F operation. Outdoor installations work perfectly in East Longmeadow year-round. We ensure proper mounting, weatherproofing, and cable management for New England climate."
-  },
-  {
-   "question": "What financing options are available for East Longmeadow residents?",
-   "answer": "East Longmeadow residents qualify for the federal Alternative Fuel Vehicle Refueling Property Credit (30% of costs up to $1,000). Massachusetts offers MOR-EV rebates for EV purchases, and some utility companies provide additional charger rebates. We help you navigate all financing options to maximize your installation savings."
-  },
-  {
-   "question": "How fast will my EV charge at home in East Longmeadow?",
-   "answer": "With a Level 2 charger in your East Longmeadow home, you'll add 25-50 miles of range per hour - about 3-7x faster than a standard outlet. Most EVs fully charge overnight in 4-8 hours. A Tesla Model 3 charges in about 8 hours, a Chevy Bolt in 7 hours, and a Nissan Leaf in 5-6 hours with Level 2 charging."
-  },
-  {
-   "question": "Should I pair my EV charger with solar panels?",
-   "answer": "Absolutely! Pairing solar panels with EV charging is one of the smartest investments for East Longmeadow homeowners. We design integrated solar and EV charging systems that power your vehicle with clean, renewable energy from your roof, eliminating both gasoline and grid electricity costs for maximum savings and energy independence."
-  },
-  {
-   "question": "Do I need a permit for EV charger installation in East Longmeadow?",
-   "answer": "Yes, the Town of East Longmeadow requires electrical permits for Level 2 EV charger installations to ensure safety and code compliance. We handle all permitting, inspections, and paperwork with the East Longmeadow Building Department as part of our comprehensive installation service."
-  }
- ],
- "keywords": [
-  "EV charger installation",
-  "Level 2 charging station",
-  "electric vehicle charger",
-  "home EV charging",
-  "Tesla charger installation",
-  "smart EV charger"
- ],
- "localKeywords": [
-  "EV charger installation East Longmeadow MA",
-  "electric car charging East Longmeadow",
-  "East Longmeadow EV charging station",
-  "home EV charger Massachusetts",
-  "Tesla charger East Longmeadow"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free East Longmeadow EV Charger Quote",
- "ctaSecondary": "Schedule Free Home Assessment",
- "ctaUrgency": "special offer: Save Up to $1,000 on Installation"
+  ],
+  "keywords": [
+    "EV charger installation",
+    "Level 2 charging station",
+    "electric vehicle charger",
+    "home EV charging",
+    "Tesla charger installation",
+    "smart EV charger"
+  ],
+  "localKeywords": [
+    "EV charger installation East Longmeadow MA",
+    "electric car charging East Longmeadow",
+    "East Longmeadow EV charging station",
+    "home EV charger Massachusetts",
+    "Tesla charger East Longmeadow"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free East Longmeadow EV Charger Quote",
+  "ctaSecondary": "Schedule Free Home Assessment",
+  "ctaUrgency": "special offer: Save Up to $1,000 on Installation"
 }

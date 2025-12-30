@@ -1,192 +1,192 @@
 {
- "id": "solar-panel-cleaning-westfield",
- "service": "Solar Panel Cleaning Services",
- "serviceSlug": "solar-panel-cleaning",
- "location": "Westfield",
- "locationSlug": "westfield",
- "serviceNiche": "Solar Installers",
- "pageTitle": "Solar Panel Cleaning Westfield MA - Maximize Output 25% | Free Quote",
- "metaDescription": "Expert solar panel cleaning in Westfield, MA. Remove pollen, dirt, debris from Whip City solar systems. Certified pros, eco-friendly methods. Book your cleaning!",
- "h1": "Professional Solar Panel Cleaning Services in Westfield, Massachusetts",
- "heroHeadline": "Keep Your Westfield Solar System Producing Maximum Energy",
- "heroSubheadline": "Expert Cleaning • Restore Efficiency • Extend Panel Lifespan",
- "serviceDescription": "Westfield's beautiful natural setting in the Pioneer Valley—known as the Whip City—provides excellent solar potential, but the surrounding forests, agricultural areas, and seasonal weather patterns create unique maintenance challenges for solar panel owners. Tree pollen, agricultural dust, and debris from Westfield's changing seasons can reduce your solar efficiency by 20-30% without regular professional cleaning.\n\nOur professional solar panel cleaning services have been serving Westfield homeowners and businesses for over 12 years, helping local solar investors protect their systems and maximize energy production year-round. We understand that Westfield residents chose solar for environmental sustainability and significant long-term savings—our specialized cleaning services ensure you achieve both goals without compromise.\n\nUsing advanced purified water technology and manufacturer-approved soft-bristle cleaning methods, we safely remove all buildup without harsh chemicals, high-pressure water, or abrasive techniques that could damage panels or void warranties. Every Westfield cleaning service includes a thorough system inspection where our certified technicians identify potential issues like wind damage, thermal cycling stress, or wildlife interference before they impact your investment.\n\nWestfield's position near the Westfield River and surrounded by state forests means your solar panels face heavy spring pollen loads, summer dust from agricultural operations, fall leaf debris, and winter snow accumulation. Our seasonal maintenance programs are specifically designed for Westfield's climate, providing scheduled cleanings at optimal times to maintain peak performance. With transparent pricing, flexible weekend scheduling, and a 100% satisfaction guarantee, we make professional solar maintenance easy and affordable for every Westfield solar owner.",
- "shortDescription": "Westfield's trusted solar panel cleaning experts since 2012. Combat pollen, agricultural dust, and seasonal debris. Purified water cleaning, certified technicians, guaranteed results.",
- "benefits": [
-  "Restore 20-30% efficiency lost to Westfield's seasonal buildup",
-  "Protect your solar investment from environmental damage",
-  "Eco-friendly purified water system—zero chemical residue",
-  "Comprehensive inspection catches issues before expensive repairs",
-  "Warranty-safe cleaning approved by major manufacturers",
-  "Local Westfield team understands Whip City's unique challenges",
-  "Fully licensed, insured, and bonded for your protection",
-  "Seasonal maintenance programs optimized for Westfield climate"
- ],
- "process": [
-  {
-   "step": 1,
-   "title": "Free Westfield Solar Assessment",
-   "description": "We evaluate your system's current performance, assess environmental exposure specific to your Westfield location, and identify cleaning priorities based on visible buildup patterns."
-  },
-  {
-   "step": 2,
-   "title": "Safe Access & System Inspection",
-   "description": "Our certified team establishes secure roof access following OSHA protocols, inspects all electrical components and mounting hardware, and documents pre-cleaning conditions with detailed photography."
-  },
-  {
-   "step": 3,
-   "title": "Purified Water Deep Cleaning",
-   "description": "Using our advanced purified water system and specialized soft brushes, we methodically clean each panel, removing pollen, agricultural dust, bird droppings, and organic debris without damaging delicate surfaces."
-  },
-  {
-   "step": 4,
-   "title": "Thorough Rinse & Final Inspection",
-   "description": "We perform multiple purified water rinses to eliminate all cleaning residue and ensure streak-free results, then conduct a detailed quality inspection verifying every panel is spotless."
-  },
-  {
-   "step": 5,
-   "title": "Results Report & Maintenance Guidance",
-   "description": "You receive comprehensive before/after photos, a detailed condition report noting any concerns, and personalized recommendations for maintaining peak performance in Westfield's environment."
-  }
- ],
- "features": [
-  "Advanced purified water filtration—zero mineral deposits",
-  "Soft-bristle brushes designed for photovoltaic surfaces",
-  "Drone inspection capability for complex installations",
-  "Performance monitoring and efficiency tracking",
-  "Seasonal cleaning programs for Westfield's climate patterns",
-  "Emergency debris removal after severe weather",
-  "Wildlife deterrent installation services available"
- ],
- "pricingInfo": "Professional solar panel cleaning in Westfield typically costs $155-$285 for residential systems, with final pricing based on panel count, roof pitch, and access requirements. Commercial installations range from $425-$1,150 depending on array size and building type. Our Westfield seasonal maintenance packages start at $460/year for residential properties, including 2-3 scheduled cleanings plus priority service. Contact us for a free customized quote for your Westfield solar system.",
- "serviceArea": "Westfield, MA and all surrounding Western Massachusetts communities including Southampton, Russell, Southwick, Agawam, and the broader Pioneer Valley",
- "availability": "Monday-Saturday, 7:00 AM - 6:00 PM. Weekend and early morning appointments available for working Westfield homeowners.",
- "responseTime": "Free quotes provided within 24 hours. Standard cleaning appointments typically scheduled within 3-5 business days. Same-day emergency service available when needed.",
- "qualifications": [
-  "NABCEP Certified Solar Service Technicians",
-  "Massachusetts Licensed and Fully Insured",
-  "OSHA-Certified for Safe Rooftop Operations",
-  "Better Business Bureau A+ Rating",
-  "Manufacturer-Approved Cleaning Methods"
- ],
- "yearsExperience": "12+ years",
- "projectsCompleted": "2,500+ solar panel cleanings completed",
- "guarantees": [
-  "100% satisfaction guarantee—free re-clean if not completely satisfied",
-  "Zero damage guarantee backed by comprehensive insurance",
-  "Streak-free cleaning guarantee or we return at no charge",
-  "Warranty-safe methods that protect manufacturer coverage"
- ],
- "emergencyAvailable": false,
- "images": {
-  "heroImage": {
-   "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
-   "alt": "Professional solar panel cleaning service on Westfield Massachusetts home",
-   "caption": "Expert Solar Panel Cleaning in Westfield, MA",
-   "credit": {
-    "photographer": "Vivint Solar",
-    "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
-   }
-  },
-  "gallery": [
-   {
-    "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Clean solar panels producing maximum energy in Westfield",
-    "caption": "Maximize Your Westfield Solar Investment",
-    "credit": {
-     "photographer": "Anders J",
-     "unsplashUrl": "https://unsplash.com/photos/UXR--t8CZ1U"
+  "id": "solar-panel-cleaning-westfield",
+  "service": "Solar Panel Cleaning Services",
+  "serviceSlug": "solar-panel-cleaning",
+  "location": "Westfield",
+  "locationSlug": "westfield",
+  "serviceNiche": "Solar Installers",
+  "pageTitle": "Solar Panel Cleaning Westfield MA - Maximize Output 25% | Free Quote",
+  "metaDescription": "Expert solar panel cleaning in Westfield, MA. Remove pollen, dirt, debris from Whip City solar systems. Certified pros, eco-friendly methods. Book your cleaning!",
+  "h1": "Professional Solar Panel Cleaning Services in Westfield, Massachusetts",
+  "heroHeadline": "Keep Your Westfield Solar System Producing Maximum Energy",
+  "heroSubheadline": "Expert Cleaning • Restore Efficiency • Extend Panel Lifespan",
+  "serviceDescription": "Westfield's beautiful natural setting in the Pioneer Valley—known as the Whip City—provides excellent solar potential, but the surrounding forests, agricultural areas, and seasonal weather patterns create unique maintenance challenges for solar panel owners. Tree pollen, agricultural dust, and debris from Westfield's changing seasons can reduce your solar efficiency by 20-30% without regular professional cleaning.\n\nOur professional solar panel cleaning services have been serving Westfield homeowners and businesses for over 12 years, helping local solar investors protect their systems and maximize energy production year-round. We understand that Westfield residents chose solar for environmental sustainability and significant long-term savings—our specialized cleaning services ensure you achieve both goals without compromise.\n\nUsing advanced purified water technology and manufacturer-approved soft-bristle cleaning methods, we safely remove all buildup without harsh chemicals, high-pressure water, or abrasive techniques that could damage panels or void warranties. Every Westfield cleaning service includes a thorough system inspection where our certified technicians identify potential issues like wind damage, thermal cycling stress, or wildlife interference before they impact your investment.\n\nWestfield's position near the Westfield River and surrounded by state forests means your solar panels face heavy spring pollen loads, summer dust from agricultural operations, fall leaf debris, and winter snow accumulation. Our seasonal maintenance programs are specifically designed for Westfield's climate, providing scheduled cleanings at optimal times to maintain peak performance. With transparent pricing, flexible weekend scheduling, and a 100% satisfaction guarantee, we make professional solar maintenance easy and affordable for every Westfield solar owner.",
+  "shortDescription": "Westfield's trusted solar panel cleaning experts since 2012. Combat pollen, agricultural dust, and seasonal debris. Purified water cleaning, certified technicians, guaranteed results.",
+  "benefits": [
+    "Restore 20-30% efficiency lost to Westfield's seasonal buildup",
+    "Protect your solar investment from environmental damage",
+    "Eco-friendly purified water system—zero chemical residue",
+    "Comprehensive inspection catches issues before expensive repairs",
+    "Warranty-safe cleaning approved by major manufacturers",
+    "Local Westfield team understands Whip City's unique challenges",
+    "Fully licensed, insured, and bonded for your protection",
+    "Seasonal maintenance programs optimized for Westfield climate"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Free Westfield Solar Assessment",
+      "description": "We evaluate your system's current performance, assess environmental exposure specific to your Westfield location, and identify cleaning priorities based on visible buildup patterns."
+    },
+    {
+      "step": 2,
+      "title": "Safe Access & System Inspection",
+      "description": "Our certified team establishes secure roof access following OSHA protocols, inspects all electrical components and mounting hardware, and documents pre-cleaning conditions with detailed photography."
+    },
+    {
+      "step": 3,
+      "title": "Purified Water Deep Cleaning",
+      "description": "Using our advanced purified water system and specialized soft brushes, we methodically clean each panel, removing pollen, agricultural dust, bird droppings, and organic debris without damaging delicate surfaces."
+    },
+    {
+      "step": 4,
+      "title": "Thorough Rinse & Final Inspection",
+      "description": "We perform multiple purified water rinses to eliminate all cleaning residue and ensure streak-free results, then conduct a detailed quality inspection verifying every panel is spotless."
+    },
+    {
+      "step": 5,
+      "title": "Results Report & Maintenance Guidance",
+      "description": "You receive comprehensive before/after photos, a detailed condition report noting any concerns, and personalized recommendations for maintaining peak performance in Westfield's environment."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Residential solar panel array on Westfield Massachusetts property",
-    "caption": "Protecting Westfield Solar Systems",
-    "credit": {
-     "photographer": "American Public Power Association",
-     "unsplashUrl": "https://unsplash.com/photos/XGAZzyLzn18"
+  ],
+  "features": [
+    "Advanced purified water filtration—zero mineral deposits",
+    "Soft-bristle brushes designed for photovoltaic surfaces",
+    "Drone inspection capability for complex installations",
+    "Performance monitoring and efficiency tracking",
+    "Seasonal cleaning programs for Westfield's climate patterns",
+    "Emergency debris removal after severe weather",
+    "Wildlife deterrent installation services available"
+  ],
+  "pricingInfo": "Professional solar panel cleaning in Westfield typically costs $155-$285 for residential systems, with final pricing based on panel count, roof pitch, and access requirements. Commercial installations range from $425-$1,150 depending on array size and building type. Our Westfield seasonal maintenance packages start at $460/year for residential properties, including 2-3 scheduled cleanings plus priority service. Contact us for a free customized quote for your Westfield solar system.",
+  "serviceArea": "Westfield, MA and all surrounding Western Massachusetts communities including Southampton, Russell, Southwick, Agawam, and the broader Pioneer Valley",
+  "availability": "Monday-Saturday, 7:00 AM - 6:00 PM. Weekend and early morning appointments available for working Westfield homeowners.",
+  "responseTime": "Free quotes provided within 24 hours. Standard cleaning appointments typically scheduled within 3-5 business days. Same-day emergency service available when needed.",
+  "qualifications": [
+    "NABCEP Certified Solar Service Technicians",
+    "Massachusetts Licensed and Fully Insured",
+    "OSHA-Certified for Safe Rooftop Operations",
+    "Better Business Bureau A+ Rating",
+    "Manufacturer-Approved Cleaning Methods"
+  ],
+  "yearsExperience": "12+ years",
+  "projectsCompleted": "2,500+ solar panel cleanings completed",
+  "guarantees": [
+    "100% satisfaction guarantee—free re-clean if not completely satisfied",
+    "Zero damage guarantee backed by comprehensive insurance",
+    "Streak-free cleaning guarantee or we return at no charge",
+    "Warranty-safe methods that protect manufacturer coverage"
+  ],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional solar panel cleaning service on Westfield Massachusetts home",
+      "caption": "Expert Solar Panel Cleaning in Westfield, MA",
+      "credit": {
+        "photographer": "Vivint Solar",
+        "unsplashUrl": "https://unsplash.com/photos/9CalgkSRZb8"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Clean solar panels producing maximum energy in Westfield",
+        "caption": "Maximize Your Westfield Solar Investment",
+        "credit": {
+          "photographer": "Anders J",
+          "unsplashUrl": "https://unsplash.com/photos/UXR--t8CZ1U"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Residential solar panel array on Westfield Massachusetts property",
+        "caption": "Protecting Westfield Solar Systems",
+        "credit": {
+          "photographer": "American Public Power Association",
+          "unsplashUrl": "https://unsplash.com/photos/XGAZzyLzn18"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Certified technician cleaning solar panels with specialized equipment",
+        "caption": "Safe, Professional Cleaning Methods",
+        "credit": {
+          "photographer": "Science in HD",
+          "unsplashUrl": "https://unsplash.com/photos/5bYH6RyB8AQ"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1497440001374-f26997328c1b?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Solar panels on Westfield home generating clean renewable energy",
+        "caption": "Serving the Whip City Since 2012",
+        "credit": {
+          "photographer": "Zbynek Burival",
+          "unsplashUrl": "https://unsplash.com/photos/8iZG31eXkks"
+        }
+      }
+    ]
+  },
+  "h2Headings": [
+    "Why Westfield Solar Panels Need Regular Professional Cleaning",
+    "Our Proven Solar Panel Cleaning Process in Westfield",
+    "Environmental Challenges for Westfield Solar Systems",
+    "Seasonal Maintenance Plans for Westfield Solar Owners",
+    "Westfield Solar Panel Cleaning FAQs",
+    "Schedule Your Free Solar Cleaning Consultation in Westfield"
+  ],
+  "faq": [
+    {
+      "question": "How often should I clean my solar panels in Westfield?",
+      "answer": "Westfield's environment typically requires 2-3 professional cleanings annually. We recommend spring cleaning (after heavy pollen season), mid-summer (after agricultural dust accumulation), and fall (before winter). Properties near wooded areas or agricultural operations may benefit from quarterly cleaning."
+    },
+    {
+      "question": "Does Westfield's pollen really affect solar panel efficiency that much?",
+      "answer": "Absolutely! Westfield's surrounding forests produce heavy pollen loads in spring, creating a sticky film that reduces efficiency by 20-30%. Unlike regular dust, pollen adheres strongly to panel surfaces and attracts additional dirt. Professional cleaning removes this buildup that rain simply can't wash away."
+    },
+    {
+      "question": "Can I damage my panels by cleaning them myself in Westfield?",
+      "answer": "Yes, several ways: using tap water leaves mineral deposits from Westfield's water supply, pressure washing can crack panels or force water into electrical components, abrasive materials scratch surfaces, and harsh chemicals void warranties. Our purified water system and soft-bristle method eliminates these risks."
+    },
+    {
+      "question": "How do agricultural operations near Westfield affect my solar panels?",
+      "answer": "Agricultural areas around Westfield generate fine dust particles during planting, harvesting, and tilling seasons. This dust settles on panels creating a hazy film that blocks sunlight. Combined with morning dew, it creates a cement-like coating that requires professional cleaning to remove without damage."
+    },
+    {
+      "question": "What's the return on investment for professional cleaning in Westfield?",
+      "answer": "Excellent! A typical Westfield residential system loses $200-$450 annually from dirty panels. Our cleaning service costs $155-$285 and typically restores 20-25% efficiency immediately. Most clients see full ROI within 2-4 months through increased production, plus extended panel lifespan worth thousands."
+    },
+    {
+      "question": "Do you clean solar panels on Westfield farms and agricultural buildings?",
+      "answer": "Yes! We have extensive experience with agricultural solar installations in Westfield. Farm buildings often have larger arrays exposed to heavier dust loads requiring specialized cleaning. We offer commercial rates and can schedule cleanings around your agricultural operations."
+    },
+    {
+      "question": "Can wildlife damage my solar panels in Westfield?",
+      "answer": "It's possible. Westfield's wooded areas mean birds, squirrels, and occasionally raccoons interact with roof-mounted panels. Bird droppings are acidic and reduce efficiency. We identify wildlife issues during cleaning and can install deterrents to prevent nesting under panels or damage to wiring."
+    },
+    {
+      "question": "Do you offer group rates for Westfield neighborhoods?",
+      "answer": "Yes! When multiple Westfield homeowners schedule together, we offer neighborhood group discounts. This is popular in Westfield's newer developments where many homes have solar. We also provide referral bonuses and discounts for veterans, seniors, and maintenance plan members."
     }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Certified technician cleaning solar panels with specialized equipment",
-    "caption": "Safe, Professional Cleaning Methods",
-    "credit": {
-     "photographer": "Science in HD",
-     "unsplashUrl": "https://unsplash.com/photos/5bYH6RyB8AQ"
-    }
-   },
-   {
-    "url": "https://images.unsplash.com/photo-1497440001374-f26997328c1b?ixlib=rb-4.0.3&w=1200&q=80",
-    "alt": "Solar panels on Westfield home generating clean renewable energy",
-    "caption": "Serving the Whip City Since 2012",
-    "credit": {
-     "photographer": "Zbynek Burival",
-     "unsplashUrl": "https://unsplash.com/photos/8iZG31eXkks"
-    }
-   }
-  ]
- },
- "h2Headings": [
-  "Why Westfield Solar Panels Need Regular Professional Cleaning",
-  "Our Proven Solar Panel Cleaning Process in Westfield",
-  "Environmental Challenges for Westfield Solar Systems",
-  "Seasonal Maintenance Plans for Westfield Solar Owners",
-  "Westfield Solar Panel Cleaning FAQs",
-  "Schedule Your Free Solar Cleaning Consultation in Westfield"
- ],
- "faq": [
-  {
-   "question": "How often should I clean my solar panels in Westfield?",
-   "answer": "Westfield's environment typically requires 2-3 professional cleanings annually. We recommend spring cleaning (after heavy pollen season), mid-summer (after agricultural dust accumulation), and fall (before winter). Properties near wooded areas or agricultural operations may benefit from quarterly cleaning."
-  },
-  {
-   "question": "Does Westfield's pollen really affect solar panel efficiency that much?",
-   "answer": "Absolutely! Westfield's surrounding forests produce heavy pollen loads in spring, creating a sticky film that reduces efficiency by 20-30%. Unlike regular dust, pollen adheres strongly to panel surfaces and attracts additional dirt. Professional cleaning removes this buildup that rain simply can't wash away."
-  },
-  {
-   "question": "Can I damage my panels by cleaning them myself in Westfield?",
-   "answer": "Yes, several ways: using tap water leaves mineral deposits from Westfield's water supply, pressure washing can crack panels or force water into electrical components, abrasive materials scratch surfaces, and harsh chemicals void warranties. Our purified water system and soft-bristle method eliminates these risks."
-  },
-  {
-   "question": "How do agricultural operations near Westfield affect my solar panels?",
-   "answer": "Agricultural areas around Westfield generate fine dust particles during planting, harvesting, and tilling seasons. This dust settles on panels creating a hazy film that blocks sunlight. Combined with morning dew, it creates a cement-like coating that requires professional cleaning to remove without damage."
-  },
-  {
-   "question": "What's the return on investment for professional cleaning in Westfield?",
-   "answer": "Excellent! A typical Westfield residential system loses $200-$450 annually from dirty panels. Our cleaning service costs $155-$285 and typically restores 20-25% efficiency immediately. Most clients see full ROI within 2-4 months through increased production, plus extended panel lifespan worth thousands."
-  },
-  {
-   "question": "Do you clean solar panels on Westfield farms and agricultural buildings?",
-   "answer": "Yes! We have extensive experience with agricultural solar installations in Westfield. Farm buildings often have larger arrays exposed to heavier dust loads requiring specialized cleaning. We offer commercial rates and can schedule cleanings around your agricultural operations."
-  },
-  {
-   "question": "Can wildlife damage my solar panels in Westfield?",
-   "answer": "It's possible. Westfield's wooded areas mean birds, squirrels, and occasionally raccoons interact with roof-mounted panels. Bird droppings are acidic and reduce efficiency. We identify wildlife issues during cleaning and can install deterrents to prevent nesting under panels or damage to wiring."
-  },
-  {
-   "question": "Do you offer group rates for Westfield neighborhoods?",
-   "answer": "Yes! When multiple Westfield homeowners schedule together, we offer neighborhood group discounts. This is popular in Westfield's newer developments where many homes have solar. We also provide referral bonuses and discounts for veterans, seniors, and maintenance plan members."
-  }
- ],
- "keywords": [
-  "solar panel cleaning",
-  "solar maintenance service",
-  "photovoltaic cleaning",
-  "panel washing",
-  "solar efficiency restoration",
-  "agricultural area solar cleaning"
- ],
- "localKeywords": [
-  "solar panel cleaning Westfield MA",
-  "Westfield solar maintenance",
-  "Whip City solar cleaning",
-  "Westfield Massachusetts solar service",
-  "Pioneer Valley solar panel washing",
-  "Western Massachusetts solar cleaning"
- ],
- "ctaPhone": "(413) 555-0100",
- "ctaText": "Get Your Free Westfield Solar Cleaning Quote",
- "ctaSecondary": "Schedule Solar Panel Cleaning in Westfield",
- "ctaUrgency": "Spring Pollen Season - Book Your Cleaning Now"
+  ],
+  "keywords": [
+    "solar panel cleaning",
+    "solar maintenance service",
+    "photovoltaic cleaning",
+    "panel washing",
+    "solar efficiency restoration",
+    "agricultural area solar cleaning"
+  ],
+  "localKeywords": [
+    "solar panel cleaning Westfield MA",
+    "Westfield solar maintenance",
+    "Whip City solar cleaning",
+    "Westfield Massachusetts solar service",
+    "Pioneer Valley solar panel washing",
+    "Western Massachusetts solar cleaning"
+  ],
+  "ctaPhone": "(413) 555-0100",
+  "ctaText": "Get Your Free Westfield Solar Cleaning Quote",
+  "ctaSecondary": "Schedule Solar Panel Cleaning in Westfield",
+  "ctaUrgency": "Spring Pollen Season - Book Your Cleaning Now"
 }
