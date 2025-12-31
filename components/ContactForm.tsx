@@ -10,6 +10,7 @@ export default function ContactForm() {
     address: '',
     propertyType: '',
     electricBill: '',
+    timeline: '',
     message: ''
   });
   const [submitting, setSubmitting] = useState(false);
@@ -37,6 +38,7 @@ export default function ContactForm() {
           address: '',
           propertyType: '',
           electricBill: '',
+          timeline: '',
           message: ''
         });
       }
@@ -161,6 +163,25 @@ export default function ContactForm() {
               <option value="300+">$300+</option>
             </select>
           </div>
+        </div>
+
+        <div>
+          <label htmlFor="timeline" className="block text-sm font-medium text-gray-700 mb-1">
+            How soon are you looking for a solar quote? *
+          </label>
+          <select
+            id="timeline"
+            required
+            value={formData.timeline}
+            onChange={(e) => setFormData({ ...formData, timeline: e.target.value })}
+            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-transparent"
+          >
+            <option value="">Select timeline...</option>
+            <option value="less-than-1-month">Less than a month</option>
+            <option value="2-4-months">2-4 months</option>
+            <option value="5-6-months">5-6 months</option>
+            <option value="6-plus-months">6+ months</option>
+          </select>
         </div>
 
         <div>
