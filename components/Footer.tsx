@@ -120,7 +120,7 @@ export default function Footer() {
           {/* Disclaimer */}
           <div className="border-t border-gray-800 pt-6">
             <p className="text-xs text-gray-500 text-center leading-relaxed max-w-4xl mx-auto">
-              <span className="font-semibold text-gray-400">Disclaimer:</span> Information on this website is provided "as is" and reflects our best knowledge as of publication. Solar programs, incentives, rates, and regulations are subject to change without notice. This content does not constitute legal, financial, investment, or tax advice. Consult qualified professionals before making decisions. Estimated savings are illustrative and not guaranteed. We assume no liability for actions taken based on this information.
+              <span className="font-semibold text-gray-400">Disclaimer:</span> Information on this website is provided &ldquo;as is&rdquo; and reflects our best knowledge as of publication. Solar programs, incentives, rates, and regulations are subject to change without notice. This content does not constitute legal, financial, investment, or tax advice. Consult qualified professionals before making decisions. Estimated savings are illustrative and not guaranteed. We assume no liability for actions taken based on this information.
             </p>
           </div>
         </div>
