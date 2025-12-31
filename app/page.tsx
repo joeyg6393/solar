@@ -60,11 +60,11 @@ export default function HomePage() {
                   </svg>
                   Get Free Solar Quote
                 </a>
-                <a href="tel:4135550100" className="btn btn--outline-white btn--large">
+                <a href="#contact" className="btn btn--outline-white btn--large">
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                   </svg>
-                  Call (413) 555-0100
+                  Schedule a Call
                 </a>
               </div>
 
@@ -322,12 +322,12 @@ export default function HomePage() {
                 <div className="flex items-start gap-4">
                   <div className="w-12 h-12 bg-orange-100 rounded-lg flex items-center justify-center flex-shrink-0">
                     <svg className="w-6 h-6 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                     </svg>
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900 mb-1">Call Us</h4>
-                    <a href="tel:4135550100" className="text-orange-600 text-lg font-semibold hover:underline">(413) 555-0100</a>
+                    <h4 className="font-semibold text-gray-900 mb-1">Schedule a Call</h4>
+                    <p className="text-gray-600">Fill out the form and we&apos;ll call you</p>
                     <p className="text-gray-500 text-sm">Mon-Fri: 8am - 6pm EST</p>
                   </div>
                 </div>
@@ -374,11 +374,11 @@ export default function HomePage() {
           <p className="text-xl mb-8 text-orange-100">Join 1,200+ satisfied customers in Springfield who&apos;ve made the switch to clean energy</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="#contact" className="btn btn--white btn--large">Get Free Quote</a>
-            <a href="tel:4135550100" className="btn btn--outline-white btn--large">
+            <a href="#contact" className="btn btn--outline-white btn--large">
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
               </svg>
-              (413) 555-0100
+              Schedule a Call
             </a>
           </div>
         </div>
