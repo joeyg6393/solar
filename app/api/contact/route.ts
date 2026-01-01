@@ -1,4 +1,4 @@
-import { sql } from '@vercel/postgres';
+import { supabase } from '@/lib/supabase';
 import { NextResponse } from 'next/server';
 
 export async function POST(request: Request) {
@@ -15,15 +15,34 @@ export async function POST(request: Request) {
     }
 
     // Insert into database
-    const result = await sql`
-      INSERT INTO contact_submissions (name, email, phone, address, property_type, electric_bill, timeline, message, created_at)
-      VALUES (${name}, ${email}, ${phone}, ${address}, ${propertyType}, ${electricBill}, ${timeline}, ${message || ''}, NOW())
-      RETURNING id, created_at;
-    `;
+    const { data, error } = await supabase
+      .from('contact_submissions')
+      .insert([
+        {
+          name,
+          email,
+          phone,
+          address,
+          property_type: propertyType,
+          electric_bill: electricBill,
+          timeline,
+          message: message || ''
+        }
+      ])
+      .select('id, created_at')
+      .single();
+
+    if (error) {
+      console.error('Supabase error:', error);
+      return NextResponse.json(
+        { error: 'Failed to submit form. Please try again.' },
+        { status: 500 }
+      );
+    }
 
     return NextResponse.json({
       success: true,
-      id: result.rows[0].id,
+      id: data.id,
       message: 'Form submitted successfully'
     });
 
