@@ -15,10 +15,12 @@ export default function ContactForm() {
   });
   const [submitting, setSubmitting] = useState(false);
   const [submitted, setSubmitted] = useState(false);
+  const [error, setError] = useState('');
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setSubmitting(true);
+    setError('');
 
     try {
       const response = await fetch('/api/contact', {
@@ -28,6 +30,8 @@ export default function ContactForm() {
         },
         body: JSON.stringify(formData),
       });
+
+      const data = await response.json();
 
       if (response.ok) {
         setSubmitted(true);
@@ -41,9 +45,13 @@ export default function ContactForm() {
           timeline: '',
           message: ''
         });
+      } else {
+        setError(data.error || 'Something went wrong. Please try again.');
+        console.error('Form submission error:', data);
       }
     } catch (error) {
       console.error('Error submitting form:', error);
+      setError('Network error. Please check your connection and try again.');
     } finally {
       setSubmitting(false);
     }
@@ -55,8 +63,8 @@ export default function ContactForm() {
         <svg className="w-16 h-16 text-green-600 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
         </svg>
-        <h3 className="text-2xl font-bold text-gray-900 mb-2">Thank You!</h3>
-        <p className="text-gray-600">We received your request and will contact you within 24 hours to schedule your free solar consultation.</p>
+        <h3 className="text-2xl font-bold text-gray-900 mb-2">Thank You for Your Submission!</h3>
+        <p className="text-gray-600">We have received your information. Please allow up to 7 business days to hear back from us regarding your solar consultation.</p>
       </div>
     );
   }
@@ -197,6 +205,12 @@ export default function ContactForm() {
             placeholder="Tell us about your solar goals..."
           />
         </div>
+
+        {error && (
+          <div className="bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg">
+            {error}
+          </div>
+        )}
 
         <button
           type="submit"
