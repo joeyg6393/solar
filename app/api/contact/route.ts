@@ -3,6 +3,15 @@ import { NextResponse } from 'next/server';
 
 export async function POST(request: Request) {
   try {
+    // Check if Supabase is configured
+    if (!supabase) {
+      console.error('Supabase not configured - missing environment variables');
+      return NextResponse.json(
+        { error: 'Database not configured. Please set up Supabase environment variables.' },
+        { status: 503 }
+      );
+    }
+
     const body = await request.json();
     const { name, email, phone, address, propertyType, electricBill, timeline, message } = body;
 
