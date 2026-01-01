@@ -29,9 +29,6 @@ export default function Header() {
             <Link href="/#process" className="text-gray-700 hover:text-orange-600 transition-colors">
               Our Process
             </Link>
-            <Link href="/#testimonials" className="text-gray-700 hover:text-orange-600 transition-colors">
-              Reviews
-            </Link>
             <Link href="/#areas" className="text-gray-700 hover:text-orange-600 transition-colors">
               Service Areas
             </Link>
@@ -94,9 +91,6 @@ export default function Header() {
               </Link>
               <Link href="/#process" className="text-gray-700 hover:text-orange-600" onClick={() => setMobileMenuOpen(false)}>
                 Our Process
-              </Link>
-              <Link href="/#testimonials" className="text-gray-700 hover:text-orange-600" onClick={() => setMobileMenuOpen(false)}>
-                Reviews
               </Link>
               <Link href="/#areas" className="text-gray-700 hover:text-orange-600" onClick={() => setMobileMenuOpen(false)}>
                 Service Areas

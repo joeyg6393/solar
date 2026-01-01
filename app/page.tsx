@@ -211,66 +211,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Testimonials */}
-      <section className="section section--gray" id="testimonials">
-        <div className="container">
-          <div className="section__header">
-            <span className="section__subtitle">Customer Reviews</span>
-            <h2 className="section__title">What Our Customers Say</h2>
-            <div className="flex items-center justify-center gap-2 mt-4">
-              <div className="flex gap-1 text-yellow-400">
-                {[...Array(5)].map((_, i) => (
-                  <svg key={i} className="w-6 h-6" fill="currentColor" viewBox="0 0 20 20">
-                    <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
-                  </svg>
-                ))}
-              </div>
-              <span className="text-gray-600">4.9 out of 5 stars from 127+ reviews</span>
-            </div>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {[
-              { name: 'Sarah M.', location: 'Springfield, MA', text: 'The team was incredibly professional from start to finish. Our energy bills have dropped by 65% in just 6 months. Best investment we&apos;ve ever made for our home!' },
-              { name: 'Michael P.', location: 'Chicopee, MA', text: 'Installation was completed in 2 days with zero issues. The crew was respectful, clean, and highly skilled. System has been producing even more energy than projected!' },
-              { name: 'Jennifer L.', location: 'Westfield, MA', text: 'They handled all the paperwork and permits - I didn&apos;t have to do anything. Communication was excellent throughout the process. Highly recommend!' },
-            ].map((testimonial, i) => (
-              <div key={i} className="bg-white rounded-lg shadow-lg p-6">
-                <div className="flex items-center gap-2 mb-4">
-                  <div className="flex gap-1 text-yellow-400">
-                    {[...Array(5)].map((_, j) => (
-                      <svg key={j} className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
-                        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
-                      </svg>
-                    ))}
-                  </div>
-                  <span className="text-sm text-green-600 flex items-center gap-1">
-                    <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
-                      <path fillRule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
-                    </svg>
-                    Verified Customer
-                  </span>
-                </div>
-                <p className="text-gray-600 mb-4">&ldquo;{testimonial.text}&rdquo;</p>
-                <div className="flex items-center gap-3">
-                  <Image
-                    src={`https://i.pravatar.cc/150?img=${i + 1}`}
-                    alt={testimonial.name}
-                    width={48}
-                    height={48}
-                    className="rounded-full"
-                  />
-                  <div>
-                    <div className="font-semibold text-gray-900">{testimonial.name}</div>
-                    <div className="text-sm text-gray-500">{testimonial.location}</div>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
       {/* Service Areas */}
       <section className="section" id="areas">
         <div className="container">

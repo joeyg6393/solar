@@ -58,7 +58,6 @@ export default function Footer() {
             <ul className="space-y-2">
               <li><Link href="/#benefits" className="text-gray-400 hover:text-orange-500 transition-colors">Why Solar</Link></li>
               <li><Link href="/#process" className="text-gray-400 hover:text-orange-500 transition-colors">Our Process</Link></li>
-              <li><Link href="/#testimonials" className="text-gray-400 hover:text-orange-500 transition-colors">Customer Reviews</Link></li>
               <li><Link href="/#areas" className="text-gray-400 hover:text-orange-500 transition-colors">Service Areas</Link></li>
               <li><Link href="/#contact" className="text-gray-400 hover:text-orange-500 transition-colors">Contact Us</Link></li>
             </ul>
