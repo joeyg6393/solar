@@ -64,7 +64,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (location) {
     return {
       title: `Solar Installation Services in ${location.name}, MA | Free Quote`,
-      description: `Professional solar panel installation in ${location.name}, Massachusetts. NABCEP certified installers, 25-year warranties. Call (413) 555-0100 for a free quote!`,
+      description: `Professional solar panel installation in ${location.name}, Massachusetts. NABCEP certified installers, 25-year warranties. Request your free quote today!`,
       keywords: `solar panels ${location.name}, solar installation ${location.name} MA`,
       alternates: {
         canonical: `https://solarsolutions.com/${slug}`,

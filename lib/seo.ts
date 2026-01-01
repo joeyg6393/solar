@@ -70,7 +70,6 @@ export function generateServiceSchema(service: Service) {
     provider: {
       '@type': 'LocalBusiness',
       name: 'Solar Solutions',
-      telephone: '(413) 555-0100',
       areaServed: {
         '@type': 'State',
         name: 'Massachusetts'
