@@ -11,11 +11,11 @@ export default function Header() {
       <nav className="container py-4">
         <div className="flex items-center justify-between">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-2 text-xl font-bold text-gray-900">
+          <Link href="/" className="flex items-center gap-2 text-lg font-bold text-gray-900">
             <svg className="w-8 h-8 text-orange-600" fill="currentColor" viewBox="0 0 20 20">
               <path d="M10 2L2 7v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-8-5z" />
             </svg>
-            <span>Solar Solutions</span>
+            <span>WesternMassSolar.com</span>
           </Link>
 
           {/* Desktop Navigation */}

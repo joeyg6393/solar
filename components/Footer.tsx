@@ -7,11 +7,11 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           {/* Company Info */}
           <div>
-            <div className="flex items-center gap-2 text-xl font-bold mb-4">
+            <div className="flex items-center gap-2 text-lg font-bold mb-4">
               <svg className="w-8 h-8 text-orange-500" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M10 2L2 7v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-8-5z" />
               </svg>
-              <span>Solar Solutions</span>
+              <span>WesternMassSolar.com</span>
             </div>
             <p className="text-gray-400 mb-4">
               Professional solar panel installation in Western Massachusetts. Quality workmanship and customer satisfaction guaranteed.
@@ -80,7 +80,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 mb-6">
-            <p className="text-sm text-gray-400">&copy; 2024 Solar Solutions. All rights reserved.</p>
+            <p className="text-sm text-gray-400">&copy; 2024 WesternMassSolar.com. All rights reserved.</p>
           </div>
 
           {/* Disclaimer */}

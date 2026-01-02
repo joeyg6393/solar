@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   description: "Professional solar panel installation in Springfield, MA. Get a free quote today! Certified installers, 25-year warranties, and flexible financing options.",
   keywords: "solar panels, solar installation, Springfield MA, renewable energy, solar energy",
   openGraph: {
-    title: "Solar Solutions - Professional Solar Panel Installation",
+    title: "WesternMassSolar.com - Professional Solar Panel Installation",
     description: "Transform your home with clean solar energy. Save up to 70% on electricity bills.",
     type: "website",
   },

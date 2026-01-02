@@ -158,7 +158,7 @@ export default function HomePage() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
               { icon: '💰', title: 'Save on Energy Bills', desc: 'Reduce your electricity costs by up to 70%. Most homeowners save $1,500+ annually with solar energy.' },
-              { icon: '🏠', title: 'Increase Home Value', desc: 'Homes with solar panels sell for 4% more on average. It&apos;s an investment that pays for itself.' },
+              { icon: '🏠', title: 'Increase Home Value', desc: "Homes with solar panels sell for 4% more on average. It's an investment that pays for itself." },
               { icon: '🌱', title: 'Reduce Carbon Footprint', desc: 'Offset 3-4 tons of CO2 annually. Make a positive environmental impact for future generations.' },
               { icon: '📋', title: 'Flexible Financing', desc: '$0 down payment options available. Low monthly payments that are often less than your current electric bill.' },
               { icon: '⚡', title: 'Energy Independence', desc: 'Protect yourself from rising utility costs. Generate your own clean, reliable power.' },
@@ -187,7 +187,7 @@ export default function HomePage() {
             {[
               { title: 'Free Consultation', desc: 'We assess your property, review your energy bills, and design a custom solar system tailored to your needs.' },
               { title: 'Custom Proposal', desc: 'Receive a detailed proposal with system design, cost breakdown, savings estimates, and financing options.' },
-              { title: 'Permits & Approvals', desc: 'We handle all paperwork, permits, and utility approvals. You don&apos;t lift a finger during this process.' },
+              { title: 'Permits & Approvals', desc: "We handle all paperwork, permits, and utility approvals. You don't lift a finger during this process." },
               { title: 'Professional Installation', desc: 'Our certified team installs your solar system with precision and care. Most installations complete in 1-3 days.' },
               { title: 'Activation & Monitoring', desc: 'Final inspection, utility connection, and system activation. Start generating clean energy and tracking savings!' },
             ].map((step, i) => (

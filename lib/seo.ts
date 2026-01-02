@@ -4,8 +4,8 @@ export function generateLocalBusinessSchema(page: PageData, location: Location) 
   return {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
-    '@id': `https://solarsolutions.com/${page.id}`,
-    name: `Solar Solutions - ${page.service} in ${page.location}`,
+    '@id': `https://westernmasssolar.com/${page.id}`,
+    name: `WesternMassSolar.com - ${page.service} in ${page.location}`,
     description: page.shortDescription,
     image: page.images.heroImage.url,
     telephone: page.ctaPhone,
@@ -69,7 +69,7 @@ export function generateServiceSchema(service: Service) {
     serviceType: service.name,
     provider: {
       '@type': 'LocalBusiness',
-      name: 'Solar Solutions',
+      name: 'WesternMassSolar.com',
       areaServed: {
         '@type': 'State',
         name: 'Massachusetts'
