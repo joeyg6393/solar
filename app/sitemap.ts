@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { getAllPageData, getAllServices, getAllLocations } from '@/lib/data';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://solarsolutions.com';
+  const baseUrl = 'https://westernmasssolar.com';
 
   const pages = getAllPageData();
   const services = getAllServices();
