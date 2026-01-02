@@ -92,7 +92,7 @@ export interface Service {
 
 // Get all page data files
 export function getAllPageData(): PageData[] {
-  const pagesDir = path.join(process.cwd(), '..', 'pages');
+  const pagesDir = path.join(process.cwd(), 'pages');
 
   if (!fs.existsSync(pagesDir)) {
     return [];
@@ -110,7 +110,7 @@ export function getAllPageData(): PageData[] {
 
 // Get page data by slug
 export function getPageDataBySlug(slug: string): PageData | null {
-  const pagesDir = path.join(process.cwd(), '..', 'pages');
+  const pagesDir = path.join(process.cwd(), 'pages');
   const filePath = path.join(pagesDir, `${slug}.json`);
 
   if (!fs.existsSync(filePath)) {
@@ -123,7 +123,7 @@ export function getPageDataBySlug(slug: string): PageData | null {
 
 // Get all locations
 export function getAllLocations(): Location[] {
-  const locationsPath = path.join(process.cwd(), '..', 'locations.json');
+  const locationsPath = path.join(process.cwd(), 'data', 'locations.json');
 
   if (!fs.existsSync(locationsPath)) {
     return [];
@@ -142,7 +142,7 @@ export function getLocationBySlug(slug: string): Location | null {
 
 // Get all services
 export function getAllServices(): Service[] {
-  const schemaPath = path.join(process.cwd(), '..', 'service-schema-template.json');
+  const schemaPath = path.join(process.cwd(), 'data', 'service-schema-template.json');
 
   if (!fs.existsSync(schemaPath)) {
     return [];

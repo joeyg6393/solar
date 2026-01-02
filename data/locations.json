@@ -1,0 +1,395 @@
+{
+  "serviceArea": {
+    "mainCity": "Springfield",
+    "state": "Massachusetts",
+    "region": "Pioneer Valley / Western Massachusetts",
+    "country": "United States",
+    "serviceRadius": {
+      "value": 30,
+      "unit": "miles"
+    }
+  },
+  "totalLocations": 38,
+  "locations": [
+    {
+      "id": "springfield",
+      "name": "Springfield",
+      "type": "city",
+      "isMainCity": true,
+      "distanceFromMain": { "value": 0, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 155929,
+      "coordinates": { "latitude": 42.1015, "longitude": -72.5898 }
+    },
+    {
+      "id": "chicopee",
+      "name": "Chicopee",
+      "type": "city",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 5, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 55560,
+      "coordinates": { "latitude": 42.1487, "longitude": -72.6079 }
+    },
+    {
+      "id": "holyoke",
+      "name": "Holyoke",
+      "type": "city",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 8, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 40117,
+      "coordinates": { "latitude": 42.2043, "longitude": -72.6162 }
+    },
+    {
+      "id": "westfield",
+      "name": "Westfield",
+      "type": "city",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 10, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 41094,
+      "coordinates": { "latitude": 42.1251, "longitude": -72.7495 }
+    },
+    {
+      "id": "west-springfield",
+      "name": "West Springfield",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 3, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 28835,
+      "coordinates": { "latitude": 42.1070, "longitude": -72.6204 }
+    },
+    {
+      "id": "agawam",
+      "name": "Agawam",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 6, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 28692,
+      "coordinates": { "latitude": 42.0695, "longitude": -72.6148 }
+    },
+    {
+      "id": "longmeadow",
+      "name": "Longmeadow",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 4, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 15853,
+      "coordinates": { "latitude": 42.0501, "longitude": -72.5829 }
+    },
+    {
+      "id": "east-longmeadow",
+      "name": "East Longmeadow",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 5, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 16430,
+      "coordinates": { "latitude": 42.0646, "longitude": -72.5126 }
+    },
+    {
+      "id": "wilbraham",
+      "name": "Wilbraham",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 9, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 14868,
+      "coordinates": { "latitude": 42.1237, "longitude": -72.4317 }
+    },
+    {
+      "id": "ludlow",
+      "name": "Ludlow",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 8, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 21103,
+      "coordinates": { "latitude": 42.1601, "longitude": -72.4759 }
+    },
+    {
+      "id": "south-hadley",
+      "name": "South Hadley",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 10, "unit": "miles" },
+      "county": "Hampshire County",
+      "population": 17514,
+      "coordinates": { "latitude": 42.2584, "longitude": -72.5745 }
+    },
+    {
+      "id": "easthampton",
+      "name": "Easthampton",
+      "type": "city",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 12, "unit": "miles" },
+      "county": "Hampshire County",
+      "population": 16211,
+      "coordinates": { "latitude": 42.2668, "longitude": -72.6690 }
+    },
+    {
+      "id": "northampton",
+      "name": "Northampton",
+      "type": "city",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 18, "unit": "miles" },
+      "county": "Hampshire County",
+      "population": 29571,
+      "coordinates": { "latitude": 42.3251, "longitude": -72.6412 }
+    },
+    {
+      "id": "amherst",
+      "name": "Amherst",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 20, "unit": "miles" },
+      "county": "Hampshire County",
+      "population": 39263,
+      "coordinates": { "latitude": 42.3732, "longitude": -72.5199 }
+    },
+    {
+      "id": "hadley",
+      "name": "Hadley",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 14, "unit": "miles" },
+      "county": "Hampshire County",
+      "population": 5325,
+      "coordinates": { "latitude": 42.3556, "longitude": -72.5715 }
+    },
+    {
+      "id": "granby",
+      "name": "Granby",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 12, "unit": "miles" },
+      "county": "Hampshire County",
+      "population": 6240,
+      "coordinates": { "latitude": 42.2557, "longitude": -72.5198 }
+    },
+    {
+      "id": "belchertown",
+      "name": "Belchertown",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 16, "unit": "miles" },
+      "county": "Hampshire County",
+      "population": 14649,
+      "coordinates": { "latitude": 42.2771, "longitude": -72.4009 }
+    },
+    {
+      "id": "palmer",
+      "name": "Palmer",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 14, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 12448,
+      "coordinates": { "latitude": 42.1584, "longitude": -72.3287 }
+    },
+    {
+      "id": "monson",
+      "name": "Monson",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 16, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 8396,
+      "coordinates": { "latitude": 42.0987, "longitude": -72.3165 }
+    },
+    {
+      "id": "ware",
+      "name": "Ware",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 20, "unit": "miles" },
+      "county": "Hampshire County",
+      "population": 9872,
+      "coordinates": { "latitude": 42.2612, "longitude": -72.2398 }
+    },
+    {
+      "id": "southwick",
+      "name": "Southwick",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 12, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 9502,
+      "coordinates": { "latitude": 42.0515, "longitude": -72.7709 }
+    },
+    {
+      "id": "feeding-hills",
+      "name": "Feeding Hills",
+      "type": "neighborhood",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 7, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 11985,
+      "coordinates": { "latitude": 42.0712, "longitude": -72.6759 }
+    },
+    {
+      "id": "hampden",
+      "name": "Hampden",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 10, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 5139,
+      "coordinates": { "latitude": 42.0640, "longitude": -72.4101 }
+    },
+    {
+      "id": "suffield",
+      "name": "Suffield",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 10, "unit": "miles" },
+      "county": "Hartford County, CT",
+      "population": 15735,
+      "coordinates": { "latitude": 41.9840, "longitude": -72.6501 }
+    },
+    {
+      "id": "windsor-locks",
+      "name": "Windsor Locks",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 15, "unit": "miles" },
+      "county": "Hartford County, CT",
+      "population": 12613,
+      "coordinates": { "latitude": 41.9293, "longitude": -72.6273 }
+    },
+    {
+      "id": "enfield",
+      "name": "Enfield",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 12, "unit": "miles" },
+      "county": "Hartford County, CT",
+      "population": 44654,
+      "coordinates": { "latitude": 41.9845, "longitude": -72.5912 }
+    },
+    {
+      "id": "somers",
+      "name": "Somers",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 13, "unit": "miles" },
+      "county": "Tolland County, CT",
+      "population": 11444,
+      "coordinates": { "latitude": 41.9851, "longitude": -72.4440 }
+    },
+    {
+      "id": "east-windsor",
+      "name": "East Windsor",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 18, "unit": "miles" },
+      "county": "Hartford County, CT",
+      "population": 11612,
+      "coordinates": { "latitude": 41.9112, "longitude": -72.5440 }
+    },
+    {
+      "id": "stafford",
+      "name": "Stafford",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 22, "unit": "miles" },
+      "county": "Tolland County, CT",
+      "population": 12087,
+      "coordinates": { "latitude": 41.9840, "longitude": -72.3001 }
+    },
+    {
+      "id": "tolland",
+      "name": "Tolland",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 25, "unit": "miles" },
+      "county": "Tolland County, CT",
+      "population": 15052,
+      "coordinates": { "latitude": 41.8715, "longitude": -72.3687 }
+    },
+    {
+      "id": "brimfield",
+      "name": "Brimfield",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 20, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 3694,
+      "coordinates": { "latitude": 42.1168, "longitude": -72.1987 }
+    },
+    {
+      "id": "holland",
+      "name": "Holland",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 18, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 2481,
+      "coordinates": { "latitude": 42.0551, "longitude": -72.1509 }
+    },
+    {
+      "id": "wales",
+      "name": "Wales",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 16, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 1838,
+      "coordinates": { "latitude": 42.0651, "longitude": -72.2251 }
+    },
+    {
+      "id": "russell",
+      "name": "Russell",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 15, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 1775,
+      "coordinates": { "latitude": 42.1629, "longitude": -72.8509 }
+    },
+    {
+      "id": "blandford",
+      "name": "Blandford",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 22, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 1233,
+      "coordinates": { "latitude": 42.1818, "longitude": -72.9387 }
+    },
+    {
+      "id": "granville",
+      "name": "Granville",
+      "type": "town",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 18, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 1566,
+      "coordinates": { "latitude": 42.0668, "longitude": -72.8598 }
+    },
+    {
+      "id": "indian-orchard",
+      "name": "Indian Orchard",
+      "type": "neighborhood",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 4, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 5500,
+      "coordinates": { "latitude": 42.1523, "longitude": -72.5079 }
+    },
+    {
+      "id": "sixteen-acres",
+      "name": "Sixteen Acres",
+      "type": "neighborhood",
+      "isMainCity": false,
+      "distanceFromMain": { "value": 3, "unit": "miles" },
+      "county": "Hampden County",
+      "population": 6000,
+      "coordinates": { "latitude": 42.0901, "longitude": -72.5401 }
+    }
+  ]
+}
