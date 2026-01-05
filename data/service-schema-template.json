@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0",
+  "serviceNiche": "Solar Installers",
+  "serviceArea": "Springfield, Massachusetts (Pioneer Valley)",
+  "totalServices": 10,
+  "lastUpdated": "2025-12-29",
+  "services": [
+    {
+      "name": "Residential Solar Panel Installation",
+      "slug": "residential-solar-installation",
+      "category": "installation",
+      "description": "Complete residential solar panel installation for homeowners",
+      "keywords": ["residential solar panels", "home solar installation", "rooftop solar"],
+      "localKeywords": ["solar panels Springfield MA", "home solar Massachusetts"]
+    },
+    {
+      "name": "Commercial Solar Installation",
+      "slug": "commercial-solar-installation",
+      "category": "installation",
+      "description": "Large-scale commercial solar panel systems for businesses",
+      "keywords": ["commercial solar panels", "business solar installation", "industrial solar"],
+      "localKeywords": ["commercial solar Springfield", "business solar Massachusetts"]
+    },
+    {
+      "name": "Solar Battery Storage Installation",
+      "slug": "solar-battery-storage",
+      "category": "storage",
+      "description": "Advanced solar battery storage systems for energy independence",
+      "keywords": ["solar battery storage", "Tesla Powerwall", "home battery backup"],
+      "localKeywords": ["solar battery Springfield MA", "Powerwall installation Pioneer Valley"]
+    },
+    {
+      "name": "Solar Panel Maintenance & Repair",
+      "slug": "solar-maintenance-repair",
+      "category": "maintenance",
+      "description": "Professional solar panel maintenance and repair services",
+      "keywords": ["solar panel maintenance", "solar repair", "panel cleaning"],
+      "localKeywords": ["solar repair Springfield", "solar maintenance Massachusetts"]
+    },
+    {
+      "name": "Ground-Mount Solar Systems",
+      "slug": "ground-mount-solar",
+      "category": "installation",
+      "description": "Ground-mounted solar installations for properties with available land",
+      "keywords": ["ground mount solar", "ground solar panels", "farm solar"],
+      "localKeywords": ["ground mount solar Springfield", "farm solar Pioneer Valley"]
+    },
+    {
+      "name": "Solar Roof Installation",
+      "slug": "solar-roof-installation",
+      "category": "installation",
+      "description": "Integrated solar roofing systems",
+      "keywords": ["solar roof", "Tesla solar roof", "solar shingles"],
+      "localKeywords": ["solar roof Springfield MA", "solar shingles Massachusetts"]
+    },
+    {
+      "name": "EV Charger Installation",
+      "slug": "ev-charger-installation",
+      "category": "additional",
+      "description": "Electric vehicle charging station installation",
+      "keywords": ["EV charger installation", "electric car charger", "home EV charging"],
+      "localKeywords": ["EV charger Springfield", "electric car charging Massachusetts"]
+    },
+    {
+      "name": "Solar Panel Cleaning Services",
+      "slug": "solar-panel-cleaning",
+      "category": "maintenance",
+      "description": "Professional solar panel cleaning services",
+      "keywords": ["solar panel cleaning", "panel washing", "solar maintenance"],
+      "localKeywords": ["solar cleaning Springfield", "panel washing Massachusetts"]
+    },
+    {
+      "name": "Solar System Monitoring & Optimization",
+      "slug": "solar-monitoring-optimization",
+      "category": "monitoring",
+      "description": "Advanced monitoring and optimization services",
+      "keywords": ["solar monitoring", "energy tracking", "solar optimization"],
+      "localKeywords": ["solar monitoring Springfield", "energy tracking Massachusetts"]
+    },
+    {
+      "name": "Solar Financing & Consultation",
+      "slug": "solar-financing-consultation",
+      "category": "consultation",
+      "description": "Expert consultation on solar financing and incentives",
+      "keywords": ["solar financing", "solar loans", "tax credits"],
+      "localKeywords": ["solar financing Springfield MA", "solar incentives Massachusetts"]
+    }
+  ],
+  "pageSchema": {
+    "id": "service-slug-location-slug",
+    "service": "Full service name",
+    "serviceSlug": "url-friendly-service-name",
+    "location": "Location name",
+    "locationSlug": "url-friendly-location-name",
+    "pageTitle": "SEO title 50-60 chars",
+    "metaDescription": "Meta description 150-160 chars",
+    "h1": "Main heading",
+    "heroHeadline": "Attention-grabbing headline",
+    "heroSubheadline": "Supporting headline with benefits",
+    "serviceDescription": "300-500 word description",
+    "shortDescription": "50-100 word summary",
+    "benefits": ["benefit1", "benefit2", "benefit3", "benefit4", "benefit5", "benefit6"],
+    "process": [
+      {"step": 1, "title": "Step title", "description": "Step description"},
+      {"step": 2, "title": "Step title", "description": "Step description"},
+      {"step": 3, "title": "Step title", "description": "Step description"},
+      {"step": 4, "title": "Step title", "description": "Step description"},
+      {"step": 5, "title": "Step title", "description": "Step description"}
+    ],
+    "features": ["feature1", "feature2", "feature3", "feature4", "feature5"],
+    "pricingInfo": "Pricing guidance text",
+    "serviceArea": "Geographic coverage",
+    "availability": "Business hours",
+    "responseTime": "Service timeframe",
+    "qualifications": ["NABCEP Certified", "Licensed Electricians", "BBB A+ Rating"],
+    "yearsExperience": "12+ years",
+    "projectsCompleted": "500+ installations",
+    "guarantees": ["25-year panel warranty", "10-year workmanship guarantee"],
+    "emergencyAvailable": false,
+    "images": {
+      "heroImage": {"url": "unsplash-url", "alt": "Alt text", "caption": "Caption"},
+      "gallery": [
+        {"url": "unsplash-url", "alt": "Alt text", "caption": "Caption"}
+      ]
+    },
+    "h2Headings": ["H2 heading 1", "H2 heading 2", "H2 heading 3"],
+    "faq": [
+      {"question": "FAQ question", "answer": "FAQ answer"}
+    ],
+    "keywords": ["keyword1", "keyword2", "keyword3"],
+    "localKeywords": ["local keyword 1", "local keyword 2"],
+    "ctaPhone": "(413) 555-0100",
+    "ctaText": "Get Your Free Solar Quote Today",
+    "ctaSecondary": "Schedule Free Consultation",
+    "ctaUrgency": "26% Federal Tax Credit Available"
+  }
+}

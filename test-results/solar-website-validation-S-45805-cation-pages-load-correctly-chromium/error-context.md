@@ -1,0 +1,379 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "Solar Solutions" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e6]
+          - generic [ref=e8]: Solar Solutions
+        - generic [ref=e9]:
+          - link "Services" [ref=e10] [cursor=pointer]:
+            - /url: /#services
+          - link "Why Solar" [ref=e11] [cursor=pointer]:
+            - /url: /#benefits
+          - link "Our Process" [ref=e12] [cursor=pointer]:
+            - /url: /#process
+          - link "Reviews" [ref=e13] [cursor=pointer]:
+            - /url: /#testimonials
+          - link "Service Areas" [ref=e14] [cursor=pointer]:
+            - /url: /#areas
+          - link "Contact" [ref=e15] [cursor=pointer]:
+            - /url: /#contact
+        - generic [ref=e16]:
+          - link "(413) 555-0100" [ref=e17] [cursor=pointer]:
+            - /url: tel:4135550100
+            - img [ref=e18]
+            - generic [ref=e20]: (413) 555-0100
+          - link "Get Free Quote" [ref=e21] [cursor=pointer]:
+            - /url: /#contact
+  - main [ref=e22]:
+    - navigation [ref=e25]:
+      - link "Home" [ref=e26] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e27]: /
+      - link "Solar Financing & Consultation" [ref=e28] [cursor=pointer]:
+        - /url: /solar-financing-consultation
+      - generic [ref=e29]: /
+      - link "East Longmeadow" [ref=e30] [cursor=pointer]:
+        - /url: /east-longmeadow
+      - generic [ref=e31]: /
+      - generic [ref=e32]: Solar Financing & Consultation in East Longmeadow
+    - generic [ref=e33]:
+      - img "Solar financing consultation in East Longmeadow MA with tax credit analysis" [ref=e35]
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - img [ref=e39]
+          - generic [ref=e41]: Serving East Longmeadow, Hampden County
+        - heading "Solar Financing & Consultation Services in East Longmeadow, MA" [level=1] [ref=e42]
+        - paragraph [ref=e43]: Affordable Solar Solutions for East Longmeadow Residents
+        - paragraph [ref=e44]: Expert Guidance on Tax Credits, Incentives & Smart Financing
+        - generic [ref=e45]:
+          - link "Get Your Free Solar Financing Consultation" [ref=e46] [cursor=pointer]:
+            - /url: "#contact"
+            - img [ref=e47]
+            - text: Get Your Free Solar Financing Consultation
+          - link "(413) 555-0100" [ref=e49] [cursor=pointer]:
+            - /url: tel:4135550100
+            - img [ref=e50]
+            - text: (413) 555-0100
+        - paragraph [ref=e52]:
+          - img [ref=e53]
+          - text: 26% Federal Tax Credit Available Now!
+    - generic [ref=e57]:
+      - generic [ref=e59]:
+        - paragraph [ref=e60]: East Longmeadow homeowners are embracing solar energy at an accelerating pace, recognizing that powerful federal and Massachusetts state incentives combined with flexible financing make clean energy both accessible and financially rewarding. Our comprehensive solar financing and consultation services help East Longmeadow residents navigate the complex landscape of tax credits, rebate programs, and customized financing solutions that align with your budget and energy independence goals.
+        - paragraph [ref=e61]: With electricity costs continuing their upward trajectory across Massachusetts, East Longmeadow residents understand that solar panels deliver more than environmental benefits - they provide long-term financial security by stabilizing energy costs for 25+ years. Our experienced solar finance consultants specialize in serving East Longmeadow and the Pioneer Valley, offering localized expertise on utility rate structures, regional incentive programs, and financing paths optimized for our community. Whether you're exploring zero-down solar loans with monthly payments lower than current electric bills, solar leases requiring no upfront investment, or cash purchases for maximum ROI, we provide transparent, comprehensive analysis of every pathway.
+        - paragraph [ref=e62]: What makes our East Longmeadow solar consultation unique is our education-first philosophy. We don't employ high-pressure sales tactics or confusing industry jargon. Instead, we invest time clearly explaining how the 26% federal solar tax credit saves you thousands immediately, how Massachusetts SMART program payments reduce your net investment over 10 years, how SREC market participation generates additional revenue streams, and how the state's property tax exemption protects East Longmeadow homeowners from increased tax assessments despite adding significant home value.
+        - paragraph [ref=e63]: Our team maintains strong relationships with local East Longmeadow-area banks and credit unions, enabling us to secure competitive financing rates and favorable loan terms for our clients. We stay constantly updated on all evolving federal, state, and local incentive programs, PACE financing opportunities, and net metering policies to ensure you capture every available dollar of savings. With 12+ years of experience and 500+ solar installations financed across Western Massachusetts, we've refined our consultation process to deliver clear, actionable guidance that empowers confident decision-making. Ready to discover how affordable solar can be for your East Longmeadow home or business? Schedule your free, no-obligation consultation today.
+      - generic [ref=e65]:
+        - heading "Quick Facts" [level=3] [ref=e66]
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - img [ref=e69]
+            - generic [ref=e71]:
+              - generic [ref=e72]: Response Time
+              - generic [ref=e73]: Free consultation scheduled within 24-48 hours
+          - generic [ref=e74]:
+            - img [ref=e75]
+            - generic [ref=e77]:
+              - generic [ref=e78]: Experience
+              - generic [ref=e79]: 12+ years serving East Longmeadow and Western Massachusetts
+          - generic [ref=e80]:
+            - img [ref=e81]
+            - generic [ref=e83]:
+              - generic [ref=e84]: Projects Completed
+              - generic [ref=e85]: 500+ solar installations financed in the Pioneer Valley
+        - separator [ref=e86]
+        - link "Call Now" [ref=e87] [cursor=pointer]:
+          - /url: tel:4135550100
+          - img [ref=e88]
+          - text: Call Now
+        - link "Get Free Quote" [ref=e90] [cursor=pointer]:
+          - /url: "#contact"
+    - generic [ref=e92]:
+      - heading "Why Choose Us for Solar Financing & Consultation in East Longmeadow?" [level=2] [ref=e93]
+      - generic [ref=e94]:
+        - generic [ref=e95]:
+          - img [ref=e96]
+          - generic [ref=e98]: Free comprehensive solar financing consultation in East Longmeadow
+        - generic [ref=e99]:
+          - img [ref=e100]
+          - generic [ref=e102]: 26% federal solar tax credit maximization - thousands in savings
+        - generic [ref=e103]:
+          - img [ref=e104]
+          - generic [ref=e106]: Massachusetts SMART program enrollment - 10 years of payments
+        - generic [ref=e107]:
+          - img [ref=e108]
+          - generic [ref=e110]: Zero-down financing available - monthly payments less than electric bills
+        - generic [ref=e111]:
+          - img [ref=e112]
+          - generic [ref=e114]: SREC income optimization - additional revenue from solar
+        - generic [ref=e115]:
+          - img [ref=e116]
+          - generic [ref=e118]: Local East Longmeadow lender partnerships - competitive rates
+        - generic [ref=e119]:
+          - img [ref=e120]
+          - generic [ref=e122]: Property tax exemption assistance - no added tax burden
+        - generic [ref=e123]:
+          - img [ref=e124]
+          - generic [ref=e126]: Net metering benefit analysis - maximize utility credits
+        - generic [ref=e127]:
+          - img [ref=e128]
+          - generic [ref=e130]: Complete ROI calculations - know your payback timeline
+        - generic [ref=e131]:
+          - img [ref=e132]
+          - generic [ref=e134]: No-pressure consultation - education over sales
+    - generic [ref=e136]:
+      - heading "Our Process" [level=2] [ref=e137]
+      - generic [ref=e138]:
+        - generic [ref=e139]:
+          - generic [ref=e140]: "1"
+          - generic [ref=e141]:
+            - heading "Free East Longmeadow Consultation" [level=3] [ref=e142]
+            - paragraph [ref=e143]: Schedule a complimentary meeting at your East Longmeadow property or via video conference. We'll discuss energy objectives, review electricity bills, and understand your financial preferences.
+        - generic [ref=e144]:
+          - generic [ref=e145]: "2"
+          - generic [ref=e146]:
+            - heading "Property Solar Assessment" [level=3] [ref=e147]
+            - paragraph [ref=e148]: Our experts evaluate your property's solar potential using advanced analysis. We review energy consumption patterns to accurately project solar production and savings for East Longmeadow.
+        - generic [ref=e149]:
+          - generic [ref=e150]: "3"
+          - generic [ref=e151]:
+            - heading "Customized Financing Comparison" [level=3] [ref=e152]
+            - paragraph [ref=e153]: Receive comprehensive analysis of all financing options - solar loans, leases, PPAs, and cash purchase. Each scenario includes transparent pricing, monthly payments, tax benefits, and 25-year projections.
+        - generic [ref=e154]:
+          - generic [ref=e155]: "4"
+          - generic [ref=e156]:
+            - heading "Incentive Program Application" [level=3] [ref=e157]
+            - paragraph [ref=e158]: We guide you through federal solar tax credit, Massachusetts SMART program, SREC registration, and East Longmeadow-specific programs. Our team handles paperwork for maximum benefits.
+        - generic [ref=e159]:
+          - generic [ref=e160]: "5"
+          - generic [ref=e161]:
+            - heading "Financing Approval & Installation" [level=3] [ref=e162]
+            - paragraph [ref=e163]: After selecting your preferred option, we coordinate with lenders for quick approval and seamlessly transition to installation. We remain your resource throughout your solar journey.
+    - generic [ref=e165]:
+      - heading "Features & Equipment" [level=2] [ref=e166]
+      - generic [ref=e167]:
+        - generic [ref=e168]:
+          - img [ref=e169]
+          - generic [ref=e171]: 26% federal solar Investment Tax Credit (ITC) expertise
+        - generic [ref=e172]:
+          - img [ref=e173]
+          - generic [ref=e175]: Massachusetts SMART program guidance and enrollment
+        - generic [ref=e176]:
+          - img [ref=e177]
+          - generic [ref=e179]: SREC income projection and revenue forecasting
+        - generic [ref=e180]:
+          - img [ref=e181]
+          - generic [ref=e183]: Zero-down solar loan programs with competitive rates
+        - generic [ref=e184]:
+          - img [ref=e185]
+          - generic [ref=e187]: Solar lease and PPA options with no upfront costs
+        - generic [ref=e188]:
+          - img [ref=e189]
+          - generic [ref=e191]: Massachusetts 20-year property tax exemption guidance
+        - generic [ref=e192]:
+          - img [ref=e193]
+          - generic [ref=e195]: Net metering optimization for East Longmeadow utilities
+        - generic [ref=e196]:
+          - img [ref=e197]
+          - generic [ref=e199]: PACE financing coordination for eligible properties
+        - generic [ref=e200]:
+          - img [ref=e201]
+          - generic [ref=e203]: 25+ year financial lifecycle modeling
+        - generic [ref=e204]:
+          - img [ref=e205]
+          - generic [ref=e207]: Utility rate escalation forecasting
+    - generic [ref=e209]:
+      - heading "Project Gallery" [level=2] [ref=e210]
+      - generic [ref=e211]:
+        - generic [ref=e212]:
+          - img "Financial data analysis for solar investment in East Longmeadow" [ref=e213]
+          - paragraph [ref=e215]: Comprehensive Financial Analysis for Smart Decisions
+        - generic [ref=e216]:
+          - img "Solar consultant meeting with East Longmeadow homeowner" [ref=e217]
+          - paragraph [ref=e219]: Personalized Consultation for Your Financial Goals
+        - generic [ref=e220]:
+          - img "Massachusetts solar incentive and tax credit forms" [ref=e221]
+          - paragraph [ref=e223]: Navigate Complex Incentives with Expert Support
+        - generic [ref=e224]:
+          - img "Approved solar financing loan documents for East Longmeadow resident" [ref=e225]
+          - paragraph [ref=e227]: Flexible Financing Solutions for Every Budget
+    - generic [ref=e229]:
+      - heading "Frequently Asked Questions" [level=2] [ref=e230]
+      - generic [ref=e231]:
+        - group [ref=e232]:
+          - generic "How much can I save with solar in East Longmeadow?" [ref=e233] [cursor=pointer]:
+            - text: How much can I save with solar in East Longmeadow?
+            - img [ref=e234]
+        - group [ref=e236]:
+          - generic "What solar financing is available in East Longmeadow?" [ref=e237] [cursor=pointer]:
+            - text: What solar financing is available in East Longmeadow?
+            - img [ref=e238]
+        - group [ref=e240]:
+          - generic "Can I get solar with no money down in East Longmeadow?" [ref=e241] [cursor=pointer]:
+            - text: Can I get solar with no money down in East Longmeadow?
+            - img [ref=e242]
+        - group [ref=e244]:
+          - generic "Will solar increase my property taxes in East Longmeadow?" [ref=e245] [cursor=pointer]:
+            - text: Will solar increase my property taxes in East Longmeadow?
+            - img [ref=e246]
+        - group [ref=e248]:
+          - generic "What is the payback period for solar in East Longmeadow?" [ref=e249] [cursor=pointer]:
+            - text: What is the payback period for solar in East Longmeadow?
+            - img [ref=e250]
+        - group [ref=e252]:
+          - generic "How does the Massachusetts SMART program work?" [ref=e253] [cursor=pointer]:
+            - text: How does the Massachusetts SMART program work?
+            - img [ref=e254]
+        - group [ref=e256]:
+          - generic "What are SRECs worth in Massachusetts?" [ref=e257] [cursor=pointer]:
+            - text: What are SRECs worth in Massachusetts?
+            - img [ref=e258]
+        - group [ref=e260]:
+          - generic "How does net metering work in East Longmeadow?" [ref=e261] [cursor=pointer]:
+            - text: How does net metering work in East Longmeadow?
+            - img [ref=e262]
+    - generic [ref=e266]:
+      - heading "Pricing & Investment" [level=2] [ref=e267]
+      - paragraph [ref=e268]: Solar financing consultations are completely free with zero obligation. Residential solar systems in East Longmeadow typically cost $15,000-$35,000 before incentives. The 26% federal tax credit immediately reduces this by $3,900-$9,100. With zero-down financing, monthly payments often cost less than current electricity bills.
+    - generic [ref=e270]:
+      - generic [ref=e271]:
+        - heading "Ready to Get Started?" [level=2] [ref=e272]
+        - paragraph [ref=e273]: Request your free quote for Solar Financing & Consultation in East Longmeadow today!
+      - generic [ref=e275]:
+        - generic [ref=e276]:
+          - generic [ref=e277]: Full Name *
+          - textbox "Full Name *" [ref=e278]:
+            - /placeholder: John Smith
+        - generic [ref=e279]:
+          - generic [ref=e280]:
+            - generic [ref=e281]: Email Address *
+            - textbox "Email Address *" [ref=e282]:
+              - /placeholder: john@example.com
+          - generic [ref=e283]:
+            - generic [ref=e284]: Phone Number *
+            - textbox "Phone Number *" [ref=e285]:
+              - /placeholder: (413) 555-1234
+        - generic [ref=e286]:
+          - generic [ref=e287]: Property Address *
+          - textbox "Property Address *" [ref=e288]:
+            - /placeholder: 123 Main St, Springfield, MA
+        - generic [ref=e289]:
+          - generic [ref=e290]:
+            - generic [ref=e291]: Property Type *
+            - combobox "Property Type *" [ref=e292]:
+              - option "Select..." [selected]
+              - option "Residential"
+              - option "Commercial"
+              - option "Industrial"
+          - generic [ref=e293]:
+            - generic [ref=e294]: Monthly Electric Bill *
+            - combobox "Monthly Electric Bill *" [ref=e295]:
+              - option "Select range..." [selected]
+              - option "$0 - $100"
+              - option "$100 - $200"
+              - option "$200 - $300"
+              - option "$300+"
+        - generic [ref=e296]:
+          - generic [ref=e297]: Additional Information
+          - textbox "Additional Information" [ref=e298]:
+            - /placeholder: Tell us about your solar goals...
+        - button "Get My Free Quote" [ref=e299] [cursor=pointer]:
+          - img [ref=e300]
+          - text: Get My Free Quote
+        - paragraph [ref=e302]:
+          - img [ref=e303]
+          - text: Your information is secure and will never be shared.
+  - contentinfo [ref=e305]:
+    - generic [ref=e306]:
+      - generic [ref=e307]:
+        - generic [ref=e308]:
+          - generic [ref=e309]:
+            - img [ref=e310]
+            - generic [ref=e312]: Solar Solutions
+          - paragraph [ref=e313]: Professional solar panel installation in Springfield, MA. NABCEP certified installers committed to quality and customer satisfaction.
+          - generic [ref=e314]:
+            - link [ref=e315] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e316]
+            - link [ref=e318] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e319]
+            - link [ref=e321] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e322]
+            - link [ref=e324] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e325]
+        - generic [ref=e327]:
+          - heading "Services" [level=4] [ref=e328]
+          - list [ref=e329]:
+            - listitem [ref=e330]:
+              - link "Residential Solar" [ref=e331] [cursor=pointer]:
+                - /url: /#services
+            - listitem [ref=e332]:
+              - link "Commercial Solar" [ref=e333] [cursor=pointer]:
+                - /url: /#services
+            - listitem [ref=e334]:
+              - link "Battery Storage" [ref=e335] [cursor=pointer]:
+                - /url: /#services
+            - listitem [ref=e336]:
+              - link "EV Chargers" [ref=e337] [cursor=pointer]:
+                - /url: /#services
+            - listitem [ref=e338]:
+              - link "Maintenance & Repair" [ref=e339] [cursor=pointer]:
+                - /url: /#services
+        - generic [ref=e340]:
+          - heading "Company" [level=4] [ref=e341]
+          - list [ref=e342]:
+            - listitem [ref=e343]:
+              - link "Why Solar" [ref=e344] [cursor=pointer]:
+                - /url: /#benefits
+            - listitem [ref=e345]:
+              - link "Our Process" [ref=e346] [cursor=pointer]:
+                - /url: /#process
+            - listitem [ref=e347]:
+              - link "Customer Reviews" [ref=e348] [cursor=pointer]:
+                - /url: /#testimonials
+            - listitem [ref=e349]:
+              - link "Service Areas" [ref=e350] [cursor=pointer]:
+                - /url: /#areas
+            - listitem [ref=e351]:
+              - link "Contact Us" [ref=e352] [cursor=pointer]:
+                - /url: /#contact
+        - generic [ref=e353]:
+          - heading "Contact" [level=4] [ref=e354]
+          - list [ref=e355]:
+            - listitem [ref=e356]:
+              - img [ref=e357]
+              - generic [ref=e360]:
+                - text: 123 Solar Way
+                - text: Springfield, MA 01101
+            - listitem [ref=e361]:
+              - img [ref=e362]
+              - link "(413) 555-0100" [ref=e364] [cursor=pointer]:
+                - /url: tel:4135550100
+            - listitem [ref=e365]:
+              - img [ref=e366]
+              - link "info@solarsolutions.com" [ref=e368] [cursor=pointer]:
+                - /url: mailto:info@solarsolutions.com
+      - generic [ref=e370]:
+        - generic [ref=e371]:
+          - generic [ref=e372]:
+            - img [ref=e373]
+            - text: NABCEP Certified
+          - generic [ref=e375]:
+            - img [ref=e376]
+            - text: Licensed & Insured
+          - generic [ref=e378]:
+            - img [ref=e379]
+            - text: BBB A+ Rated
+        - paragraph [ref=e381]: © 2024 Solar Solutions. All rights reserved.
+  - button "Open Next.js Dev Tools" [ref=e387] [cursor=pointer]:
+    - img [ref=e388]
+  - alert [ref=e391]
+```
